@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .DS_Store
+
+# Copyrighted reference papers -- kept locally for research use, not redistributed
+*.pdf

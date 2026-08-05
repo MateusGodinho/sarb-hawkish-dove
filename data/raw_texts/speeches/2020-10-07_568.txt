@@ -1,0 +1,292 @@
+Titulo: Keynote address by Ms Fundi Tshazibana, Deputy Governor of the South African Reserve Bank, at the Absa Annual Fixed Income Conference
+Data: 2020-10-07
+Palestrante (estimado): Fundi Tshazibana
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2020/568
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2020/568/The-interest-rate-cycle-during-and-after-the-COVID-19-pandemic.pdf)
+----------------------------------------------------------------------
+
+‘The interest rate cycle during and after the COVID-19 pandemic’
+Keynote address by Ms Fundi Tshazibana, Deputy Governor of the
+South African Reserve Bank, at the Absa Annual Fixed Income Conference,
+7 October 2019
+1. Introduction
+Ladies and gentlemen, thank you very much for allowing me the opportunity to
+deliver the keynote address at your Fixed Income Conference. While, sadly, I do
+not have the pleasure of standing in front of you today − the COVID-19 pandemic
+is not allowing it this year − I am nonetheless confident that this conference will
+stimulate pertinent and challenging discussions. The pandemic has changed many
+aspects of our life in 2020, and interest rate setting is one of them. The rate
+decisions taken by both the South African Reserve Bank (SARB) and its global
+counterparts in the past nine months are set in broad macroeconomic trends that
+have been in place for years, and which have made this speedy and sizable reaction
+to the COVID-19 pandemic possible. Now, will these trends remain in place in the
+coming years? Will the pandemic exacerbate them or, on the contrary, will it usher
+in structural changes that call for a different calibration of monetary policy in the
+future? These are some of the issues I will attempt to address today.
+2. A long trend towards lower interest rates
+The start of the long-term downtrend in global interest rates can be traced back to
+the early 1980s, in the wake of the United States (US) Federal Reserve’s (Fed)
+decision to tighten policy sufficiently to uproot what was, at the time, seen as
+structurally high inflation. As US inflation started its long decline, so did interest
+rates: from averaging 10.0% in the 1980s, the federal funds rate declined to
+1
+averages of 5.1% in the 1990s and 2.9% in the 2000s. As other countries, first in
+the developed and then increasingly in the emerging world, followed the US
+example and made price stabilisation a priority, a global trend towards lower interest
+rates set in. The Reserve Bank of New Zealand was a pioneer in the field of inflation
+targeting in 1990; 20 years later, the majority of advanced and large emerging
+economies had a similar framework in place. This not only allowed for lower
+average inflation around the world, but also for lower dispersion of inflation rates
+across countries. Global drivers of inflation gradually gained in importance at the
+expense of domestic factors, allowing for a broader international diffusion of major
+economies’ disinflationary trends.1
+The shift towards lower trend, or equilibrium, interest rates continued in the wake of
+the global financial crisis, although it could not be solely attributed to better control
+of inflation and inflation expectations. In fact, in several advanced economies,
+central banks for the first time struggled to raise average inflation towards targeted
+levels, and undershooting became the norm. In this context, the use of
+unconventional policy tools to circumvent the effective lower bound did succeed in
+lowering longer-term interest rates, flattening yield curves and compressing risk
+premiums; yet it failed to lift most countries out of their low-growth, below-target
+inflation paradigm.
+Several explanations have been sought for what economists increasingly referred
+to as ‘secular stagnation’, including demographic trends; a growing propensity to
+save, exacerbated by rising income inequalities; a structural break in investment-
+to-gross domestic product (GDP) ratios in dynamic Asian economies; widening
+productivity gaps between ‘high-tech’ firms and others; and a growing investor
+preference for safe assets.2 What seems likely is that most of these factors
+contributed to structurally lower interest rates, not just in advanced economies but
+also in the emerging world – even though many emerging markets and developing
+countries are still far from the ‘technological frontier’ and could be expected to grow
+faster.
+1 See for instance ‘Understanding global inflation synchronization’, in Inflation in emerging and developing
+economies: evolution, drivers and policies, The World Bank, 2019, pp 93−141.
+2 These topics are discussed, among others, in L Rachel and T D Smith, ‘Secular drivers of the global interest
+rate’, Bank of England Working Paper No. 571, December 2015.
+2
+South Africa was no exception to these trends: in the past decade, our policy rate
+averaged 6.1%, down from 15.4% in the 1990s and 9.9% in the 2000s. On the
+positive side, greater compliance with the 3−6% inflation target range3 and lower
+inflation volatility have allowed for lower average policy rates and lower volatility of
+the monetary policy cycle. On a less favourable angle, the trend in real GDP growth
+lost momentum throughout the past decade, a pattern which is only partly
+attributable to global trends but mainly reflects domestic supply constraints such as
+limits to the availability of electricity or critical skills.
+3. The COVID-19 pandemic required lower interest rates
+It is important to recall the macroeconomic and financial trends that pre-dated the
+COVID-19 crisis, as they informed the ability of central banks to deliver a speedy
+and large enough response to the crisis. When compared with the onset of the
+global financial crisis about 12 years earlier, as of July 2008, the average inflation
+rate in advanced economies had climbed as high as 4.6%, from 1.8% a year earlier;
+the average for large emerging countries had followed a similar trend, albeit at
+higher levels. Many central banks were still tightening policy even as the crisis was
+setting in. The SARB was one of them: in July 2008 the Monetary Policy Committee
+(MPC) had raised the repurchase (repo) rate as high as 12.0% − a total increase of
+500 basis points over 26 months − to fight an inflation rate that had reached double-
+digit levels on the back of rising food and fuel prices and strong credit growth.
+By contrast, a large number of countries – South Africa included – entered the
+COVID-19 crisis with inflation rates that were not only stable but also below, or
+within, target levels. Consequently, central banks in those countries did not have to
+first unwind restrictive policy stances before pushing for monetary stimulus. They
+were also able to quickly utilise tools, such as asset purchases programmes that
+had been ‘tried and tested’ in the previous crisis. And indeed, a quick response was
+warranted, especially as the combined health and economic shocks associated with
+the pandemic and subsequent lockdowns threatened at first to be accompanied by
+3 Since 2010, monthly inflation readings have been within target 78% of the time versus 40% in the previous
+decade.
+3
+a disruptive financial shock. In late March 2020, Bloomberg’s measure of US
+financial conditions stood about six standard deviations in restrictive territory; major
+equity markets had shed between 25% and 35% in the space of five weeks; and
+commodity prices had plunged, with Brent crude, in particular, falling as low as
+US$17 per barrel, from an average of US$64 per barrel in January.
+The strong global response of both fiscal and monetary authorities allowed a quick
+normalisation of financial conditions. Equity market and commodity prices have
+rebounded; corporate and sovereign spreads have narrowed; funding conditions in
+offshore dollar markets have improved, helped by bilateral swap lines made
+available by the Fed; and most emerging market currencies have stabilised, even
+though they remain much weaker than pre-crisis levels. South Africa is no
+exception: the South African rand is currently trading at about R17.00/US$, weaker
+than the January 2020 average of R14.40/US$ but much improved from early April
+lows of R19.00/US$. Shorter-dated government bond yields are now trading lower
+than at the start of 2020, though yields on longer-dated bonds are higher, probably
+reflecting higher credit risk and debt issuance.
+4. Interest rates are likely to stay low over the next two years
+The economic shock from COVID-19, however, will probably take longer to subside
+than its financial counterpart, despite the combination of fiscal and monetary
+support provided. Global activity has rebounded from the lows of April (when most
+of the world faced a strict lockdown), as restrictions on economic activity and
+people’s mobility have been lifted. But activity indicators are still significantly below
+pre-crisis levels, and as activity gradually converges towards ‘normal’ levels, the
+pace of convergence slows. Some commentators argue that the harder part of the
+economic normalisation begins now. In most countries, private and official
+institutions, on balance, do not project a return of real GDP to pre-COVID-19 levels
+until late-2021 or even late-2022. Negative output gaps are expected to be the
+norm. With respect to unemployment, the consensus view is that normalisation will
+take even longer.
+South Africa has been gradually lifting restrictions on economic activity since late
+April; both fiscal and monetary policies were eased significantly to help facilitate the
+4
+economic recovery. On the monetary front, the SARB’s MPC lowered the repo rate
+by a cumulative 275 basis points between March and July; the bulk of the reduction
+(250 basis points) occurred between the March and May meetings − a fast response
+by the standards of large emerging markets. To facilitate the flow of credit to cash-
+constrained businesses and individuals, the SARB injected liquidity in money
+markets through larger and more frequent repo operations. It also temporarily
+relaxed some regulatory capital requirements for banks. Finally, the SARB
+purchased government bonds in the secondary market to ensure liquidity and the
+smooth functioning of the bond market.
+Nonetheless, the plunge in second-quarter economic activity, when real GDP fell at
+an annualised rate of 51%, could not be reversed. Base effects, admittedly, will
+result in spectacular growth rates in both the third quarter of 2020 and 2021 as a
+whole. But they can be misleading. In level terms, our model only expects real GDP
+to gradually converge back towards pre-COVID-19 levels. At the time of the
+September MPC meeting, the Quarterly Projection Model (QPM) pointed to a large
+output gap that will only gradually narrow over the remainder of the forecasting
+period and remain negative even in 2022.
+The combination of ongoing economic slack, an undervalued real effective
+exchange rate and a recent decline in medium-term inflation expectations suggest
+that inflation should not be a problem for the next two years or so. The QPM projects
+that both headline and core inflation rates will remain largely within the lower half of
+the target until the end of 2022, with the exception of a short-lived spike in the
+headline inflation rate in the second quarter of next year as a low base distorts
+energy price inflation. Baring materialisation of upside risks, this benign inflation
+outlook should allow the SARB to maintain an accommodative stance for most of
+the coming two years, and only withdraw stimulus in a gradual fashion, as the output
+gap slowly closes. Indeed, the latest QPM projections are consistent with a rise in
+the policy rate to 4.0% by the end of 2021 and 5.0% in 2021, which would still be
+100 basis points below the average of the past decade.
+5. Can there be a new paradigm in the long run?
+5
+In summary, there appears to be a growing consensus – both among forecasters
+and policymakers – that the interest rate cycle in the next couple of years, both
+globally and in South Africa, is going to be one of gradual normalisation. But towards
+which levels are interest rates going to normalise, and what is going to be their
+average over the longer term – say, a horizon of five years or longer? Few
+economists presently seem willing to make forecasts over such a horizon, at a time
+when it is not yet clear how long the pandemic will be with us. Will the past few
+decades’ trends towards lower equilibrium interest rates persist or, on the contrary,
+will COVID-19 usher in structural changes that are consistent with higher interest
+rates over time?
+Economic theory tells us that equilibrium interest rates should reflect potential real
+GDP growth, inflation expectations and a risk premium that varies with the term of
+the loan and the creditworthiness of the borrower. The outlook for all three appears,
+at present, to be marred with varying degrees of uncertainty. Many are concerned
+with downside risks to global potential growth, which would be highly relevant for
+the trend in the growth outlook in an open economy such as South Africa.
+Uncertainty about the longer-term impact of the pandemic may in itself result in
+lower global capital accumulation, especially at a time when corporate profit rates
+are declining and global trade, which is historically a driver of investment, is still
+contracting.4 Indeed, supply concerns experienced at the height of the pandemic –
+for example, in the procurement of medication or personal protective equipment –
+may entice authorities to reduce reliance on global value chains, or at least reduce
+the length in the supply chains and reliance on single suppliers.
+Some economists also highlight the possibility of durable labour market ‘scarring’,
+which would risk the permanent loss of skills, and make it more difficult to match
+labour supply and demand in the future.5 Admittedly, other shifts could be more
+positive for potential growth. The sudden imposition of the lockdowns certainly
+forced many firms to speed up their adaptation to different ways of work and of
+doing business, which, if implemented on a larger scale in the coming years, could
+4 See ‘Productivity and GDP prospects: some gain, much at risk’, Global Economic Outlook and Strategy, Citi
+Research, August 2020.
+5 See J Kozlowski, L Veldkamp and V Venkateswaran ‘Scarring body and mind: the long-term belief-scarring
+effects of COVID-19’, 2 September 2020.
+6
+boost productivity. Automation, e-commerce and remote working are all likely to
+play a greater role in economic activity in the coming years. Yet it is not clear
+whether all economic sectors would benefit equally from such changes and, also,
+whether these changes in the ways of work could be implemented as easily in
+emerging economies that still rely more heavily on primary and secondary
+industries.6
+And what about inflation? Economists at a large global investment bank recently
+reviewed major ‘regime shifts’ in the inflation of key economies over the past
+century, and found that common drivers are a combination of supply-side
+constraints or reforms, exogenous shocks, fiscal issues and institutional changes.7
+At present, central banks across the world remain, by and large, committed to
+inflation targeting, and when changes are being made to the framework, these are
+generally moderate and aim to correct durable undershoots of targets rather than
+to ‘shift the goalposts’.8 However, several of the potential influences on real
+economic growth I just mentioned could also alter inflation in the future. Productivity-
+enhancing shocks such as automation and e-commerce may further weigh on
+prices; at the same time though, further trends towards deglobalisation, as well as
+more active policies to reduce inequality, mean that some of the major
+disinflationary forces of the past few decades could wane.
+Rising government debt levels also present a risk to equilibrium interest rates in the
+future. Up to now, public debt has risen in most jurisdictions over the past decade,
+without seemingly affecting the level of interest rates. Perhaps, as Larry Summers
+and Lukasz Rachel argued in 2019, rising public debt just prevented equilibrium
+real interest rates from falling even lower.9 Nevertheless, in countries whose
+currencies are not reserve currencies, the risk of fiscal dominance – even if it is not
+strong enough to meaningfully lift inflation expectations – may raise the risk
+premium that investors require on longer-term interest rates. Consequently,
+6 Potential long-term structural implications of the COVID-19 pandemic are analysed in ‘The post-COVID
+economy’, Equity Gilt Study, Barclays Research, July 2020.
+7 ‘Could COVID-19 trigger an inflation regime shift? An historical perspective’, Focus Europe, Deutsche Bank
+Research, 15 July 2020.
+8 ‘New economic challenges and the Fed’s monetary policy review’, Speech by Chair Jerome H Powell at the
+Jackson Hole Symposium, US Federal Reserve, 27 August 2020.
+9 L Rachel and L H Summers, ‘On falling neutral real rates, fiscal policy, and the risk of secular stagnation’,
+Brookings Papers on Economic Activity, March 2019.
+7
+countries with vulnerable public finances may face permanently steeper yield
+curves.
+6. Implications for future South African interest rates
+All the long-term drivers of interest rates I just discussed have implications for South
+Africa. However, determinants of the equilibrium interest rate would be somewhat
+different in an open economy such as ours, with a structural current account deficit,
+than in a large and relatively closed advanced economy where most drivers of
+equilibrium rates are internal. When a country is dependent on external financing,
+it requires an equilibrium interest rate that attracts foreign as well as domestic
+savings to finance investment. Indeed, the SARB’s models link the domestic neutral
+real interest rate to both its global counterpart and a South Africa-specific risk
+premium.
+Hence, a lower global equilibrium interest rate would – everything else being equal
+– imply that the policy rate should also be lower, on average, in South Africa.
+Equally, in a world where global drivers of inflation have, over time, played a greater
+part in influencing country-specific price developments, continued moderation in
+global inflation may make it easier for inflation expectations to remain low and stable
+in South Africa.
+However, there is no certainty that the risk premium which investors require on
+South African assets will remain low over the medium term. Of course, the major
+central banks in advanced economies have indicated they are in no rush to raise
+rates from very low levels, or reverse the continued increase in the size of their
+balance sheets. As they did in the aftermath of the global financial crisis, these
+policies should provide incentives for global fund managers to seek higher returns
+outside traditional ‘safe’ markets, encouraging capital inflows towards emerging
+market securities. In light of the size and liquidity of its markets, South Africa should
+benefit from these trends.
+Yet the COVID-19 crisis has exposed differences in vulnerability between emerging
+market countries − those countries that enjoy stronger public finances have been
+able to respond more effectively to the macroeconomic shock and, hence, have
+8
+been able to potentially limit medium-term economic losses. Some economists are
+also arguing that in a world where globalisation forces are on the decline, the
+economic and financial cycles of respective countries may become less
+synchronised.10 In that respect, the unfavourable debt/growth dynamics of South
+Africa11 may reflect in the country’s sovereign risk and potentially perceived risks of
+fiscal dominance. Furthermore, South Africa’s loss of its investment-grade status
+could expose us to greater volatility of non-resident capital flows in the future, with
+a higher risk premium required to compensate for such volatility.
+7. Conclusion
+In conclusion, I would again like to stress that decades of gains in stabilising inflation
+and inflation expectations, both in South Africa and abroad, have assisted central
+banks in responding quickly to the COVID-19 pandemic, limiting financial sector
+spillovers that would otherwise have made the economic recovery even more
+challenging and lengthy.
+As we enter a new decade, fraught with uncertainties about whether and how the
+pandemic will have lasting consequences on key macroeconomic and financial
+variables, an important tool in enhancing the resilience of our economy is for the
+SARB to ensure that we retain this monetary margin of manoeuvre in the future.
+This involves a continued anchoring of inflation expectations around the midpoint
+of our target range in the coming years and ensuring that financial markets are
+functional.
+At present, achieving our goals appears consistent with a relatively low level of
+interest rates, in the next year or two, compared with the average of earlier cycles.
+But we must remain vigilant and watch for potential changes in drivers of equilibrium
+interest rates in the future.
+10 See Barclays Research, op. cit.
+11 The International Monetary Fund is projecting a rise in South Africa’s gross government debt/GDP ratio from
+62.2% in 2019 to 85.6% in 2021, the largest among major emerging economies. See Fiscal Monitor,
+International Monetary Fund, April 2020.
+9
+10

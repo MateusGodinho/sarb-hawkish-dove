@@ -1,0 +1,210 @@
+Titulo: Address by Rashad Cassim, Head of Research, South African Reserve Bank at the Reuters Economist of the year awards.
+Data: 2013-04-09
+Palestrante (estimado): Rashad Cassim
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-senior-management/2013/371
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-senior-management/2013/371/Research--Monetary-Policy-in-South-Africa_Rcassim.pdf)
+----------------------------------------------------------------------
+
+Research and the Making of Monetary Policy in South Africa
+Rashad Cassim
+Head of Research
+Reuters Economist of the Year 2013
+The role of analysis and research in the formulation and implementation of monetary policy
+can be classified into two broad categories. The first draws on the strong theoretical
+traditions that began in the early twentieth century with Keynes and Friedman on the role,
+conduct and impact of monetary policy in relation to the business cycle. While the second,
+irrespective of the theoretical preferences of a monetary policy committee (MPC) or its
+members, relies heavily on deriving a common view of our best guess of the current state of
+the global and domestic economy. This view, in turn, influences how we think about the
+future of the economy, and more specifically, the various channels of the monetary
+transmission mechanism. It is the latter that will be my main focus here.
+MPCs, routinely review various parts of the whole financial and economic landscape before
+every meeting to ensure that policy decisions are predicated on a comprehensive
+understanding of the key factors that influence the economy. These include several
+important areas such as the state of the global macro economy, the nature of domestic and
+international markets, the financial sector, critical developments in the real economy and the
+official forecast.
+Being a small open economy, it is not surprising that our starting point for domestic monetary
+policy originates from the global economy. Our assessment of global economic conditions
+has two important objectives. The first is to give us a sense, in general terms, of the state of
+global economy via the interaction of inflation and growth rates, as well as other policy
+variables such as output gaps and the change in real interest rates in a variety of countries.
+This then provides the basis for our understanding of how a complex interplay of political
+developments and other economic policies influence our view of the global economic
+outlook. The second is more specific and relates to the economic behaviour of our main
+1
+trading partners and their impact on our potential to export goods and services as well as our
+ability to attract foreign funds and investment. Our assessment of global developments also
+extends to our understanding of international financial and asset markets, as these have an
+in important bearing on investor sentiment and associated portfolio flows in and out of our
+economy.
+Against, the backdrop of intricate global economic developments, we then focus on several
+important aspects in our assessment of the domestic economy. These include efforts to
+elucidate the complex nature of the financial markets and financial intermediation on
+economic activity, and more importantly how this relates to investor sentiment and consumer
+confidence. Both of which are viewed as critical in our assessment of the factors that
+influence investment decisions by residents and non-residents alike.
+The interface between the real and the financial sector is another critical element in our
+policy decision making process. In the past, the growth in broad money supply was an
+important indicator of economic activity but this has more recently been eclipsed by the
+credit lending mechanism and the appropriate level of credit. The growing importance of
+credit extension is fairly obvious in that it has the ability to constrain economic growth, and
+even create unsustainable leverage or fragility in the economy. This analysis is largely
+manifested in the review of loans and advances from the banking sector to the households
+and non-financial corporations. Moreover, our assessment of monetary and credit
+aggregates as well as the flow-of-funds statistics provides a unique perspective on whether
+developments in the financial sector, are a symptom, cause or consequence of changes in
+the real economy. It is worth noting that the financial statistics are expanded to cover both
+the banks and the non-bank financial intermediaries. In addition, much emphasis is placed
+on the current and expected state of public finances, as well as the impact of fiscal policy
+initiatives in relation to the implementation of monetary policy actions. Movements in
+government consumption and production and how these contribute to quarterly GDP
+estimates are also important to the national accounts framework which I discuss later on.
+As far as the tracking of the real economy is concerned, we measure the pulse and the state
+of the domestic economy through a comprehensive array of statistics and sentiment
+indicators, which includes the balance of payments statistics, labour market and other high
+frequency real economic indicators. Naturally, our ability to make a suitable assessment of
+the domestic economy is dependent on the reliability, and timeliness of the various
+indicators.
+There are a few important issues to take note of here, and that is, although the pace of near
+term growth is informed by the national accounts framework, we as the MPC, are also
+2
+interested in the many other variables that are linked to the national accounts. These would
+include the current trend and composition of the national savings rate, the extent of the
+domestic household debt to disposable income ratio and other related stock and flow
+indicators. For example, it is important for us to determine to what extent private
+consumption expenditure is funded by more debt or an increase in real income.
+The entire framework of the national accounts is estimated from the production, factor
+income and expenditure side and provides an almost `general equilibrium like framework’ for
+the economy. This has the added advantage that it allows us to gain a better perspective of
+the stance of the economy from different vantage points. Understanding components of
+expenditure, is central to getting to grips with growth leavers. One of the most important
+components are movements in fixed capital formation. Critical as these are, it is often the
+most difficult variable to get robust results from firm surveys.
+The national accounts framework extends to the balance of payments which not only forms a
+significant part of expenditure side of the national accounts, but also plays an important role
+as a critical interface between the trade and financial accounts. Needless to say, the
+assessment includes an in depth analysis of the economic fundamentals that determines the
+trade balance, as well as the vulnerability or stability on the financial account in the form of
+capital flows to and from the country.
+The inflation targeting monetary policy framework is essentially forward looking, and would
+be extremely difficult to implement without the timely and accurate measurement of the
+consumer price index (CPI). While the basket of goods and services in the CPI is
+comprehensive in scope, it is the origin of emerging inflationary pressure that remains the
+most challenging for the MPC. This has become more prominent of late as the growing
+proportion of services in the consumption basket has introduced a whole new dimension to
+our understanding of pricing behaviour. For instance, the trend in services inflation is
+generally less prone to fluctuations related to the business cycle and supply side shocks
+than the consumer goods and durable components of the CPI.
+In addition, Stats SA have also recently redesigned the producer price index, which is
+another important progressive step in enhancing the statistical base on which we make
+decisions. Instead of providing a single aggregate PPI figure, the new methodology focuses
+more on how a variety of final and intermediate manufactured prices, commodities and other
+input costs such as electricity and water transmit inflationary pressure through to the
+economy. As a result the current PPI, unlike its predecessor, distinguishes between input
+and output prices and does not provide an aggregation of the two.
+3
+Needless to say, a very important part of our flexible inflation targeting approach is to gain a
+better understanding of the trend and relationship between real growth and employment. In
+the case of the latter, we analyse the unemployment rate very carefully in an attempt to
+assess how much of our unemployment is cyclical and how much is structural. The MPC
+also closely monitors the change to unit labour costs and the pace of productivity growth as
+these are considered important variables in the price formation process over the longer term.
+Making sense of the data is partly a function of how credible the data is, whether the
+measurement of the same universe gives conflicting evidence or not. When we see a new
+trend, notwithstanding well-developed methods of seasonal adjustment we still have to be
+sure that we are separating signal from noise.
+Naturally, in a forward looking inflation targeting environment, our assessment of the current
+and future state of the economy culminates in the forecasting process. Seeing that we are
+here for a forecasting award, let me now focus the attention on the forecasting process;- not
+so much in the abstract, but to rather give you a real appreciation of the many difficulties we
+face.
+The monetary policy statements released by the SARB after each meeting devote a great
+deal of time to explain our forecasts for headline inflation, core-inflation and future growth
+prospects. For good reason, these estimates guide our view of the future and in the process
+provide a suitable assessment of the balance of risks to the forecast. Not only are the
+projections important for monetary policy decision making, but they also provide a useful
+communication tool to the public.
+At this juncture, it may be useful to take a step back and ask what is so important about a
+reliable and consistent forecast and how exactly do monetary policy practitioners make use
+of this tool. Understandably, the key focus of the forecast relates to the numbers that the
+public tend to monitor closely. While I have no intention of trivialising the numbers or
+magnitudes generated by the model as these reflect important information about the pace,
+and change in the economy, it is really the interpretation and awareness of what the results
+suggest that remains most important for monetary policy decision making.
+Structural models and forecasts remain critical to our understanding of how the economy
+works, and as a result, many central banks have made large investments to gain an insight
+to the interaction of the various channels in the transmission mechanism that these types of
+models generally provide. This in itself is a very important exercise in its own right, and the
+model is built to reflect the unique characteristics and behavioural patterns of agents in the
+South African economy. The model can then be used to illustrate the possible effects and
+4
+consequences of simultaneous shocks to the economy. These would include how the
+domestic economy responds to supply side shocks in the form of a hypothetical rapid
+increase in oil and food prices and a depreciation of the currency. In the process the model
+provides valuable insight to a variety of indicators such as the exchange rate pass through,
+the extent of the output gap and the sensitivity of domestic growth to global growth within a
+theoretically consistent framework.
+Naturally, our models focus on a many key economic variables, but for obvious reasons our
+assessment of the outlook is centred on the expected trend of headline inflation and real
+GDP growth. Revisions of our forecasts are based primarily on new data and a change to
+our key assumptions. In the case of growth, the revision may have been caused by a
+change to the starting point and/or the projected growth prospects of our major trading
+partner countries. The starting point is hence often estimated for the current quarter, as we
+as all other private sector forecasters, eagerly await Stats SA’s official GDP numbers that
+are only released eight weeks after the quarter has commenced. In addition, these growth
+numbers are also subject to sometimes large revisions. On our assessment of global growth
+prospects, we do not reinvent the wheel but rather rely heavily on our peers who invest more
+resources on their projections on the global economy. Therefore, much of our time and
+effort is used to determine the impact that these changes may have on our own economy.
+Several important factors influence our outlook for inflation. These include our assumptions
+about commodity prices, exchange rates, unit labour costs and the extent to which the
+economy is performing below or above its level of potential, otherwise known as the output
+gap. Generally, all these variables are extremely difficult to forecast, and the exchange rate
+is notoriously renowned for its degree of difficulty. In a similar fashion, the same can be said
+about oil and food price increases that are often determined by geo-political conflict and
+droughts and not so much by pure economic fundamentals.
+A simple question often posed to the MPC relates to what the true value of the forecast is if it
+is constantly revised as new information becomes available. Some sceptics would say the
+main value of forecasts are the very assumptions you impose on the model, and that by
+getting these wrong the forecast becomes a failure. My simple response to this rhetoric is
+that what matters most is what our economists are well trained to do, and that relates to how
+well the economy is forecast on the basis of the full information set that was available at the
+time of the forecast. For example, were all the influential factors that could potentially alter
+the forecast highlighted and taken into consideration, or was the assessment of the balance
+of risk appropriate for that point in time. I believe it is rather these criteria to which the
+5
+forecast should be judged and not so much the conventional way in which the forecast value
+is compared to the final outcome.
+In conclusion, the key challenge for research in the context of regular monetary policy
+meetings is to ensure there is consistency in the analysis and interpretation of the highly
+fragmented and complex information set that becomes available over time. As we continue
+to improve our analysis of the state of the economy, there are a few things that will occupy
+us over the next few years. Some channels such as the trade and to a limited extent the
+financial flows are reasonably well established in our analysis and factored in the models,
+but these will need to be augmented by the complex nature of international spill-over effects
+and the potential consequences of further international banking and financial sector
+constraints.
+In view of the growing importance of financial stability to monetary policy, the analytical
+demands placed on economists have intensified as we come to grips with issues related to
+asset price behaviour and their link to the real economy. In particular, housing and its
+impact on confidence, wealth creation and household vulnerability has become central to the
+business cycle and cannot be ignored in any monetary policy making process. This extends
+to other areas such as the balance sheet analysis of households, financial and non- financial
+corporations as well as government. After all, any understanding of the cause and
+consequence of the financial crisis would begin with a critical assessment of the balance
+sheets of the financial sector.
+To really gain perspective on the true stance of the economy is not a trivial exercise as it
+requires strong research capacity, a really good appreciation of the statistical methods used
+and what the release of preliminary data implies. All of this cannot be achieved without the
+presence of an excellent statistical infrastructural environment. Beyond this is the challenge
+of enriching our analysis to include more cooperation and interaction with key stakeholders
+in the economy. One way of doing this is to interact with the economic agents across all
+sectors and regions of the economy. This type of intelligence gathering on the current state
+and outlook for the domestic economy across business and industry can be valuable in the
+detection of possible early warning signals prior to the release of the official statistics and
+data. As a result, this approach has evolved to become an integral part of monetary policy
+formulation in many central banks across the globe, and countries such as the UK, Canada
+and Australia have often remarked on the benefits of the process.
+Lastly, I wish to thank you for the kind opportunity to address this audience
+6

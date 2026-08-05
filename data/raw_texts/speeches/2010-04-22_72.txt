@@ -1,0 +1,185 @@
+Titulo: Presentation by Dr Monde Mnyande, Advisor to the Governor and Chief Economist, South African Reserve Bank (SARB), to the Ombudsman for Banking Services, at their Annual Report 2010 Launch, Westcliff Hotel, Melville, 22 April 2010
+Data: 2010-04-22
+Palestrante (estimado): Monde Mnyande
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-senior-management/2010/72
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-senior-management/2010/72/interest-rates-in-south-africa2010.pdf)
+----------------------------------------------------------------------
+
+INTEREST RATES IN SOUTH AFRICA
+Presentation by Dr Monde Mnyande, Advisor to the Governor and
+Chief Economist, South African Reserve Bank (SARB), to the
+Ombudsman for Banking Services, at their Annual Report 2010
+Launch, Westcliff Hotel, Melville,
+22 April 2010
+Introduction
+Thank you for the invitation to join you today to say a few words on the
+evergreen topic of interest rates. The level of interest rates – or more
+accurately the spectrum of interest rates in the South African economy –
+perform crucial functions in the economy, the most important being that
+of balancing the interest of savers with that of borrowers. This is unlike
+the task of the Ombudsman, which includes balancing the interest of
+bank clients with that of banks, and seeing that fairness and reason
+prevail.
+In my allocated ten minutes I want to very briefly touch on how our
+economy is currently doing. Thereafter I will make a few observations on
+interest rates in South Africa, going back a few decades and reflecting on
+some of the key developments during this period and lessons learnt from
+them. In discussing interest rates, the matter of the margin between the
+SARB’s repurchase rate and the banks’ prime lending rate will also be
+- 2 -
+touched upon, though this has been thoroughly dealt with on an article
+released by the Bank and the Banking Association of South Africa on the
+role of the prime rate and the prime-repurchase rate.
+How strong is the economic recovery?
+The year 2009 was disappointing in most parts of the world, especially
+for advanced economies. In South Africa we did not escape unscathed.
+As a consequence, we recorded a negative growth in real gross
+domestic product (GDP) for the year as a whole. However, the quarter-
+to-quarter growth rates have turned positive from the third quarter of
+2009. Growth in South Africa’s output is accordingly projected to remain
+in the lower positive territory – and most certainly below the potential
+output level, for both 2010 and 2011.
+Recently, skepticism regarding the recovery, and what could possibly be
+the next monetary policy decision, was expressed following a decline in
+February’s real retail sales data. However, one should not get carried
+away by an adverse movement in a single narrow indicator of economic
+activity, such as retail sales. Firstly, the latest data point on retail sales
+was a decline from a high base set in the previous month, January, when
+sales were exceptionally brisk. Secondly, broader indicators of economic
+activity should be consulted to draw any such conclusions.
+The South African Reserve Bank (SARB or the Bank) calculates
+composite indicators that give a more comprehensive picture of how the
+economy is performing. These indicators are weighted combinations of a
+variety of individual economic indicators and have been selected due to
+their ability to indicate turning points in the business cycle of the overall
+economy. The Bank constructs a leading indicator, a coincident indicator
+- 3 -
+and a lagging indicator. The greatest interest is in the former two, which
+point towards a notable recovery in activity in the next few quarters,
+albeit from a low base.
+Observations on interest rates in South Africa
+Most borrowers and savers would benefit if interest rates do not fluctuate
+excessively. Stable interest rates would bring greater certainty to the
+finances of savers and borrowers and assist them with planning. This is
+not to deny that some persons and institutions, such as those actively
+trading interest-bearing debt securities and interest rate derivative
+instruments, may prefer a fairly volatile interest rate environment. But for
+typical economic agents this is not the case.
+Furthermore, from a cash-flow point of view it is also helpful if nominal
+interest rates are lower rather than higher. In this matter, however,
+sustainability is important: a very low interest rate environment which
+cannot be sustained and has to make room for a high interest rate
+environment is extremely damaging, particularly to borrowers.
+Lower nominal interest rates can only be sustained if inflation is kept in
+check. Otherwise negative real interest rates will result as inflation
+accelerates with low nominal interest rates being maintained. Negative
+real interest rates are damaging to the economy, not least since such
+rates cause savers to subsidise borrowers, thereby undermining saving.
+As you know, the repurchase rate or repo rate is the interest rate at
+which the SARB routinely lends funds to banks with a temporary cash
+shortfall, recent monetary policy decisions have brought the real
+repurchase rate to low (but still positive) levels of .74 per cent. This rate
+- 4 -
+comes from the most recent high point of 6,64 per cent recorded in
+November 2008. One should remain cognisant of the fact that it is
+preferable to use a forward-looking measure to capture inflation
+expectations when estimating real (or inflation-adjusted) interest rates.
+But let us revisit the past four decades to see what has happened to both
+nominal and real interest rates. Data indicate that the nominal interest
+rate on long-term bond financing rose considerably in the 1970s and
+remained high until around 2000, before declining quite considerably.
+The main reason for the increase in nominal bond yields in the 1970s
+was the acceleration in inflation to double-digit rates from around 1974.
+Conversely, the taming of inflation has been important in bringing about
+lower nominal bond yields in the past decade.
+Real (or inflation-adjusted) bond yields in South Africa have not been
+very high in recent years, despite much stronger capital expenditure.
+This could be attributed to the fact that internationally real interest rates
+have tended to be low, not least on account of vigorous saving in a
+number of countries, such as, China.
+Having said that, let us turn from long-term bonds to short-term bank
+loans. Short-term nominal lending rates were very volatile and often very
+high in the 1980s and 1990s. In the 1980s, in particular, the authorities
+used interest rates with anticyclical intentions, but found that the results
+were not much more than stop-go policies, which confused savers and
+borrowers alike. The strong increase in 1998, for instance, the nominal
+prime overdraft rate was related to the Southeast Asian Crisis.
+- 5 -
+The real (or inflation-adjusted) prime overdraft rate was very volatile in
+the 1980s and 1990s, but has been less volatile and well below previous
+highs in recent years. The flexible inflation-targeting framework for
+monetary policy has contributed to this outcome. Real central bank
+interest rates depend on country circumstances.
+In recent weeks the margin between the SARB’s repo rate and the prime
+overdraft rate has attracted some attention in the media. It should be
+clearly noted that this margin is based on convention, not regulation.
+With a review of, and change to, the structure of money-market interest
+rates almost ten years ago, the margin between the SARB’s repo rate
+and the prime overdraft rate was widened from 300 to 350 basis points
+on 5 September 2001. This is still the margin today, with the repo rate at
+6,5 per cent and the prime rate at 10 per cent.
+As indicated above, the magnitude of this margin is essentially a
+convention or an understanding between the SARB and the private-
+sector banks. Is it anticompetitive behaviour? Defnitely not along the
+lines of collusion as some sceptics have argued. It should be noted that
+banks price each individual’s advance mindful of the risk, administration
+cost and the cost of obtaining funding, at a rate that is expected to be
+profitable for the lending institution.
+If the margin between the prime rate and the SARB’s repo rate is
+reduced to 300 basis points, initially all existing prime-linked advances
+will carry a lower interest rate. However, this would not last. Each
+individual’s advance will be reviewed over time and the lending rate
+raised again, because the underlying risk, administration cost and
+funding cost would not have changed, unless, of course, deposit rates
+are also reduced by 50 basis points, which is unlikely to be favourably
+- 6 -
+received by savers. A general realignment of all deposit and lending
+rates relative to the repo rate would then be implied.
+Currently, all the major banks have the same prime overdraft rate.
+Looking back, this has not always been the case – on rare occasions a
+bank adopted a prime rate that was slightly different from that of its
+competitors. However, the current situation, with the same prime rate
+being adopted by all the major banks, helps clients to compare the
+pricing of various banks relative to the same benchmark and to choose
+and negotiate on a better informed basis. Comparison could be made
+more difficult if banks were to adjust not only a client’s premium above or
+concession below the benchmark rate, but also the benchmark rate itself
+at the bank’s own discretion. So I do not see a convincing reason why
+this convention should be changed. Again, and as alluded to earlier, a
+more comprehensive analysis of this topic can be found in the report of
+the Bank and the Banking Association of South Africa.
+Conclusion
+The SARB is committed to promoting the stability of the financial system
+and maintaining low inflation, in line with its mandate given by
+government. Its prime contribution to the economy is therefore to create
+a stable platform for sustainable growth and development as enshrined
+in the Constitution of the Republic.
+Interest rates should not be unduly volatile or high. This is confirmed by
+the painful but important lessons that have been learnt from South
+Africa’s experience since the early 1970s.
+- 7 -
+An environment of financial stability and low inflation reduces the
+uncertainty and inflation premia built into interest rates. It also counters
+volatility and brings down the level of nominal interest rates. Perversely,
+to keep nominal interest rates lower in the long run may require nominal
+interest rates to be raised in the short run when needed to counter an
+inflationary impulse. This is the classical problem of monetary policy: its
+short-term and long-term consequences run in opposite directions.
+The issue of the appropriate margin between the repo rate and prime
+lending rate is viewed by many as a storm in a teacup, since banks will
+tend to determine the actual lending rate for each loan irrespective of the
+spread between the repo and prime rates. Changing the convention is
+unlikely to result in any lasting change in the banks’ actual lending rates
+or net interest margins.
+Let me conclude by wishing you all good luck in adjudicating complaints
+and compliments regarding the nation’s banking system. A sound
+banking and financial system should be seen to be responsible and
+reasonable in its conduct, and the guidance and rulings which you
+provide are crucial in keeping the banks and their clients on the straight
+and narrow. Just as we believe, the SARB’s monetary policies help to
+provide clear and appropriate signals to savers and borrowers, thereby
+building a solid foundation for sustainable development, growth,
+employment creation and, ultimately, poverty alleviation.
+Enkosi.
+The South African Reserve Bank and Banking Association of South Africa. 2010. The role of the prime
+rate and the prime-repurchase rate spread in the South African Banking system.

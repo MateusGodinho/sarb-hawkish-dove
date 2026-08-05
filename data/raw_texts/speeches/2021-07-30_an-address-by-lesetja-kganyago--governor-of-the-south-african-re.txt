@@ -1,0 +1,246 @@
+Titulo: An address by Lesetja Kganyago, Governor of the South African Reserve Bank (SARB), at the 101st annual Ordinary General Meeting of the shareholders
+Data: 2021-07-30
+Palestrante (estimado): Lesetja Kganyago
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/governor's-address-to-shareholders/2021/an-address-by-lesetja-kganyago--governor-of-the-south-african-re
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/governor%27s-address-to-shareholders/2021/Governor%27s%20Address%20at%20the%202021%20AGM.pdf)
+----------------------------------------------------------------------
+
+An address by Lesetja Kganyago,
+Governor of the South African Reserve Bank (SARB),
+at the 101st annual Ordinary General Meeting of the shareholders
+South African Reserve Bank, Pretoria
+30 July 2021
+Introduction
+We convene our 101st annual Ordinary General Meeting (AGM) more than 18 months
+since the first COVID-19 case was reported in South Africa, and as the third wave of
+virus infections has peaked. Restrictive measures have been necessary to protect
+human lives, with negative effects across our economy, leaving deep scars on
+businesses and on the economic livelihoods of many South Africans.
+While the magnitude of the economic shock has been difficult to estimate, the South
+African Reserve Bank (SARB) responded quickly and aggressively with a broad array
+of actions to limit the economic damage, in line with its constitutional and legislative
+mandates. The policy responses included the use of monetary policy, market
+operations to support the functioning of financial markets, regulatory tools, as well as
+collaborations with other entities to provide relief to the economy and support lending
+to households and firms. In addition, the SARB has been contributing in global forums
+aimed at fostering greater international cooperation to strengthen the global financial
+safety net.
+Monetary policy was adjusted rapidly, with the SARB’s Monetary Policy Committee
+(MPC) cutting the repurchase (repo) rate to an all-time low of 3.5%, leaving the prime
+Page - 1 - of 9
+rate at a 54-year low of 7.0%. These low rates have supported household demand for
+credit and have cushioned corporates through low short-term rates while allowing
+government to take advantage of cheaper short-term debt.
+Liquidity management also shifted quickly to address funding strains in the domestic
+financial markets through the utilisation of the repo facility at various maturities. The
+intraday repo facility offered R36 billion daily, while the weekly and three-month
+funding windows made R45 billion and R20 billion available respectively. To add
+liquidity and promote the continued smooth functioning of the bond market, the SARB
+implemented a bond-buying programme in the secondary market. The value of
+government bonds purchased totalled R41 billion. As a result of these actions, liquidity
+conditions in the money market and the government bond market normalised quickly,
+and market functioning was restored.
+The Prudential Authority (PA) granted temporary regulatory and supervisory relief
+measures to enable banks to continue lending and supporting their customers. The
+relief measures were provided in three areas, namely: lowering the liquidity coverage
+ratio from 100% to 80%, lowering the minimum capital requirements, and relaxing the
+provisioning requirements in order to permit the restructuring of distressed loans. The
+PA also issued guidance to banks discouraging dividend payments and executive
+bonuses in 2020. This measure has since been reversed.
+Finally, the SARB partnered with National Treasury and the Banking Association
+South Africa (BASA) to establish the Government Loan Guarantee Scheme. As at
+19 June 2021, R18.39 billion in loans had already been approved by banks and taken
+up by small businesses under the scheme.
+There has been criticism surrounding the low uptake of the loan guarantees. It is
+important to note that the Loan Guarantee Scheme was a backstop for cases where
+the commercial banking sector was unable to provide credit relief to borrowers due to
+high credit risk. In practice, banks responded quickly and very successfully, acting
+swiftly to support the firms to which they lend.
+Page - 2 - of 9
+In addition, small and medium businesses appear to have been reluctant to take up
+more debt, especially in an environment characterised by deteriorating confidence, a
+sluggish recovery and heightened economic uncertainty.
+Let me now turn to a reflection on recent economic developments.
+Global conditions
+On the global front, economic recovery is on track but uneven. The International
+Monetary Fund’s (IMF) July World Economic Outlook projects a stronger recovery in
+both 2021 and 2022, with growth projected at 6.0% and 4.9% respectively.
+The advanced economies, led by the United States (US), look set to reach pre-COVID-
+19 levels much sooner than their emerging and developing economy counterparts.
+The US continues to pursue unprecedented fiscal expansion and an accommodative
+monetary stance. Most recently, the European Commission passed its
+NextGenerationEU stimulus package, in conjunction with its Multiannual Financial
+Framework 2021–2027. These significant policy responses will see a fiscal injection
+of €2.018 trillion in European Union (EU) member states over the coming years.
+Economies in sub-Saharan Africa (SSA) continue to lag their peers. Coming into the
+pandemic, most of these economies were already battling with a lack of policy space
+and sluggish implementation of reforms necessary to boost growth. Slow vaccination
+rates will continue to weigh on economic recovery in this region, even after the lifting
+of hard lockdowns. Many economies in the SSA region continue to struggle with high
+debt levels and conflicting policy priorities, including the need for higher health
+spending, the strengthening of social safety nets, improved fiscal positions and kick-
+starting much-needed infrastructure projects. Against this backdrop, the regional
+economy contracted by an estimated 1.9% in 2020. The IMF forecasts growth of 3.4%
+in 2021 and 4.1% in 2022 for SSA.
+The COVID-19 pandemic has caused large demand and supply shocks globally. The
+policy space to respond has been varied across countries, depending on pre-
+pandemic economic conditions as well as the risk perceptions of funders and
+Page - 3 - of 9
+investors. These demand-related challenges were the short-term difficulties. The
+longer-term challenges are harder to address as they concern supply.
+The pandemic has disrupted global and domestic value chains, and has destroyed
+businesses and jobs. It will take time to rebuild our economies to pre-pandemic levels.
+Supply constraints also contribute to higher inflation, so as we recover from the
+pandemic, this raises the prospect that, over the medium term, monetary policy may
+need to retreat from its highly accommodative stance. Much of the financial market
+volatility we have seen in recent months reflects how markets assess these monetary
+policy dynamics, including how monetary policy may be constrained by negative
+supply shocks and impacted by the ongoing expansionary fiscal efforts.
+The US Federal Reserve has indicated that the higher inflation outcomes of recent
+months are primarily transitory and are therefore not expected to result in permanently
+higher inflation. Nonetheless, the Federal Open Market Committee (FOMC) has
+shifted its position, perhaps signalling a somewhat earlier normalisation of monetary
+policy than was foreseen last year.
+The European Central Bank (ECB) has finalised a revision of its strategic framework,
+setting a clear inflation target of 2% and thus moving away from the previous
+articulation of ‘below but close to 2%’. This has clarified the target and removed
+uncertainty about potential policy responses if inflation were forecast to rise above 2%.
+Domestic conditions
+Since the last AGM, we have seen the domestic economy recover faster than
+expected, although output remains 3.3% below real 2019 levels. The first-quarter
+gross domestic product (GDP) figure of 4.6% quarter on quarter (the seasonally
+adjusted annual rate (saar)) surprised on the upside. However, the recovery remains
+uneven, and is largely driven by strong performance in the finance and mining sectors.
+Mining has been benefitting from rising commodity prices, and manufacturing appears
+to be benefitting from improving global and domestic demand. Finance and trade, also
+linked to improving demand, appear to be closing in on the 2019 level, in step with
+manufacturing, while agriculture has benefitted from high rainfall and bumper harvests
+Page - 4 - of 9
+in 2020. However, construction and tourism-related activities remain well below their
+2019 levels. Transport, impacted by reduced travel (for both commute and leisure),
+also remains well below the 2019 level.
+The recent unrest and economic damage could, however, fully negate these better
+growth results, and could have lasting effects on investor confidence. As a result, our
+GDP growth forecast for 2021 remains at 4.2% for now. Prior to the unrest of recent
+weeks, the soft economic indicators were pointing to a more positive outlook.
+The business confidence index measured by the Bureau for Economic Research
+(BER) rose to the 50-point neutral level for the second quarter of 2021 – for the first
+time in seven years. The Absa Purchasing Managers’ Index and the SACCI trade
+expectations index remained in expansionary territory.
+Consumer confidence, however, softened in response to uncertainty about the
+economic outlook and income arising from renewed COVID-19 infection rates and the
+slow vaccine roll-out. The recent events, electricity load-shedding and lockdowns will
+continue to weaken near-term sentiment in the economy and pose risks to growth.
+The official unemployment rate edged up marginally in the first quarter of 2021, from
+36.5% to 36.6%, as more people re-enter the labour market but job growth remains
+lacklustre.
+Headline inflation accelerated from 4.4% in April to 5.2% in May, largely on petrol, food
+and base effects, before easing slightly to 4.9% in June. Core inflation remained
+subdued at 3.1% over this period. Risks to the inflation outlook emanate mainly from
+global factors such as higher food and oil prices, as well as global supply disruptions
+pushing up producer prices. However, a stronger exchange rate, economic slack and
+modest housing-led service price inflation continue to moderate inflation outcomes.
+Additionally, higher domestic crop production should help mitigate food inflation
+pressures.
+Let me now turn to some factors that have impacted our financial system.
+Page - 5 - of 9
+The financial stability mandate
+The COVID-19 pandemic found our financial sector resilient due to continued
+enhancement to our regulatory and supervisory frameworks. The regulatory capital
+ratios for both the banking and the insurance sectors remained at roughly the same
+levels at the end of 2020 as they were before the onset of COVID-19. This is attributed
+to a moderate level of credit extension keeping profitability in the banking and
+insurance sectors positive, and capital retained by measures that reduced dividend
+payouts.
+Asset prices have rebounded in line with economic activity, and the rate of loan
+defaults continues to stabilise. The JSE Limited (JSE) All-Share Index (Alsi) has fully
+recovered the losses suffered in 2020. House price growth has also improved in recent
+months, achieving positive real growth for the first time since 2016. While the banking
+sector’s loan defaults may not have peaked yet, the pace of increase slowed
+significantly in late 2020 amid signs that borrower debt-service capacity was
+improving. The value of credit restructured as a result of COVID-19 has more than
+halved from its peak in mid-2020.
+Nonetheless, material risks to financial stability still exist, and we continue to monitor
+them. They relate to the durability of the economic recovery, the high and rising level
+of public debt in South Africa, and the potential for global financial conditions to shift
+abruptly.
+Operational matters
+The work that we have to do as a central bank also includes ensuring that our national
+payment system remains robust and that we keep up with changes brought about by
+advancements in financial technology (fintech) that result in new payment methods.
+During the reporting period, the SARB’s National Payment System Department
+launched the real-time gross settlement (RTGS) system renewal programme. The
+RTGS system enables payments by members of the public, merchants and corporates
+as well as government entities through accounts held by their banks at the SARB. With
+Page - 6 - of 9
+the renewal programme, the SARB aims to widen access to payment services,
+enhance competition through the leveraging of technology developments, reduce the
+cost of the system, lower the transaction fees, and make the system more flexible and
+adaptable to relevant changes in the financial sector.
+Earlier this year, the Intergovernmental Fintech Working Group published a position
+paper on crypto-assets. The paper provides a road map for putting in place a
+framework for regulating crypto-assets in South Africa, through the regulation of
+crypto-asset service providers. The paper makes 25 recommendations related to
+cross-border financial flows, consumer protection and market abuse, as well as
+containing money-laundering and combating the financing of terrorism.
+The second phase of Project Khokha, through which the SARB practically explores
+the potential impact of distributed ledger technology on financial markets, is also
+nearing its final stages. The final report will be published by the end of
+September 2021.
+As we look to the future, the SARB, like many other central banks, has embarked on
+a central bank digital currency (CBDC) feasibility study. The objective of the study is
+to investigate if it would be feasible, appropriate and desirable for the SARB to issue
+a CBDC to be used for retail purposes, complementary to cash, in South Africa.
+Our centenary
+Although this is the 101st AGM, this year marks 100 years of the SARB’s existence.
+Over the past century, we have steered through the devastating impact of the Great
+Depression, the deadliest war in history (World War II), institutionalised racial
+segregation, the oil crisis of the 1970s, the dawn of democracy in South Africa, the
+global financial crisis, threats to the SARB’s independence and, today, the COVID-19
+pandemic – the worst virus outbreak since the Spanish flu in 1918.
+Page - 7 - of 9
+This year, we also celebrate the rand’s 60th birthday, 25 years of central bank
+independence following the adoption of South Africa’s Constitution in 1996, and
+21 years of inflation-targeting.
+In celebration of its centenary, the SARB has launched a commemorative
+R5 circulation coin. The coin illustrates the journey of the currency minted by the SARB
+from the iconic ‘tickey’ to a glimpse of the future 10c coin.
+We also held a virtual ceremony, shared with our stakeholders, former Governors and,
+importantly, our staff. We were honoured to host the leadership of yesteryear,
+including Dr Chris Stals, Minister Tito Mboweni and Ms Gill Marcus. There were also
+messages from BASA, the IMF and the Bank for International Settlements (BIS). The
+messages reflected a deep respect and admiration for the institutional strength of the
+SARB.
+In October this year, the SARB, together with the BIS, will be hosting a virtual Biennial
+Conference, themed ‘Policy challenges after the pandemic’. The conference will
+explore some of the main challenges that central banks and macroeconomic
+policymakers are facing in the wake of COVID-19.
+Conclusion
+In closing, I have to express my gratitude to, and would like to commend, the hard-
+working staff of the SARB. When we convened last year, I outlined measures to
+transition our staff to working from home. I am happy to report that, while most of our
+staff members continue working from home, they are well-equipped and have been
+able to continue executing their respective tasks fully. We are working with the health
+authorities to allow for SARB staff to be vaccinated across the country.
+The impact of COVID-19 on our health system, on our society and on our economy
+has been enormous, drawing parallels to the Spanish flu of 1918. The institutional
+framework through which the SARB exercises its functions has enabled us to respond
+to the economic impact of the crisis with scale and with speed, while balancing short-
+term and longer-term trade-offs.
+Page - 8 - of 9
+To rebuild our economy, jobs need to be created. Businesses must be restarted and
+new ones must be established to align with the changing economic needs. Investment
+decisions need to be taken. Our national policy frameworks must facilitate and enable
+those basic economic decisions, consistently and sustainably, providing cost-effective
+and reliable network services, education, and many other quality public services.
+As we navigate through this current storm, a multi-pronged policy approach
+is required, with all institutions of government responding in line with their defined
+roles. The SARB will continue to play its part and deploy its tools, as appropriate,
+in accordance with its mandate, to continue providing support to the South African
+economy and building buffers to enable us to navigate any new storms that may come.
+As we look to the next 100 years, we remain committed to anchoring our work in a
+strategy that takes account of the fast-changing economic environment.
+This is a time to rebuild; this is a time to repair – making our economy fairer, more
+dynamic, and inclusive of all South Africans.
+Thank you.
+Page - 9 - of 9

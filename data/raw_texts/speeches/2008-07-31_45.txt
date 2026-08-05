@@ -1,0 +1,444 @@
+Titulo: Keynote address by Dr Monde Mnyande, Chief Economist of the South African Reserve Bank at the 4th Convention of the South African Institute of Black Property Practitioners (SAIBPP) at the Helderfontein Conference Centre, 31 July 2008
+Data: 2008-07-31
+Palestrante (estimado): Monde Mnyande
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-senior-management/2008/45
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-senior-management/2008/45/speech---dr-mnyande.pdf)
+----------------------------------------------------------------------
+
+The turning of the cycle and the impact of interest rates
+Keynote address by Dr Monde Mnyande,
+Chief Economist of the South African Reserve Bank at the
+4th Convention of the South African Institute of Black Property
+Practitioners (SAIBPP) at the Helderfontein Conference Centre,
+31 July 2008
+----------
+1. Introduction
+My thanks to the SAIBPP for the invitation to present a viewpoint from the South
+African Reserve Bank at your 4th Convention. Given the sensitivity of the property
+market to interest rates, and given the increases in interest rates over the past two
+years, it is a relief to find that central bankers have not been declared persona non
+grata at SAIBPP but are called upon to explain what monetary policy is up to.
+Let me begin by outlining why combating inflation is absolutely essential, with
+monetary policy – and interest rates in particular – utilised to this end. Thereafter,
+I will touch on the possibilities of the turning point of the business cycle. This will be
+followed by an analysis of the longer-term history of interest rates, inflation and
+property cycles in South Africa. I hope that this will also help to contextualise where
+we currently find ourselves. Finally, since we are in an inflation-targeting environment
+and the measurement of inflation has attracted some interest most recently, I will
+make a few comments on measurement issues.
+- 2 -
+2. Why combating inflation is essential
+Low inflation promotes sustainable, sound economic growth and development. It
+benefits all, especially the most vulnerable groups of our society, i.e. the pensioners,
+the unemployed and the poor in general. If a country allows inflation to gain
+momentum and become entrenched at a high level, this will be reflected in interest
+rates which also turn to be firmly ensconced at a high level. The reason is that if
+interest rates do not keep pace with inflation, this punishment or tax to savers and
+reward to borrowers will eventually cause a savings shortfall. With savers on strike
+currently, interest rates are then forced higher. You can get away with interest rates
+which fall below inflation for a while, but this is not sustainable since
+characteristically, this would require printing money at an ever-accelerating pace to
+try and fill the gap left by the savings shortfall. And doing so would consequentially
+fuel inflation further – and ultimately, interest rates would have to rise.
+An important reason why monetary policy is difficult to deal with is the lags
+which are involved. For a few quarters, and perhaps even for a year or so, interest
+rates which are low relative to inflation can be used to stimulate the economy, much
+like an athlete taking drugs to boost his performance. It can actually work for a while.
+However, the long-term consequences are quite destructive, with the athlete facing
+permanent damage and the economy facing inflation which has become deeply
+anchored and fully expected. Following which, the athlete is suspended and requires
+strong treatment to counter his addiction – just as the high-inflation, economy
+requires high interest rates to counter the accelerating inflation spiral.
+- 3 -
+By contrast, the long-term fruits of prudence in monetary policy are sweet,
+indeed. Low inflation sets a scene in which nominal interest rates can also be fairly
+low on a sustainable basis. Experience to this has been observed in this current
+upward phase of the growth cycle.
+3. The business cycle: a comparison of upward phases
+Allow me to say a few words on where we now stand within a business cycle context.
+The upward phase of the business cycle is currently in its 107th month – the longest
+upward phase on record or in South Africa’s recorded economic history. The South
+African Reserve Bank measures the business cycle in terms of the growth cycle
+definition, i.e. trend-adjusted cycles. The Bank’s business cycle chronology,
+published regularly in the Quarterly Bulletin, represents reference turning point dates
+that distinguish between periods when aggregate economic activity increased at a
+pace stronger than or equal to its long-term growth trend (upward phases) and
+periods when aggregate economic activity either contracted, or increased at a pace
+below its long-term growth trend (downward phases). These upward and downward
+phases of the business cycle are shown in Figure 1 in the appendix, together with the
+composite coincident business cycle indicator.
+The first sign of a possible turning point in the business cycle is usually when
+the composite leading business cycle indicator (which is calculated by the Bank)
+clearly changes direction for a period of at least six months. The leading indicator
+reached a recent peak in March 2007, whereafter it has been following a downward
+trend for fourteen months up to May 2008 – the latest available data point. Figure 2
+in the appendix illustrates this recent moderation of economic activity.
+- 4 -
+When analysing various short-term indicators, a number of differences stand
+out, not only between the current upward phase of the business cycle and previous
+upward phases, but also between the demand side and the supply side of the
+economy.
+Demand-side indicators, such as retail trade sales and new vehicle sales,
+show that the current upward phase of the business cycle has been characterised by
+robust growth in consumer spending. This is evident when comparing the cumulative
+percentage change of these indicators during the current upward phase with two
+previous long upward phases (from January 1978 to August 1981 and from June
+1993 to November 1996). At their respective peaks, the cumulative percentage
+change in both new vehicle sales and retail trade sales reached at least double the
+levels reached during the previous upward phases, as illustrated in Figure 3 and
+Figure 4 in the appendix.
+This analysis also shows that the strong growth rate in consumer spending
+has not been sustained during the most recent 12 to 18 months of the current upward
+phase. New vehicle sales have declined notably and the cumulative percentage
+change in retail trade sales has fallen below its peak in recent months, as the
+purchasing power of consumers continued to be eroded by high and rising inflation
+during the latter part of the current upward phase, coupled with the more restrictive
+monetary policy stance applied by the monetary authorities since the middle of 2006.
+When analysing supply-side indicators, a different picture emerges. A similar
+upward phase comparison of mining and manufacturing production, shows that the
+cumulative percentage change in both these indicators has barely reached the peak
+- 5 -
+levels attained during the previous two upward phases. The cumulative percentage
+change in the volume of mining production excluding gold reached a peak level
+similar to that in the January 1978 to August 1981 upward phase after month 65 of
+the current upward phase. During the ensuing 40 months, however, this cumulative
+growth level could not be reached again as a combination of cost factors and other
+constraints, such as electricity supply disruptions, which impacted meaningfully to
+the mining sector. See Figure 5 in the appendix.
+Although the current upward phase has already lasted more than twice the
+duration of the January 1978 to August 1981 upward phase, the cumulative
+percentage change in the volume of manufacturing production has not been able to
+surpass the peak level reached during that upward phase, as indicated in Figure 6.
+During the latter part of the current upward phase, manufacturing production has
+been hampered by, amongst other factors, the relative strength of the rand exchange
+rate. This consequently puts pressure on the competitiveness of manufacturing
+exports, whilst manufacturing production for the domestic market came under
+pressure from an influx of relatively cheap imported products.
+Although manufacturing production does not appear to have reached a peak
+during the current upward phase yet, most recently released opinion surveys of the
+sector, such as the Investec PMI and the BER’s manufacturing survey for the second
+quarter of 2008, point to a very bearish outlook for the manufacturing sector.
+Two conclusions can thus be drawn from the above analyses. Firstly,
+demand-side indicators have grown at a much faster pace during the current upward
+phase of the business cycle than during previous upward phases. Secondly, supply-
+- 6 -
+side indicators have underperformed during the current upward phase, relative to
+previous upward phases and also when compared to the demand-side indicators.
+Furthermore, most demand-side indicators are either close to, or have already
+reached their peaks, whilst most supply-side indicators have not yet reached peaks.
+In response to the slowing consumer demand, and in view of the decline in the
+composite leading business cycle indicator, the growth rate in the supply-side
+indicators can probably be expected to slow going forward.
+4. Longer-term history of interest rate and property cycles in South Africa
+South Africa has had its fair share of experience with different approaches to
+monetary policy and inflation. In 1986, for example, the SARB monetary policy was
+based on the targeting of growth in the broad money supply, M3. This was followed
+from 1990 by so-called eclectic policymaking, in which policy decisions were
+informed by money supply growth (it was called “money supply guidelines”) as well
+as a wide range of indicators, including the exchange rate, output gap, and so on.
+Because of dissatisfaction with money supply guidelines and eclectic policy-making,
+South Africa started implementing an Inflation Targeting (IT) framework in 2000.
+Currently, IT aims to achieve a rate of increase in the overall consumer price
+index, excluding the mortgage interest cost (CPIX), of between 3 and 6 per cent per
+year.
+Contrary to criticisms that have been levelled at monetary policy from certain
+quarters recently, we are of the view that monetary policy within an IT framework is
+- 7 -
+working. Mark R Stone (2007) has eloquently put it, and I paraphrase, “As long as
+Central banks are resolute, inflation targeting should remain the best monetary
+regime”. And I agree more with his bottom line synopsis that, “IT is not perfect, but
+as with democracy and marriage, the alternatives are almost surely worse!”
+Admittedly inflation targeting is being tested in the current global turmoil.
+In Picture 7 of this presentation, consider the period from the third quarter of
+2003 through to the first quarter of 2006. There is no doubt that we managed to
+stabilise the prices within the target for a period of 43 months. However at the
+beginning of the second quarter of 2006 inflation began to decisively trend upward
+but stayed within the target band until March 2007 and then moved above the 6-per-
+cent mark. To a large extent this trend was due to rising food and energy prices –
+variables that are exogenous.
+The standard response to exogenous shocks is for the monetary authorities to
+allow for the first-round effects, but to react to any second-round or generalised
+effects that may come through. If one removes the food and energy components
+from CPIX (Picture 7) it shows that inflation pressures are now more generalised i.e.
+the pressure has spread into other non-food and non-energy components of CPIX.
+This is loose evidence of second-round effects. Compounding this evidence of
+second-round effects were the concerns regarding the size of the current-account
+deficit, rising administered prices, Eskom tariff increases, and so on.
+As detailed in different MPC statements, Governor TT Mboweni’s speeches
+and Monetary Policy Reviews, these kinds of inflationary pressures necessitate
+tightening of monetary policy. Indeed monetary policy has been tightened by 500
+- 8 -
+basis points since June 2006, the latest increase being in June 2008 when the
+repurchase rate was increased to 12 per cent and the prime overdraft rate of banks
+moved to 15,5 per cent. The recent history of inflation and interest rate movements
+is illustrated in Figure 8.
+It is generally accepted that the monetary transmission mechanism works
+through from interest rates to prices, operating with a lag of about 18 to 24 months.
+Specific channels of monetary transmission operate through the effects that
+monetary policy has on interest rates, exchange rates, equity and real estate prices,
+bank lending, company balance sheets and consumption. A simplified diagram of
+this mechanism is shown in Figure 9.
+Notwithstanding tighter monetary policy, economic growth in South Africa
+remains relatively strong, although some slowdown is evident in the first quarter of
+2008 as is evident in Figure 10. This is primarily due to domestic supply-side
+constraints following the restricted supply of electricity, but also reflects some slowing
+of consumption growth.
+The macroeconomic nature of monetary policy is such that it cannot address
+problems in specific sectors. Monetary policy deals with inflation at an aggregated
+level. As is the case with any macroeconomic policy, at different points in time the
+policy will have a different impact in different industries, in some cases inadvertently
+and adversely so. One such industry is the real-estate market, in which interest rates
+plays an important role.
+- 9 -
+Figure 11 illustrates the five-year upswing in the rate of increase in residential
+property prices from late 1999 until late 2004 which was mainly driven by the
+following factors: improving household income resulting in increased levels of
+affordability, a growing middle class amongst the previously disadvantaged
+communities and interest rates which declined to levels last seen in 1981. These
+forces were reflected in very buoyant house prices: At its peak in October 2004 the
+year-on-year rate of increase in the average residential property price in the middle
+segment of the market, as measured by Absa, amounted to 35,7 per cent.
+From late 2004, the rate of increase in house prices began to decelerate
+despite interest rates which were still falling. This implies that while it is true that
+interest rates are an important variable in the real-estate market, there are other
+forces that impact on real-estate outcomes. Clearly given the levels of income in
+South Africa, affordability became an issue and there was bound to be a correction at
+some point. The year-on-year increase in house prices declined to a low 3,8 per cent
+in June 2008 in response to reduced affordability due to simultaneous increases in
+house prices and in financing costs following the increases in the repurchase rate.
+The full implementation of the National Credit Act in June 2007 also may have
+impacted on residential activity.
+Table 1 presents building statistics published by Statistics South Africa. It
+suggests that higher interest rates (from mid-2006) first lowered building plans
+passed and then reduced the buildings completed. It shows that the real value of
+buildings completed increased by 9,6 per cent in 2007, but declined by 7,4 per cent
+in the first five months of 2008 compared with the first five months of 2007. This was
+due to declines of 13,8 per cent and 4,4 per cent in the real value of residential
+- 10 -
+buildings and non-residential buildings, respectively. However, an increase of 11,2
+per cent was reported for additions and alterations during the above-mentioned
+period.
+Table 1. Real value of building plans passed and completed in larger municipalities
+Annual percentage change
+2004 2005 2006 2007 2008*
+Building plans passed
+Total............................................ 35,7 36,3 8,1 -2,7 -7,2
+Residential.......................... 42,0 29,8 2,7 -3,5 -16,9
+Non-residential.................... 23,8 53,7 31,7 -5,9 19,3
+Additions and alterations..... 29,1 41,6 5,0 1,3 -4,9
+Building plans completed
+Total............................................ 26,2 25,7 21,4 9,6 -7,4
+Residential.......................... 38,5 32,7 16,7 1,2 -13,8
+Non-residential.................... 8,2 6,7 30,6 48,6 -4,4
+Additions and alterations..... 7,9 18,1 33,2 6,8 11,2
+Source: Statistics South Africa
+*Data for 2008 is for the first five months compared to the first five months of 2007
+Of noteworthy significance however is that during the same period the building
+plans passed for the non-residential sector rose by 19,3 per cent. The sharp
+increases are mainly due to large projects passed for shopping space. Overall the
+data suggest that economic activity in the real-estate sector continued to moderate in
+the first five months of 2008. The total real value of building plans passed, which
+provides an indication of future construction activity, declined by 7,2 per cent in the
+first five months of 2008 compared with the same period a year before. This was
+largely the result of declines of 16,9 and 4,9 per cent in the real value of building
+plans passed for the residential sector and additions and alterations, respectively.
+Table 2 suggests that the non-residential property market continued to
+perform well. Office property demand strengthened with vacancy rates declining.
+- 11 -
+Industrial rentals in particular have enjoyed significant growth. Building-cost inflation
+simultaneously remains at high levels.
+Table 2. Non-residential vacancy and rental rates
+Per cent
+Vacancy rates (as at end of quarter) 1st qr 2007 1st qr 2008
+CBD office space1
+Durban................................................. 17,9 15,9
+Johannesburg...................................... 17,1 11,8
+Cape Town........................................... 6,6 4,3
+Pretoria................................................ 4,8 3,0
+Rental rates (change over four quarters)
+CBD A-grade offices (R/m2)1
+Durban................................................. 0 0
+Johannesburg...................................... 2,9 71,4
+Cape Town........................................... 16,7 28,6
+Pretoria................................................ 0 27,3
+Industrial (R/m2 for 500m2)2
+Durban................................................. 17,8 25,9
+Central Witwatersrand.......................... 24,0 26,6
+Cape Town........................................... 14,6 22,9
+Pretoria................................................ 59,5 3,2
+1) Source: South African Property Owners’ Association
+2) Source: Rode and Associates
+It is natural that in these turbulent and uncertain times, there will be
+differences of opinion as to what the appropriate stance of monetary policy should
+be. However, it is the view of the SARB that the current monetary policy stance is
+appropriate to deal with the inflationary pressures that we are facing. The lag with
+which monetary policy operates requires that monetary policy must be applied
+consistently and with patience. Needless to mention, at the minimum, every two
+months this stance is thoroughly reviewed and an appropriate decision is made.
+The final graph in the appendix (Figure 12) illustrates the increase in the
+household debt ratio and debt service ratio. These are important indicators, and
+- 12 -
+suggest a strong underlying appetite for credit among households. To some extent
+the upward movement in the debt ratio has been reinforced by positive wealth effects
+– as households’ assets, such as houses, appreciated, this boosted their
+creditworthiness and confidence.
+4. The measurement of inflation: Current issues
+Monetary policy implementation relies heavily on economic data. Many important
+data series originate from Statistics South Africa (Stats SA). There has been some
+controversy recently regarding the pending revisions to and reweighing of items in
+the consumer price index. There have been some criticism to the effect that CPIX
+inflation would have been lower, had the new weights been implemented earlier on,
+and that it would have allowed monetary policy to be less restrictive.
+However, according to Stats SA the process has not been delayed but is
+taking place according to a well-planned schedule which allows for the necessary
+checks to be performed and base-year data set to be built up. Indeed, this process
+has been explained over the years by Stats SA in various meetings and user group
+workshops, several of which were attended by SARB representatives. This
+transparency has also made it possible to do work over a lengthy period of time
+regarding the inflation target variable of choice which may be contemplated with the
+movement to the new, improved consumer price methodology.
+From the above it is clear that the SARB enjoys strong cooperation with Stats
+SA, and that the increasing transparency of Stats SA has benefitted South Africa.
+The Bank has been aware of the pending changes in the consumer price index
+- 13 -
+weights and methodology, and this has been discussed with the Bank. The Bank has
+for instance noted that in addition to the new weights being implemented, there are
+also some changes regarding the classification of certain items in the consumer price
+index; rebasing; and the replacement of interest mortgage cost with a measure of
+owners’ equivalent rent.
+Regarding the point that measured CPIX inflation would have been lower, had
+the new weights been implemented earlier on: It was already clear a long time ago
+that if recent trends in relative inflation (food price inflation high, vehicle price inflation
+low) were to continue, the “new” inflation rate (food with a lower weight, vehicles with
+a larger weight) which would be published from February 2009 would be lower than
+its predecessor. This was also mentioned by Stats SA at the beginning of July 2008
+when the new weights were released. But note well, this depends on current trends
+in relative inflation continuing. In short, it remains to be seen how much impact the
+revisions will have on the official inflation rate – although quite a number of analysts
+and the SARB have done some work on the question.
+(Incidentally, the relative rates of inflation which will be in force at the moment
+when the new consumer price inflation data is first published – in February 2009, in
+respect of the January 2009 inflation rate – could not have been known several years
+ago when it was decided to thoroughly revise and improve the consumer price index
+– which takes far more time than a “minimalist” rebasing.)
+A final important point to consider is that in a forward-looking inflation targeting
+framework for monetary policy, the most recent outcome for the official inflation rate
+- 14 -
+is just one variable among many taken into account by the Monetary Policy
+Committee in its meetings.
+5. Conclusion
+Let me finish by emphasising that judgement, exercised across many variables and
+analyses, shapes the Monetary Policy Committee’s views on the inflation outlook.
+This makes monetary policy-making difficult, but it makes it easy and truthful to say
+that one should not pre-empt a policy decision based on a short-term development in
+any single variable.
+Finally, high and volatile inflation breeds high and volatile nominal interest
+rates and economic turmoil. By contrast, spreading property ownership, growth and
+prosperity on a sustained basis requires a stable platform of low inflation. The Bank
+is committed to delivering that stable platform.
+- 15 -
+REFERENCES:
+Mboweni, T.T. (2008): Monetary Policy Inflation Targeting and Inflation Pressures:
+Bureau for Economic Research Annual Conference, Johannesburg, South Africa
+Stone, Mark R(2007): Taking stock of what we know about how inflation targeting
+has worked so far: Inflation Targeting Summit, Bank of Chile
+South African Reserve Bank (various issues), Monetary Policy Reviews
+South African Reserve Bank (various issues), Quarterly Bulletin
+Statistics South Africa, (Latest), Press statements
+------------
+- 16 -
+Appendix
+Figure 1
+Figure 2
+- 17 -
+Figure 3
+Figure 4
+- 18 -
+Figure 5
+Figure 6
+- 19 -
+Figure 7
+Figure 8
+- 19 -
+Figure 9: Monetary Policy Transmission Mechanism
+Repurchase rate
+Capital
+movements
+Other interest
+Nominal Relative Money Other
+rates Nomeixncahlange Replraitcivees andM corendeiyt assetO ptrhiecre s
+rates exchraantege prices (equity,a lsasnedt, pprriocepserty)
+Change in
+reserves
+Expenditure
+& Net Expenditure Inflation Net
+Investm&e nt
+Import
+expoNretst
+Inves
+&
+tm&ent
+expeIcntfalatitoionns we
+w
+aN
+e
+lt
+a
+eh
+l
+t
+t h
+exports
+prices
+Demand & supply
+of goods and Demand & supply Demand & supply Expenditure
+ser o v f ic g e o s ods and ex I p n e fIl c p ma t r t a p i i c o t o i e o nr s t ns of os g ef o rg o vo d ico s ed a ss n a d nd oDfe os gm ef o rg ao v n o d ic d o s e d &a ss n s a du n p d ply In E ve x s p& t e m& n e d n it t ure
+Investment
+Demand & supply
+Current Wages of goods and
+Wages Wages osfe grvoiocedss and
+Account
+InInflfaltaiotnio rnat erate
+17 March 2005 1
+- 20 -
+Figure 10
+Figure 11
+- 21 -
+Table 1. Real value of building plans passed and completed in larger municipalities
+Annual percentage change
+2004 2005 2006 2007 2008*
+Building plans passed
+Total........................................ 35,7 36,3 8,1 -2,7 -7,2
+Residential....................... 42,0 29,8 2,7 -3,5 -16,9
+Non-residential................. 23,8 53,7 31,7 -5,9 19,3
+Additions and alterations.. 29,1 41,6 5,0 1,3 -4,9
+Building plans completed
+Total........................................ 26,2 25,7 21,4 9,6 -7,4
+Residential....................... 38,5 32,7 16,7 1,2 -13,8
+Non-residential................. 8,2 6,7 30,6 48,6 -4,4
+Additions and alterations.. 7,9 18,1 33,2 6,8 11,2
+Source: Statistics South Africa
+* Data for 2008 is for the first five months compared to the first five months of 2007
+Table 2. Non-residential vacancy and rental rates
+Per cent
+Vacancy rates (as at end of quarter) 1st qr 2007 1st qr 2008
+CBD office space1
+Durban................................................. 17,9 15,9
+Johannesburg...................................... 17,1 11,8
+Cape Town........................................... 6,6 4,3
+Pretoria................................................ 4,8 3,0
+Rental rates (change over four quarters)
+CBD A-grade offices (R/m2)1
+Durban................................................. 0 0
+Johannesburg...................................... 2,9 71,4
+Cape Town........................................... 16,7 28,6
+Pretoria................................................ 0 27,3
+Industrial (R/m2 for 500m2)2
+Durban................................................. 17,8 25,9
+Central Witwatersrand.......................... 24,0 26,6
+Cape Town........................................... 14,6 22,9
+Pretoria................................................ 59,5 3,2
+1) Source: South African Property Owners’ Association
+2) Source: Rode and Associates
+- 22 -
+Figure 12

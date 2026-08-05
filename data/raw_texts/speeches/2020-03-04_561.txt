@@ -1,0 +1,190 @@
+Titulo: Public Lecture by Lesetja Kganyago,Governor of the South African Reserve Bank, at the University of the Free State 
+Data: 2020-03-04
+Palestrante (estimado): Lesetja Kganyago
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2020/561
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2020/561/Governor-Kganyago-University-of-the-Free-State---Sound-policy-is-an-imperative-for-growth-speech.pdf)
+----------------------------------------------------------------------
+
+Public lecture by Lesetja Kganyago,
+Governor of the South African Reserve Bank,
+at the University of the Free State
+Bloemfontein
+4 March 2020
+Sound policy is an imperative for growth
+Good evening, ladies and gentlemen.
+Thank you for inviting me here today to speak about the South African economy.
+I am going to focus on how we should see macroeconomic policy and its role in our economic growth
+problem.
+There is a principle in economics, known as Dornbusch’s Rule, that a crisis takes longer to happen
+than you expect, but then occurs faster than you can believe. It is the macroeconomic version of the
+old rule about how you go bankrupt: slowly, then quickly. The point is that you get a lot of bad data
+before the system breaks. Experts will warn about a crisis, and after a while, these warnings will
+become part of the background noise. But when the crisis comes, its timing will still surprise
+everyone.
+In South Africa, we are getting used to talking about a crisis. Every time the Minister of Finance
+presents a new Budget or MTBPS1 to Parliament, the press calls it a ‘make or break’ event, or the
+most important budget since the dawn of democracy. I have been answering questions about a
+Moody’s downgrade for years. We are even discussing distant possibilities, like an IMF programme,
+as if they were imminent. Actually, while our debt to GDP ratio has more than doubled over 10 years,
+it is still in the region of the emerging market average, which is 55%. Our debt has a long maturity
+profile, and is mostly denominated in rands, which minimises the risk of losing market access and
+being forced to ask the IMF for help.
+The debt problem is not where we are. The problem is where we are going.
+1 Medium Term Budget Policy Statement
+A debt-to-GDP ratio of 60% isn’t a disaster. But our fiscal deficits are over 6% of GDP, and National
+Treasury expects a deficit of nearly 7% of GDP for 2020/2021.2 At that rate of borrowing, it doesn’t
+take long to get to a dangerous level of debt. Some analysts suggest we could get to a 100% debt-
+to-GDP ratio within a few years. In that scenario, lenders might give up on us. Or we could see our
+interest bill claim even more of our scarce resources.
+But we haven’t locked in that path yet. We are suffering the consequences of past mistakes, but we
+still have time to make better decisions. It’s crucial we use this time wisely. In economic terms, our
+problems can be addressed. But there is a real danger of getting our narrative wrong, so we end up
+having the wrong discussion, we don’t solve our problems, and we learn our mistake the hard way,
+by having a crisis. This talk is my contribution to prevent that, by getting the narrative right.
+Let’s start with the macroeconomic stance. I only have responsibility for one part of the macro mix,
+which is monetary policy, but the Constitution enjoins me to consult regularly with the Minister of
+Finance, so that fiscal and monetary policies are in sync. It’s therefore important that we understand
+what fiscal policy is doing and how it interacts with monetary policy. Accordingly, we as the SARB
+have invested considerable time and effort in this task.
+By our calculations, the fiscal impulse to growth was around 0.6% last year.3 This estimate excludes
+bailouts for state-owned enterprises as well as interest payments. A positive fiscal impulse shows
+that policy is not austere. And yet overall growth was just 0.2%, suggesting that the economy
+experienced a contractionary fiscal expansion – despite the fiscal impulse, the growth rate of the
+economy slowed. This combination of looser fiscal policy and worse growth points to policy side-
+effects that cancelled out the fiscal impulse, leaving the economy poorer overall.
+What are these indirect effects? One is confidence. We can see in surveys that both household and
+business confidence is near long-term lows at the moment. People have seen taxes go up, they see
+debt rising, but they do not see this spending producing better services. It is a discouraging picture.
+Businesses are still investing, but they are not ramping up production. Households are holding off
+on major purchases. There is also evidence more highly skilled people are leaving the country.4
+2 The 2020 Budget projects 6.8% for 2020/21.
+3 This calculation is based on the methodology developed by the Hutchins Center at the Brookings
+Institution, described here: https://www.brookings.edu/interactives/hutchins-center-fiscal-impact-measure/
+4 Faulkner, D and Mosadi, T. 11 November 2019. South Africa: the economic implications of high-skill
+emigration. Available at https://www.research.hsbc.com/R/20/7gNXQNqHnC2d. See also Kaplan, D.
+3 October 2019. Packing for Perth: skills flight is a reality, and we must plan for it. Available at
+https://www.dailymaverick.co.za/article/2019-10-03-packing-for-perth-skills-flight-is-a-reality-and-we-must-
+plan-for-it/.
+A second indirect effect is through long-term interest rates. As you know, we at the SARB have
+reduced the repo rate lately, with cuts in July 2019 and January 2020. We have also tried to steer
+inflation expectations lower, towards the middle of our target range – and we have seen results, with
+all measures of inflation expectations declining. Both these changes would normally have shifted
+long-term interest rates lower. As financial analysts would say, they should have lowered the whole
+yield curve.
+Unfortunately, the yield curve has actually steepened: the gap between short rates and long rates is
+now the widest on record.5 This is the result of country risk. It is the markets sending a message that
+there is too much borrowing. It is not about tight monetary policy. As I have explained, lower short
+rates and lower inflation expectations, which are the main channels between monetary policy and
+long-term rates, have both been working to reduce rates. Indeed, if it weren’t for these factors, the
+long-term rate would likely be around 100-200 basis points higher than it is now, making our interest
+costs even more burdensome.
+As it is, interest costs are reducing the real money available for government to spend – reducing the
+real value of budgets. And these costs have also doubled in the past five years, to nearly 5% of GDP.
+Furthermore, a higher risk premium has spread through the rest of the economy, disincentivising
+investment by raising the cost of capital.
+Simply put, our fiscal situation isn’t a problem of austerity. It isn’t about tight monetary policy. It isn’t
+because growth just mysteriously slowed down. Weak growth is endogenous in our fiscal problems.
+We cannot keep doing what we’re doing and just hope that growth will recover and save us. Growth
+is low, in large part, because of unsustainable policies.
+My friend, the Finance Minister Tito Mboweni is a man who says things that are true even when they
+are unpopular. His message is that we have to reduce spending, and he is right to put this at the
+centre of our macroeconomic debate. We can all shout at him and resist his proposals, and in the
+end he will at least have the satisfaction of being proved right. Or we can follow his advice, solve this
+problem, and avoid a crisis.
+Now let me move to my core responsibility, which is monetary policy. Once again, I’d like to start
+with a major misunderstanding, one which has plagued us for many years. It is the deep-seated
+belief that there is a trade-off between growth and inflation. This conviction has exposed us to
+something economists call ‘stagflation’ – in other words, economic stagnation – low growth – and
+high inflation happening at the same time.
+5 Based on the gap between the 2021 and the 2048 instruments. The yield curve is also unusually steep
+comparing other instruments, such as the 2-year and 10-year bonds.
+At the SARB, we have often had to fight against the tide of opinions which says: let’s cut interest
+rates, we need more growth, so let’s just tolerate more inflation. The tragedy is that this instinct has
+left us looking in the wrong direction. In fact, there is a better space, one that many other countries
+have reached, where inflation is low, where interest rates are therefore lower, and where central
+banks can be more sensitive to growth precisely because inflation is better anchored. In this space,
+you don’t need to choose between growth and inflation. You can have growth without high inflation.
+Over the past few years, we at the SARB have undertaken a major strategic initiative to get closer
+to this good space. Our starting point was stagflation. In 2016, growth had slowed to 0.4%, but we
+also had inflation outside of our target range, above 6%, and core inflation was nearly 6%, having
+trended steadily higher over the preceding five years – even as the economy decelerated.
+To return inflation to target, we had raised rates, to a peak of 7% in 2016. Then, as inflation began
+moderating, we were patient, and we communicated that we would prefer to see inflation stabilise at
+around the middle of the target range. Inflation has since largely cooperated: over the past three
+years, it has averaged 4.6%. Progress has been somewhat more rapid than we had expected, in
+part due to lower food prices and an exchange rate recovery, which helped to bring down underlying
+inflation. That has created extra space to lower the repo rate. With the January MPC cut, the repo
+rate is now down to 6.25%, its lowest level since 2015.
+The key point is, we are now in a place where we have got inflation lower, and we have been able
+to cut rates without sacrificing our credibility. This is how monetary policy is meant to work: you cut
+rates from a position of strength, because you have inflation under control, not out of weakness,
+because you have given up trying.
+That’s the good news. The bad news is that monetary policy alone cannot turn this economy around.
+As yesterday’s GDP figures reminded us, the supply-side of this economy is in deep trouble. We
+experienced a technical recession in the second half of the year, and growth for 2019 as a whole
+was just 0.2%, the worst rate since the Global Financial Crisis. Analysts have focused on electricity
+shortages as an important contributor to these bad outcomes, with good reason. Unfortunately, these
+kinds of growth constraints are beyond the reach of monetary policy.
+The scope for monetary policy is also limited by the fact that inflation has stayed relatively high. In
+South Africa, we tend to think inflation has collapsed when it’s below 4.5%, but in much of the rest
+of the world, this is not considered low inflation. The median emerging market had inflation of 2.9%
+last year, compared to our 4.1%. Brazil, a country much like South Africa, but with a history of
+significantly higher inflation, was at 3.8%. Advanced economies are lower still; the United States
+(US), for example, was at 1.5% in 2019.6 If South African inflation were to moderate further, we
+would have more space to lower interest rates. But even with extremely low growth, inflation does
+not appear to be slowing further, and we see almost no risk of inflation missing our target from below,
+which has been a problem for many other countries.
+Given that inflation does not appear to be falling much further, gaining more space for interest rate
+cuts means we would need to reduce the impact of country risk. Global rates are low, and that helps.
+But South Africa borrows heavily from the world. Our current account deficit, which is equal to the
+foreign savings that come into South Africa, is close to 4% of GDP. Almost all our peer countries
+borrow less. If we try to cut rates too far, despite the country risk, investors won’t have enough reason
+to be in South Africa. They would be better off investing in less risky places. So we need to become
+less risky, to enjoy more of the benefits of low global rates. Key public-sector drivers of inflation, like
+the public sector wage bill and administered prices, could also help ease inflation. This is where
+fiscal and monetary policies need to be in sync.
+Finally, and more fundamentally, we need to appreciate the limits on what any monetary toolbox can
+do for growth. Let me give you the example of Italy. Italy is part of the euro zone. Euro area inflation
+has been very low, and the European Central Bank has made a major effort to push it back up again,
+with policies including negative interest rates and quantitative easing. But Italy has a large debt
+burden. It has problems of political and fiscal policy uncertainty.
+Over the past five years, Italy has had average growth of less than 1%. Germany, with the exact
+same monetary policy, has had average growth closer to 2%. Spain, which, like Italy, was a major
+victim of the 2011-2012 euro crisis, has averaged nearly 3%.7 Clearly, the tailwind of easy monetary
+policy was not enough to overcome the headwinds of Italy’s other challenges. Of course, South
+Africa is a different country. But what you should take away from this is that there is much more to
+growth than monetary policy, and it is still possible to stagnate with the loosest monetary policy
+imaginable.
+The fact of the matter is, South Africa has not made itself a high-growth country. We do not save
+enough to fund adequate levels of investment. We invest less than 20% of GDP; to sustain strong
+growth, we should have investment of at least 25% of GDP. We have focused on domestic
+6 This number refers to the change in the Private Consumption Expenditure deflator, the Federal Reserve’s
+targeted measure of inflation.
+7 The exact averages are 1.7% for Germany, 0.9% for Italy, and 2.9% for Spain, for the period 2015-2019.
+The data are drawn from the IMF World Economic Outlook database.
+consumption as a growth driver, on the grounds that it is the largest part of the economy. This effort
+has raised household consumption to its highest ever share of GDP.8
+But we are growing more slowly than ever. We have accumulated debt faster than almost all our
+peer countries, on the grounds that fiscal policy has to be supportive of growth. But growth stimulus
+works for smoothing out business cycles; it’s not a long-run growth strategy. Long-run growth is
+about savings, investment and exports. It is about raising productivity. We in South Africa have
+deliberately run down savings, focused on consumption, and pulled in imports. Our productivity
+growth is exceptionally low, perhaps negative. We should therefore not be surprised that growth has
+stagnated.
+Ladies and gentlemen, to conclude: we in South Africa have got to reform. It will involve some pain,
+but the longer we delay, the more painful it will be. We can tell ourselves comforting stories about
+how there are pain-free alternatives, but these narratives are misleading. We have spent a lot of time
+searching for easy options. These schemes don’t stand up to scrutiny.
+Here’s what we can really do about mitigating the pain of necessary reform.
+First, we can take the edge off with the interest rate tool. Provided we have lower inflation, and if
+country risk comes down, we can keep rates low, and maybe go lower.
+Second, we can devise a credible plan for making things better again. In macroeconomics, as in so
+many things, it’s not about where you are, so much as where you’re going.
+The story of the last few years has been that South Africa is drifting into a crisis. This has been the
+South African story before. We have, in the past, been able to change the narrative. South Africa
+has many friends, and there is a lot of money out there desperate for good growth economies to
+invest in. We can be one of those winning countries again.
+Thank you.
+8 In the third quarter of 2019, household consumption reached 62.1% of GDP (using real, seasonally
+adjusted and annualised data). Over the past 20 years, the average has been slightly below 60% of GDP.
+Investment and government consumption are also above long-run averages, while net exports are lower.

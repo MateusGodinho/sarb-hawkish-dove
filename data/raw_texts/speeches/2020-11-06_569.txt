@@ -1,0 +1,113 @@
+Titulo: Opening remarks by Ms Fundi Tshazibana, Deputy Governor of the South African Reserve Bank at the Market Practitioners Group Forum  6 November 2020 
+Data: 2020-11-06
+Palestrante (estimado): Fundi Tshazibana
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2020/569
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2020/569/Opening-Remarks-by-MS-Fundi-Tshazibana-on-the-Reform-of-Benchmark-Interest-Rates.pdf)
+----------------------------------------------------------------------
+
+Opening remarks by Ms Fundi Tshazibana, Deputy Governor of the South
+African Reserve Bank at the Market Practitioners Group Forum
+6 November 2020
+Ladies and gentlemen, good morning and welcome to the Market Practitioners Group
+(MPG) Forum.
+The MPG is a joint public and private sector body that was established by the South
+African Reserve Bank (SARB) to facilitate decision-making on matters relating to the
+reform of interest rate benchmarks in our country. Since its establishment in October
+2018, the MPG has had various interactions with industry stakeholders and has set up
+substructures to craft the design of alternative interest rates in South Africa. The MPG
+also leads South Africa’s transition to a new and more robust interest rate
+dispensation. Importantly, the work of the MPG and its substructures, which I will
+allude to and contextualise shortly, forms part of a global agenda to strengthen existing
+interest rate benchmarks and identify alternative near risk-free rates.
+Let me now briefly provide some context for those who may not be aware of the origins
+of the work on the reform of interest rates. In the major financial markets, reference
+rates, such as the London Interbank Offered Rate (Libor) and Euro Interbank Offered
+Rate (Euribor), are widely used as benchmarks for a large volume and broad range of
+financial products and contracts. These rates encountered episodes of attempted
+market manipulation and false reporting. This, together with the decline in liquidity in
+interbank unsecured funding markets after the global financial crisis (GFC),
+undermined confidence in the reliability and robustness of existing interbank
+benchmark interest rates.
+Page 1 of 4
+These developments meant that the lack of integrity in the determination processes of
+some critical reference rates represented a serious source of vulnerability and
+systemic risk. As such, the Financial Stability Board undertook a fundamental review
+of major interest rate benchmarks.
+In line with global developments, the SARB established the MPG following the
+publication of the ‘Consultation paper on interest rate benchmarks in South Africa’.
+The consultation paper, among other things, considered whether there was a case for
+the reform of the Johannesburg Interbank Average Rate (Jibar) and explored the
+development of new benchmarks. The case for reforming the Jibar, which is the most
+widely used reference rate in South Africa and is therefore of systemic importance,
+was informed by a number of concerns, including that:
+i. the Jibar is currently not underpinned by a large number transactions, which is a
+desirable and an essential characteristic of a benchmark interest rate according
+to the principles for financial benchmarks developed by the International
+Organization of Securities Commissions (IOSCO);
+ii. market activity in three-month negotiable certificates of deposit (NCDs), which
+forms the basis of the most widely referenced three-month Jibar, has declined
+both in nominal terms and as a share of wholesale bank funding − currently, three-
+month NCD volumes make up less than 5% of NCD issuance; and
+iii. the current calculation methodology for the Jibar is vulnerable to potential
+manipulation.
+In addition to strengthening benchmarks to guard against potential malpractice, the
+SARB has also been cognisant of the role interest rate benchmarks play insofar as
+they serve as reference rates for a large number of financial contracts. This implies
+that they have a key role to play in the transmission of monetary policy decisions and
+the cost of (and remuneration of) capital in the broader economy.
+While the SARB was initially at the forefront of the development of proposals on how
+this reform could be achieved, the mandate for determining a market-preferred choice
+of a reference rate to replace the Jibar was given to the MPG. The MPG was then
+organised in such a way that it comprises users of reference rates from different
+Page 2 of 4
+pockets of the market, including members of the savings industry, corporate
+treasuries, the banking sector and the official sector.
+The MPG established five work streams, focusing on the different aspects of the
+project. These work streams include:
+i. the Unsecured Reference Rate Work Stream, chaired by Mr Deon Raju from
+Absa;
+ii. the Risk-Free Reference Rate Work Stream, chaired by Mr Andries du Toit from
+FirstRand;
+iii. the Data Collection and Infrastructure Work Stream, chaired by Mr Ruan Roux
+from the SARB;
+iv. the Transition Work Stream, chaired by Mr Paul Burgoyne from Standard Bank;
+v. the Governance Work Stream, chaired by Ms Elmarie Hamman from the
+Financial Sector Conduct Authority; and recently
+vi. the Communications Work Stream, chaired by Mr Zafar Parker from the SARB.
+Collectively, the effort of these work streams and the Financial Markets Department of
+the SARB has culminated in an important body of work that will underpin South Africa’s
+transition to alternative reference rates. We see this transition process as one which
+entails multiple and carefully sequenced steps, beginning with the stabilisation of the
+Jibar to secure the transition period. This is followed by the establishment of new rates
+and foundations for new markets, and then by the adoption of those rates before full
+transition takes place.
+Thus far, the work of the MPG has largely focused on strengthening the current Jibar
+framework in line with the first step, as well as on finding new alternatives. This work
+has now been completed and the project is proceeding to the next phase which entails
+thinking about the most suitable transition approach to be adopted by South Africa. As
+its work is advancing, the MPG intends to keep all stakeholders informed of its
+progress and the next steps, and this is why we are here today. Thus, the purpose of
+today’s MPG Forum is twofold:
+Page 3 of 4
+ first, to report on and inform stakeholders of key decisions, considerations and
+recommendations made by the MPG in relation to the reform of the Jibar and the
+choice of an alternative overnight reference rate for South Africa; and
+ second, to outline the envisioned transition process to an overnight rate as a key
+reference rate for the South African financial market.
+As we engage in this conversation, I wish to reiterate the position the SARB has taken
+regarding the future of the Jibar. Earlier, I alluded to deficiencies in the current Jibar
+framework, which have led to the SARB taking a decision to reform the Jibar. The
+Unsecured Reference Rate Work Stream and later the Jibar Task Team have done
+commendable work in this regard, to ensure that the Jibar framework is strengthened
+to enhance its robustness. However, changes to the Jibar framework should not be
+understood as implying that the Jibar will continue indefinitely.
+The SARB, as the benchmark administrator of the Jibar, has decided that the Jibar will
+cease at some future point. The enhanced framework will remain in place for a limited
+time, after which South Africa will transition to alternative reference rates. In the new
+interest rate dispensation, we expect that the key reference rate will be an overnight
+near risk-free rate, which may or may not co-exist alongside a risk-based term rate.
+At this point I would like to hand over to my colleagues to share with you the decisions
+that have been taken thus far, their motivations as well as the trade-offs we have had
+to manage leading up to those decisions being taken.
+Thank you.
+Page 4 of 4

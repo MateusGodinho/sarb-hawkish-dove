@@ -1,0 +1,457 @@
+Titulo: Speech by Governor Lesetja Kganyago at the International Monetary Fund’s 2023 Michel Camdessus Central Banking Lecture
+Data: 2023-07-11
+Palestrante (estimado): Governor Lesetja Kganyago
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2023/Speech-by-Governor-Lesetja-Kganyago-at-the-International-Monetary-Funds-2023-Michel-Camdessus-Central-anking
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2023/gov-kganyago/Governor%20Lesetja%20Kganyago_Michel%20Camdessus%20lecture_11%20July%202023.pdf)
+----------------------------------------------------------------------
+
+2023 Michel Camdessus Central Banking Lecture by Lesetja Kganyago,
+Governor of the South African Reserve Bank,
+at the International Monetary Fund,
+Washington, DC, 11 July 2023
+The contribution of capital flows to sustainable growth in emerging markets
+Thank you for the honour of inviting me to give this lecture. Considering the people
+who have previously spoken at this forum, considering the stature of the audience
+here today, and also considering the legacy of Michel Camdessus, who led the
+International Monetary Fund (IMF) for so long, it is a great privilege for me to be here.
+My subject today will be the role of capital flows in emerging market growth.
+I want to start with a problem that has often bothered me. As the South African central
+bank Governor, I regularly meet with global investors to discuss economic conditions
+and policy settings in my country. The fundamental goal of these engagements is to
+encourage investment. Then I return from these meetings, and we have policy
+sessions where staff want to talk about the dangers of capital flows. But the investors
+I just met are the people who are responsible for the capital flowing. So, I wonder –
+which part of my time am I wasting? Do we want these capital flows or not?
+This is a global discussion, and one that has evolved significantly over my time working
+in macroeconomic policy.
+Twenty or 30 years ago, the mainstream view was that financial globalisation was
+good. Global markets could provide more financing, at lower rates, than countries
+could achieve by relying on their own resources. They would allow for better risk
+1
+sharing, and they would create better incentives to get policy right. The standard policy
+recommendation was that controls on capital flows should therefore be liberalised, and
+where they were being applied, this was probably to cover for some other policy error.1
+Nowadays, the mainstream view has shifted. The IMF encourages policymakers to
+keep capital flow measures in their toolkits, both for pre-emptive purposes and to
+address capital flow surges.2 The guidance is nuanced, and there is still appreciation
+for the benefits of capital flows – but as Christine Lagarde put it a few years back,
+“[This] is not your grandmother’s IMF” 3, and there has clearly been a big shift in the
+policy advice.4
+Outside of the IMF, attitudes to capital flows have been more bluntly critical. One part
+of this is unhappiness with spillovers from United States monetary policy, sometimes
+when the stance is loose, as in the ‘currency wars’ era after the global financial crisis,
+and sometimes when financial conditions tighten, as they did in the 2013 taper tantrum
+and as they have been doing during the current period. Another is the geopolitical
+tensions that have made ‘deglobalisation’ a buzzword. There have also been shifts in
+the realm of ideas, with even some mainstream economists condemning most forms
+of capital flows. For instance, in October 2022, Arvind Subramanian published an op-
+ed arguing that, “capitalism must be saved from its financial rentiers, and financial
+deglobalisation is a good place to start”.5
+Altogether, the reputation of capital flows is at a low ebb.
+1 An interesting retrospective discussion on this may be found in David Lubin’s interview with Larry
+Summers, titled, ‘Thinking aloud on emerging markets: is the international monetary system bad for
+EM?’, 2 August 2022.
+2 ‘Review of the institutional view on the liberalization and management of capital flows’, IMF Policy
+Paper No.2022/008, March 2022. Available at: https://www.imf.org/en/Publications/Policy-
+Papers/Issues/2022/03/29/Review-of-The-Institutional-View-on-The-Liberalization-and-Management-
+of-Capital-Flows-515883
+3 Christine Lagarde, Opening address to the Conference on ‘Challenges for Securing Growth and
+Shared Prosperity in Latin America’, 5 December 2014. Available at:
+https://www.imf.org/en/News/Articles/2015/09/28/04/53/sp120514
+4 Note the title of an IMF blog post on this advice: Tobias Adrian et al., ‘Why the IMF is updating its
+view on capital flows’, 30 March 2022. Available at:
+https://www.imf.org/en/Blogs/Articles/2022/03/30/blog033122-why-the-imf-is-updating-its-view-on-
+capital-flows
+5 Arvind Subramanian, ‘The case for structural financial deglobalisation’, 28 October 2022. Available
+at: https://www.project-syndicate.org/commentary/financial-deglobalization-emerging-developing-
+economies-federal-reserve-by-arvind-subramanian-2022-10
+2
+We should, nonetheless, respect the enormous opportunity presented by access to a
+global financial system. Indeed, taking a blue-sky approach, capital flows look much
+too small.
+There are studies of optimal current account deficits for small economies, and they
+yield extraordinary estimates, for instance that it would be optimal to run annual current
+account deficits up to 60% of gross domestic product (GDP).6
+Relatedly, if you think about it, it is strange that interest rates in developing countries
+are not orders of magnitude above those in rich countries. Even in middle-income
+countries, capital stocks are typically less than a third of those in the United States, on
+a per capita basis.7 It would make sense to pay radically higher rates to attract more
+investment, which would then raise the productivity of labour.8 Yet real rates are not
+so far removed from advanced country levels: over the past two decades, real policy
+rates in rich countries have averaged about -1%, compared to just under +1%, on
+average, for middle-income countries.9
+Obviously, these observations are not policy recommendations. They do not pass
+reality checks. But they can help us approach the question of capital flows and financial
+integration with a more open mind.
+Considering the empirical cases, critics of capital flows often point to the successes of
+Asian countries, most recently China. These fast-growing economies were typically
+6 Sebastian Edwards, ‘Does the current account deficit matter?’, in Sebastian Edwards and Jeffrey A
+Frankel (eds), Preventing currency crises in emerging markets, Chicago, IL: University of Chicago
+Press, January 2002. Available at: https://www.nber.org/system/files/chapters/c10633/c10633.pdf
+7 For 2019, a simple average of the capital stock per capita was 31.7% for a sample of middle-income
+emerging markets, as compared to the United States. The sample comprises Brazil (28.61%), China
+(33.64%), Indonesia (30.63%), India (11.76%), Turkey (55.06%), South Africa (23.01%) and Mexico
+(39.37%). These data are sourced from the Penn World Tables and refer to investment as a GDP
+concept, not financial wealth.
+8 This specific point was raised recently in a blog post by John Cochrane, ‘Bob Lucas and his papers’,
+17 May 2023. Available at: https://johnhcochrane.blogspot.com/2023/05/bob-lucas-and-his-
+papers.html
+9 For the period 2003-2023, using policy rates less annual inflation rates from the IMF’s World
+Economic Outlook, the US real policy rate is -1.17%. The UK is -1.0%, while the euro area is at -
+0.87%. An average of Brazil, China, India, Indonesia, Mexico, South Africa and Turkey is 0.74%, with
+a high of 5.2% (Brazil) and a low of -3.36% (Turkey). South Africa is at 1.45%.
+3
+capital exporters, despite starting off poorer and with smaller capital stocks than the
+economies in which they invested their surplus savings. These countries also suffered
+crises when they opened to financial flows in the 1990s, disrupting their remarkable
+development trajectories.
+Where are the poster children for proponents of capital flows?
+There are countries that have enviable growth records, and which have relied for many
+years on capital inflows. These include the United States, Canada, New Zealand, and
+perhaps the clearest case of all, Australia.10 As one study from the Reserve Bank of
+Australia pointed out, “Sizeable current account deficits have been recorded in
+Australia in almost every decade for at least 150 years”.11 These large and sustained
+capital inflows have allowed for a higher level of investment than could have been
+achieved with only local savings. And the success of the economic model is hard to
+dispute. Australia’s living standards have ranked among the highest in the world since
+the middle of the 19th century, and towards the start of the 20th century they were
+probably the highest of any country.12 It is highly unlikely that Australia would have
+performed better in the absence of capital flows.
+Of course, we cannot read Australian economic history as one long vindication of free
+capital movements. Both the depression of the 1890s and the economic crisis of the
+1920s had symptoms familiar from modern emerging market crises, including balance
+of payments pressures and foreign debt stress.
+We also cannot say Australia has always been happy with large current account
+deficits. In the late 1970s and early 1980s, these deficits were a major concern for
+policymakers, especially because they were being driven by fiscal policy and were
+draining foreign exchange reserves.
+10 For an analytical discussion of capital flows out of Britain in the late 19th and early 20th century, see
+Michael A Clemens and Jeffrey G Williamson, ‘Where did foreign capital go? Fundamentals, failures
+and the Lucas Paradox, 1870-1913’, NBER Working Paper No. 8028, December 2000. Available at:
+https://www.nber.org/system/files/working_papers/w8028/w8028.pdf
+11 Rochelle Belkar, Lynne Cockerell and Christopher Kent, ‘Current account deficits: the Australian
+debate’, Research Discussion Paper No. 2007-02, March 2007. Available at:
+https://www.rba.gov.au/publications/rdp/2007/pdf/rdp2007-02.pdf
+12 Ian W McLean, Why Australia prospered, Princeton, NJ: Princeton University Press, 2013.
+4
+However, significant current account deficits persisted even after the floating of the
+Australian dollar and fiscal consolidation.13 This gave rise to the so-called ‘consenting
+adults’ thesis, that current account deficits produced by private sector decisions could
+be optimal and sustainable, and policymakers would not have to worry about them.
+Reflecting on other country experiences, the simple fact that deficits were privately
+contracted seems insufficient. We know private sector flows can be dangerous: clear
+recent examples are Spain and Ireland’s experiences during the euro area crisis. It
+therefore seems relevant that foreign investors in Australia were willing to accumulate
+claims denominated in Australian dollars, and that the Australian dollar floated.
+Another crucial fact appears to be a bedrock of investor confidence, based on credible
+macroeconomic policies – including a reasonable degree of price stability – and a
+resilient financial system.
+One also senses some deeper mechanism here, which ensured capital was
+channelled into productive assets that generated good returns. Of course, this reflects
+more than the resource endowment, as we could name many countries with ample
+natural resources which have not absorbed capital flows productively. There has also
+been something else going on, since at least the 19th century, that has made capital
+in Australia productive, whereas that same capital deployed elsewhere would have
+produced boom-bust cycles and default.
+Part of this is a story about the quality of institutions as well as the human capital
+available and empowered to run them.14 Another theme is the development of local
+capital and financial markets, and their capacity to turn capital to productive purposes.
+As I will discuss below, these capacities intersect with policy choices, with capital flows
+supporting or weakening the productive potential of an economy.
+13 At the end of the 1980s, Australia had a fiscal surplus of 1% of GDP and a current account deficit of
+6% of GDP.
+14 The classic comparison is Argentina and Australia; see for instance Alexis Esposto and Fernando
+Tohmé, Drifting apart: the divergent development paths of Argentina and Australia. Germany: VDM
+Verlag: Saarbrücken, 2009.
+5
+On the whole, the Australian case teaches us that a country can absorb large capital
+flows over very long periods of time, and use these to support high levels of prosperity.
+This contrasts starkly with the Asian examples, where a range of countries likewise
+achieved impressive gains in living standards, but mostly did so without foreign capital.
+Most of the world’s countries would be happy if they could be Asian tigers, and ecstatic
+if they could be Australia. But many of us have a long way to go. What attitude to
+capital flows would help us on our way?
+In South Africa, we have long favoured the Australian option.15
+Given ample investment opportunities and limited domestic savings, growth and
+capital inflows have typically been correlated. In 1985, when the apartheid government
+was hit with sanctions, access to capital flows was largely cut off.16 Of course, this was
+not a developmental policy for South Africa; it was a punishment. When sanctions were
+lifted at the end of apartheid, we looked forward to restoring access to global financial
+markets. We also appreciated that the end of sanctions did not mean the taps were
+open. Foreign investors all loved South Africa, but they would not invest based on
+warm feelings. And there was going to be a limit on how much investment we could
+attract, even with good policies.
+With a low domestic savings rate, if the public and private sectors were both borrowing
+heavily, this meant we were going to hit a balance of payments constraint. Specifically,
+we anticipated an unsustainable current account deficit, which would weaken the rand
+and drive up inflation. Interest rates would then have to rise to rebalance savings and
+investment, slowing growth. This was the core problem statement of the
+macroeconomic strategy adopted by the Mandela government in 1996. The goal was
+to attract more foreign savings, apply some fiscal discipline to improve the country’s
+15 South African balance of payments data are available from 1960. The average current account
+balance for 1960-2021 is -1.05% of GDP. The broad pattern, however, is for substantial deficits during
+the boom phases (the 1960s and early 1970s, and the 2000s) and minimal deficits or surpluses
+during periods of economic stagnation.
+16 In the four years before 1985, the current account recorded an average deficit of 3.02% of GDP. In
+the four years from 1985, the current account recorded an average surplus of 3.75% of GDP.
+6
+investment profile and reduce government’s demands for savings, thereby permitting
+lower interest rates to allow more private sector investment.
+In hindsight, I would say the strategy was mostly successful.
+We experienced some of the downsides of openness to capital flows. These included
+a huge depreciation of the rand in 2001, which only loosely reflected fundamentals, as
+well as a phase of currency strength during the mid-2000s, which may have affected
+export competitiveness. The stronger currency and low interest rates also fed dramatic
+house price appreciation and risky mortgage growth ‒ a dynamic arrested by the 2008
+crisis.
+Despite those blemishes, it was still a success. Indeed, as time has gone by, it looks
+more and more like a golden age of South African macroeconomic policy. Living
+standards were rising and growth was outpacing the global average.17 Our investment
+rate rose from around 15% of GDP at the end of apartheid,18 to around 20% of GDP,
+even as the domestic savings rate remained low at about 15%. This naturally entailed
+significant net capital inflows, much of it through portfolio flows rather than foreign
+direct investment. These we de-risked, in large part, by committing to a free-floating
+currency and minimising foreign currency borrowing across the economy.
+It seems extremely unlikely that we could have had better results by closing ourselves
+to global capital. What causes me great concern, by contrast, is what happened next.
+The 15 years from 2009 onwards are almost a mirror image of the first 14 years of
+democracy. From 1994 onwards, we achieved steadily high investment and growth,
+interrupted by temporary setbacks; from 2009 onwards, we have had steadily lower
+investment and growth, punctuated by incomplete recoveries. The IMF’s projections
+have 2023 investment at 16% of GDP ‒ far below the ratio needed for adequate
+17 For a fuller discussion of macroeconomic performance in this period, see Lesetja Kganyago,
+Address at the Centre for Education in Economics (CEEF) Africa, ‘Reflections of macroeconomics
+policy since 1995: from NICE to VICE – and back again?’, 28 September 2022. Available at:
+https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-
+governors/2022/An%20address%20by%20Lesetja%20Kganyago%20Governor%20of%20the%20SA
+RB%20at%20CEEF%20Africa%20event%2028%20September%202022.pdf
+18 According to IMF World Economic Outlook data, it was 14.16% in 1993 and 16.47% in 1994.
+7
+growth. And yet even this level of investment is posing a serious funding challenge
+because the domestic savings rate is just 13% of GDP ‒ the lowest level since at least
+1980 ‒ and the investment case for external investors has weakened significantly.
+Growth is projected at a mere 0.1%.
+This is where the capital flow story comes in.
+For much of the decade after the global financial crisis to date, South Africa had ample
+access to foreign capital, helped by ultra-low interest rates in major economies. The
+average current account deficit, until the onset of COVID-19, was over 3% of GDP.
+The financing for this deficit mainly came from portfolio flows, as it did before the global
+financial crisis. However, the composition of investment for this period shifted markedly
+towards government debt, and away from private sector assets such as equities.
+During the boom of the 2000s, government and public corporations absorbed just 16%
+of portfolio flows. In the next decade, this rose to 78%.19
+Recalling the Australian case discussed earlier, what we see is that South Africa
+moved away from a ‘consenting adults’ arrangement, where a stable fiscal position
+and a current account deficit were driven by private sector decisions, to a classic twin-
+deficit situation.
+This had three destabilising implications.
+First, the volumes of money available to South Africa after the global financial crisis
+undermined good policymaking. In the 1990s and 2000s financial markets helped with
+fiscal discipline; in the 2010s they enabled excess. The underlying problems were
+homegrown, but the ready availability of foreign savings after the global financial crisis
+made it harder to win policy battles. Investor scrutiny is good for policy: it obliges
+everyone to double-check the figures and cut back on things you do not really need.
+19 For the period 2002Q1 to 2008Q4, portfolio flows averaged 1.27% of GDP, of which general
+government comprised 0.197 percentage points (pp), public corporations 0.004pp and all other flows
+1.066pp. From 2010Q1 to 2019Q4, total portfolio flows averaged 2.9% of GDP, comprising 2.02pp for
+government, 0.22pp for public corporations and 0.65pp for all other flows.
+8
+But when you know the money is coming anyway, it becomes much harder to insist on
+policy rigour.
+Second, these flows permitted the build-up of a large sovereign debt position. Debt,
+famously, is a troublesome form of financing because the lender shares relatively little
+risk with the borrower – unlike, say equity investments, where unsuccessful projects
+directly affect share prices and dividends.20 Sovereign debt is particularly problematic,
+because declining government creditworthiness also spills over to the credit profiles
+of firms and households. With time, it leads to higher taxes and lower public sector
+investment to accommodate higher interest payments. An unsustainable fiscal position
+can therefore become a drag on the whole economy.
+Third, capital flows eroded potential growth. We often talk about the importance of
+institutions to growth, but debt can be used to weaken institutions by funding systems
+of patronage and corruption, driving out skilled and diligent public servants. Many
+private sector firms will also follow the money, redirecting their efforts from productive
+enterprise. Through these two channels, capital flows helped subvert the market
+incentives and competent bureaucracies that power modern economies. Our macro
+framework delivered resilience through a floating exchange rate, low foreign currency
+debt exposures, and careful regulation of the financial sector. But resilience is not
+enough; if you are going to absorb capital flows, you also need to get allocation right.
+Huge non-resident flows into public sector debt can actually make this more difficult.
+Today, we face the consequences. With too much borrowing, not much domestic
+saving and limited non-resident appetite for our assets, interest rates must rise to
+restore balance. The alternative is an inflationary balance of payments problem, which
+is plainly against the South African Reserve Bank’s mandate. This does not make the
+Reserve Bank popular, but facts are facts. We have gotten ourselves back in the trap
+we escaped in the mid-1990s.
+20 For a discussion, see Adair Turner, Between debt and the devil, Princeton, NJ: Princeton University
+Press, 2016.
+9
+Reflecting on this whole experience, it is easy to sympathise with Daron Acemoglu’s
+argument in a recent Project Syndicate piece, that South Africa shows how capital
+flows, instead of promoting good government and development, can ‘facilitate’ a
+“hollowing out [of a] country’s economy and institutions…”.21
+Nonetheless, I do not think we should jump from diagnosing bad consequences to
+urging a prohibitionist approach to capital flows, and giving up on the benefits. I would
+much prefer a risk management approach. A source of inspiration here is the airline
+industry, where regulators and companies work together to fly as many planes as
+possible, as safely as possible, rather than responding to the occasional accident by
+adopting a zero-tolerance attitude to risk, which would sharply reduce the number of
+flights and blow up costs.22 I think this is the right way to approach capital flows.
+A great strength of the IMF’s ‘institutional view’ is that it acknowledges the benefits of
+capital flows upfront and then moves on to risk control,23 using a toolkit of capital flow
+and macroprudential measures.24
+A shortcoming in using these tools, however, is their weakness where the problematic
+flows spill over into the public sector. And these cases are hardly outliers. Capital flows
+into sovereign debt have been a major source of crises since at least the 19th
+21 Daron Acemoglu, ‘The great debt cleanup’, 23 June 2020. Available at: https://www.project-
+syndicate.org/commentary/plan-to-navigate-emerging-market-debts-by-daron-acemoglu-2020-06. The
+full quote is as follows: “Far from checking autocrats, international finance has been facilitating them.
+For example, in South Africa between 2009 and 2018, foreign funds continued pouring in even after it
+was obvious that then-President Jacob Zuma’s kleptocratic government was hollowing out the
+country’s economy and institutions. When Zuma was finally kicked out of power, it was because his
+own party, the African National Congress, took steps to remove him. The whip of international markets
+had little to do with it.”
+22 Jón Daníelsson, The illusion of control, New Haven and London: Yale University Press, 2022. See
+for instance p. 252: “What is lacking [in financial regulation] is risk culture. The financial authorities
+could do well by learning from their counterparts in other fields, like aviation. The airline industry is
+regulated with a view to simultaneously maximise the benefits to society and keep risk under control,
+and we see the outcome. The cost of flying is steadily falling while safety gets better every year. The
+central banks and regulators need such a risk culture.”
+23 For instance, see the comment: “The key challenge is macro risk management" in Tobias Adrian,
+‘Policy responses to capital flows’, 11 October 2018. Available at:
+https://www.imf.org/en/News/Articles/2018/11/15/sp101118-policy-responses-to-capital-flows
+24 For an IMF taxonomy of capital flow measures (and other comparable measures), see
+https://www.imf.org/-/media/Files/Data/2020/update-of-imf-taxonomy-of-capital-flow-management-
+measures.ashx
+10
+century.25 The ongoing African ‘funding squeeze’ is fundamentally about government
+borrowing.26 Nonetheless, the IMF’s 2022 review paper on capital flow measures says
+relatively little about fiscal policy. The word ‘fiscal’ appears only nine times in that
+document, compared to 119 instances of the word ‘bank’. The policy advice is simply
+that if fiscal policy is the problem, it should be adjusted.27
+Fair enough, but what if that does not happen? Do we have additional policy tools to
+manage these risks?
+One option is to adjust the regulatory treatment for government bond holdings, for
+instance by obliging banks to hold capital against them instead of treating them as
+riskless. But this would not directly affect non-resident investment decisions.
+A second tool is developing a proper sovereign bankruptcy procedure.28 This would
+give lenders stronger incentives to scrutinise borrowers. Where debts become
+unsustainable, countries would also have a better option than prolonged debt distress
+which delivers restructuring only after years of misery.29 Still, I have limited faith in the
+25 Consider, for instance, this summary: “Sovereign debt defaults and renegotiations have been the
+bread and butter of Latin American countries since the first defaults in the 1820s. During the first
+period of financial globalization (1820-1931) there are sixty seven defaults across all countries from
+the richest, like Argentina, to the poorest, like Bolivia.” Graciella Laura Kaminsky and Pablo Vega-
+García, ‘Varieties of sovereign crises: Latin America, 1830-1921’, April 2014. Available at:
+https://www.nber.org/system/files/working_papers/w20042/revisions/w20042.rev0.pdf
+26 The title of the IMF’s April 2023 Regional Economic Outlook for Sub-Saharan Africa is ‘The big
+funding squeeze’. Available at:
+https://www.imf.org/en/Publications/REO/SSA/Issues/2023/04/14/regional-economic-outlook-for-sub-
+saharan-africa-april-2023
+27 The nine references to ‘fiscal’ contrast with 119 instances of ‘bank’; 33 of ‘house’, ‘housing’ or
+‘household’; and 28 for ‘corporate’ or ‘corporations’. Of the fiscal instances, three are versions of
+advice to ‘adjust fiscal policy’. There is one mention of fiscal revenues as a comparator for the size of
+banks’ external assets; one comment on capital flow measures generating fiscal revenue; and one
+reference to fiscal policy as an incentive, among others, for locals to borrow in foreign exchange.
+There is one discussion of themes which would count as macro-critical and therefore relevant for IMF
+surveillance, with fiscal policy included on that list. There is one mention in the context of the different
+tools in the integrated policy framework. The last use of ‘fiscal’ is in the reference section. Similarly,
+work done by the IMF in 2011 on the capital flows toolkit has six references to ‘fiscal’ and 139 to ‘bank’
+– see Jonathan Ostry et al., ‘Managing capital inflows: what tools to use?’, IMF Staff Discussion Note.
+11/06, 5 April 2011. Available at: https://www.imf.org/external/pubs/ft/sdn/2011/sdn1106.pdf
+28 This point was made strongly by IMF leadership over two decades ago – see Anne Krueger, ‘The
+evolution of emerging market capital flows: why we need to look again at sovereign debt
+restructuring’, 21 January 2002. The design of the mechanism might have been suboptimal, but the
+issue is still here with us. Available at:
+https://www.imf.org/en/News/Articles/2015/09/28/04/53/sp012102
+29 David Malpass, ‘Remarks by World Bank Group President David Malpass at the Breaking the
+Impasse on Global Debt Restructurings Conference’, 26 April 2023. Available at:
+11
+ability of lenders to exercise adequate caution in the boom phase of the cycle. And
+where government debt is an asset held throughout society, default is probably a cure
+worse than the disease.
+A more benign tool is foreign exchange reserves. Standard accounts traditionally
+emphasise the role of reserves in meeting balance of payment needs,30 especially in
+the context of inflexible exchange rate arrangements. But foreign exchange reserves
+are arguably more important for risk management, especially now that floating
+exchange rates are normal practice. A new wave of research is now also making direct
+connections between foreign exchange reserves and sovereign debt vulnerability.31
+With floating exchange rates and reserves financed in local currency, negative shocks
+to the country generate positive valuation effects on foreign exchange reserves.32
+Central banks can therefore accumulate reserves to hedge the public sector balance
+sheet against adverse outcomes, driven by factors that include unsustainable fiscal
+policies. Furthermore, central bank independence provides a technology for protecting
+these assets from spending demands.33
+This reserve accumulation approach may well work better than trying to restrain
+surges with capital flow measures, in a general sense, with reserve growth during
+inflow phases and the option to release reserves during outflows.34 And it is a
+particularly useful option where flows are going to government debt and regular capital
+flow measures are not viable.
+https://www.worldbank.org/en/news/speech/2023/04/26/malpass-president-breaking-impasse-global-
+debt-restructurings-conference
+30 See, for instance, the discussion by the IMF, ‘Clarifying the concept of reserve assets and reserve
+currency’, BOPCOM‒15/14, 27‒29 October 2015. Available at:
+https://www.imf.org/external/pubs/ft/bop/2015/pdf/15-14.pdf
+31 Laura Alfaro and Fabio Kanczuk, ‘Debt redemption and reserve accumulation’, IMF Economic
+Review 67(2), June 2019. Available at:
+https://www.hbs.edu/ris/Publication%20Files/redempt180504_6.21.18_da35aab6-70e6-4893-b94c-
+94ea6ac519c1.pdf
+32 César Sosa-Padilla and Federico Sturzenegger, ‘Does it matter how central banks accumulate
+reserves? Evidence from sovereign spreads’, NBER Working Paper No. 28973, June 2021. Available
+at: https://www.nber.org/papers/w28973
+33 Agustin Samano ‘International reserves and central bank independence’, Policy Research Working
+Paper No. 9832, 2021. Available at: https://openknowledge.worldbank.org/handle/10986/36483
+34 Olivier Jeanne and Damiano Sandri, ‘Global financial cycle and liquidity management’, BIS Working
+Papers No. 1069, January 2023. Available at: https://www.bis.org/publ/work1069.pdf
+12
+In addition to these tools, we should consider our macro policy narratives. For a start,
+we need to rediscover the dangers of government borrowing. Responsible
+policymakers never forget that fiscal debt is risky. But the nature of policy discussions
+is that while many claims are valid, some points get more emphasis than others. In the
+past decade, one such point was that fiscal consolidation hurts growth and is therefore
+self-defeating. Another was that higher government debt levels were safer than
+previously thought. I have personally observed these claims justify sustained fiscal
+slippage in South Africa. If we had felt the urgency of debt sustainability more keenly,
+we would have had a wiser conversation. We need a more responsible set of
+narratives around fiscal risks.35
+We also need to think more clearly about allocative efficiency. One of the strongest
+lessons I have learnt as a policymaker is that poor countries are poor not simply
+because they do not have money, but because they do not use money effectively. Too
+often, there is a tendency to look at a problem, cost out a solution and focus on raising
+the cash. Implementation is just a black box. But good policymaking starts with
+implementation and the financing need should reflect what can be used efficiently.
+Indeed, one might cast the volatile and often damaging history of capital flows as a
+conflict between budget constraints and capacity constraints. Capital flows provide
+spending power and can radically shift the budget envelope, but implementation
+capacity is stickier, and budgets can easily overshoot capacity.
+This point is relevant, once again, in the global dialogue about climate change justice
+and the financing that should be directed from rich countries to poor ones. There is a
+strong focus on costing the climate change impact for poor countries and using those
+estimates to lobby for massive inflows. But we have seen many times that the sum of
+money is secondary to the quality of policies, the incentives they create and the
+35 This point is also well made by World Bank Chief Economist Indermit Gill in his foreword to the
+June 2023 Global Economic Prospects: “… long before the outbreak of the pandemic, governments
+across the world had developed an appetite for huge budget deficits. They turned a blind eye to the
+dangers of rising debt-to-GDP ratios. If a lost decade is to be avoided, these failures must be
+corrected—now, not later.” (The reference to “These failures” includes reduced support for free trade
+as well as large fiscal deficits.) Available at:
+https://openknowledge.worldbank.org/server/api/core/bitstreams/6e892b75-2594-4901-a036-
+46d0dec1e753/content
+13
+capacity of the institutions available to invest funds. The capital flow sceptics and the
+climate justice activists should exchange notes.
+Ladies and gentlemen, to conclude, I remain impressed by the power of global capital
+flows to support investment, reduce financing costs and accelerate convergence in
+developing economies – especially where domestic savings are below investment
+needs. Nonetheless, this is a force that is dangerous as well as useful and powerful.
+The South African case shows both sides of the coin: intelligent use of capital flows in
+one period, and abuse in the second.
+For countries where investment opportunities exceed local savings rates, doing
+without capital flows means giving up on significant growth. It is not an attractive
+strategy. A better one is to welcome capital flows, control risks and nurture institutions
+that can deliver productive investment choices. That applies to climate finance, too.
+We need to remain optimistic about capital flows and vigilant about the risks, rather
+than pessimistic about the flows and allergic to the risks, or naïve about the flows and
+blind to the risks. My hope is that when the next boom comes, we will have learnt
+lessons that make that boom as safe, as long and as large as possible.
+Thank you.
+14

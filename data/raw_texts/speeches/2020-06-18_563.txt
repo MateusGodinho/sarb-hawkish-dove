@@ -1,0 +1,517 @@
+Titulo: Lecture by Lesetja Kganyago, Governor of the South African Reserve Bank, at the Wits School of Governance Johannesburg 18 June 2020
+Data: 2020-06-18
+Palestrante (estimado): Lesetja Kganyago
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2020/563
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2020/563/The-SARB-the-coronavirus-shock-and-the.pdf)
+----------------------------------------------------------------------
+
+Lecture by Lesetja Kganyago,
+Governor of the South African Reserve Bank,
+at the Wits School of Governance
+Johannesburg
+18 June 2020
+The South African Reserve Bank, the coronavirus shock,
+and ‘the age of magic money’
+Good afternoon
+It is now clear that the COVID-19 outbreak will produce the worst economic downturn
+in a century. We expect that ‘the great lockdown’ will cause output to contract by about
+7% this year. The last time a figure of that magnitude appears in our data is 1931,
+during the Great Depression, when output fell by 6.2%. It had declined by
+6.1% in 1930.
+The South African Reserve Bank (SARB) has responded flexibly, quickly and
+aggressively to this crisis. So far, these actions have improved market functioning, and
+are supporting economic activity. However, the larger economic outlook remains
+uncertain. We are watching the data closely, and we are ready to act as appropriate,
+in accordance with our mandate.
+Fortunately, central bank governors tend to get a lot of advice, and I have been
+particularly well-supplied with suggestions for SARB policy recently. Allow me to add
+to the national public debate today.
+I will cover four main points.
+Page 1 of 16
+First, the bond-buying programmes fall on a spectrum, running from limited to larger
+interventions. Conducting any of them successfully is made possible by our inflation-
+targeting framework and the flexible approach we take to it.
+Second, the scale of asset buying we do should follow from a clear sense of why
+markets have been malfunctioning. I’ll distinguish between liquidity and sustainability
+problems. Central banks can provide liquidity, while challenges like fiscal sustainability
+are best dealt with elsewhere.
+Third, we need more clarity around the mechanics of central bank asset purchases,
+quantitative easing (QE), and the ‘zero lower-bound’. These concepts are pretty hard
+to understand. It is easy, for example, to take the mistaken view that QE is ‘free
+money’.
+Finally, I will reflect on the utility of inflation targeting for addressing the current
+economic conditions and potential depression-type conditions. The intellectual
+heritage of inflation targeting traces back to the study of the Great Depression, so we
+can say that depression fighting is ‘in its genes’.
+As a starting point, it is perhaps worth reviewing what we have done to date. Our five
+most important measures have been as follows.
+1. We have lowered interest rates. At the March meeting of the Monetary Policy
+Committee (MPC), we reduced the repurchase rate (repo rate) by 100 basis
+points. We then held an emergency MPC meeting in April, using new forecasts
+that incorporated the lockdown, and cut the repo rate by another 100 basis
+points. In May, we cut it by a further 50 basis points. Including our January cut,
+the cumulative reduction in the repo rate for 2020 now stands at 275 basis
+Page 2 of 16
+points.1 To compare, the emerging market median is 100 basis points.2 The
+repo rate is now at its lowest level on record, and below zero in real terms.
+2. We have made liquidity abundantly available to banks, through a range of
+facilities in addition to our usual weekly repo auctions, with take-up peaking at
+R83 billion in March.
+3. We have provided regulatory relief to the financial sector, to help maintain the
+flow of credit in the economy despite the temporary payment problems for firms
+and households caused by the COVID-19 shock.3
+4. We have offered funding for small and medium enterprises (SMEs), starting at
+R100 billion, with an option to scale up to R200 billion over time, or about 4% of
+gross domestic product (GDP). This facility is backstopped by a guarantee from
+National Treasury.
+5. We have been buying government bonds in the secondary market, to improve
+market functioning. The total of new purchases now stands at around
+R25 billion, which is an increase in our bond portfolio of about 0.6% of GDP
+from pre-crisis levels. This is comparable to purchases by emerging market
+peers.4
+1 The cumulative reduction in the repo rate stands at 300 basis points since July 2019.
+2 As of 4 June 2020, based on a sample of 66 emerging markets. Large cuts from high starting points,
+as in Argentina (-1 200 basis points, from 50%), distort the mean change, making the median a better
+representation of the central tendency of the data.
+3 For details, see the Prudential Authority’s ‘Press release on regulatory relief measures and guidance
+to the banking sector in response to COVID-19, published on 6 April 2020, available at
+https://www.resbank.co.za/Lists/News%20and%20Publications/Attachments/9842/Prudential%20Auth
+ority%20Media%20Release%20-
+%20Regulatory%20relief%20and%20guidance%20to%20the%20banking%20sector.pdf.
+4 The Bank for International Settlements (BIS) gives data for bond purchases by seven emerging
+markets. Of these countries, four have purchased bonds worth 0.2% of GDP or less, Thailand is at
+0.6% of GDP, Colombia at 0.8% of GDP and Chile at 2.8% of GDP (in Chile, the policy rate is now at
+its ‘technical minimum’, according to MPC minutes). The SARB’s purchases to date, as of the latest
+published data, are at 0.6% of GDP. See Yavus Arslan, Mathias Drehmanm and Boris Hofman,
+2 June 2020, ‘Central bank bond purchases in emerging market economies, Bank for International
+Settlements Bulletin No. 20, available at https://www.bis.org/publ/bisbull20.pdf.
+Page 3 of 16
+Of these interventions, it is the last one that has prompted the most discussion, so it
+deserves extra attention.
+A spectrum of bond buying
+In responding to the COVID-19 crisis, a whole range of central banks, both in
+advanced economies and in emerging markets, has launched bond-buying
+programmes. These programmes should be thought of as sitting on a spectrum,
+measured by what the various central banks are trying to do. Some are buying huge
+quantities of assets to provide stimulus despite the constraint of the zero lower-bound.
+Others are conducting more limited purchases, to improve market functioning. Many
+advanced economies sit on the far side of the spectrum. Some emerging markets, like
+Brazil, and us, sit at the near end: we are aiming to improve market functioning.5
+Recognising this distinction, the Bank for International Settlements (BIS) has referred
+to emerging market operations as ‘Bond Purchase Programmes’, or BPPs.6 Others
+have put the term ‘QE’ in quotation marks, to convey the nuance. Sometimes I think
+that if we just told people our asset purchases were QE, they might stop complaining
+that ‘the SARB is conservative’ – a criticism that has somehow survived despite
+surprise at how much the SARB has already done. We should not, however, simply
+assume that our conditions require full-blown QE, or that we can pull it off without
+creating unintended and damaging consequences down the road.
+Rather, any decision to move along the spectrum needs to be embedded in our
+inflation-targeting framework. Getting the inflation forecast right gives us credibility to
+shift along the bond-buying policy spectrum without tipping into higher inflation. If
+inflation is collapsing and existing policy measures prove not enough to bring it back
+to target, we can move further. Judging by the recent moderation in long-term rates
+and lower inflation levels, it appears we have got the overall policy effort about right
+5 Bryan Harris, 8 June 2020, ‘Brazil central bank chief resists using new QE powers’, Financial Times,
+available at https://www.ft.com/content/e6eb0759-3a14-47ec-9835-a0b5d509b97c.
+6 Yavus Arslan, Mathias Drehman and Boris Hofman, 2 June 2020, ‘Central bank bond purchases in
+emerging market economies’, Bank for International Settlements Bulletin No. 20, available at
+https://www.bis.org/publ/bisbull20.pdf.
+Page 4 of 16
+for the moment. But we are in an environment of unprecedented uncertainty, and we
+will adjust this policy effort, along that spectrum, as economic conditions and forecasts
+change.
+The South African Reserve Bank’s bond purchases
+When the SARB began intervening in the South African government bond market, on
+20 March, we had seen trading thin out, with even small transactions causing bond
+prices to move abruptly. By purchasing bonds in the secondary market, the SARB has
+helped restart price discovery and has encouraged the re-entry of private sector
+participants.
+We continue to monitor the government bond market and to buy bonds where we
+observe signs of stress at different maturities of the yield curve. This will continue as
+needed to restore normal market functioning. Up to now, it appears our interventions
+have worked. Volatility has subsided, and bond yields have largely normalised. While
+we are not targeting yields specifically, the fact that the benchmark 10-year yield is
+back to where it was in February suggests that stress in the system has eased.
+We are not the only country experiencing liquidity problems in its bond market. Indeed,
+at the height of the crisis, even the ultra-deep and liquid United States (US) Treasury
+market was disrupted, which just goes to show that, in a major crisis, even the best
+borrowers can have liquidity problems.7 Solving these problems is one of the oldest
+duties of central banks; such practices are literally centuries older than the term
+‘quantitative easing’.
+The trouble is that liquidity problems are not the only factor affecting the domestic
+bond market. There are also problems of fiscal sustainability in the mix, which requires
+us to act, and to communicate, with caution. We need to avoid what one expert has
+7 Jeffrey Cheng, David Wessel and Joshua Younger, 1 May 2020, ‘How did COVID-19 disrupt the
+market for US Treasury debt?’, available at https://www.brookings.edu/blog/up-front/2020/05/01/how-
+did-covid-19-disrupt-the-market-for-u-s-treasury-debt/.
+Page 5 of 16
+called ‘the mother of all sudden stops’8 turning into a permanent, and specifically South
+African, problem.
+In general, I avoid commenting on fiscal issues, but it is difficult to discuss
+sustainability without mentioning some fiscal facts. The most important ones are
+these.
+When the COVID-19 shock hit, South Africa was already running crisis-level deficits –
+over 6% of GDP in 2019. Our debt stock was on a rising trajectory.9 Unfortunately, the
+coronavirus is now forcing an additional fiscal deterioration.
+This has resulted in South Africa losing its last investment-grade credit rating. Market-
+based measures of sovereign risk, such as credit default swaps, have deteriorated
+further, both in absolute terms and relative to peers. This increase in sovereign risk
+has, in turn, further raised the return on bonds asked by investors, shifting up long-
+term rates for the whole economy, despite a very low repo rate.
+As many economists have pointed out, sustainability concerns have to be addressed
+at a fiscal level. This means that the debt-to-GDP ratio has to stabilise, and those
+projections need to be realistic. If debt sustainability can be assured, with high
+probability, then near-term borrowing will be more readily available. In these
+circumstances, were government still to experience financing disruptions, we would
+feel confident that these were liquidity problems which the SARB could help address.
+However, presently, sustainability is not assured, which makes large-scale sovereign
+bond buying potentially inflationary.
+8 Barry Eichengreen, quoted in Enda Curran and Michelle Jamrisko, 2 April 2020, ‘The same stimulus
+that rich countries lean on could worsen poor economies’, Bloomberg Quint, available at
+https://www.bloombergquint.com/global-economics/a-mother-of-all-sudden-stops-leaves-emerging-
+markets-in-crisis.
+9 Philippe Burger and Estian Calitz, 24 February 2020, ‘Soaring deficits and debt: restoring
+sustainability amidst low economic growth’, available at https://www.econ3x3.org/article/soaring-
+deficits-and-debt-restoring-sustainability-amidst-low-economic-growth.
+Page 6 of 16
+The proposals on the table for more bond buying are not modest. I have seen one call
+for a trillion-rand fiscal stimulus financed by the SARB10, and another for SARB bond
+purchases of R10-20 billion per week to continue until ‘economic recovery is well
+underway’11. These numbers imply that the SARB would be buying, more or less, all
+new debt for the foreseeable future. Such interventions would crowd pension funds
+and other institutional investors out of the bond market.
+Worse, we would be sending a dangerous signal. The crisis of the euro area, a few
+years back, showed how damaging it can be for countries to send mixed messages
+about their future monetary arrangements – the so-called ‘re-denomination risk’. In
+South Africa, the risk is that the domestic currency will no longer be issued by a
+credible, inflation-targeting central bank, but by one that is fully financing the public
+sector instead. Should we be going this way, some bondholders would probably be
+enthusiastic about a large bond purchase programme so they could dump their bonds
+on the SARB and minimise their losses. And why shouldn’t they be looking for a way
+out? Imagine the situation: we would be taking over public sector financing, with no
+clear plan for how to stop buying a potentially ever-larger issuance of bonds.
+And although I have heard it suggested that we should do QE with conditions, we need
+to keep in mind that we are a national central bank.12 The Constitution tells me the
+SARB must protect the value of the currency, and that we must have regular
+discussions with the Finance Minister. Nowhere does it say I can set conditions. As
+such, the SARB cannot take responsibility for solving a fiscal sustainability problem,
+nor can it jeopardise the value of the currency by agreeing to inflationary money
+printing.
+10 Owen Willcox, 2020, ‘Macroeconomic response to COVID-19’, available at
+https://www.tips.org.za/policy-briefs/item/3798-macroeconomic-response-to-covid-19.
+11 Andrew Donaldson, 9 April 2020, ‘Monetary management, financial markets and public debt:
+responding to COVID-19 and the economic standstill’, Policy Brief #3, available at
+https://covid19economicideas.org/2020/04/09/monetary-management-financial-markets-and-public-
+debt-responding-to-covid-19-and-the-economic-standstill/.
+12 It is relevant to note here that when the European Central Bank (ECB) announced its programme
+of Outright Monetary Transactions, to give effect to Mario Draghi’s famous ‘whatever it takes’
+commitment, it still insisted on ‘strict and effective conditionality’ through ‘an appropriate European
+Financial Stability Facility / European Stability Mechanism (EFSF/ESM) programme’. The ECB did not
+itself take on the design or enforcement of conditionality arrangements. See
+https://www.ecb.europa.eu/press/pr/date/2012/html/pr120906_1.en.html.
+Page 7 of 16
+Money creation, inflation and sterilisation
+But why is it that monetary financing of the fiscus could be inflationary? As I have said
+elsewhere, I am not worried about high inflation this year, especially given the recent
+collapse of oil prices. But the fact that 2020 inflation is likely to be low in no way
+guarantees that inflation will stay low, and therefore that we can stop worrying about
+it permanently. In fact, if we commenced large-scale QE with a significantly positive
+inflation rate, we would have to do one of two things: either sterilise the QE purchases
+by absorbing those Rands back onto our balance sheet, or let interest rates fall below
+the MPC target, ultimately to zero. The problem with setting the repo rate too low is
+inflation. The problem with sterilisation is the cost. QE proponents in South Africa have
+not appreciated the inescapability of this choice.
+Let me explain how this works in more detail.
+When the central bank creates money, we create one very specific type of money,
+which is bank reserves, also called base money. The base-money system is a closed
+loop, which means that the central bank, as the monopoly provider of new base
+money, is the only institution that can change the total supply in the system. This is
+the basis for monetary policy, because it confers the power to set the price of bank
+reserves.13
+When a central bank conducts a QE operation, or any other kind of asset purchase, it
+pays in base money, which it deposits into the central bank account of the seller, be it
+government or a commercial bank. This changes the total supply of bank reserves in
+the system. The change in supply, in turn, affects the price. The crucial implication is
+that unsterilised asset purchases are, in the words of two economists, ‘tantamount to
+13 On this point, and for a broader review of how different parts of the money supply are created, see
+‘Money creation in the modern economy’, especially pp. 21-25, in the Bank of England Quarterly
+Bulletin Q1 of 2014, available at https://www.bankofengland.co.uk/-/media/boe/files/quarterly-
+bulletin/2014/money-creation-in-the-modern-economy.
+Page 8 of 16
+an easing of interest rate policy’14. As I’ll explain in more detail later, this is the main
+reason such policies can be inflationary.
+During this crisis, we at the SARB have already expanded the supply of central bank
+money, and although we have seen some deviation of short-term rates from the repo
+target, these have not been too large or persistent. In practice, we have a deposit rate
+set at 200 basis points below repo, which functions as a floor for the system – it is
+essentially a sterilisation instrument.15 As predicted by theory, we have therefore seen
+actual short-term rates fluctuate between the repo rate and this deposit rate, although
+they have mostly stayed close to the repo rate.
+Of course, our interventions have not been going on too long, and this has been a
+period of severe stress in financial markets. Were we to implement a large, long-term
+increase in bank reserves, as would be required for a big QE programme, we would
+need to sterilise more aggressively to keep the actual overnight rate close to the repo
+target.
+To do this, we could use various techniques. For instance, we could issue SARB
+debentures to soak up Rands, or we could pay banks to deposit their reserves back
+with us. Most of these policies would end up looking functionally equivalent to National
+Treasury funding itself at the short end of the curve,16 benefitting from the low rates
+set by monetary policy, which is already happening. Importantly, none of these
+scenarios would be a free lunch: instead of Treasury paying interest, the costs would
+show up at the SARB, as the price of doing sterilisation operations.
+14 Claudio Borio and Piti Disyatat, November 2009, ‘Unconventional monetary policies: an appraisal’,
+available at https://www.bis.org/publ/work292.pdf. These authors also discuss, as an alternative
+inflation driver, the possibility that public narratives about central bank actions will also have economic
+effects.
+15 This point is equivalent to the one made for India by former Governor of the Reserve Bank of India,
+Raghuram Rajan, in his widely circulated LinkedIn post titled ‘Monetization: neither game-changer nor
+catastrophe in abnormal times’, specifically point 5.
+16 Claudio Borio, 8 November 2019, ‘Wise fiscal policy is not about helicopter money’, available at
+https://www.bis.org/speeches/sp191108.htm#:~:text=A%20more%20balanced%20policy%20mix,rate
+s%20further%20into%20negative%20territory
+Page 9 of 16
+These costs would also be large. If we as the SARB bought R500 billion of government
+bonds, at par, and then sterilised them at the repo rate, we would be insolvent in about
+a year.17 For this reason, taking the perspective of the broader public sector balance
+sheet, these operations would add to National Treasury’s already large need to
+borrow. As such, a big QE operation wouldn’t lift the budget constraint. Instead, it
+would end up saddling Treasury with yet another bankrupt government enterprise
+asking for a bailout.
+The only exception to the rule that asset purchases entail sterilisation costs is if interest
+rates reach the zero lower-bound. This happens if even a zero interest rate is not
+enough to achieve a central bank’s objectives, like hitting an inflation target. In this
+case, central banks can create enormous quantities of bank reserves, which just pile
+up on their balance sheets without creating any further downward pressure on
+overnight rates. The reason for this is that banks with excess reserves will have no
+incentive to lend them out for less than 0% interest. This has been the exact situation
+of major advanced economies for much of the past decade, and it has given these
+central banks almost unlimited scope to buy assets. Given this extraordinary situation,
+one economist has described this as ‘the age of magic money’.18
+This is not, however, the situation in most emerging markets. For us, a persistent and
+unsterilised increase in bank reserves would create downward pressure on interest
+rates. If this pressure were not released through sterilisation, it would force overnight
+rates to zero and keep them there. This is likely to be inflationary, even in a weak
+economy. Creating extra reserves lowers the effective short-term interest rate
+compared to the repo rate set by the MPC, whether demand in the economy is weak
+or not.
+The trick, therefore, is to figure out what the appropriate short-term rate for South
+Africa is. Market expectations are that it will remain above 3% over the next few years.
+Our projections show much the same, and that this will be enough to return inflation
+17 The SARB’s capital and accumulated reserves were R20 billion as of 2018/19. Sterilisation costs
+for R500 billion would be around R19 billion a year.
+18 Sebastian Mallaby, July/August 2020, ‘The age of magic money’, Foreign Affairs, available at
+https://www.foreignaffairs.com/articles/united-states/2020-05-29/pandemic-financial-crisis.
+Page 10 of 16
+to the 4.5% target midpoint. Even some proponents of SARB QE have acknowledged
+that a zero repo rate is too low for South Africa, and that it should at least be the rate
+ruling in the developed world plus a risk premium.19
+Credit and saving behaviour is part of the story here, but we also need to consider the
+exchange rate effects, in addition to the inflation expectations channel. Remember:
+because we have inflation several percentage points higher than in the advanced
+economies, our real rates can go quite a bit lower than theirs. If we really need to
+create extra inflation, we can set the repo rate to be minus 2% or minus 3% in inflation-
+adjusted terms, and then we’ll get inflation led by the exchange rate.
+Inflation targeting in a crisis
+This raises a really interesting question, however, about whether we are heading into
+another Great Depression, in which case such radical policies might become
+appropriate. There is no agreed definition of a depression, but the outstanding
+characteristics of the last Great Depression were large and sustained falls in both
+output and prices. To be clear: this is not our baseline forecast, nor is it the outlook
+according to all available quantitative projections. Nonetheless, we understand that
+we live in a highly uncertain world, and that conditions could deteriorate further. It is
+therefore worth contemplating how the SARB would react in a depression scenario.
+One of the extraordinary things about the Great Depression is that our understanding
+of what went wrong, and why, has evolved dramatically over the ensuing decades.
+The popular contemporary view, which still features in high-school accounts of the
+Depression, is that it was caused by a stock market crash. But the US stock market
+crashed many times, both before and after 1929, with much less disastrous results.
+Another popular explanation is that the Depression was caused by a collapse in
+demand, which was only ultimately resolved by active New Deal fiscal policies. But
+19 See, for instance, Christopher Malikane, 17 May 2020, ‘Why arguments against quantitative easing
+hold no water’, Business Day, available at
+https://www.businesslive.co.za/bd/opinion/2020-05-17-why-arguments-against-quantitative-easing-
+hold-no-water/
+Page 11 of 16
+this explanation is also given secondary status by most modern scholars, who
+emphasise, instead, the role of central banks.20
+As former US Federal Reserve (Fed) Chairman Ben Bernanke once said: “Regarding
+the Great Depression … We did it. We’re very sorry … [W]e won’t do it again.”21 By
+this account, the major mistakes were threefold.
+First, central banks permitted large-scale bank failures, destroying credit
+intermediation and contracting the money supply.
+Second, and largely in response to the first factor, countries fell into deflation, which
+pushed up the real value of debt, bankrupting borrowers. For instance, in the US,
+prices fell by almost 10% a year in the worst years of the Depression.
+Finally, central banks stuck to fixed exchange rates via the gold standard, which
+required some badly timed interest rate increases, such as the Fed’s decision to raise
+rates by 200 basis points in October 1931. Imagine raising rates with negative inflation
+and real rates already in double digits!
+It was precisely these sorts of central bank mistakes that turned sharp downturns into
+depressions, and then prolonged those depressions. When these mistakes were
+reversed, countries recovered.22
+This is relevant because modern central banks, including the SARB, have policy
+frameworks to avoid precisely these errors. We have symmetric price stability
+mandates, expressed in inflation targets, which tell central bankers to avoid too high
+and too low inflation. We have floating exchange rates which absorb shocks rather
+than magnifying them, and our accumulated credibility is now such that we can slash
+interest rates despite large exchange rate depreciations. We have financial stability
+20 These points are drawn from Ben S. Bernanke, 2 March 2004, ‘Remarks by Governor Ben S.
+Bernanke: money, gold, and the Great Depression’, available at
+https://www.federalreserve.gov/boarddocs/speeches/2004/200403022/default.htm.
+21 Ben S. Bernanke, 8 November 2002, ‘On Milton Friedman’s ninetieth birthday’, available
+at https://www.federalreserve.gov/BOARDDOCS/SPEECHES/2002/20021108/.
+22 See Liaquet Ahamed, 2009, Lords of Finance, especially chapter 20, titled ‘Gold fetters’.
+Page 12 of 16
+mandates to ensure that the financial system keeps functioning under stress, and that
+too-big-to-fail institutions don’t.
+In sum, far from being irrelevant in a depression scenario, our frameworks incorporate
+the most profound lessons of the Great Depression. If we start to go down this path,
+our frameworks will immediately guide us to take remedial action. This fact alone
+should protect us from another Great Depression.
+Conclusion
+Frankly, rather than 1929 repeating itself, I am more worried about a different scenario.
+As a country, we have got ourselves into a lot of trouble. We are struggling to learn
+the lessons of these mistakes, and to achieve the consensus to fix them. And we are
+running out of time. We have just completed our worst growth decade on record –
+worse than the 1980s or the 1990s. On a per capita basis, South Africans have been
+getting poorer since 2013.
+In the world, we are slipping backwards. In 1960, South African incomes were around
+26% of those in the US. They are now down to 13%. They were 128% of Brazil’s in
+1960, a country to which we are often compared; they are now down to 65%. Rather,
+we risk following Argentina’s path, where ideological conflicts and unstable
+macroeconomic policies produced a steady economic decline.23
+In much of the period after 1994, we in South Africa surprised everyone by cooperating
+despite our differences, and delivering robust and sustainable macroeconomic
+policies. But those accomplishments have faded. Instead, we now find ourselves
+sitting on the highest debt pile in our history, arguing about printing money and waving
+ideological banners at each other.
+23 For a quick review of this experience, see ‘The tragedy of Argentina: a century of decline’,
+17 February 2014, The Economist, available at https://www.economist.com/briefing/2014/02/17/a-
+century-of-decline.
+Page 13 of 16
+It seems imperative that we work hard to define a new approach for the future. We
+have used up the legacy of low debt levels. Fortunately, we have achieved low
+inflation. We cannot squander that achievement on the quixotic belief that if we just
+engineer higher inflation, somehow growth will permanently rise. Our own experience
+shows that belief to be wrong, and we can set out now on a new path with low interest
+rates if we guard and value them. We have nearly all the ingredients needed to get
+permanently stronger economic growth, create jobs, and rid ourselves of poverty and
+inequality. But we need to choose, as a society, to do these things.
+First, let’s make sustainable choices that get us past the COVID-19 pandemic and
+help us grow in future.
+Second, let’s open up for investment to increase our productivity.
+Finally, let’s work together, pragmatically, to choose the reforms that will create jobs
+and prosperity.
+Thank you.
+Page 14 of 16
+Supporting charts
+Central bank bond-buying programmes*
+3
+2.8
+2.5
+2
+P
+D
+G1.5
+fo
+%
+1
+0.8
+0.6 0.6
+0.5
+0.2
+0.1 0.13
+0.01
+0
+Bolivia South Korea Mexico India Thailand South Africa Colombia Chile
+*AnnouncedMarch/April 2020. Sources: BIS & SARB
+2020 General government balance projections
+0.0
+-2.0
+P
+D -4.0
+G
+fo
+tn -6.0
+e
+c
+re
+P
+-8.0
+-10.0
+-12.0
+-14.0
+-16.0
+Source: IMF Fiscal Monitor, Apr 2020
+Page 15 of 16
+EM debt stocks:
+Estimated term premium:
+Change between 2009-19
+10y bond
+50
+5
+40
+4
+29.8
+30
+3
+P
+D 20
+G
+fo 2
+p 10
+p %
+0 1
+-10 0
+-20
+-1
+-2
+2012 2014 2016 2018 2020
+Source: IMF Source: SARB
+EM 10y govt bond yields: EM 5y CDS spreads:
+Change from 1 Jan -17 Jun Change from 1 Jan -17 Jun
+60
+200
+40 180
+20 160
+s 140
+tn 0
+io s 120
+p
+s -20
+tn
+io 100
+is p
+a B -40 s is 80
+a 60
+-60 B
+40
+-80 20
+0
+-100
+a
+n ih C
+d
+n a lia h T
+a
+is s u R
+a
+is y a la M
+e
+lih C
+a
+is e n o d n
+I
+o
+c ix e M
+a
+ib m o lo C
+a
+c ir fA h tu
+o
+liz
+a r B
+y
+e k r u T
+Source: Bloomberg Source: Bloomberg S
+Page 16 of 16

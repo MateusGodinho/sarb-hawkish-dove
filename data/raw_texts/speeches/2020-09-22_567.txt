@@ -1,0 +1,230 @@
+Titulo: Opening remarks by Ms Fundi Tshazibana, Deputy Governor of the South African Reserve Bank, at the JP Morgan Emerging Markets Credit Conference, 22 September 2020
+Data: 2020-09-22
+Palestrante (estimado): Fundi Tshazibana
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2020/567
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2020/567/Monetary-policy-and-financial-markets-in-post-COVID-19-South-Africa.pdf)
+----------------------------------------------------------------------
+
+‘Monetary policy and financial markets in post-COVID-19 South Africa’
+Opening remarks by Ms Fundi Tshazibana, Deputy Governor of the South
+African Reserve Bank, at the JP Morgan Emerging Markets Credit Conference,
+22 September 2020
+1. Introduction
+Ladies and gentlemen, thank you for the opportunity to address this edition of the
+JP Morgan Emerging Markets Credit Conference – the first to be held online. In
+many aspects, 2020 has been a year of firsts. In recent years, much of the concern
+about a halt in global growth has emanated from concerns about the possibility of
+a recession in the world’s largest economy, concerns that the escalation of trade
+tensions would result in a large reduction in global trade and investment, as well as
+concerns about geopolitical developments. But until now, never has there been
+such widespread concern around a pandemic that would change so many aspects
+of our daily lives.
+The COVID-19 outbreak has had major health, social and economic impacts, which
+have required sizeable adjustments to policy. Monetary policy, unsurprisingly, has
+also had to respond to this once-in-a-100-years event. In my comments today, I
+would like to elucidate how the South African Reserve Bank (SARB) has responded
+to these exceptional circumstances. Second, I will highlight the policy outlook as we
+see it. Finally, I will turn to some of the challenges the ‘post-COVID’ world may pose
+for monetary policymaking, and the role financial markets may play in informing our
+approach.
+1
+2. How the COVID-19 crisis required a strong response
+As the COVID-19 pandemic started to spread in Asia, and then Europe, the South
+African authorities moved quickly to follow international best practice and imposed
+restrictions on people’s movements and economic activities. These measures
+helped to ‘flatten the curve’ of infections and allowed the healthcare sector time to
+make adequate preparations. These measures appear to have paid dividends.
+While COVID-19 infection rates surged in South Africa in June and July, the rate of
+new infections appears to be subsiding. The mortality rate remains moderate by
+global standards, and our healthcare system has been largely responsive to those
+in need. Experts agree that the human cost would have been higher had the
+government’s response been delayed.
+However, as in other parts of the world, these healthcare gains came at significant
+economic costs. In April 2020, under the strictest lockdown levels, manufacturing
+production and retail sales fell by 45% and 49% respectively when compared to a
+month earlier. Vehicle, accommodation and restaurants sales basically ground to a
+halt. As Statistics South Africa has since reported, gross domestic product (GDP)
+for the second quarter fell by an unprecedented 51% (annualised). The SARB’s
+latest forecast now shows that annual GDP for 2020 will fall by 8.2%. This is several
+times worse than the previous deepest annual contraction, which was -2.1% in
+1992.1
+While these numbers and other bad news have dominated headlines, it is also
+important to understand that GDP data arrives with a lag, and that the economy has
+since begun to recover. As lockdown restrictions were gradually eased from early
+May, business activity resumed. By July, more than half of the April plunge in output
+and sales had been reversed. High-frequency mobility and transaction indicators
+show that this normalisation continued in August, in some cases returning to
+pre-crisis levels. Globally, many countries are also seeing stronger-than-expected
+rebounds. Although the recovery path is likely to be a difficult one, the current data
+are encouraging.
+1 The comparison stretches back to 1947.
+2
+Part of the explanation for this strong rebound is that fiscal and monetary authorities
+have provided unprecedented stimulus. Conditions have certainly justified it. Let us
+recall that at the height of risk aversion, in the fourth week of March, financial
+conditions in the United States (US) were about six standard deviations in restrictive
+territory; the South African rand had declined by 17% against the US dollar in a
+space of five weeks, and the yield on the 10-year government bond had risen by
+about 280 basis points to as high as 11.7%.
+Emergency action by fiscal and monetary authorities helped stave off a financial
+crisis. In South Africa, earlier gains in stabilising inflation well within the target range
+allowed the SARB to join in this massive stimulus effort. The Monetary Policy
+Committee lowered the repurchase (repo) rate by a cumulative 275 basis points
+between March and July – one of the largest moves by any emerging market
+country.
+Our response was not limited to policy rate cuts. To facilitate the flow of credit to
+cash-constrained businesses and individuals, the SARB injected liquidity into
+money markets through larger and more frequent repo operations; it also
+temporarily lowered regulatory requirements for banks. In response to signs of
+illiquidity in the government bond market, the SARB also embarked on a
+programme of asset purchases, a point to which I will return later. Finally, the SARB
+has assisted the National Treasury in setting up and administering the government’s
+Loan Guarantee Scheme, which aims to promote bank lending to qualifying
+businesses.
+3. Normalisation process will take time
+As indicated earlier, economic activity indicators have been rebounding in recent
+months. Encouragingly, monthly monetary data show that credit to the private
+sector has continued to grow in year-on-year terms, indicating that risks of a ‘credit
+crunch’ have abated. Since peaking in late March, yields on short-dated local-
+currency bonds have declined by as much as 400 basis points, while those at the
+longer end have declined by less than 200 basis points – consistent with the steeper
+3
+shape of the yield curve. Nevertheless, full normalisation of economic activity is
+likely to be a long-haul effort.
+Favourable base effects are likely to result in strong GDP gains in both the third
+quarter and 2021 as a whole. Thus, the SARB’s Quarterly Projection Model (QPM)
+forecasts a real GDP gain of 3.9% next year. But in level terms, our model only
+expects real GDP to gradually converge towards pre-COVID-19 levels. The QPM
+therefore points to a large output gap (as high as 6.5% of potential GDP on average
+in 2020) that will only gradually narrow over the remainder of the forecast period
+and remain negative even in 2022.
+Because of both the persistence of such economic slack and the better anchoring
+of inflation expectations, the SARB expects that consumer price inflation will remain
+within the lower half of the 3−6% target range over the forecasting period, with the
+exception of a short-lived spike in the second quarter of next year as a low base
+distorts energy price inflation. Barring the materialisation of upside risks, this benign
+inflation outlook should allow the SARB to maintain an accommodative stance for
+most of the coming two years, and only withdraw stimulus in a gradual fashion, as
+the output gap slowly closes. In our September forecasting exercise, the QPM’s
+projections are consistent with a rise in the policy rate from the current rate of 3.5%
+to 4% by the end of 2021 and 5% a year later. The latter would still be 70 basis
+points below the CPI average of the past decade.
+4 Monetary policy challenges in a post-COVID-19 world
+However, as the Monetary Policy Committee has highlighted many times in the
+past, the QPM policy rate forecast only serves as a guideline, since the economic
+developments on which it is premised are uncertain. Indeed, this uncertainty may
+turn out to be higher than usual in a post-COVID-19 world. As we contemplate the
+global and domestic economy beyond the pandemic, I would like to focus on several
+issues which may affect the conduct of monetary policy in the coming years.
+We do not know how the crisis will affect trend productivity and potential economic
+growth over the medium term, both globally and at a domestic level.
+4
+Are we going to experience a further loss of growth momentum, as occurred after
+the global financial crisis, due to the slow reaction by businesses to structural
+changes in demand? Will the rise in public and corporate debt levels crowd out
+private investment? Or, on the contrary, will the change in the behaviour of
+economic agents’ spur investments in new high-tech industries raise productivity on
+a sustained basis? Few economists are willing to express strong views on the topic
+at present.
+However, some are taking the view that trend growth is more likely to be weaker
+than stronger over the next cycle, projecting in particular a weaker contribution from
+capital accumulation.2 And this is where the uncertainty I have alluded to can play
+a negative role. By increasing the likelihood of large losses, uncertainty can
+discourage businesses from risking capital into supply-enhancing projects; the
+pandemic’s memory could result in ‘belief scarring’ which could durably undermine
+confidence in the economy’s ability to again grow strongly, as was recently
+highlighted during the Jackson Hole Symposium.3
+In turn, lower potential growth – either globally or in South Africa, or both – would
+have implications for the equilibrium, or neutral real interest rate4 (NRIR), which is
+a crucial element of medium-term monetary policy calibration. Traditional economic
+theory argues that a decline in potential growth implies a decline in the neutral rate.5
+Indeed, research over the past decade suggests that in advanced economies at
+least, lower potential growth has contributed to the secular decline in neutral rates.6
+However, the linkages may be more complex for an emerging economy such as
+South Africa, which has long had a structural current account deficit and hence
+requires an equilibrium interest rate that attracts foreign as well as domestic savings
+to finance investment. The SARB’s models link the domestic neutral rate to both its
+2 See ‘Coronavirus’ global effects: growth drivers in a post-virus world’, Global Economics View, Citi, 8 July
+2020.
+3 See J Kozlowski, L Veldkamp and V Venkateswaran, ‘Scarring body and mind: the long-term belief-scarring
+effects of COVID-19’, 2 September 2020.
+4 The neutral real interest rate is the rate at which inflation is stable at the inflation target midpoint and output
+is operating at its potential. It cannot be observed directly.
+5 The theory was first developed by Knut Wicksell in Interest and prices (1898).
+6 See for instance L Rachel and T Smith, ‘Secular drivers of the global real interest rate’, Bank of England
+Working Paper No. 571, December 2015.
+5
+global counterpart and a South African-specific risk premium. The risk, however, is
+that this risk premium will rise over time as weak growth increases concerns about
+fiscal sustainability, thus offsetting the benefits from a lower global neutral rate.
+Uncertainties over both potential GDP growth and the neutral rate can also affect
+the speed at which a central bank normalises its policy stance. As indicated earlier,
+at present the SARB only sees a slow narrowing of the output gap, which should
+allow for gradual real rate normalisation. But were the output gap to be less negative
+than we expect in the latter years of the forecast, or the equilibrium real rate higher,
+risks of higher inflation might end up under-estimated. At the same time,
+uncertainties remain as to whether the lower pass-through of foreign exchange
+movements to inflation will persist in coming years, especially if South Africa’s loss
+of its investment-grade status results in structurally higher rand exchange rate
+volatility.
+5. Heeding the messages from financial markets
+In trying to ascertain potential structural changes to long-term macroeconomic
+variables, the SARB will, of course, be watching the signs from financial markets.
+In that respect, our Financial Markets Department continues to monitor market
+developments, both to detect threats to smooth market functioning and also to
+understand market expectations of interest rates, inflation and credit risk premia,
+among other variables. For instance, the SARB has paid close attention to the
+steepening of the government bond yield curve, which began before the onset of
+the COVID-19 crisis, and which has persisted even as the March risk aversion
+abated. Is the steepness of the yield curve – both in absolute terms and relative to
+emerging market peers – simply a function of credit risk, or is it telling us something
+about future inflation risk too? Inflation expectations, from surveys or breakeven
+rates, are in most cases lower than they were historically and generally well within
+the target range. But we want to be sure that concerns about South Africa’s debt
+trajectory do not crystallise into higher inflation expectations.
+In that respect, I would like to briefly touch on a point that has been strongly debated
+since the SARB introduced a programme of government bond purchases in March.
+Should the aim of this programme be limited (as it is now) to ensure proper bond
+6
+market liquidity? Or should it extend to influencing the shape of the yield curve in
+order to limit government funding costs and to ensure that lower policy rates fully
+transmit to broader borrowing costs in the economy? The answer to this question
+is not simple, especially as yield curve control policies have become more
+widespread recently, and therefore less disreputable.
+However, there are risks in considering such a strategy in South Africa. First, unlike
+most advanced economies, South Africa remains far from the effective lower bound
+on interest rates. Hence, influencing the shape of the yield curve at a time when the
+SARB can, if needed, cut rates further to achieve its goals could unnecessarily
+complicate policymaking and policy communication. Second, by interfering with the
+market’s ‘price discovery’ mechanism, the SARB would reduce its ability to learn
+from the yield curve’s signalling capacity, which provides messages over
+longer-term inflation expectations. Losing that signal would also make it harder for
+policymakers elsewhere to assess the fiscal space. Third, keeping longer-term
+yields lower than their market ‘equilibrium’ might discourage non-resident investors
+from resuming purchases of domestic bonds, keeping the rand undervalued and
+hence adding to future inflation risks.
+6. Conclusion
+In conclusion, let me again highlight that the SARB’s response to an unprecedented
+crisis and contraction in economic activity has been strong and quick, in large part
+due to our earlier hard-won credibility gains on anchoring inflation expectations. As
+a result of these gains, the SARB was able to prevent this economic contraction
+from feeding into a credit crunch and financial market meltdown. The stabilisation
+in the rand’s exchange rate and decline in government bond yields are encouraging
+signs that investors do not see our policy actions as jeopardising our credibility.
+However, as we contemplate an uncertain future with respect to potential growth
+and other variables, allow me to reiterate some familiar but important points.
+Monetary policy cannot on its own improve the potential growth rate of the economy
+or reduce macroeconomic risks. These should be addressed by implementing
+prudent macroeconomic policies and structural reforms that lower costs generally
+and increase investment opportunities, potential growth and job creation. Such
+7
+steps will enhance the effectiveness of monetary policy and its transmission to the
+broader economy.
+Over the medium term, the SARB will need to remain data-dependent in its policy
+decisions. Indeed, we stand ready to utilise our tools, as appropriate, within our
+mandate to support the economy and to ensure that financial markets are
+functional. As financial markets themselves move towards new post-crisis
+equilibriums, we will continue to closely monitor developments in asset prices and
+leverage that information in our formulation of monetary policy.
+Thank you.
+8

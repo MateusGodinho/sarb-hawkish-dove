@@ -1,0 +1,280 @@
+Titulo: Address by Gill Marcus, Governor of the South African Reserve Bank,at the Finmedia24 Economist of the Year Function ,Midrand, 31 May 2011. ​
+Data: 2011-05-31
+Palestrante (estimado): Gill Marcus
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2011/211
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2011/211/Finmedia24-Economist-of-the-Year-speech-final.pdf)
+----------------------------------------------------------------------
+
+Animal Spirits and the Economy:
+Challenges for Economists and Central Banks
+Address by Gill Marcus, Governor of the South African Reserve Bank,
+at the Finmedia24 Economist of the Year Function ,
+Midrand, 31 May 2011.
+Thank you for the opportunity to address you at this prestigious award of the
+Economist of the Year. The global economic crisis, now in its fourth year, has not
+been good for the reputation of economists. Many have criticised economists for
+having caused the crisis, for not having foreseen the crisis, or for not having a clear
+idea about how to get out of the crisis. It is not my intention to defend economists
+uncritically, but it is appropriate on an occasion such as this to reflect on the role of
+economists in society. Recent insights into the working of the economy and the
+deficiencies of mainstream economic thinking suggest that we should not be
+complacent about the economic models that we use, whether for policy-making or
+forecasting in financial markets. This also has implications for how we see the role of
+a central bank in the economy.
+Generally, people think about the role of the economist as being in business or
+forecasting, and most of you today would be involved in economic analysis or
+forecasting in the financial markets. This is an important role as asset allocation in
+the financial markets has to be done on the basis of some view of how the economy
+is expected to evolve in the coming period. But there is a broader role for economists
+in society in general: and that is to act as a constraining voice in the economy. At
+the heart of any economic model is scarcity. This is not a theory, it is an unfortunate
+truth. Scarcity implies constraints on actions, choices and trade-offs, and,
+consequently, conflicts over the allocation of resources. The eminent US economist
+Kenneth Boulding has argued that economics is traditionally the dismal science
+because it deals with the problem of scarcity, so the role of the economist is to be
+dismal, or as he put it, “it is the economist’s dismal duty to tell the world that it cannot
+have its cake and eat it”1.
+1
+Economists may disagree on the appropriate economic theory or the appropriate
+models, but the role of the economist is to raise the level of debate to a more
+informed one – particularly about the nature and costs of trade-offs - rather than
+simply one of opinion or what they would like to see happening. Whatever the
+theory or model, the fundamental truth is that there is scarcity, and there are budget
+constraints.
+We know there are competing paradigms and theories, and at times some views
+become the ‘conventional wisdom’. But certain realities can shake these ‘accepted
+truths’, and it is important for economists to be willing to revisit their thinking in the
+light of such truths, and to be open to debate about them. One example of this to
+come out of the crisis was the idea that price stability is enough to guarantee
+financial stability. While there were some dissenting voices, it was generally argued
+that we did not have to worry about asset price bubbles in the context of price
+stability. They would either be self-correcting, or if they did pop, then central banks
+could clean up afterwards. I will return to this issue later.
+This means that economists are not necessarily right all the time about their
+understanding of how the economy works, but the search for models and theories
+that come closer to a better understanding is ongoing, and we should recognise that.
+Some economists have changed the course of economic thinking, often in response
+to economic developments at that time. A cursory glance at the history of economic
+thought shows us how thinking has changed fundamentally over time, with profound
+implications for policy. We need only look at how this has ranged from Adam
+Smith’s invisible hand, to the labour theories of value of Ricardo and Karl Marx, the
+Marshallian marginal revolution or to the innovative work of John Maynard Keynes,
+which laid the intellectual foundation for proactive fiscal and monetary policies. While
+Keynes had a major impact during the pre- and post-second world war period, the
+rational expectations revolution in the 1960s and 1970s, combined with the efficient
+2
+markets hypothesis in finance theory, had a profound impact on modern
+macroeconomic thinking, and by extension, macroeconomic policies.
+At a very simple level, the rational expectations revolution was a reversion to the old
+classical idea of the invisible hand of Adam Smith. In terms of the modern version,
+people are motivated by rational economic thinking alone. There is no place in this
+approach for irrationality or noneconomic motives. In their recent provocative book
+“Animal Spirits”, George Akerlof, a Nobel Prize-winning economist and Robert
+Shiller2 argue that the modern tradition has forgotten a central part of Keynesian
+thinking: that while much economic activity is governed by rational economic
+motivations, not all activity is. Motivations may be non-economic, or irrational, or
+governed by what Keynes referred to as “animal spirits”. In the same way as Adam
+Smith’s invisible hand explains the stability of the capitalist system, an understanding
+of animal spirits explains the instability of the system. According to Akerlof and
+Shiller, the original meaning was “of the mind”, referring to basic mental energy. In
+economics it has now taken on a slightly different meaning, referring to a restless
+and inconsistent element in the economy and refers to our peculiar relationship with
+ambiguity and uncertainty.
+Unless we accept that human psychology drives economic activity, we cannot really
+explain phenomena such as crises, herd behaviour, asset market bubbles and
+changes in confidence that drive the economy. In fact our general models of the
+economy are equilibrium models, where a shock to the system will always bring us
+back to equilibrium. Furthermore, many of these models do not have a financial
+sector built in to them, or if they do, the modeling of this sector is based on efficient
+markets and rationality. Such models cannot explain the emergence of the sub-prime
+crisis, the global reaction to it, and the subsequent on-off recovery. As Akerlof and
+Shiller put it, “… [the crisis] was caused precisely by our changing confidence,
+temptations, envy, resentment and illusions - and especially by changing stories
+about the nature of the economy”. Fundamental to any explanation of cycles are
+ebbs and flows of confidence, which are caused by a wide variety of factors or
+circumstances, and could probably not be adequately captured in any model. And in
+3
+the challenges currently facing global economic policy makers, there seems to be an
+under-estimation of the weight of confidence and trust in the solutions proposed.
+This view also has implications for the role of government policy. In the standard
+equilibrium models, there is a limited role for government or monetary policy. It is
+often more a case of nudging the system back to equilibrium. But when you have a
+major loss of confidence, panics and herd behaviour, the rationale for government
+intervention is very different. Because such instances are usually acutely felt in the
+financial markets, it requires extraordinary interventions on the part of governments
+and central banks. And this is precisely what we saw during the worst of the recent
+crisis.
+Some analysts are critical about the perceived excessive intervention by various
+governments and central banks, but under such circumstances extraordinary
+interventions are required. If banks are not lending, there will either be a strong
+contraction in real output, or the authorities will need to replace the credit that is
+lacking in the economy. This is what the so-called quantitative easing in the United
+States has been about. It is not simply a mechanism to stimulate the economy
+because interest rates have reached a zero bound, it is a means to fill the gap left in
+the credit markets by financial institutions that are no longer extending credit.
+This leads us to the role of the central bank in ensuring financial stability. As vividly
+described in Liaquat Ahamed’s exceptional book, “Lords of Finance”3, the US
+Federal Reserve system was originally created as a response to a succession of
+bank failures following runs on banks. The solution was to have an institution, such
+as a central bank, which would provide liquidity in such instances, reassure the
+public about the availability of their funds, and prevent systemic shocks from
+permeating through the rest of the banking system. This in effect was the role the
+Fed played with respect to Bear Stearns in 2008 and the Bank of England with
+respect to Northern Rock. And arguably the role the Fed should have played with
+Lehman Brothers.
+4
+This is part of the original function of the central banks: to deal with such crises of
+confidence which often manifest themselves in a credit crunch. Furthermore, if it is
+a large country that is involved, such as the US at the moment, the impacts are not
+just felt domestically but globally. Arguably, the costs of doing nothing or a premature
+exit would be even higher for both the US and the rest of the world.
+While there has been general agreement about the central bank’s role in crisis
+resolution, there has been less unanimity about its role in crisis prevention. For
+example, in the 2000s, there were debates about whether central banks should
+intervene to moderate or pop these asset market bubbles which were driven by
+excessive credit extension and “irrational exuberance”. The responses by those
+opposing such intervention generally took two forms: that the markets are rational,
+so by definition there is no bubble; or, that central banks are no more capable of
+recognising bubbles than the rest of the market is, and the best they can do is clean
+up the mess if and when the bubble pops.
+However, some economists, notably Bill White at the Bank for International
+Settlements, argued strongly that monetary policy should lean against the wind by
+tightening monetary policy in the event of a build-up of such euphoria. Inflation was
+low at the time, and a narrow focus on price stability resulted in low interest rates
+and excessive, and at times reckless, credit extension that ultimately contributed to
+the financial crisis.
+So what are some of the lessons to be learnt and the new challenges facing central
+banks? Certainly, there is no room for complacency. Alan Blinder, in his book “The
+Quiet Revolution’4, warns against central banks becoming too respectful of markets.
+He argues that slavishly following the market could lead to poor policy for two main
+reasons. Firstly, there is the problem of herd behaviour, which may or may not be
+rational, in speculative financial markets. This results in overreactions to stimuli
+5
+whereas monetary policy makers need to proceed with caution and prudence.
+Secondly, speculative bubbles are a fact of life. As Blinder graphically puts it, ‘central
+bankers must steadfastly resist such whimsy and inoculate themselves against the
+faddish behaviour that so often dominates markets. That may be why central
+bankers are not much fun at parties’.
+There has always been a general, implicit financial stability mandate for central
+banks, largely related to lender of last resort functions and liquidity provision during
+times of crisis. In other words, the implied (or where explicit) function was generally
+to deal with crisis resolution rather than crisis prevention. But where there has been
+a convergence in thinking in the wake of the crisis has been the idea that low
+inflation is not enough to ensure financial stability. The emerging consensus is that
+central banks should have an explicit financial stability mandate, coupled with what
+has now become known as macroprudential regulation. This is in addition to their
+monetary policy mandate.
+So should central banks lean or clean, as Bill White put it5? As the global crisis
+enters its fifth year, the cost to individuals, companies and countries are still being
+counted, while central banks in a number of countries are still “cleaning up”. And the
+costs are likely to be felt for a considerable time to come, as endeavours to resolve
+the global crisis and rebalance the world economies continues. But having an explicit
+financial stability mandate does not necessarily imply that central banks should use
+monetary policy to lean against the wind.
+It is generally argued that while Bill White may have been correct in his prognosis, it
+may have been difficult for central banks to justify very high interest rates at a time of
+low inflation. In other words, we have a situation of having two targets and one
+instrument, which as we know would require a trade-off between them. The solution
+that is now becoming the conventional wisdom is that we need to find additional
+instruments. Such instruments would include the more active use of reserve
+requirements, loan-to-value ratios and counter-cyclical capital ratios for banks, which
+6
+reflects that macroprudential policies intended to address systemic matters are often
+implemented through microprudential actions. Some of these are instruments that
+were previously deficient as monetary policy instruments, but they may have more
+success as tools directed narrowly at credit extension, while interest rates remain the
+main monetary policy instrument.
+This also raises the question about the relationship to monetary policy. Some, for
+example Lars Svensson at the Swedish Riksbank, argue that macroprudential
+policies and monetary policies are fundamentally different and should be carried out
+independently of each other by different institutions. Others see merit in coordination
+of such activities which involves overlapping committees, such as at the Bank of
+England, where some members of the MPC are members of the interim Financial
+Policy Committee. This is the direction in which the South African Reserve Bank is
+moving, with the reconstitution of the Financial Stability Committee (FSC) which
+includes all members of the Monetary Policy Committee, and operates within a policy
+mandate. It should be emphasised that macroprudential oversight is distinct from the
+microprudential function of the Bank, where individual banks are supervised. The
+FSC focus is on the macro system rather than on individual banks, with the aim to
+assess and reduce risk across the financial system as a whole, but recognising that
+the approach to macroprudential supervision is still work in progress.
+At this stage, in South Africa we are not seeing signs of an excessive build-up credit,
+or rapidly rising asset prices. Credit extension has remained subdued, while the
+various house price indices indicate a relatively weak housing market. Unfortunately
+domestic financial stability on its own is not enough. The animal spirits are alive at
+the global level, with ebbs and flows of confidence, and there are significant risks
+still emanating from a range of problems, which will require continued central bank
+focus on financial stability issues.
+To illustrate the extent of fallout when things do go horribly wrong, I will focus briefly
+on some of the challenges facing Europe, and not on the significant issues facing the
+7
+US and the very different circumstances confronting many developing countries.
+This also illustrates just how complex and difficult it is to find workable solutions.
+A recent European Commission publication6 showed that the debt crisis in peripheral
+Greece in particular is deteriorating at an alarming rate under the weight of
+unfavourable debt dynamics. Greek debt is now expected to exceed 166 per cent of
+GDP by 2012, while Irish and Portuguese debt is expected to increase to 117 per
+cent and 107 per cent respectively. More disturbing is the 25 per cent spread that is
+being paid on 2-year Greek debt, indicating that the markets are effectively closed to
+that country.
+While some form of debt restructuring would seem to be inevitable, and some would
+say overdue, the impact on the European banking system could be significant, given
+that a significant proportion of the US$ 2 trillion debt of Greece, Ireland and Portugal
+is on the balance sheets of German and French banks. The IMF estimates that the
+European banks’ exposure to the periphery constitutes around 10 per cent of
+Europe’s GDP and about 80 per cent of the capital of European banks.
+This would require support from the ECB for the banks that hold this debt. But the
+ECB has already been very active in providing support to banks in Europe. Apart
+from the EUR 75 billion in secondary market purchases of peripheral country bonds
+that the ECB has made, there is an estimated EUR 390 billion in rediscount lending
+to the periphery, mainly through the discount window. As the collateral requirements
+have been steadily relaxed, there is the possibility of the ECB being exposed to
+significant losses in the event of default.
+In the absence of the exchange rate adjustment option, the only way that these
+indebted countries can restore their competitiveness is through severe austerity
+measures, which will contract their economies further, and worsen the debt ratios.
+Desmond Lachman at the American Enterprise Institute has illustrated the enormity
+8
+of the problem: a 20 per cent write-down of Greece’s public debt would merely spare
+the country the need to make around 1 percentage point of GDP of additional fiscal
+adjustment to stabilize its public debt to GDP ratio. Greece would still be required to
+make at least around a further 8 percentage-points of GDP fiscal adjustment to
+restore long-run fiscal sustainability. Such a large degree of fiscal adjustment, within
+a fixed exchange rate system, is almost certain to add considerably to the more than
+nine percent real GDP decline that Greece has already experienced over the past
+eighteen months.
+The challenges to the ECB in this context are considerable.. Failure to contain this
+systemic problem would have financial stability implications not only for the
+European economies, but for the global economy in general. As the former
+managing director of the BIS, Alexandre Lamfalussy said in a speech last week7,
+what was new for central banks is that they have had to “conduct liquidity boosting
+operations in an environment where the liquidity shortage turned rather quickly into
+solvency problems of frightening dimensions, for which there has been no precedent
+since the 1930s.” This aspect of central bank operations remains relatively
+unchartered territory, but is becoming an increasingly important part of central bank
+mandates.
+In conclusion, I wish to congratulate all the finalists in this competition. You have
+reached this stage of the competition on the basis of the accuracy of your forecasts
+of a number of economic variables. But technical forecasting is only one aspect of
+being an economist. I refer back to the work of Akerlof and Shiller who, in their book
+“Animal Spirits”, identified five psychological factors of importance, namely
+confidence, fairness, corruption and bad faith, money illusion and stories. They
+argue that it is human interest stories that give vitality and emotional resonance to
+economic views that drive animal spirits. This is the challenge to all economists who
+analyse data, weigh options, consider the trade-offs and often want certainty in a
+time of great uncertainty about the future – tell the stories of the challenges facing
+South Africa and the world, and recognise that behind the statistics and opinions are
+ordinary people whose lives are affected by all that we say and do.
+9
+Footnotes:
+1 Kenneth E Boulding. “The Role of the Economist in a Political World”. An address delivered at the
+Economics Club at the University College of the West Indies, November 18, 1959.
+2 George A Akerlof and Robert J Shiller (2009). Animal Spirits: how human psychology drives the
+economy, and why it matters for global capitalism. Princeton University Press.
+3 Liaquat Ahamed (2009). Lords of Finance: the bankers who broke the world. Penguin Books.
+4 Alan S Blinder (2004). The Quiet Revolution: Central Banking Goes Modern. Yale University
+5 William R White (2009). “Should Monetary Policy ‘Lean or Clean’?” Federal Reserve Bank of Dallas
+Globalization and Monetary Policy Institute, Working Paper No. 34.
+6 European Commission (2011). European Economic Forecast Spring 2011.
+7 Alexandre Lamfalussy (2011) Address to the ACI World Congress, Budapest, 27May.
+10

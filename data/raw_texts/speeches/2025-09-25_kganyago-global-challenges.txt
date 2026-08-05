@@ -1,0 +1,303 @@
+Titulo: Lesetja Kganyago | More or less regulation: Responding to a changing global environment
+Data: 2025-09-25
+Palestrante (estimado): Lesetja Kganyago
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2025/kganyago-global-challenges
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2025/kganyago-global-changes.pdf)
+----------------------------------------------------------------------
+
+Keynote address by Lesetja Kganyago,
+Governor of the South African Reserve Bank,
+at
+Stellenbosch University, 25 September 2025
+More or less regulation: Responding to a changing global environment
+Good evening.
+It is always a great pleasure to engage with the students and staff of Stellenbosch
+University. I extend my gratitude to the Law Faculty for the invitation to speak with you
+today.
+In my capacity as Chancellor of this university, I wish to acknowledge Mr Gys Steyn
+for establishing the Gys Steyn Chair in Financial Regulation Law. In South Africa, we
+need more interdisciplinary academic work on financial stability issues to both inform
+policy and build stronger relationships with financial regulators and policymakers.
+I have been involved in financial sector policymaking for close to four decades, both
+locally and internationally. Over this time, financial stability risks have continuously
+evolved, and financial regulators have, on far too many occasions, been too slow to
+identify and respond to them. As we have seen with the Great Financial Crisis (GFC),
+regulators’ inability to anticipate these risks clearly demonstrated the enormous cost
+of overlooking these issues.
+1
+Today, I will address the global regulatory landscape and tackle the following four
+questions:
+1. Why is the financial sector subject to regulation?
+2. How did we get to Basel III and what has it cost us?
+3. How are the risks to the financial system evolving?
+4. How do we develop the necessary skills to manage risks effectively?
+Why is the financial sector subject to regulation?
+Consider a scenario where you arrive at your bank and you are suddenly unable to
+withdraw your savings because the institution cannot meet its obligations. An even
+more serious scenario would be a banking crisis occurring alongside an economic
+crisis like the one we experienced during COVID-19 − where you not only lose your
+job but all your savings as well.
+The goal of financial regulation is to prevent economic and financial crises by building
+a system we can all trust. This means requiring banks to keep a financial safety
+cushion to absorb unexpected losses, while at the same time protecting people and
+businesses from scams, cheating and illegal trading.
+The nature of the financial system is such that there are often long lags between when
+someone makes a commitment and when you find out if that commitment is really
+valid. If you go to a shop and buy fruit, and the fruit is rotten, you will know within a
+few days, and you can go right back to the store and address the problem. But if you
+put your money into the financial system − in a bank maybe or with an asset manager
+− you may only want it back much later, perhaps years later, at which point you could
+get a bad surprise that they are unable to repay you.
+At that point, there is often not much that can be done. The money is gone, the
+company is insolvent, and for you, it is a disaster. It is also often a social disaster,
+because financial failures often lead to larger crises. In the equilibrium where everyone
+trusts the system, those resources help support economic activity. But in the
+equilibrium where trust breaks down, everyone rushes to withdraw their funds, and
+buying power goes out of the hands of productive users – to under the mattress.
+2
+This helps illustrate why financial crises are so expensive. As Carmen Reinhart and
+Ken Rogoff famously documented, banking crises are associated with significant
+declines in output and employment, with the unemployment rate, on average, rising
+by 7 percentage points.1 The real value of government debt also explodes. Financial
+crises are among the most traumatic events a country can experience.
+Financial regulation is meant to address these problems. Even though everyone
+acknowledges that regulation can be burdensome, we agree it is necessary because
+the problem of financial instability is so severe. Unfortunately, we do not always agree
+on how much to regulate. There is a pendulum – regulation tends to tighten straight
+after a crisis, when safety is a priority and losses are fresh in everyone’s minds. But
+then over time the memories fade and the burden of the regulatory constraints
+becomes more visible, and deregulation sets in again. I have seen this pendulum
+swing back and forth several times in my nearly forty years as a policymaker, and it is
+moving again today.
+What factors shaped the development of the current regulatory regime?
+The last big swing of the pendulum followed the GFC of 2007−09. That crisis revealed
+how decades of deregulation, particularly in the United States (US), had enabled
+financial institutions to pursue riskier activities with minimal and poorly designed
+regulatory checks and balances. Banks did not understand the risks associated with
+new products such as mortgage-backed securities, and they did not have enough
+capital to absorb losses.
+To address these problems, Basel III focused on overhauling bank capital
+requirements. The goal was twofold: (i) to improve the quality of capital by prioritising
+shareholder equity over debt, and (ii) to modify the required ratio of this high-quality
+equity relative to a bank's total assets.
+1 C M Reinhart and K S Rogoff, ‘The aftermath of financial crises’, National Bureau of Economic Research
+Working Paper Series No. 14656, Cambridge, Massachusetts, January 2009.
+3
+South Africa was not one of the countries that experienced a financial crisis during the
+GFC, although we certainly experienced an economic downturn. Still, the GFC
+experience clearly exposed the shortcomings of Basel II, and so we applied ourselves
+seriously to implementing Basel III.
+We did this in a rigorous way, with robust analysis and extensive consultations among
+regulators and financial institutions. In my roles as Director-General of the National
+Treasury, and Deputy Governor and now Governor of the South African Reserve Bank,
+I have personally dedicated a considerable amount of time to discussing the various
+elements of Basel III with colleagues from other jurisdictions and with local financial
+institutions.
+In common with developments in other jurisdictions, critics of the new regulations have
+argued that Basel III has imposed substantial economic costs, making borrowing more
+expensive and restricting credit extension. However, the most effective policy changes
+have some short-term costs that are ultimately outweighed by medium- and long-term
+benefits.
+In 2024, we initiated a call for research proposals to assess the economic impact of
+Basel III's implementation in South Africa. Contrary to some expectations, the findings
+suggest only an insignificant negative impact on economic activity at the aggregate
+level, as many financial institutions met the higher capital requirements by using
+retained earnings.2 At a more granular level, some smaller, less capitalised banks and
+specific borrowers have been more affected. But the research seems clear that
+adverse effects have been modest and localised, rather than large and widespread.
+The analysis also reveals that banks increase their capital ratios not only to meet
+regulatory requirements but also in response to other emerging risks. An example is
+fiscal weakness: when confidence in government debt deteriorates, it affects banks
+holding such debt.3 These factors, in turn, can raise borrowing rates and reduce
+2 See S Merrino and L Harris, 'Basel III and South African banking: Assessing the effects', South African
+Journal of Economics 93(1), pp 3−5.
+3 See G Dell'Ariccia et al., 'Managing the sovereign-bank nexus', International Monetary Fund
+Departmental Paper No. 18/16, 2018.
+4
+lending, thereby amplifying the impact of any regulatory changes.4 It is important not
+to attribute all changes to regulatory requirements.
+The closures of Silicon Valley Bank in 2023, followed by several other banks and the
+takeover of Credit Suisse by UBS, serve as a potent reminder that the current
+framework is not perfect. Poor governance and unsustainable business models cannot
+be offset by any sensible amount of capital.5 Regulatory systems must continuously
+evolve in response to emerging economic and financial risks. The challenge for us as
+regulators is that we often find ourselves in a reactive position, struggling to identify
+emerging risks due to the inherent complexity of the global financial system.
+This brings me to my third question: How are the risks to the financial system
+evolving?
+In the field of cancer treatment, you will find that for some cancers, the largest
+contributor to a reduction in mortality is not new medication, but rather the reduction
+of risk factors. A prime example is smoking: as the number of people who smoke has
+declined, there has been a significant decline in lung cancer cases and the subsequent
+need for treatment.
+When we consider deregulation, we must ask ourselves whether the risk factors with
+the potential to destabilise the financial system have diminished. My assessment is
+that these risk factors have increased substantially. Allow me to provide a few
+examples.
+Macroeconomic and geopolitical instability
+4 See K Makrelov et al., 'Fiscal risks and their impact on banks' capital buffers in South Africa', South
+African Journal of Economics 91(1), pp116−134.
+5 See S Dahlgren et al., 'Assessment of the European Central Bank’s supervisory review and evaluation
+process: Report by the Expert Group to the Chair of the Supervisory Board of the ECB', April 2023.
+5
+The global environment is marked by elevated macroeconomic and geopolitical risks.
+The Bank for International Settlements (BIS), in its 2025 Annual Report,6 identifies the
+current historically high debt levels across many countries as a major risk to the global
+financial system. Similarly, in South Africa, we have also observed a build-up of fiscal
+risks.
+Meanwhile, global policy uncertainty has risen to unprecedented levels. This,
+combined with geopolitical tensions and economic fragmentation, undermines the
+global economy's capacity to act decisively in the face of major economic and financial
+shocks.
+If we desire lighter-touch regulation, we must first reverse the current macroeconomic
+and geopolitical trends. The world is living too dangerously for us to be dismantling
+defences now.
+Crypto assets and decentralised finance
+The second risk factor is the emergence of crypto assets and decentralised finance.
+Cryptocurrencies, stablecoins, non-fungible tokens and decentralised finance
+platforms make it challenging to identify beneficial owners and prevent money
+laundering and the financing of terrorism. The sustained growth rates of over 50% in
+some crypto assets suggest the formation of large asset bubbles.7,8
+These impacts will be amplified by the growing interconnectedness between traditional
+financial systems and crypto markets as well as the borderless nature of
+cryptocurrencies. Although some jurisdictions, including the United States and the
+European Union, have passed legislation to regulate stablecoins, current growth rates
+suggest that the build-up of financial risks continues.
+6 See BIS, Annual Report 2024/25, June 2025.
+7 See S L Náñez Alonso et al, 'Bitcoin’s bubbly behaviors: Does it resemble other financial bubbles of the
+past?', Humanities and Social Sciences Communications 11(1), p 715.
+8 As of 25 August 2025, the annual return on the Bloomberg Bitcoin Index is 83.9 %.
+6
+Technological advancements and financial innovation
+Technological advancements and financial innovation present a double-edged sword.
+While innovations such as artificial intelligence promise to make financial services
+cheaper, faster and more accessible, their reliance on complex and often untested
+systems creates new operational dangers. A failure in one of these core systems could
+trigger a cascading event, threatening the stability of the system.9
+And, while financial innovation can foster greater competition and drive inclusion, it
+may also encourage increased risk-taking.10
+Regulators failed to foresee how the bundling of high-risk subprime mortgages into
+complex financial instruments could trigger the GFC. Today, the financial landscape is
+marked by even higher levels of complexity. In this context, it is often difficult to clearly
+identify the vulnerabilities until they trigger a crisis.
+Climate change
+We are also confronted with risks associated with climate change. Various institutions
+have attempted to estimate their impact. The most recent scenarios from the Network
+for Greening the Financial System indicate that, under a ‘current policy’ scenario, the
+physical impacts of climate change – such as more frequent and severe extreme
+weather events – could result in global GDP losses of around 15%.
+Our own work shows that the South African banking sector’s exposure to transition-
+sensitive sectors is approximately 35% of total credit exposure, which suggests a high
+vulnerability to transition risks.11
+9 See Financial Stability Board, 'The financial stability implications of artificial intelligence', November
+2024.
+10 See E Feyen et al., 'Fintech and the future of finance: Market and policy implications', World Bank
+Group, 2023.
+11 See P Monnin et al., ‘Transition and systemic risk in the South African banking sector: Assessment and
+macroprudential options’, South African Reserve Bank Working Paper Series WP/24/12, July 2024.
+7
+The Financial Stability Board’s Roadmap for Addressing Financial Risks from Climate
+Change12 identifies four priority areas: (i) improving disclosure; (ii) data; (iii)
+vulnerability analysis; and (iv) developing appropriate regulatory and supervisory
+practices and tools. The most recent progress update, published in July, indicates that
+while significant progress has been made, the work is still foundational in nature.
+In South Africa, we have already published guidance notes for insurance companies
+and banks on climate-related disclosure, governance and risk management practices.
+However, our ability to effectively address climate-related risks is hindered by
+considerable data gaps and the unreliable estimates of their possible impacts.
+What is particularly concerning is that every year some institution provides estimates
+about the frequency and severity of extreme weather events expected over the next
+30 years, only for us to realise a year later that these estimates underestimated the
+actual impact of the events. Efforts to achieve greater coordinated climate change
+mitigation should become a bigger focus.
+Non-bank financial institutions
+A final risk is the growth of non-bank financial institutions. These institutions play a
+crucial role in the financial system, yet often operate outside the regulatory framework.
+Their diverse nature, rapid evolution, interconnectedness with the traditional banking
+system, and inherent vulnerabilities − such as liquidity mismatches and leverage −
+present significant challenges to financial regulators.
+In addition, there are many other risk factors that justify more, not less, regulation,
+including cybersecurity and money laundering risks. In the case of South Africa, the
+Financial Action Task Force (FATF) greylisting underscores some of the gaps in our
+financial regulation.
+While there may be limited scope for deregulation, there is considerable room to
+improve regulation and make certain functions more effective. For example, risk
+12 The roadmap is available at https://www.fsb.org/2025/07/fsb-roadmap-for-addressing-financial-risks-
+from-climate-change-2025-update/
+8
+weights assigned to infrastructure projects in Africa remain excessively high, even
+though their failure rates are lower than in other jurisdictions.13 Further, government
+bonds are still classified as high-quality liquid assets, even in jurisdictions facing
+imminent fiscal crises.
+Therefore, risk assessment must become more reflective of the current economic and
+financial environment.
+I will now turn to my final question: How do we develop the necessary skills to
+manage risks effectively?
+Different groups will make different contributions to financial stability. Academics,
+policymakers and market practitioners all have different roles.
+Many of you here today are likely to be university-based financial regulation experts.
+Whether your background is law, economics or actuarial science, your role as an
+academic is both unique and crucial in helping society navigate changing and often
+challenging environments. At its core, your responsibility is simply to educate
+individuals and conduct high-quality research. This work is absolutely fundamental to
+navigating the complexities of the regulatory landscape. Allow me to explain.
+Becoming a proficient regulator, like many other professions, requires a solid
+interdisciplinary foundation and the ability to think critically. Many of these foundational
+skills must be developed during university training. The rapidly changing financial
+sector requires regulators to continually develop new skills, and training programmes
+must adapt to these new conditions. This begs the question: How many universities in
+South Africa offer postgraduate training in financial market operations and regulation?
+The answer, regrettably, is not many, despite the financial sector being the largest in
+the South African economy.
+13 See W Gbohoui et al., ‘Sub-Saharan Africa’s risk perception premium: In the search of missing factors’,
+International Monetary Fund Working Paper No. 2023/130, June 2023.
+9
+When it comes to research, its purpose is not only to inform, but also to hold financial
+regulators and firms accountable. It is a critical component in improving policy
+development and ensuring accountability in the regulatory environment.
+Sometimes, poor university research is used to justify flawed policies or to discredit
+public institutions. As we contend with a proliferation of misinformation, it is essential
+for the academic community to ensure its members adhere to the highest academic
+standards to improve policymaking.
+Conclusion
+In conclusion, the global environment has become more uncertain, and many of the
+critical risk factors for financial stability have intensified. To effectively navigate the
+modern financial landscape, central banks and regulators must embrace technology
+such as artificial intelligence for risk analysis, rapidly integrate climate-related risks
+into supervisory frameworks, and enhance international and cross-sector collaboration
+to prevent regulatory divergence.
+We do not need deregulation. Instead, we can regulate more smartly, but the risk
+environment requires us to step up, not step back. The most effective policy actions
+are those that are informed by robust analysis and which are coordinated across policy
+areas, institutions and countries. In this environment, academic institutions play a
+critical role by providing research, holding financial regulators accountable, and
+protecting their independence.
+Thank you.
+10
+References
+Bank for International Settlements (BIS). 2025. Annual Report 2024/25. Basel: BIS.
+Dahlgren, S et al. 2023. 'Assessment of the European Central Bank’s Supervisory
+Review and Evaluation Process: Report by the Expert Group to the Chair of the
+Supervisory Board of the ECB'. Frankfurt am Main: European Central Bank.
+Dell'Ariccia, G et al. 2018. 'Managing the sovereign-bank nexus', International
+Monetary Fund (IMF) Departmental Paper No. 18/16. Washington, DC: IMF.
+Feyen, E et al. 2023. 'Fintech and the future of finance: Market and policy
+implications' Washington, DC: World Bank Group.
+Financial Stability Board (FSB). 2024. 'The financial stability implications of artificial
+intelligence', Basel: FSB.
+Gbohoui, W, Oudedraogo, R and Some, Y M. 2023. 'Sub-Saharan Africa's Risk
+perception premium: In the search of missing factors'. International Monetary Fund
+(IMF) Working Paper No. 2023/130. Washington DC: IMF.
+Makrelov, K et al. 2023. 'Fiscal risks and their impact on banks' capital buffers in
+South Africa'. South African Journal of Economics 91(1): 116−134.
+Merrino, S and Harris, L. 2025. 'Basel III and South African banking: Assessing the
+effects'. South African Journal of Economics 93(1): 3−5.
+Monnin, P, Sikhosana, A and Singh, K. 2024. 'Transition and systemic risk in the
+South African banking sector: Assessment and macroprudential options'. South
+African Reserve Bank (SARB) Working Paper Series WP/24/12. Pretoria; SARB.
+Náñez Alonso, S L et al. 2024. 'Bitcoin’s bubbly behaviors: Does it resemble other
+financial bubbles of the past?' Humanities and Social Sciences Communications
+11(1): 715.
+Reinhart, C M and Rogoff, K S. 2009. 'The aftermath of financial crises'. American
+Economic Review 99(2): 466−472.
+11

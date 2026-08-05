@@ -1,0 +1,307 @@
+Titulo: Fundi Tshazibana | Promoting green finance: The role of central banks in supporting sustainable investments
+Data: 2025-11-27
+Palestrante (estimado): Fundi Tshazibana
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2025/tshazibana-aacb-green-finance
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2025/tshazibana-aacb-green-finance.pdf)
+----------------------------------------------------------------------
+
+Address by Fundi Tshazibana,
+Deputy Governor of the South African Reserve Bank,
+at the Association of African Central Banks Symposium,
+27 November 2025
+Promoting green finance: The role of central banks
+in supporting sustainable investments
+Introduction
+Thank you for the invitation to speak today on the role of central banks in supporting
+sustainable investments by promoting green finance.
+In recent years, we have all witnessed the devastating consequences of increasingly
+frequent and severe droughts and floods. These climate-related events exert a
+significant toll, both in terms of direct insurance costs and broader economic losses.
+The financial burden imposed by such disasters is substantial, and the negative effects
+on national and regional economies are unmistakable. Empirical evidence
+underscores the scale of these challenges. For instance, droughts in the Southern
+African Development Community (SADC) region can reduce a country’s gross
+domestic product (GDP) per capita by approximately 18%.1 As climate events
+intensify, the adverse impact on GDP will only become more pronounced, affecting
+livelihoods, economic growth and long-term development prospects.
+Moreover, the ramifications extend beyond immediate physical and economic
+damages. International policy developments such as the introduction of carbon border
+adjustment mechanisms have the potential to increase export costs for affected
+1 T Gwatidzo, ‘Analysing the impact of climate change on economic growth in the SADC region: a
+synthetic control approach’, SARB Working Paper Series WP/25/17, 23 October 2025. Link
+1
+countries. These mechanisms may also restrict capital inflows, compounding existing
+economic pressures.
+Taken together, these combined pressures – the direct costs of climate events and the
+indirect effects of evolving international policies – pose serious risks to both price
+stability and overall financial stability. Addressing these challenges is therefore critical
+for safeguarding economic resilience and ensuring sustainable growth in the face of a
+changing climate.
+To minimise these effects, we require increased funding to enhance economic
+resilience and drive the green transition. However, current investment levels fall short.
+The Climate Policy Initiative (CPI) measured South Africa’s climate finance flows at
+R188.3 billion over the period 2022 to 2023 – less than half the R499 billion needed
+annually to meet the country's targets.2 Only 23% of Africa’s broader climate funding
+needs are currently being met.3 Given this significant financing gap, scaling up finance
+remains an absolute imperative.
+The question is, what role should central banks play in addressing this funding
+gap?
+Some may argue that the central bank should simply provide the necessary funding,
+often in the form of direct support to governments. This approach suggests bypassing
+the development of financial markets altogether, effectively replacing them with central
+bank interventions. However, there are several compelling reasons why this is not an
+advisable path. In its most extreme form, direct central bank funding can have severe
+negative consequences. It has been shown to result in high inflation, depreciation of
+the currency, an increase in low-productivity investments and, perhaps most critically,
+a loss of central bank credibility.
+Historical experiences underscore these risks. A recent paper from the South African
+Reserve Bank’s (SARB) Economic Research Department highlights the outcomes of
+macroeconomic policies in Latin America during the 1980s and 1990s.4 During this
+period, measures such as large banking sector bailouts, forced lending and the
+monetisation of fiscal deficits led to episodes of hyperinflation and a significant erosion
+of central bank trust and credibility. If similar monetisation approaches were applied to
+green finance, we could expect comparable destabilising results.
+2 C Meattle, M Taylor, M Price and P de Aragão Fernandes, ‘The South African Climate Finance
+Landscape 2025’, Climate Policy Initiative, 27 October 2025. Link
+3 C Meattle et al, ‘Landscape of Climate Finance in Africa 2024’ Climate Policy Initiative, 22 October
+2024. Link
+4 J Naidoo, ‘Economic policy and aggregate outcomes in South Africa and selected Latin American
+countries, 1994-2024’, South African Reserve Bank Working Paper Series, forthcoming.
+2
+Even in less extreme scenarios, central bank efforts to directly provide green finance
+to governments can have unintended consequences. Such interventions may end up
+increasing funding for both environmentally sustainable (green) and unsustainable
+(brown) investments, leading to allocative inefficiency.5 This is problematic, as the
+primary objective is to channel funds specifically towards green initiatives.
+In summary, replacing the role of financial markets is not the solution. Instead, the
+focus should remain on fostering the creation and development of robust financial
+markets. This is the most effective and sustainable way to scale up green finance and
+support the broader goal of sustainability.
+Deepening African financial markets for green finance
+Currently, African financial markets remain shallow. Excluding South Africa, stock
+market capitalisation in many nations is below 30% of GDP, and private sector credit
+averages roughly 28% of GDP.6 These figures are significantly lower than the 100%
+or more typically observed in developed economies. It is clear that, to effectively
+mobilise both domestic and international resources for climate and sustainability goals,
+deepening financial markets across the continent is essential.
+Developing robust financial markets requires a coordinated approach that involves all
+levels of government. This process must be underpinned by macroeconomic stability,
+effective financial regulation and the establishment of reliable market infrastructures.
+These foundational elements are necessary to address existing frictions and enable
+the efficient allocation of resources.
+Given the breadth of this topic, I will focus on three key strategies that can support the
+development of financial markets in Africa:
+• Improving information flows: Enhancing transparency and the availability of
+reliable data is crucial for market participants, allowing for better decision-making
+and risk assessment.
+• Addressing insurance gaps to scale up funding: Identifying and closing gaps in
+insurance provision can help attract greater investment by reducing risk and
+enhancing market confidence.
+• Removing unnecessary regulatory obstacles that hinder green funding:
+Streamlining regulations and removing barriers can facilitate the flow of capital to
+sustainable and environmentally friendly investments.
+5 Institute for Climate Economics, Using credit lines to foster green lending: opportunities and
+challenges, September 2017. Link
+6 European Investment Bank, Finance in Africa, 2024. Link
+3
+Improving information flows
+Financial stability is the cornerstone of an effective and functioning market. Without it,
+the flow of funds ceases and markets become obstructed by three well-known frictions:
+(i) information asymmetry; (ii) moral hazard; and (iii) adverse selection. These
+challenges can significantly impede the allocation of capital and undermine the
+confidence required for investment and growth. Central banks and financial sector
+supervisors play a pivotal role in mitigating these risks. Their work ensures that the
+financial system remains resilient in the face of economic shocks by maintaining
+stability and addressing sources of market friction. This oversight is particularly vital
+when considering the transition to a greener economy.
+In the context of climate change, scaling up green funding presents unique challenges.
+If market participants are unable to internalise climate risks within their decision-
+making processes, or if there is no clear distinction between environmentally harmful
+(‘brown’) and sustainable (‘green’) activities, the market for green finance cannot
+develop efficiently. Transparency and clarity in the classification of financial products
+and activities are therefore essential.
+To address these issues and prevent frictions from obstructing progress in green
+finance, three key interventions should be prioritised:
+• Enhancing information flows: Improving the quality and availability of data enables
+market participants to make informed decisions and accurately assess risks.
+• Addressing moral hazard: Implementing mechanisms that align incentives and
+responsibilities helps prevent undue risk-taking and promotes accountability
+among financial actors.
+• Preventing adverse selection: Establishing clear standards and classifications for
+green and brown activities ensures that capital is allocated to genuinely
+sustainable investments, supporting market integrity and confidence.
+These interventions are critical for overcoming information asymmetries and other
+market frictions, thereby enabling the development and scaling of green finance
+initiatives.
+1. Ensure consistent and credible labelling of green finance instruments using green
+finance taxonomies
+Taxonomies serve as a foundation for the development of green financial markets,
+including carbon markets. By establishing a clear classification system rooted in
+environmental integrity and social safeguards, taxonomies enable financial sector
+participants to confidently and efficiently identify, track, monitor and demonstrate the
+credentials of their green activities. This structured approach helps to prevent
+4
+greenwashing, ensuring that investments and financial products labelled as ‘green’
+genuinely contribute to sustainable outcomes. Furthermore, with international
+alignment and interoperability, taxonomies provide a universal language for green
+finance.7 This global consistency minimises the reporting requirements for market
+participants, facilitating smoother cross-border transactions and enhancing
+transparency across jurisdictions.
+2. Ensure that financial institutions manage and disclose risks related to climate
+change and nature degradation
+Both the Network for Greening the Financial System (NGFS) and the Basel Committee
+on Banking Supervision have established clear principles for managing climate-related
+risks.8 These frameworks require banks to actively identify, monitor and mitigate risks
+associated with climate change.
+Central banks and financial sector supervisors play a critical role in ensuring that
+climate-related risks are not treated as abstract concepts. Instead, these risks must
+be embedded within banks’ core strategies and risk management processes. This
+approach ensures that climate factors are considered in decision-making at all levels
+of the institution, enhancing overall resilience. By integrating climate-related risks into
+their risk management frameworks, financial institutions are better positioned to
+address vulnerabilities – whether arising from exposure to carbon taxes or from
+physical risks such as flooding. This comprehensive approach supports the stability
+and soundness of the financial system.
+In the South African context, banks have already begun to implement practical tools
+such as heatmaps and asset-tagging to identify and assess climate-related exposures.
+The data gathered through these methods is essential; it enables banks to engage
+proactively with their clients and to scale up green funding. This includes supporting
+existing clients as they manage their transition to more sustainable practices.
+3. Understanding the impacts of climate change and nature degradation on price and
+financial stability
+As the membership of the NGFS has expanded to include 144 member countries, we
+are observing that jurisdictions are now assessing the impact of climate-related risks
+by combining country-specific analysis with NGFS scenarios, which model a range of
+plausible futures and risks. The NGFS continually refines its granular data on transition
+7 Sustainable Banking and Finance Network (SBFN), SBFN Toolkit: Sustainable Finance Taxonomies,
+2024. Link
+8 Network for Greening the Financial System (NGFS), Guide for Supervisors: Integrating climate-
+related and environmental risks into prudential supervision, May 2020. Link; and Basel Committee on
+Banking Supervision, Principles for the effective management and supervision of climate-related
+financial risks, June 2022. Link
+5
+pathways, climate impacts and macro-financial indicators.9 This shared learning
+process allows us to leverage collective expertise rather than working in isolation. The
+availability of this scenario has helped enhance understanding of long-term and now
+short-term risks as well.
+In addition to scenarios, the NGFS provides analysis and modelling to assist central
+banks, financial sector supervisors and financial sector participants to deepened
+understanding on the impacts on price and financial stability. This analysis has
+contributed to international discussions and the work of standard-setting bodies, and
+can anchor national discourse by providing the evidence base needed for effective
+policy coordination.
+Addressing insurance gaps to scale up funding
+Insurance gaps represent a major challenge. This was particularly highlighted during
+South Africa’s Group of Twenty (G20) Presidency. Insurance is closely intertwined with
+funding: for example, securing a mortgage is often contingent on having property
+insurance, while agricultural loans are typically linked to crop insurance.
+Despite these clear connections, insurance penetration across our continent remains
+considerably below the global average, leaving communities and economies
+dangerously exposed to climate-related shocks. This situation creates a vicious cycle.
+As climate risks increase, the cost of insurance rises, resulting in even greater gaps in
+coverage. These gaps intensify our vulnerability to environmental and financial risks.
+Barriers to insurance penetration
+There are significant barriers on both the demand and supply sides of the insurance
+market. On the demand side, consumers contend with low incomes, limited financial
+literacy, and a lack of trust in insurance providers. These factors inhibit the uptake of
+insurance products. On the supply side, local insurers face challenges such as
+underdeveloped markets and insufficient quality data, which hinders their ability to
+accurately price risk and offer suitable products.
+Collaborative solutions
+Despite these obstacles, solutions are within reach. The development of affordable
+insurance products requires robust collaboration among the public sector, insurers and
+international partners.10
+9 NGFS Scenarios Portal: Link
+10 International Association of Insurance Supervisors (IAIS) and World Bank Group, G20 Sustainable
+Finance Working Group input paper, ‘Identify and address insurance protection gaps’, July 2025. Link
+6
+Public-private insurance programmes illustrate the potential of such partnerships,
+leveraging the unique strengths of each stakeholder:
+• Central banks and financial sector supervisors offer regulatory and supervisory
+oversight as well as expert advice.
+• Governments, international organisations and multilateral development banks
+provide financial and technical support and facilitate access to essential data.
+• Insurers contribute expertise in underwriting, risk assessment and claims
+management.
+• Civil society plays a critical role in advising on relative priorities, ensuring that
+solutions address the most pressing needs.
+By fostering these collaborative efforts, it is possible to design effective and affordable
+insurance products that help close the coverage gap and strengthen resilience to
+climate risks.
+Removing unnecessary regulatory obstacles that hinder green funding
+In addition to addressing insurance gaps, it is essential for central banks and financial
+sector supervisors to conduct a thorough review of the specific rules that govern bank
+capital. This is an area where there is often significant pressure to remove what are
+perceived by some as obstacles to green finance.
+There are frequent proposals to lower risk weights for green financial instruments.
+However, the current body of evidence does not conclusively show that green assets
+are inherently less risky than their counterparts. As a result, adjusting risk weights in
+favour of green assets is typically not seen as a risk-based measure, but rather as a
+policy tool intended to influence pricing within the broader economy.
+Such an approach requires caution. Utilising risk weights as a policy tool presents two
+main dangers: first, it has the potential to undermine financial stability; and second, it
+constitutes a clear example of regulatory mission creep, where financial regulation is
+used to pursue policy objectives beyond its original scope.
+Nonetheless, it is important to recognise that certain aspects of the prudential
+regulatory framework may inadvertently restrict the development of markets. The
+Glasgow Financial Alliance for Net Zero (GFANZ), through its consultations with
+institutions lending to emerging markets and developing economies, has identified two
+primary barriers in this regard.11 These are:
+11 GFANZ inputs included in Institute of International Finance (IIF), Policy paper. ‘Lifting Prudential
+Barriers to Mobilizing Private Capital for Development Finance’ 26 March 2025. Link
+7
+• Treatment of direct and implicit risk mitigation provided by multilateral
+development banks, development finance institutions and other publicly
+funded institutions. The current regulatory framework for banks undervalues
+credit guarantees and fails to acknowledge the protections offered by multilateral
+development banks and development finance institutions, such as preferred
+creditor status. This hinders, for example, the use of blended instruments to
+reduce risk exposure.
+• Treatment of project financing. Data show that project finance default rates are
+lower than investment-grade corporates after five years. Yet, these ‘green’ loans
+face higher capital charges than unrated firms. The regulatory frameworks lack
+granularity and fail to recognise that risk decreases over time.
+Enhancing risk frameworks to support green financing
+Improving the effectiveness of risk frameworks is an essential step in removing
+unjustified barriers to green financing, particularly in emerging markets and developing
+economies.
+By enhancing information flows and fostering collaboration among key stakeholders,
+it is possible to conduct targeted research and gather comprehensive evidence. This
+process will help ensure that risk frameworks are accurately calibrated to reflect the
+true risks associated with green projects.
+Such efforts will not only identify and address unintended obstacles but will also build
+a strong case for necessary adjustments in international regulatory standards.
+Ultimately, these findings and recommendations should be brought to the attention of
+the Basel Committee on Banking Supervision, ensuring that the global regulatory
+environment evolves in a manner that supports increased green investment while
+maintaining financial stability.
+Conclusion
+To conclude, Africa faces a significant financing gap in meeting its green transition
+goals. Despite the scale of this challenge, it is essential to recognise that the answer
+does not lie in central banks stepping in to directly provide funding and supplanting
+market mechanisms. Experience has shown that such interventions undermine the
+credibility of monetary authorities and often lead to inflationary pressures, without
+effectively addressing the fundamental issue of insufficient capital.
+The most effective and sustainable approach is to focus on developing deep, liquid
+and resilient financial markets. This enables both domestic and international capital to
+be mobilised for the continent’s green transition, ensuring that resources are allocated
+efficiently and transparently.
+8
+To support this transition, it is crucial to deliver on three key regulatory priorities:
+• Improving information flows: Enhancing transparency and access to data is vital
+for informed investment decisions and risk assessment.
+• Bridging the insurance gap: Addressing shortcomings in risk mitigation
+instruments is necessary to protect investments and encourage participation in
+green projects.
+• Removing regulatory obstacles: Streamlining and refining regulations will help
+eliminate unintended barriers and facilitate the flow of capital to where it is most
+needed.
+While the transition to a green economy presents complex challenges, the mandate is
+clear.
+Regulators must provide a stable, transparent and efficient framework that enables
+capital to flow freely.
+In doing so, we will not only safeguard the integrity of the financial system but also
+empower financial institutions and markets to drive the sustainable growth and
+development that Africa requires.
+Thank you.
+9

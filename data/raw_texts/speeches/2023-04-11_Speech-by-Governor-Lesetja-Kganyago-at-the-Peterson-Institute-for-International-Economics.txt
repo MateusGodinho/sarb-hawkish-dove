@@ -1,0 +1,321 @@
+Titulo: Speech by Governor Lesetja Kganyago at the Peterson Institute for International Economics
+Data: 2023-04-11
+Palestrante (estimado): Governor Lesetja Kganyago
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2023/Speech-by-Governor-Lesetja-Kganyago-at-the-Peterson-Institute-for-International-Economics
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2023/gov-kganyago/Speech%20by%20Governor%20Kganyago_Peterson%20Institute%20for%20International%20Economics_11%20April%202023.pdf)
+----------------------------------------------------------------------
+
+Globalised stagflation and the emerging market response
+An address by Lesetja Kganyago,
+Governor of the South African Reserve Bank,
+at the Peterson Institute for International Economics,
+Washington, 11 April 2023
+Introduction
+Ladies and gentlemen, it is a great pleasure to be invited back to the Peterson Institute.
+While advanced economies dominate the newsprint, I want to speak today about how
+the global inflation problem impacts emerging economies, and South Africa
+specifically.
+A broad spectrum of emerging economies are experiencing inflation rates that are
+persistent and well above target. And yet, five years ago, many emerging and
+developing countries seemed on a steady path towards lower, and more stable
+inflation. Are emerging economies able to get back onto that path, given the
+challenges presented by the current global environment?
+The short answer to this must be ‘yes’, but we need to recognise that doing so will not
+be easy. Certainly, the headwinds to constructive policymaking have increased and
+global conditions are far from benign. The surge in global inflation and the many
+accompanying structural changes risk pushing emerging economies away from better
+policies.
+I believe there are some grounds for optimism, despite the headwinds. In particular,
+we can build on the experience we have gained in emerging market central banking
+and monetary policy in addressing stagflation. A key lesson from our collective
+1
+experience has to do with how central banks can use transparency to improve the
+effectiveness of monetary policy. For advanced economies, arguably, the stagflation
+challenge demands better communications and clarity of policy. For emerging
+economies, many of which moved faster to tighten policy, central bank transparency
+can play a role in setting the tone for public policy more broadly, helping to ease or
+resolve our particular non-monetary constraints to better inflation outcomes.
+The South African approach has been to speak clearly to the monetary policy
+challenges we face and to highlight the constraints to better results, even if these lie
+outside the immediate span of monetary policy. This has not won us many friends, but
+it has helped to foster a better public discussion about the challenges holding back our
+economy.
+I want to spend some time today discussing the shift in global inflation from one
+paradigm to another, and then discuss how these challenges impact policymaking in
+emerging economies, with particular reference of course to South Africa.
+Genesis of a global inflation shock
+In late 2019, before the COVID-19 pandemic, inflation was expected to remain low, or
+even fall further. In October 2019, the International Monetary Fund (IMF) forecast
+inflation of 2.0% for advanced economies and 4.3% for emerging and developing
+economies. For the latter countries, this was more than 2 percentage points below the
+average of the previous decade. The COVID-19 shock reinforced expectations of more
+disinflation, and short-term inflation projections duly fell, alongside market-based
+measures of inflation expectations.
+Within two years, advanced economies experienced their highest inflation rates in
+decades, and very few emerging countries (with the notable exception of China) were
+left unscathed. Inflation has become both more persistent and broader-based, whether
+you look at the common component of individual price patterns or at diffusion indices.1
+So, what happened?
+1 “Drivers of Post-pandemic Inflation in Selected Advanced Economies and Implications for the Outlook”,
+FedsNotes, Board of Governors of the Federal Reserve System, January 13, 2023
+2
+With hindsight, we know that the world-wide lockdowns and staggered reopenings that
+followed generated multiple supply-demand mismatches. Complex supply chains only
+proved as resilient as their weakest link, resulting in bottlenecks and rising delivery
+lags. Disruptions to global trade were global and dramatic.2 Restrictions on activity
+persisted and demand rotated towards consumer goods, a surprise that quickly
+depleted industrial and retail inventories. The reopening was long and drawn out.
+Firms struggled to re-hire employees laid off months earlier and labour force
+participation plummeted, eventually causing widespread labour shortages.
+Given this turmoil in the global economy, the Russian invasion of Ukraine was sure to
+roil markets and supply chains further, as unhelpful and tragic as it was
+incomprehensible.
+Not all these developments were outside the purview of policymakers. As the
+consensus saw risks skewed towards disinflation at the start of the pandemic, so
+policymakers responded forcefully to the shock. Policy rates were slashed, often to
+zero.3 Central banks, including in some emerging countries, purchased fixed-income
+securities. Governments boosted cash transfers to households and firms.
+Policymakers also drew lessons from the period following the Global Financial Crisis
+(GFC) and kept stimuli in place, well after economies had reopened.4 The impact on
+demand was massive and with supply still constrained, it compounded the growing
+inflation problem. With hindsight, this was a policy error.5
+These policy responses also exacerbated the demand-supply imbalances in labour
+markets, adding another channel for inflation pressures. Ample cash transfers allowed
+2 “Growing challenge of empty container returns adds to US supply chain disruption”, Journal of Commerce,
+August 18, 2022
+3 By March 2020, the US Fed Funds rate had been lowered to a range of 0–0.25% (a cumulative 150 basis
+points reduction since the start of that year). The Bank of England similarly lowered its policy rate by 65 basis
+points to 0.1% over the same period. Meanwhile, the European Central Bank and Bank of Japan maintained
+their policy rates at their long-standing levels of 0% and -10% respectively. Interest rate adjustments were also
+accompanied by large asset purchases.
+4 Economies implemented additional supplementary relief measures throughout 2021: The EU adopted a
+EUR672.5 bn Recovery and Resilience Facility (RRF) in February 2021; and the US, a USD 1.9 tr COVID relief bill
+in March 2021. Japan approved a USD490 bn stimulus package in November 2021.
+5 The GFC did not constrain supply in the same way as the pandemic, or for so long, so production could
+efficiently respond to sustained demand where it was offered.
+3
+many workers to ‘pick and choose’ from offers, while hybrid work changed the
+geographical distribution of labour supply. At a time when shifting spending patterns
+altered the demand for labour, mismatches grew, putting upward pressure on wages.
+Perhaps the biggest single problem had to do with how all this stimulus was positioned
+as a ‘new’ policy that would be kept in place for an extended time. I would characterise
+this as an adverse, unintended consequence of policy commitment and credibility.
+Providing more certainty to markets than was possible, we central bankers positioned
+shifts in stance too often and fully as policy change, at the wrong time. When we over-
+draw these changes, our ability to change direction is compromised. When the data
+further puts our commitment into question, we get sharply higher uncertainty and
+volatility.
+Imbalances persist
+As we stand now, some of the supply/demand mismatches I just described have
+abated. Natural gas prices are back near pre-war levels. Global prices of food
+commodities have declined and shipping costs normalised. Supply bottlenecks have
+eased, and delivery lags are again in line with historical norms.
+Yet not all imbalances have been resolved. Three years since the pandemic started,
+labour markets remain tight, with unusually high levels of vacancies relative to (low)
+unemployment levels.6 Furthermore, while year-on-year rates of inflation have peaked
+in most economies, the latest readings in major countries have shown stronger short-
+term momentum in consumer prices. Services prices and core goods prices are either
+sticky or have re-accelerated, and with wages continuing to rise, the inflation
+environment is much more complex today.
+This places existing forecasting and macroeconomic models at serious risk of
+underperforming. Outdated data in advanced economies is one challenge. Another is
+simply the sharp rise in uncertainty and how it impacts on important model variables,
+like inflation expectations. As Lord Mervyn King observed, given the uncertainty, the
+6 This suggests persistent shifts in the supply of labour, with many workers either ‘opting out’ of employment, or
+taking early retirement, or waiting for better pay or working conditions – all factors putting upward pressure on
+wage inflation.
+4
+model assumption that inflation expectations remain anchored to target is too strong.7
+To complicate matters, our ability to derive useful conclusions from short-term data
+also requires humility. Short-term elasticities can be assumed to be in flux, but in what
+way? Is, for example, the pass-through of energy costs to final consumer prices
+stronger, faster, or more or less symmetric today than yesterday?8 Will falling energy
+prices have a measurable effect on wages that are rising for structural reasons?
+Our models tell us that declining real incomes significantly counters a surge in inflation.
+But the labour market behaviour causing that outcome has very likely changed.
+Economic policies and structural factors suggest stronger responses of nominal wages
+to inflation. Are the implied changes to our Phillips curves permanent or do we need
+to adjust to non-linearities and more microeconomic ways of analysing labour supply?9
+Companies’ profit margins have also increased, suggesting greater capacity of firms
+to pass through costs to consumers.10 Various explanations for this have been posited,
+some less influenced by economics. Before we can get to firm conclusions about this,
+it seems useful to sort through the interactions between the many short-term demand
+and supply forces, simultaneously affected by lockdowns, supply constraints and
+technological change.11
+It may also be the case that a switch has been flipped – the price-formation process
+has become dynamically less benign, as the Bank for International Settlements last
+year pointed out in its paper on regime shifts. Rather than understanding consumer
+prices as a fading reflection of relative price shocks, they may co-move in self-
+7 See for example “Central banks have ‘King Canute’ theory of inflation, says former Governor”, The Guardian,
+23 November 2021.
+8 See “Monetary policy after the energy shock”, Fabio Panetta, Member of the Executive Board of the ECB, 16
+February 2023, and Bloomberg Interview with Isabel Schnabel, Member of the Executive Board of the ECB, 15
+February 2023.
+9 Recent experience of large positive employment gaps (negative unemployment gaps) raising inflation
+significantly provides strong evidence for a non-linear Phillips curve. Central banks should therefore consider
+incorporating downward wage and price rigidity and non-linear Phillips curves into their macroeconomic
+models. See “25 Years of Excess Unemployment in Advanced Economies: Lessons for Monetary Policy”, Joseph
+E. Gagnon and Madi Sarsenbayev, Peterson Institute for International Economics, Working Paper 22-17,
+October 2022
+10 See Schnabel, 2023 (op. cit.)
+11 To give one example from South Africa, core goods prices are sharply higher on the back of imported
+automobile prices. Is this a permanent shift in pricing power on the part of manufacturers?
+5
+reinforcing ways – less a wave in a pond and more a tsunami building up as it gathers
+energy.12
+I am also not sure that we can simply say that labour market cost pressures are
+primarily a result of labour force participation rates that fell with the pandemic and will
+now rise again, easing wages. A case could be made that the drawing in of elderly
+workers in the pre-pandemic period reflected high demand and a shift away from a
+preference for leisure because, for various reasons, returns to work had risen and
+returns to savings had fallen, alongside other kinds of factors.13
+As I turn to central bank policy more directly, our inflation dynamics discussion also
+suggests that we may need to unlearn some lessons about cyclical policy from the
+GFC period. Rising debt with inflation and interest rates weakens the utility of fiscal
+and monetary expansion to address any source of slowing growth. This idea of policy
+inefficiency is a mainstay of emerging market policy thinking, but less commonly
+articulated in advanced economies.14
+This is not to say that central banks could have or should have stepped back from
+action in the pandemic, but it does prompt consideration of challenges to central bank
+policy in the wake of the pandemic.
+Inefficiencies in policy transmission and new trade-offs
+As inflation increased, central banks withdrew the stimulative policies put in place
+during the pandemic. However, it is less clear that we are now in unambiguously tight
+policy territory. Real rate levels are barely positive and still negative in much of the
+world, and easing inflation acts as less of a drag on economic activity.
+When we turn to nominal rates, we see they are acting on credit demand, in particular
+in important markets like housing. But their effects are less obvious in other areas, in
+part because of structural developments and more persistent relative price shocks
+stemming from climate change, technology and now geopolitics. Policy clarity is further
+12 “Inflation: A look under the Hood”, Bank for International Settlements, Annual Economic Report, 25 June
+2022
+13 Such as early retirement ages and preferences for work to provide meaning and belonging.
+14 “When is debt odious? A theory of repression and growth traps”, Viral Acharya, Raghuram Rajan and Jack
+Shim, NBER Working Paper Series, May 2020
+6
+undermined by the high degree of forecast uncertainty and the role of the
+unobservables. With so many structural changes occurring, potential GDP and neutral
+real interest rates are moving around.
+Such shocks will tend to muddy our sense of policy effectiveness and how we react in
+this environment. The possibility of over-tightening is clearly real, but central banks
+can also rectify their stance more quickly than in the event where they ‘under-tighten’.
+At this point in my story, it becomes hard to dodge the problems associated with
+financial institutions and financial stability more broadly. While most central banks will
+move quickly to cordon off financial stability concerns from monetary policy where a
+trade-off emerges, the neatness of this will always be suspect. There will always be a
+more or less constant second-guessing of the monetary stance where tightening
+needs to happen, leading to market volatility.
+More fundamentally, does the existence of such a trade-off undermine price stability?
+If our financial regulatory requirements imply savers’ deposits and investments at
+banks are at risk from market repricing, then do central banks have to permanently
+socialise losses just to keep the financial sector turning over? And with what long-term
+implications with respect to central bank finance, relationships with national treasuries
+and ultimately independence?
+South Africa in the emerging market universe
+Let me now turn to the situation of emerging countries. In a globalised world with long
+value chains, factors such as energy prices and shipping costs, shortages of semi-
+conductors or storage capacity will affect a broad set of prices in many countries.
+Integration in global food markets impacts local food prices. Common global factors,
+such as food and energy, also increasingly determine services prices.15 As the dollar
+has strengthened, the inflationary impact of currency depreciation has resurfaced, a
+result of the reduced appetite for risk and the relative attractiveness of EM assets.16
+15 Using principal component analysis, economists at UBS research recently identified that the share of price
+variance across countries explained by a global factor was at its strongest since 2007, not just for core goods
+(ex food and energy) but also for services. See “Global inflation is turning in all major subsectors”, Global
+Economic Perspectives, UBS, 17 February 2023
+16 ”Dollar invoicing and the heterogeneity of exchange rate pass-through”, Emine Boz, Gita Gopinath and
+Mikkel Plagborg-Møller, American Economic Association, May 2019
+7
+As global price pressures rose, inflation expectations also increased, reflecting our
+local propensity to stagflation.
+However, not every EM central bank faced the same price pressures, nor needed to
+respond in the same fashion. If we compare the response of monetary policy in South
+Africa to that of its emerging market peers, we see that it falls “somewhere in the
+middle”. Our repurchase (repo) rate currently stands at 7.75%, representing a
+cumulative increase of 425 basis points since we began raising rates in November
+2021, compared to the policy easing of 300 basis points in 2020 in response to the
+pandemic.
+Our inflation rate is 7.0% at present, or 5.2% when excluding food, petrol and energy.
+While both rates are still above the midpoint of our 3–6% target range, headline
+inflation is off its highs of a few months ago and compares favourably to our emerging
+market peers.
+Several factors probably explain why South Africa did not experience the same
+acceleration in prices as many other countries.
+First, budgetary stimulus in 2020 was relatively guarded, and successive budgets have
+strived for a primary surplus.
+Second, South Africa’s inflation target credibility helped to dampen the initial waves of
+global inflation, keeping inflation expectations muted for some time.17
+Third, the depth of our domestic capital markets has limited exposure to swings in hard
+currency interest rates, while South Africa’s net international investment position has
+remained positive in rand terms, suggesting little needed change in what is a beneficial
+level of international financial integration. Alongside a current account surplus from a
+robust terms of trade, relatively low levels of external and foreign currency-
+denominated debt, the currency played its role as an ‘automatic stabiliser’ without
+triggering financial concerns.
+17 Over the ten-year period running up to May 2022, when inflation breached the upper end of the target, 83%
+of the time monthly inflation was within the target band.
+8
+Implications for policy going forward
+With negative real policy rates and the accompanying commodity price boom, a large
+part of our recovery was demand driven. The terms of trade, fiscal expansion and the
+lower borrowing costs were, nonetheless, offset in part by higher household and
+corporate saving.18 Alongside very low potential growth, a function of energy
+constraints primarily, the output gap has been much smaller than expected and
+measured to be zero in recent quarters.
+The weak growth performance entails further risks in a world where globalisation is
+retreating, with real yields propped up by high borrowing demands and insufficient
+efforts to get growth moving. South Africa and other emerging economies need to work
+harder to attract capital.
+This is even more true in a world in which neutral real rates in advanced economies
+shift higher, a prospect that looks increasingly likely. In such conditions, emerging
+economies run a serious risk of becoming permanently more prone to currency
+depreciation and higher inflation. On its own, this prospect pulls up our neutral rates,
+and can only be combatted with more orthodox policy measures.
+Clearly, in South Africa, structural reforms and key deregulations of transport and
+electricity are critical. But so too is a shift in fiscal policy back to predictable,
+transparent rules. With the rise in debt created by our efforts to confront weakening
+growth and failures of state enterprises, there is little chance of improving credit quality
+without new rules and more strategic use of macroeconomic policy. A major benefit to
+fiscal policy and to stronger growth would be the implementation of a revised inflation
+target in South Africa. A lower target, sitting at 3%, would help dampen exchange rate
+volatility and sovereign risk, reduce the potential for upward drift in the real exchange
+rate, and materially lower debt service costs, primarily for the now over-indebted public
+sector.19
+18 Offsetting effects occurred in respect to volumes of exports and imports, even as price effects were strongly
+positive.
+19 “Monetary Policy in South Africa: 2007–21”, Patrick Honohan and Athanasios Orphanides, World Institute
+for Development Economic Research (UNU-WIDER), Working Paper 2022–29
+9
+Concluding remarks
+In conclusion, we look forward to further easing in global inflation and falling inflation
+expectations, in particular in emerging economies where they have ratcheted higher
+over the past year.
+Compared to the high inflation era of the 1970s, central bankers are probably better
+equipped to deal with the problem. We have a better understanding of the role of
+expectations in shaping price patterns, and of the relative importance of supply versus
+demand factors as well as better statistical tools to measure them. The inflation
+targeting framework now used by most central banks has provided a more solid anchor
+than the more ‘ad hoc’ approaches of those earlier high-inflation decades.
+However, complacency is a subtle enemy in this particular policy effort. It is true that
+central bankers are better able to address inflation should it stay high, but doing so
+effectively requires much greater fiscal complementarity and for good communications
+to play a critical role in keeping expectations in check. From the side of central banks,
+the policy challenge in communications should be achievable, even though credibility
+in the markets has deteriorated. I am less sanguine about policy coordination,
+particularly with fiscal authorities, when demands on the public purse are so high and
+some long-term costs, such as from financial bailouts, remain hidden from view.
+Should coordination take place, the institutional setup should be such that the remit of
+each of the authorities is clearly spelt out and accountability maintained.
+Perhaps the weakest link in our analytical and policy frameworks remains our ability
+to identify, measure and adjust to structural changes, such as climate change,
+demographics and labour markets, technology and trade. These drive relative price
+adjustments and create persistence in inflation but defy easy analysis. Central banks
+globally need to have more respect for these determinants of inflation, and advanced
+economies should consider taking greater comfort from minor recessions, instead of
+prolonged periods of weak growth that bedevil larger emerging economies like mine.
+Together, cyclical and ongoing structural forces will present a rich and varied set of
+topics for central banks to focus on in coming years. Let’s ensure we remain up for the
+challenge.
+10
+Thank you.
+11

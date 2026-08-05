@@ -1,0 +1,215 @@
+<title>SARB — Contribution to the combined index, last 3 years</title>
+
+<style>
+.viz-root {
+  color-scheme: light;
+  --surface-1:      #eaf2f8;
+  --page:           #f9f9f7;
+  --text-primary:   #0b0b0b;
+  --text-secondary: #52514e;
+  --muted:          #6b7580;
+  --grid:           #ffffff;
+  --baseline:       #0b0b0b;
+  --stmt:           #2a78d6;
+  --speech:         #eb6834;
+  --combined:       #0b0b0b;
+  --border:         rgba(11,11,11,0.10);
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:where(:not([data-theme="light"])) .viz-root {
+    color-scheme: dark;
+    --surface-1:      #1c2732;
+    --page:           #0d0d0d;
+    --text-primary:   #ffffff;
+    --text-secondary: #c3c2b7;
+    --muted:          #9aa5af;
+    --grid:           #2c3a47;
+    --baseline:       #ffffff;
+    --stmt:           #3987e5;
+    --speech:         #d95926;
+    --combined:       #ffffff;
+    --border:         rgba(255,255,255,0.10);
+  }
+}
+:root[data-theme="dark"] .viz-root {
+  color-scheme: dark;
+  --surface-1:      #1c2732;
+  --page:           #0d0d0d;
+  --text-primary:   #ffffff;
+  --text-secondary: #c3c2b7;
+  --muted:          #9aa5af;
+  --grid:           #2c3a47;
+  --baseline:       #ffffff;
+  --stmt:           #3987e5;
+  --speech:         #d95926;
+  --combined:       #ffffff;
+  --border:         rgba(255,255,255,0.10);
+}
+
+.viz-root { background: var(--page); padding: 24px; box-sizing: border-box; }
+.card {
+  background: var(--surface-1);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 18px 22px 12px;
+  max-width: 1100px;
+  margin: 0 auto 14px;
+}
+.card h1 { font-size: 16px; margin: 0 0 2px; color: var(--text-primary); font-weight: 600; }
+.card .sub { font-size: 12.5px; color: var(--text-secondary); margin-bottom: 12px; }
+.legend { display:flex; gap:16px; font-size:11.5px; color:var(--text-secondary); margin: 6px 0 2px; flex-wrap: wrap; align-items: center; }
+.legend .item { display:flex; align-items:center; gap:6px; }
+.legend .swatch { width:11px; height:11px; border-radius:2px; display:inline-block; }
+.legend .line { width:16px; height:2px; display:inline-block; background: var(--combined); }
+svg { width: 100%; height: auto; overflow: visible; display:block; }
+.axis-label { fill: var(--muted); font-size: 10.5px; }
+.grid-line { stroke: var(--grid); stroke-width: 1; }
+.baseline { stroke: var(--baseline); stroke-width: 1.2; }
+.bar-stmt { fill: var(--stmt); cursor: pointer; }
+.bar-speech { fill: var(--speech); cursor: pointer; }
+.combined-dot { fill: var(--combined); }
+#tooltip {
+  position: fixed; pointer-events: none;
+  background: var(--surface-1); border: 1px solid var(--border); border-radius: 8px;
+  padding: 9px 11px; font-size: 12px; color: var(--text-primary);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.18); max-width: 300px; display: none; z-index: 10; line-height: 1.5;
+}
+.note { font-size: 11.5px; color: var(--text-secondary); max-width: 1100px; margin: 8px auto 20px; padding: 0 4px; }
+</style>
+
+<div class="viz-root">
+  <div class="card">
+    <h1>SARB — Contribution to the combined index, last 3 years</h1>
+    <div class="sub">Henry (2008) index &middot; 1 bar per MPC meeting &middot; speeches between the previous meeting and this one are aggregated and attached to it</div>
+    <div class="legend">
+      <span class="item"><span class="swatch" style="background:var(--stmt)"></span> contribution from the statement itself</span>
+      <span class="item"><span class="swatch" style="background:var(--speech)"></span> contribution from the window's speeches</span>
+      <span class="item"><span class="line"></span> combined index</span>
+    </div>
+    <svg id="chart" viewBox="0 0 1060 360" preserveAspectRatio="xMidYMid meet"></svg>
+  </div>
+</div>
+
+<div class="note">Last 3 years (same decomposition as the full chart).</div>
+
+<div id="tooltip"></div>
+
+<script>
+const DATA = [{"date": "2023-09-21", "title": "Statement of the Monetary Policy Committee September 2023", "n_speech": 3, "avg_stmt": 0.6667, "avg_speech": 0.6165, "contrib_stmt": 0.1667, "contrib_speech": 0.4624, "combined": 0.6291, "x": 0}, {"date": "2023-11-23", "title": "Statement of the Monetary Policy Committee November 2023", "n_speech": 2, "avg_stmt": 0.6786, "avg_speech": 0.5416, "contrib_stmt": 0.2262, "contrib_speech": 0.3611, "combined": 0.5873, "x": 63}, {"date": "2024-01-25", "title": "Statement of the Monetary Policy Committee January 2024", "n_speech": 2, "avg_stmt": 0.6105, "avg_speech": 0.4867, "contrib_stmt": 0.2035, "contrib_speech": 0.3244, "combined": 0.5279, "x": 126}, {"date": "2024-03-27", "title": "Statement of the Monetary Policy Committee March 2024", "n_speech": 3, "avg_stmt": 0.5778, "avg_speech": 0.968, "contrib_stmt": 0.1444, "contrib_speech": 0.726, "combined": 0.8704, "x": 188}, {"date": "2024-05-30", "title": "Statement of the Monetary Policy Committee May 2024", "n_speech": 3, "avg_stmt": 0.9231, "avg_speech": 0.6748, "contrib_stmt": 0.2308, "contrib_speech": 0.5061, "combined": 0.7369, "x": 252}, {"date": "2024-07-18", "title": "Statement of the Monetary Policy Committee July 2024", "n_speech": 1, "avg_stmt": 0.8, "avg_speech": -0.023, "contrib_stmt": 0.4, "contrib_speech": -0.0115, "combined": 0.3885, "x": 301}, {"date": "2024-09-19", "title": "Statement of the Monetary Policy Committee September 2024", "n_speech": 4, "avg_stmt": 0.3297, "avg_speech": 0.8499, "contrib_stmt": 0.0659, "contrib_speech": 0.68, "combined": 0.7459, "x": 364}, {"date": "2024-11-21", "title": "Statement of the Monetary Policy Committee November 2024", "n_speech": 3, "avg_stmt": 0.3133, "avg_speech": 0.9398, "contrib_stmt": 0.0783, "contrib_speech": 0.7048, "combined": 0.7832, "x": 427}, {"date": "2025-01-30", "title": "Statement of the Monetary Policy Committee January 2025", "n_speech": 0, "avg_stmt": 0.3188, "avg_speech": null, "contrib_stmt": 0.3188, "contrib_speech": 0.0, "combined": 0.3188, "x": 497}, {"date": "2025-03-20", "title": "Statement of the Monetary Policy Committee March 2025", "n_speech": 1, "avg_stmt": 0.1687, "avg_speech": 0.5263, "contrib_stmt": 0.0843, "contrib_speech": 0.2631, "combined": 0.3475, "x": 546}, {"date": "2025-05-29", "title": "Statement of the Monetary Policy Committee May 2025", "n_speech": 2, "avg_stmt": -0.0952, "avg_speech": 0.6818, "contrib_stmt": -0.0317, "contrib_speech": 0.4546, "combined": 0.4228, "x": 616}, {"date": "2025-07-31", "title": "Statement of the Monetary Policy Committee July 2025", "n_speech": 1, "avg_stmt": 0.3797, "avg_speech": 0.24, "contrib_stmt": 0.1898, "contrib_speech": 0.12, "combined": 0.3098, "x": 679}, {"date": "2025-09-18", "title": "Statement of the Monetary Policy Committee September 2025", "n_speech": 4, "avg_stmt": 0.7742, "avg_speech": 0.5253, "contrib_stmt": 0.1548, "contrib_speech": 0.4203, "combined": 0.5751, "x": 728}, {"date": "2025-11-20", "title": "Statement of the Monetary Policy Committee November 2025", "n_speech": 6, "avg_stmt": 0.8, "avg_speech": 0.7133, "contrib_stmt": 0.1143, "contrib_speech": 0.6114, "combined": 0.7257, "x": 791}, {"date": "2026-01-29", "title": "Statement of the Monetary Policy Committee January 2026", "n_speech": 2, "avg_stmt": 0.5753, "avg_speech": 0.1684, "contrib_stmt": 0.1918, "contrib_speech": 0.1123, "combined": 0.304, "x": 861}, {"date": "2026-03-26", "title": "Statement of the Monetary Policy Committee March 2026", "n_speech": 1, "avg_stmt": 0.8197, "avg_speech": 0.25, "contrib_stmt": 0.4098, "contrib_speech": 0.125, "combined": 0.5349, "x": 917}, {"date": "2026-05-28", "title": "Statement of the Monetary Policy Committee May 2026", "n_speech": 3, "avg_stmt": 0.7042, "avg_speech": 0.4951, "contrib_stmt": 0.1761, "contrib_speech": 0.3713, "combined": 0.5474, "x": 980}, {"date": "2026-07-23", "title": "Statement of the Monetary Policy Committee July 2026", "n_speech": 6, "avg_stmt": 0.8267, "avg_speech": 0.7697, "contrib_stmt": 0.1181, "contrib_speech": 0.6598, "combined": 0.7779, "x": 1036}];
+const X_MIN = 0, X_MAX = 1036;
+const YEAR_STEP = 1;
+
+const svg = document.getElementById('chart');
+const W = 1060, H = 360;
+const M = {top: 14, right: 18, bottom: 32, left: 40};
+const plotW = W - M.left - M.right;
+const plotH = H - M.top - M.bottom;
+
+const allVals = DATA.flatMap(d => [d.contrib_stmt, d.contrib_speech, d.combined, 0]);
+const vMax = Math.max(...allVals, 0.2);
+const vMin = Math.min(...allVals, -0.2);
+const yMax = Math.ceil(vMax * 5) / 5 + 0.1;
+const yMin = Math.floor(vMin * 5) / 5 - 0.1;
+
+const barW = 8;
+
+function y(v) { return M.top + (1 - (v - yMin) / (yMax - yMin)) * plotH; }
+function xCenter(i) { return M.left + ((DATA[i].x - X_MIN) / (X_MAX - X_MIN)) * plotW; }
+
+function svgEl(tag, attrs) {
+  const el = document.createElementNS('http://www.w3.org/2000/svg', tag);
+  for (const k in attrs) el.setAttribute(k, attrs[k]);
+  return el;
+}
+
+for (let v = Math.ceil(yMin * 5) / 5; v <= yMax; v += 0.2) {
+  const gy = y(v);
+  const isZero = Math.abs(v) < 1e-9;
+  svg.appendChild(svgEl('line', {x1: M.left, x2: W - M.right, y1: gy, y2: gy, class: isZero ? 'baseline' : 'grid-line'}));
+  const lbl = svgEl('text', {x: M.left - 8, y: gy + 4, class: 'axis-label', 'text-anchor': 'end'});
+  lbl.textContent = v.toFixed(1);
+  svg.appendChild(lbl);
+}
+
+let lastYear = null;
+DATA.forEach((d, i) => {
+  const year = d.date.slice(0, 4);
+  if (year !== lastYear && (parseInt(year) % YEAR_STEP === 0)) {
+    const gx = xCenter(i);
+    const lbl = svgEl('text', {x: gx, y: H - M.bottom + 16, class: 'axis-label', 'text-anchor': 'middle'});
+    lbl.textContent = year;
+    svg.appendChild(lbl);
+    lastYear = year;
+  } else if (year !== lastYear) {
+    lastYear = year;
+  }
+});
+
+const tooltip = document.getElementById('tooltip');
+
+function addSegment(i, d, value, cls) {
+  if (value === 0) return;
+  const cx = xCenter(i);
+  const x0 = cx - barW / 2;
+  const yTop = y(Math.max(value, 0));
+  const yBot = y(Math.min(value, 0));
+  const h = Math.max(yBot - yTop, 0.5);
+  const rect = svgEl('rect', {x: x0, y: yTop, width: barW, height: h, class: cls, rx: 2});
+  rect.addEventListener('mouseenter', (ev) => showTooltip(ev, d));
+  rect.addEventListener('mousemove', positionTooltip);
+  rect.addEventListener('mouseleave', () => tooltip.style.display = 'none');
+  svg.appendChild(rect);
+}
+
+DATA.forEach((d, i) => {
+  if (d.contrib_stmt >= 0 && d.contrib_speech >= 0) {
+    addSegment(i, d, d.contrib_stmt, 'bar-stmt');
+    const cx = xCenter(i);
+    const x0 = cx - barW / 2;
+    const yTop = y(d.contrib_stmt + d.contrib_speech);
+    const yBot = y(d.contrib_stmt);
+    const rect = svgEl('rect', {x: x0, y: yTop, width: barW, height: Math.max(yBot - yTop, 0.5), class: 'bar-speech', rx: 2});
+    rect.addEventListener('mouseenter', (ev) => showTooltip(ev, d));
+    rect.addEventListener('mousemove', positionTooltip);
+    rect.addEventListener('mouseleave', () => tooltip.style.display = 'none');
+    svg.appendChild(rect);
+  } else if (d.contrib_stmt <= 0 && d.contrib_speech <= 0) {
+    addSegment(i, d, d.contrib_stmt, 'bar-stmt');
+    const cx = xCenter(i);
+    const x0 = cx - barW / 2;
+    const yTop = y(d.contrib_stmt);
+    const yBot = y(d.contrib_stmt + d.contrib_speech);
+    const rect = svgEl('rect', {x: x0, y: yTop, width: barW, height: Math.max(yBot - yTop, 0.5), class: 'bar-speech', rx: 2});
+    rect.addEventListener('mouseenter', (ev) => showTooltip(ev, d));
+    rect.addEventListener('mousemove', positionTooltip);
+    rect.addEventListener('mouseleave', () => tooltip.style.display = 'none');
+    svg.appendChild(rect);
+  } else {
+    addSegment(i, d, d.contrib_stmt, 'bar-stmt');
+    addSegment(i, d, d.contrib_speech, 'bar-speech');
+  }
+  const cx = xCenter(i);
+  svg.appendChild(svgEl('circle', {cx: cx, cy: y(d.combined), r: 3, class: 'combined-dot'}));
+});
+
+function showTooltip(ev, d) {
+  const fmt = (v) => (v === null ? 'n/a' : v.toFixed(3));
+  let html = `<div style="font-weight:600">${d.date}</div>`;
+  html += `<div style="color:var(--text-secondary); margin-bottom:4px;">${d.title}</div>`;
+  html += `<div>Statement: index ${fmt(d.avg_stmt)}, contribution ${d.contrib_stmt.toFixed(3)}</div>`;
+  html += `<div>Speeches in window: ${d.n_speech}, average index ${fmt(d.avg_speech)}, contribution ${d.contrib_speech.toFixed(3)}</div>`;
+  html += `<div style="margin-top:4px; font-weight:600;">Combined: ${d.combined.toFixed(3)}</div>`;
+  tooltip.innerHTML = html;
+  tooltip.style.display = 'block';
+  positionTooltip(ev);
+}
+function positionTooltip(ev) {
+  const pad = 16;
+  let left = ev.clientX + pad;
+  let top = ev.clientY + pad;
+  if (left + 300 > window.innerWidth) left = ev.clientX - 300 - pad;
+  tooltip.style.left = left + 'px';
+  tooltip.style.top = top + 'px';
+}
+</script>

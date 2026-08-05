@@ -1,0 +1,339 @@
+Titulo: Governor Lesetja Kganyago public lecture at the Wits School of Governance
+Data: 2022-11-01
+Palestrante (estimado): None
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2022/Governor-Lesetj-Kganyago-public-lecture-at-the-Wits-School-of-Governance
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2022/Governor%20Lesetja%20Kganyago%20public%20lecture%20at%20the%20Wits%20School%20of%20Governance%20.pdf)
+----------------------------------------------------------------------
+
+Public lecture by Lesetja Kganyago,
+Governor of the South African Reserve Bank,
+at the Wits School of Governance
+Johannesburg,
+1 November 2022
+Keeping it simple: monetary policy, growth and jobs in South Africa
+Introduction
+Good morning, ladies and gentlemen.
+Central banks are important, long-standing expressions of a universal need for stability
+in social and economic affairs. Their goals centre on achieving some definition of price
+stability, and in more recent decades, their methods have fixed primarily on inflation
+targeting.1
+Where they directly target inflation, central banks’ primary tool is the policy rate,
+normally defined as a very short-term or overnight borrowing rate. At this rate, banks
+can borrow from the central bank to address overnight needs for liquidity and this
+marginal borrowing rate sets the basis for all other lending rates in the economy. A
+secondary policy tool is a blend of communications about current economic conditions
+1 Quite a few central banks do things differently, using various kinds of fixed exchange rate systems.
+Usually, these systems are used because of high import levels and dominant trade relationships with
+large neighbouring economies. These latter central banks normally face very high levels of imported
+inflation – their own price levels are determined by price inflation coming from other often larger
+economies, with which they trade heavily.
+1
+and the policy rate level. A third encompasses the requirements and flexibility of the
+policy framework – the target itself and how it is measured.
+In more recent years, and under the impact of deflationary conditions, a few advanced
+economy central banks have adapted their approaches with secondary targets, such
+as inflation averages over time and unemployment rates.2,3
+Today, I want to spend some time unpacking why it is useful for the South African
+Reserve Bank (SARB), and most emerging economies generally, to target inflation,
+and why achieving that goal ensures that monetary policy includes economic growth
+and job creation.
+I will look at recent changes in policy targets for the moment, before returning to current
+conditions and the relevance of jobs and growth targets for monetary policy.
+Financial distress, deflation and policy exceptionalism
+It is useful to start with the global economic shocks of the past 15 years and their
+monetary policy implications.
+While the global financial crisis (GFC) and the COVID-19 pandemic had different
+origins, the economic policy responses to them were similar. Advanced economies
+reacted to both by dropping interest rates as far as possible and using quantitative
+easing (QE). During the GFC, QE programmes kept asset prices of various kinds
+higher than they would otherwise have been, preventing asset price deflation from
+causing even worse economic outcomes.4 During the pandemic, QE additionally
+supported spending, as mobility and many face-to-face economic transactions were
+curtailed, while also protecting financial institutions.
+2 Inflation averaging and jobs targets are ways of indirectly targeting levels of economic activity.
+Nominal gross domestic product or price level targeting are better known versions of such efforts.
+F Budianto, T Nakata and S Schmidt, ‘Average inflation targeting and the interest rate lower bound’,
+BIS Working Paper No. 852, April 2020.
+3 P Karadi and A Nakov, ‘Effectiveness and addictiveness of quantitative easing’, Journal of Monetary
+Economics 117, 2021, pp 1096−1117.
+4 In a few places, including Europe, quantitative easing also supported sovereign debt values and the
+financial systems that held much of that debt.
+2
+Job protection was also a major focus for major central banks and job creation became
+a measure of their policy effectiveness. More liquidity would help keep interest rates
+low, enabling firms to keep paying wages and to restart the economy.
+What impact have these efforts made on policy frameworks? Certainly, where
+countries faced collapsing growth and weaker inflation together, they could all move
+policy in the same direction. However, when the GFC ended and the pandemic ended,
+not all faced the same policy trade-offs. The GFC ushered in an extended period of
+ongoing QE and low rates, but this was not true for most emerging market economies.
+The end of the pandemic has been different. It has thrown us all back into a pre-Great
+Moderation world in which inflation is super-sensitive to supply and demand shocks.
+In particular, and with the benefit of hindsight, the current global inflation finds much
+of its origin in a too aggressive use of QE and in negative real rates as the pandemic
+started to wind down and economic activity rose. As in emerging economies post-
+GFC, many countries now, post-pandemic, find their output gaps to be badly
+measured and giving off incorrect signals about their policy stance.
+As, and if, the current surge in global inflation wanes, some advanced economies may
+very well return to lower inflation for structural and demographic reasons. These
+central banks may retain other metrics in their policy frameworks – such as economic
+growth rates or the prices of specific assets (e.g. house prices in New Zealand), or in
+the case of the United States (US), employment levels.
+But it is highly unlikely that emerging market economies will decide to change their
+policy frameworks. Many had reverted to much higher inflation even before the
+pandemic eased, while others, like South Africa, are now caught up in broader
+inflation. In that more normal context, the standard monetary policy approaches make
+as much of a positive impact on economic growth and jobs as they can. However, the
+real solutions to faster growth and job creation lie in other policy domains.
+Why the difference between advanced and emerging economies? Why might the
+rules governing objectives differ somewhat? The answer has to do with pure
+3
+economic theory, actual experience, and with the different economic conditions −
+cyclical and structural − faced by different central banks.
+To begin, it should be clear that for quite some time, essentially since the early 2000s,
+central banks of advanced economies have faced stubbornly low inflation, despite low
+interest rates, for a range of structural reasons related primarily to demographics and
+high savings. So, when they took an accommodative stance to raise growth and
+employment levels during the Great Moderation of the 2000s and the period into the
+pandemic, inflation still remained modest.
+As the pandemic hit, because inflation remained low, there was as yet no contradiction
+between the inflation targets and boosting growth. Policy expansion could help get
+people who had dropped out of the labour market back in. Job creation was efficient.
+Expansionary stances worked well with strategies that lowered the cost to firms of
+retaining people in jobs.
+In South Africa’s case, the pandemic also facilitated expansionary policy, precisely
+because inflation had trended lower from 2017. This allowed us to lower policy rates
+sharply in 2020 to confront the shorter-term damage done to the economy. The
+repurchase (repo) rate averaged 6.7% between 2017 and early 2020, before dropping
+to 3.5% in March/April of that year.
+A deeper dive into jobs and growth targets
+As in advanced economies, our expansion did little to immediately bring back jobs.
+Many were lost as lockdowns were extended, while some new ones were created in
+various services linked to the shift in consumption patterns. Expansion did support
+the recovery of both pre-pandemic spending patterns and many of the jobs associated
+with them. Of course, there is also much further to go, as some sectors remain
+constrained.
+The open question is whether sustained expansion in an environment of high debt
+levels and rising inflation could live up to the hopes of those that argue for a ‘jobs’
+mandate for monetary policy. The short answer is ‘no’, but let me explain why.
+4
+Our basic problem is that while growth creates job, inflation does not. Not only does
+this fatally challenge the belief many hold in the existence of usable Phillips curves,
+but it also limits what macroeconomic policy can achieve in terms of job creation. As
+we have noted many times in the past, the solutions to our unemployment problem lie
+well outside the realm of monetary policy, and in fact the failure to employ those
+solutions directly limits the positive contribution monetary policy can play.
+Let’s look at what the historical data tell us about Phillips curves. We see two
+correlations. One is that as inflation rises, unemployment rates rise. This
+characterises the late 1990s and into the latter half of 2003. In 2002/03, for example,
+inflation reached double digits even while employment was falling – when
+unemployment breached 30%.
+From about 2003 to 2007, however, we see another correlation, where inflation falls
+and employment rises. After the GFC, from about 2011 to 2019, we see something
+different. Inflation first came off the highs of the GFC and then accelerated back up to
+around 6%. There was some initial recovery in jobs, but as time went on, the
+acceleration was increasingly located in the public sector rather than the private
+sector. Economic growth weakened quite sharply from 2013 to 2015 and then more
+gradually slowed through to the pandemic. From 2017 onwards, inflation decelerated
+and so did job creation.
+The GFC and the pandemic were relatively clear instances when policy could respond
+in textbook ways to support the economy and see-through inflation shocks. Before
+and after these crises, we see more transparently the longer-term relationships
+between inflation and job creation. First, inflation does not create jobs.5 And second,
+on balance, expansionary policy prompts more inflation than growth or job creation.
+5 J Fedderke and Y Liu, ‘Inflation in South Africa: an assessment of alternative inflation models’, South
+African Journal of Economics 86(2), 2018, pp 197−230; B Botha, L Kuhn and D Steenkamp, ‘Is the
+Phillips curve framework still useful for understanding inflation dynamics in South Africa?’, South African
+Reserve Bank Working Paper Series, WP/20/07, 2020.
+5
+This tells us that South Africa’s Phillips curve is near-vertical at a low rate of positive
+economic growth.6
+This is strong evidence that the basic job creation mechanism is being impeded by
+things other than aggregate demand.
+This adverse relationship between policy expansion and inflation kicks in when
+employment levels rise above what is called the non-accelerating inflation rate of
+unemployment, or NAIRU. Evidence for South Africa shows that this happens when
+our unemployment rate is still very high. This is exacerbated by level changes in the
+NAIRU caused by structural impediments to job creation. For instance, load-shedding
+or higher transport costs indirectly increase the cost of creating jobs and push up the
+NAIRU.7
+A range of long-standing factors contribute to our very high NAIRU. Perhaps the most
+important of these is where people live and the cost of supplying their labour, and the
+skills they have compared to their cost.8 Regulatory costs of our economy also feature
+in various ways, including housing, where businesses can ply their trade, and
+compliance − which is a much larger burden for small and medium-sized businesses
+compared to that of larger firms.9
+Part of the difficulty is that we have done little to make it easier for less-skilled workers
+to find jobs, or to make it less costly to employ them.10
+6 When vertical, any expansion in demand is constrained by supply – prices rise but not volumes and
+not volumes of jobs.
+7 One older estimate of the NAIRU put it at about 25%. A Kabundi, E Schaling and M Some, ‘Estimating
+a time-varying Phillips curve for South Africa’, South African Reserve Bank Working Paper 16(05), May
+2016.
+8 M Leibbrandt and P Green, ‘REDI3x3 conference: Policies for inclusive growth’, February 2017.
+http://www.econ3x3.org/sites/default/files/articles/Leibbrandt%20%26%20Green%202017%20REDI%
+20conference%20on%20inclusive%20growth%20FINAL_0.pdf
+9 J R Magruder, ‘High unemployment yet few small firms: the role of centralised bargaining in South
+Africa’, American Economic Journal: Applied Economics 4(3), July 2012.
+10 D Faulkner, C Loewald and K Makrelov, ‘Achieving higher growth and employment: policy options for
+South Africa’, ERSA Working Paper 334, 2013; C Koep, M Leibbrandt, H McEwan and I Woolard,
+‘Employment and inequality outcomes in South Africa’, Southern Africa Labour and Development
+Research Unit and School of Economics: University of Cape Town, 2010.
+6
+Another part of the failing job creation machine is simply weaker real economic growth
+compared to the 2000s, when job creation was quite strong.
+This should not, however, lead us down the path of grasping at another seemingly
+‘easy’ answer. Higher inflation will not give us higher sustainable growth.
+Instead, higher inflation undermines short-run growth by increasing interest rates on
+borrowing, affecting consumers’ buying on credit and business owners who want to
+use credit to invest. Higher interest costs reduce short-run cash flow, reducing all
+future consumption spending.
+While surprise inflation reduces the real value of the existing stock of debt owed, the
+trade-off is lower economic growth in subsequent years. The short-run benefit of a
+surprise lower interest rate is transformed by higher inflation into a long-run cost to
+growth.
+When inflation is higher than that of our trading partners, we suffer a continuous loss
+of competitiveness. High inflation overall also generally means higher inflation for
+poorer and less-skilled South Africans than for the wealthy. This increases inequality
+further and worsens the already low standard of living for those households, making
+them costlier to employ.
+For a few years before the GFC in 2008, the relationship between growth and
+employment was better – if economic activity grew by 1%, employment grew by
+around 0.62%. But since then, up to 2018, each percentage point improvement in
+growth only gives us 0.37% more jobs. Our low employment problem overlaps entirely
+with our low growth problem.
+In this context, the best a central bank can do is stabilise unemployment at the rate
+consistent with price stability. If a central bank attempts to get unemployment below
+the NAIRU, the result will be larger quantities of inflation but only small and temporary
+7
+quantities of jobs as the supply curve becomes more vertical. The same is true for
+economic growth.11
+Assuming that most of our unemployment problem is structural, are we at least sure
+that the residual cyclical unemployment is being reduced by monetary policy? Is a
+dual mandate better at addressing these cyclical drivers?
+At the SARB, we use an alternative measure of economic activity to the NAIRU for
+understanding where the economy is relative to its tipping point into more inflation or
+into deflation. This is the output gap, or the distance between the possible, or potential,
+growth rate of the economy and the actual or realised rate of growth.12
+Similar to the US Federal Reserve (Fed), we use a Taylor rule to help tell us what the
+interest rate level should be, given the output gap and the distance between the
+inflation rate we want (the target) and where it currently is. 13 The Taylor rule tells us
+that we should set an interest rate that includes how quickly or slowly the economy is
+growing, compared to the speed at which it could be growing.
+If the output gap is a good representative measure of the cyclical unemployment rate,
+then we are fully covered – the monetary policy equation we use to get to the interest
+rate includes, as best we can, the relationship between those rates and employment.
+If we look at how the Fed operates, we can take further comfort in our own framework.
+The Fed has an inflation target of 2%, averaged over time. This averaging introduces
+some flexibility to not respond to inflation shocks that are temporary, just as in our
+flexible inflation-targeting framework. But the Fed framework does not say that when
+unemployment rises it will aim for a higher inflation rate. In other words, the dual
+mandate recognises that in the long run, the highest cyclical employment rate is
+consistent with low inflation. In the policy debate at present in the US, there may be
+a rise in cyclical unemployment to get inflation back down and to achieve a lower
+sustainable unemployment rate.
+11 See Kabundi, Schalling and Some (2016) and Botha et al. (2020).
+12 The output gap is also measured in level terms, not only the rate of growth in gross domestic product.
+13 See, for instance, S de Jager, M Johnston and R Steinbach, ‘A revised Quarterly Projection Model
+for South Africa’, South African Reserve Bank Working Paper 15(3), August 2015.
+https://www.resbank.co.za/Lists/News%20and%20Publications/Attachments/6839/WP1503.pdf
+8
+We need also to be cautious in our current circumstances. With surging inflation in
+advanced economies, it is likely that the adjusted policy frameworks of recent times
+will shift back to simpler and clearer formulations.
+Three takeaways from this discussion stand out. One is that inflation-targeting central
+banks also consider real variables such as growth and unemployment when they make
+monetary policy decisions. Second, that central banks don’t drop targeting inflation,
+even if they have an employment mandate. It simply means they respect the NAIRU
+and discuss more directly its level and what can happen to inflation when the speed
+limit implied by it is exceeded. And third, that despite some policy innovation in recent
+times in some advanced economies, these may very well be scaled back to simpler
+frameworks.
+Finally, we need to recognise, for the sake of solving our low employment problem
+and to keep monetary policy focused on the right things, that many issues sharply limit
+the transmission from policy to job creation outcomes. One is the job intensity of
+growth which we discussed. Another is the supply of skills that are coming into the
+market, and their cost.
+Some might argue that in that case, it means that monetary policy should be pushed
+much further and harder to get the expected growth or jobs. Unfortunately, when
+inefficiencies and constraints exist, pushing harder on monetary policy is like pushing
+the accelerator to the floor on a curvy, icy road over a mountain pass. At present,
+many central banks are skidding on that ice, with global inflation sharply higher and
+persistent. Even our own relatively benign recent inflation experience has become
+much more challenging very quickly.
+Keeping it simple
+We have seen now that having two targets certainly does not mean double the benefit.
+Instead, it means that there are times and certain conditions when one policy tool helps
+to achieve both. It also means that under other conditions, one tool cannot achieve
+both, and much of the world has now entered this territory.
+9
+When policy becomes overloaded with too many and contradictory objectives, then
+negative outcomes are more likely.
+As inflation rises and growth slows, a central bank that fails to respond to rising prices
+will face the prospect of compounding inflationary shocks. Currencies depreciate and
+investment falls. 14
+So where, in all of this, does South Africa find itself? We have not reached the ‘end’ of
+our policy rate space. We do not have stubbornly low or close to zero inflation. We
+are experiencing rising inflation rates. Inflation expectations, for the most part, are
+proving to be more responsive to current inflation outcomes than we would like, and
+less anchored around the midpoint of our target.
+If the expectations that firms and households hold for future inflation stray from the
+inflation target, then higher nominal wages and consumer prices are likely to emerge.
+In other words, once inflation expectations rise, they become a self-fulfilling prophecy,
+and the central bank has a more difficult and longer-term problem on its hands. A more
+expansionary policy stance runs that risk by enabling first-round inflation to embed into
+second-round inflation.
+This implies that we need to continue the normalisation of interest rates, moving them
+closer to the level that is consistent with more stable inflation rates and sustainable
+economic growth. At present, our repo rate is at 6.25%, still below long-term levels,
+but rising to a more sustainable long-term level that is consistent with inflation
+stabilising at 4.5%.
+14 Domestic savers seek protection also, shifting saving offshore and away from assets like sovereign
+debt, whose real value falls as inflation rises. When inflation rises too fast, it becomes more volatile,
+and veers quickly towards hyperinflation. High inflation increases inequality dramatically, undermines
+export industries, and with investment falling and local industries struggling, the marginal or less
+productive jobs are the first to be shed.
+10
+Conclusion
+As we have discussed today, neither growth nor high inflation lead directly to job
+creation in our economy. Much of our employment challenge lies in encouraging the
+return of economic activity in sectors that have been hardest hit by the pandemic. And
+we will also need to recognise that some jobs may be permanently lost as firms do
+things differently and as consumption patterns shift. Other jobs will be gained,
+however, and permanently impacting on employment levels requires approaches that
+have nothing to do with monetary policy. Just adding jobs targets will not get us there,
+and indeed part of our inflation problem stems from efforts to achieve such targets at
+a global level.
+We should be careful not to add to our policy objectives in a way that surely would
+push us into sharply higher inflation.
+If these are the primary constraints to job creation defined by the literature, and
+monetary policy has no impact on them, then the claim that more expansionary
+policies will solve the unemployment problem is simply an empty promise, backed up
+by little more than ideology and wishful thinking.
+We have an unemployment problem that needs more credible solutions.
+Employment and growth are both limited by factors that are beyond the reach of the
+central bank’s toolset.
+The best chance we have with monetary policy to get faster, more job-rich growth is
+to maintain our focus on price stability with flexible inflation targeting − a proven
+framework. This enables the SARB to help maintain a stable environment that is
+conducive to economic growth, and because credibility is high, for it to create the
+necessary flexibility to ignore short-term inflation shocks.
+A credible monetary policy will also keep borrowing costs lower than they would
+otherwise be. This is a central benefit to long-term economic growth and job creation.
+When inflation rises and stays high, investment decisions are distorted towards short-
+11
+term investments that carry with them short-term jobs. For this reason, low inflation is
+a sound developmental policy. It encourages firms across the private and public
+sector to make long-term investment decisions that imply productivity growth over
+time. This is critical, indeed a prerequisite, for sustainable jobs and income growth.
+Consumption based on rising debt levels cannot be a sustainable growth and
+development strategy.
+Having faced the unique threat of the COVID-19 crisis, we confronted that challenge
+with relatively low stable inflation and policy rate space. We were able to soften the
+damage of the crisis with the policy rate, while still protecting the value of the rand,
+and in so doing, were able to play our part in maintaining macroeconomic stability.
+Now that the global economy is recovering and inflation in many countries, including
+our own, is rising, we have learned from experience that we must not be tempted to
+loosen our grip on inflation, or to fall behind our peers as rates are normalised – the
+consequences would be too costly.
+12

@@ -1,0 +1,281 @@
+Titulo: An address by Rashad Cassim Deputy Governor of the SARB at the Central Banking Conference
+Data: 2023-03-14
+Palestrante (estimado): Rashad Cassim Deputy Governor
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2023/An-address-by-Rashad-Cassim-Deputy-Governor-of-the-SARB-at-the-Central-Banking-Conference
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2023/dg-cassim/Speech%20by%20Rashad%20Cassim%20Deputy%20Governor%20of%20the%20SARB%20at%20the%20Central%20Banking%20Conference.pdf)
+----------------------------------------------------------------------
+
+Speech by Rashad Cassim,
+Deputy Governor of the South African Reserve Bank,
+at the Central Banking Conference,
+Mount Nelson Hotel, Cape Town,
+14 March 2023
+The state of the South African economy and the role of monetary policy
+These are some of the most remarkable years in the history of the South African
+economy. Unfortunately, they are remarkable for the wrong reasons. Domestically, we
+are experiencing the lowest growth episode in modern South African history, marked
+most recently by the widespread failure of basic infrastructure, especially electricity.
+Externally, we have been buffeted by a series of extraordinary shocks: the COVID-19
+pandemic, the war in Ukraine, and a global inflation surge. These circumstances have
+profoundly affected the lives of all South Africans. They have also confronted
+policymakers with difficult choices. Today, I want to outline how monetary policy has
+responded, and share with you the main uncertainties and debates we are grappling
+with today.
+I will start with the changing external environment. In 2020, the COVID-19 shock
+prompted an unprecedented drop in economic activity worldwide. We saw a broad
+decline in inflation which led to a huge wave of stimulus from fiscal and monetary
+authorities. In South Africa, this included lowering the repurchase (repo) rate to 3.5%
+‒ its lowest level ever.
+Fortunately, global pandemics are rare events, but this meant no one had much
+experience on which to base forecasts. While policymakers emphasised this
+uncertainty clearly, we can still say actual outcomes surprised most of us. For
+example, in 2020 it did not seem like the major advanced economies would soon be
+confronting the highest inflation rates in a generation.1 Part of the challenge was that
+1 For instance, inflation rates in the United States and the United Kingdom reached their highest levels
+since 1981. In France, inflation is at its highest levels since 1984. In Germany, inflation has reached its
+highest levels in the post-war period.
+1
+the pandemic produced an unusual mix of supply and demand effects, which included
+supply chain disruptions and abrupt shifts in the composition of demand. On top of this
+came the Ukraine war, a further shock in none of our forecasts, which pushed up food
+and energy costs around the globe.
+The result for macroeconomic policymakers was that we had to pivot fast. In South
+Africa’s case, as inflation rebounded, economic output recovered to pre-COVID levels,
+and global rates soared. At a minimum we needed to have interest rates near their
+normal or longer-run levels, not at long-term lows. In this context, the South African
+Reserve Bank’s (SARB) Monetary Policy Committee (MPC) implemented a series of
+75 basis point hikes, larger than those used in the previous hiking cycle, to get back
+to safety.2
+Given that the full impact of monetary policy on inflation is not immediate but has a lag
+effect, we could not immediately bring inflation back to target in 2022. Instead, what
+we aimed to do was set policy so that inflation would normalise after the initial, deep
+shock had played out.
+As at the latest data, headline inflation is at 6.9%, with core or underlying inflation at
+4.9%. The peak appears to have been in July last year when headline inflation hit
+7.8%. To put that in context, we have been outside of our 3‒6% target range since
+May 2022. The last time we were close to the midpoint of that range, which is where
+we aim to stabilise inflation, was about a year before that.3
+On current forecasts, we anticipate inflation will be back at the midpoint of our target
+range towards the end of this year. Similarly, the International Monetary Fund’s (IMF)
+forecasts, from the most recent World Economic Outlook, have end-of-period inflation
+for 2023 at 4.5%,4 which is the midpoint of our target range. To put that in perspective,
+the IMF does not see major advanced economies hitting their 2% targets over this
+2 The hiking cycle began with 25 basis points in November 2021. There were further 25 basis point
+increases in January and March 2023, followed by 50 basis points in May. The July, September and
+November 2022 decisions were all for 75 basis points. In January 2023, the MPC raised rates by
+25 basis points.
+3 Headline inflation was 4.4% in April 2021, 5.2% in May 2021, 4.9% in June 2021 and 4.6% in July
+2021.
+4 The precise forecast is 4.526%.
+2
+horizon, with year-end projections at 2.3% for the United States (US), which is quite
+close to target, but 5.4% for Germany and 6.3% for the United Kingdom.
+These projections are encouraging. After all, the key test of policy is not whether
+shocks happen, but whether inflation comes back to target after the initial effects of
+the shocks wear off. After that, the next test of policy is how difficult the adjustment
+process is for getting inflation back to target.
+One problem is that we could get more shocks. Food inflation has been coming in
+higher than expected, and it surprised us once again in the latest consumer price index
+(CPI) release from Statistics South Africa. There is a global dynamic to elevated food
+price inflation, but now we are also worrying about load-shedding driving up food
+prices, as electricity shortages start to disrupt the production and storage of food.
+The exchange rate outlook has also deteriorated recently. At the start of this year,
+markets were optimistic that US inflation was coming down, that the US dollar had
+peaked in late 2022, and that the US Federal Reserve (Fed) would be able to pause
+rate hikes soon and even think about cutting rates. Recent data have undermined this
+benign view.
+The US economy still appears to be running hot, and markets have rapidly priced in
+an extra half a percentage point of Fed hikes, relative to where we were earlier in
+2022. This has helped weaken the rand from around R17 per dollar in January 2023
+to over R18 to the dollar recently. Domestic factors also have not helped. The local
+news flow has been mostly rand negative, for instance around load-shedding. Local
+interest rates are also well below those in some peer economies, adding to a weaker
+currency. For example, Brazil’s policy rate is at 13.75%, Mexico’s is at 11% and
+Hungary’s is 13%.
+In a world where the dollar is weakening, the rand is likely to benefit along with other
+currencies. But February was not kind to the market consensus on a weaker dollar,
+and the rand outlook has correspondingly become more worrying, once again.
+3
+A second problem is that South Africans might start seeing a higher level of inflation
+as normal.
+For a start, inflation expectations have risen. The fourth quarter survey of inflation
+expectations, published by the Bureau for Economic Research (BER), registered
+expectations of 6.1% inflation for 2023, up from 5.9%, and 5.6% for 2024, up from
+5.3%. Over five years, expectations are at 5.5%, up from 5.4% previously.
+Of course, respondents are rational to see higher inflation at the moment, given
+elevated food and fuel prices. A bigger concern is that expectations for longer-term
+expectations are well above our 4.5% target, which may indicate that the initial supply-
+side shocks are feeding through into longer-run price and wage-setting behaviour – a
+phenomenon referred to as ‘second-round effects’. We are therefore monitoring
+expectations closely, to see if people recover their faith in our target or if we need to
+do more to stabilise longer-term expectations close to 4.5%.
+For a sense of underlying inflation pressure, another important area we look to is core
+inflation. This is a measure of inflation which excludes food and energy prices, which
+are often volatile. Core inflation has been lagging headline inflation, only moving above
+the midpoint of our target range during the second half of last year. We anticipate that
+the peak for core is still ahead of us, with the January MPC forecast projecting core
+inflation of 5.4% in the second quarter of this year.
+So far, most of the pressure in core inflation has been coming from imported goods,
+which are being repriced to reflect the weaker rand and higher global goods prices.
+Our forecast takes the view that core goods inflation peaked at the end of last year.
+A weaker rand could keep core goods inflation higher for longer. But the bigger
+concern may be that inflation pressure is shifting over to services. This category is
+around two-thirds of the core basket, and it contains many prices which are not
+adjusted frequently – for items such as housing rental or insurance contracts. This is
+4
+the area where second-round effects, through wages5 and inflation expectations, are
+most likely to manifest.
+A year ago, services inflation was near the bottom of our target range, at 3.1%. The
+latest CPI release puts it at 4.3%.6 In our forecast, the peak is just over 5%. The
+disinflation trends we see in headline inflation is therefore not the narrative for
+services.
+That said, we have had a couple of better-than-expected outcomes for services
+inflation recently, and these allowed us to revise down our core forecast at the January
+2023 MPC, even as we revised up headline inflation. Perhaps we can hope our core
+forecasts will be too high. Of course, if we do not see services coming down later this
+year, then we will have a problem. We are not going to be able to achieve our target
+over time if services inflation gets stuck in the top half of our target range.
+After all this inflation analysis, you may well be thinking: but what about growth? Here
+the outlook is not good at all.
+We are expecting growth rates of 0.3%, 0.7% and 1.0% over the next three years.
+These are disastrously low. Given population growth rates of around 1.2% annually,
+the implication is that living standards will continue to fall, as they have done on
+average since 2014. Our growth rate also compares very badly to the historical record.
+Since the 1960s,7 South Africa has, on average, managed to grow by about 2.8% a
+year. This is around four times the average growth rate both for our forecast and for
+the past 10 years. This feeble growth outlook is also related to other social ills,
+including our 33% unemployment rate.8
+What does South Africa’s growth challenges mean for monetary policy?
+5 For the November 2022 MPC forecast, average salaries were expected to be 5.3%, 6.7% and 5.4%
+for 2022, 2023 and 2024 respectively. For the January 2023 meeting, the respective figures were 5.2%,
+6.9% and 5.5% for 2022, 2023 and 2024 respectively, and 4.7% for 2025 (with the additional year added
+to the forecast in January).
+6 See the January 2023 CPI report published by Statistics South Africa.
+7 This claim is based on data from the Penn World Tables, starting in 1961.
+8 The official unemployment rate for the third quarter of 2022 was 32.7%; for the second quarter of 2022
+it was 33.6%.
+5
+When we at the SARB think about growth, we would of course like to have the highest
+growth rate possible. But there are many things that drive growth that central banks
+do not control ‒ and do not have mandates to tackle ‒ including technological
+innovation, education, natural resources, and yes, reliable electricity supply. In this
+sense, delivering growth is much more of a team sport than controlling inflation.
+Central banks can do much of the work of managing inflation by themselves, although
+as with any solo sport, such as golf or tennis, support teams make important
+contributions. Growth policy, however, is more like soccer or cricket, where individual
+heroes cannot do much if their team members are weak or absent.
+When a central bank is playing for the growth team, what it can affect is demand, which
+can be applied to reduce the volatility of output. More technically, as long as prices are
+fairly stable, changing a nominal variable such as interest rates can temporarily affect
+real variables, including quantities of goods and services. This is useful when demand
+is too weak, during downswing phases of business cycles. Where a central bank aims
+for a growth rate which requires more output than an economy can produce, however,
+the results are troublesome. For a small open economy such as South Africa, this
+typically means that we experience unsustainable imports, currency depreciation and
+rising inflation.
+In modern central banking practice, we formalise these intuitions using a concept
+called ‘potential growth’, which is an estimate of the amount an economy can produce
+at full capacity. To the extent an economy is not at potential, we say it has an output
+gap. If output is below potential, then the output gap is negative; if it is above potential,
+the gap is positive.
+For every MPC meeting, the forecast team prepares estimates of South Africa’s
+potential growth and the output gap. They are unobservable concepts and must be
+estimates using imperfect techniques, which makes them uncertain. So, when I look
+at these figures, and how they shape the forecast and the policy advice, I do not
+quibble about the exact numbers, but I think about what kind of problem these numbers
+describe, how this information squares with the other information available, and how
+policy should then respond.
+6
+As of the January 2023 MPC forecast round, those numbers told an extraordinary
+story. I have already mentioned that our growth projections are very low, but our
+potential growth estimates are even lower. The team estimates potential growth at 0%
+this year, then 0.6% in 2024 and 1% in 2025. Because the economy performed better
+than expected last year, and because expected growth is above potential, the forecast
+now sees a small positive output gap developing this year. In other words, in the
+interpretation of our Quarterly Projection Model (QPM), we have an economy
+operating modestly above its potential. And this, in turn, supports policy advice to raise
+rates not only because inflation is above target, but also because growth is too high.
+In assessing this forecast story, I am struck by two plausible but competing
+interpretations.
+The first interpretation is that potential growth must be 0%, or worse, given the scale
+of supply-side dysfunction in the economy. After all, isn’t it hard enough for people just
+to achieve the output they delivered last year, let alone produce more? We know
+electricity shortages have intensified; we expect to have 250 days of load-shedding
+this year, from 157 days last year and 48 days in 2021. On top of that, the freight rail
+system has, for the most part, not been functioning optimally, removing another pillar
+of the economy’s productive potential. There are many other constraints in the
+economy that also suppress potential growth.
+For our forecast team, these are facts that must be faced squarely, and it’s better to
+accept them up front than gradually mark down the projections as disappointing data
+come in. Of course, it is reasonable to expect that South Africans will find ways to cope
+with these challenges, and that there will be policy steps to address them with time.
+For this reason, potential growth rises over the forecast period, reaching 1% in 2025.
+But the narrative for this year is that the economy does not have the supply-side
+capacity to produce more than it did last year.
+At the same time ‒ and this is the second interpretation ‒ is it possible for the economy
+to be at full potential when unemployment is over 30%? The Quarterly Employment
+Survey recorded 10.57 million formal jobs at the end of 2019, against 9.98 million
+7
+now.9 Were all those workers unproductive, so that recovering those roughly half-a-
+million jobs would add nothing to output? Are all sectors in the economy at full
+capacity? Can potential realistically be at zero?
+These competing views are not wholly incompatible. They both capture important
+truths. The main point of the comparison is to illustrate how the economy is short of
+some inputs, like electricity, but there is slack in other areas, such as employment. In
+these conditions, what the MPC is trying to gauge is the space to satisfy additional
+demand and follow through on what that means for monetary policy. The difficult part,
+for the MPC, is judging how much we can do to help on the demand side when the
+supply side of the economy is in such a perilous state.
+In common with many other central banks, we are flexible inflation targeters. We aim
+to achieve our inflation targets while also considering growth; if inflation is above target
+but there is a negative output gap, then we can tolerate a somewhat slower disinflation
+path for the sake of supporting demand. No one really targets inflation exclusively,
+ignoring growth and employment, as great policy thinkers like Stanley Fischer have
+pointed out.10 There is always a balancing act.
+As you know, a balance rests on a fulcrum, which is the central point around which
+balance can be achieved. In monetary policy, this fulcrum is another one of those
+unobserved concepts, like potential growth; it is called the neutral rate. The neutral
+rate is the interest rate that neither speeds up nor slows down the economy; it is the
+level at which the policy rate will settle when inflation is at target and output is at
+potential. This is a concept many of our close watchers have questions about.
+9 These data are not seasonally adjusted. Regardless of the exact quarter used, this series shows a
+clear and sustained downward shift in formal, non-agricultural employment since the onset of COVID-
+19. The Quarterly Employment Survey (QES) is likely to be a more reliable indicator of changes in
+formal sector employment than the Quarterly Labour Force Survey (QLFS).
+10 Speech by Stanley Fischer, ‘Central bank independence’, 9 November 2015.
+https://www.bis.org/review/r151109c.htm: “In practice, I doubt that any central bank targets inflation to
+the exclusion of all other outcomes. For example, the Bundesbank was generally thought to have a
+very strict focus on inflation in the years in which it had an independent monetary policy before the
+founding of the European Central Bank. But researchers who have studied the Bundesbank's policies
+of that period have concluded that it likely responded to deviations from target of both expected
+inflation and output growth.”
+8
+In South Africa, we estimate this neutral rate to be 7% over time,11 of which 4.5% is
+compensation for inflation and 2.5% is the so-called neutral real interest rate ‒ the rate
+excluding inflation ‒ which economists abbreviate as r-star. In turn, that 2.5% is made
+up of half a percentage point which reflects the global real rate, which we derive from
+the longer-run real policy rate of the US, the euro area and Japan, plus 2 percentage
+points for the South African risk premium.
+As with potential growth, we cannot be sure that the neutral rate is exactly 7%. It is an
+unobservable concept and our tools for measuring it are imperfect. Nonetheless, a
+rate of around 7% is a reasonable place to start conversations about the policy stance.
+It suggests that current rates, at 7.25%, are in the region of the neutral rate, and it also
+illustrates how loose policy was back when we were at 3.5%.
+Of course, if the inflation-adjusted rate needs to be around 2.5%, then for policy to be
+neutral we need inflation to be around 4.5%. We aren’t there yet; as I noted earlier,
+inflation is still close to 7%. For this reason, the extent to which the policy rate will
+change from the current 7.25% will depend on whether we feel confident that
+disinflation is proceeding and we will get to 4.5% this year.
+If the disinflation story does not play out as expected, then we won’t get real rates
+where we need them. I have discussed the risks that could produce that outcome.
+Because we cannot stabilise prices with persistently low or negative real rates, in this
+scenario there will be more work to do with rate changes, and the trade-offs between
+output and inflation will be more difficult. There are clear risks of adverse
+developments, which could require further monetary policy action to contain inflation.
+And so, to conclude, while we hope for the soft landing, we are also prepared for worse
+outcomes.
+Thank you.
+11 Neutral rates can change over time. Although the QPM steady state is 2.5%, the neutral rate was
+estimated at 2% for both 2020 and 2021, and 2.3% for 2022. Over the forecast period, the neutral rate
+is currently projected at 2.4%, 2.4% and 2.5% for 2023, 2024 and 2025 respectively.
+9

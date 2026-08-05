@@ -1,0 +1,141 @@
+Titulo: Keynote address by Fundi Tshazibana, Deputy Governor of the South African Reserve Bank, at the Toronto Centre Workshop on Blended Finance
+Data: 2024-06-25
+Palestrante (estimado): Fundi Tshazibana
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2024/Barriers-Opportunities-and-Implications-for-Financial-Stability-and-Supervision
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2024/Keynote%20address%20by%20Fundi%20Tshazibana,%20Deputy%20Governor%20of%20the%20South%20African%20Reserve%20Bank,%20at%20the%20Toronto%20Centre%20Workshop%20on%20Blended%20Finance.pdf)
+----------------------------------------------------------------------
+
+Keynote address by Fundi Tshazibana,
+Deputy Governor of the South African Reserve Bank,
+at the Toronto Centre Workshop on
+Blended Finance: Barriers, Opportunities and Implications
+for Financial Stability and Supervision,
+(virtual), 25 June 2024
+Scaling up blended finance: the role of financial regulators
+Good morning from London, where I am participating in the annual plenary meetings
+of the Network for Greening the Financial System (NGFS). I thank the Toronto Centre
+for inviting me to add the voice of the NGFS to the conversation that you are having
+on the barriers and opportunities presented by blended finance, and by implication for
+financial stability and supervision.
+The most recent analysis from the Climate Policy Initiative (2023)1 indicates an annual
+average climate finance gap of between US$8.1 and US$9 trillion. Of this amount,
+US$2 trillion is the estimated amount required for global investment in energy alone –
+this amount is projected to increase, with estimates suggesting that global investment
+needs to accelerate from current levels to well over US$4.5 trillion per year to transition
+energy systems.
+At the same time, we are faced with major obstacles to scaling up the financing of
+climate action. In the aftermath of the COVID-19 crisis, fiscal space has diminished in
+most countries. Deglobalisation and increased geopolitical fragmentation are likely to
+slow economic activity, making future funding more difficult. Ageing populations
+require additional fiscal support, even as the working-age populations in many
+economies fall. These pose significant risks to economic and financial stability.
+1 https://www.climatepolicyinitiative.org/publication/global-landscape-of-climate-finance-2023/
+1
+In this context, it is clear that unblocking constraints and scaling up the funding of
+climate mitigation and adaption requires more integrated approaches and instruments
+that take the present risk context into account.
+Blended finance has emerged as an important tool to reduce project risks and increase
+private sector financing, particularly in emerging and developing economies. Blended
+instruments aim to reduce the cost of borrowing, increase funding and extend the
+maturity of loans. The risk, however, does not disappear. It simply shifts from one
+balance sheet to another that is better positioned to absorb possible losses. Effectively
+supporting the development of blended instruments requires that we understand their
+risk-sharing mechanisms.
+As central banks, we are faced with three main questions:
+1. How do we support the scaling up of blended finance?
+2. How do we identify the risks embedded in different blended instruments?
+3. How do we mitigate against them?
+Today I hope to provide some preliminary responses to these questions. I hope that
+you will spend time unpacking them in the remaining sessions of the conference.
+First: How do we support the scaling up of blended finance?
+The NGFS recently published several recommendations on how financial regulators
+and central banks can support the scaling up of blended instruments. These
+recommendations were based on several case studies which discussed recent
+experiences with blended finance instruments.
+Our assessment is that financial regulators and central banks can help with increasing
+blended finance only as part of a broader country approach to addressing obstacles
+to climate finance.
+Some of the obstacles to blended finance include the absence of project pipelines or
+macroeconomic instability due to fiscal crisis. These two obstacles require intervention
+from fiscal authorities and other parts of government.
+For some developing countries that are in debt destress, debt restructuring is required,
+indicating that the success of blended finance instruments in these countries is directly
+linked to the work of the Global Sovereign Debt Roundtable and mechanisms such as
+the G20 Common Framework for Debt Treatments.
+Examples of focus areas for central banks and regulators include addressing data
+gaps so that financial institutions can price risk appropriately, embedding climate
+considerations in governance and risk management practices, and understanding the
+2
+risk profile of different instruments so that these can be treated appropriately in the
+microprudential framework.
+Data gaps remain a major obstacle to increasing climate financing. Financial
+regulators have an important role to play in addressing these gaps. Using appropriate
+taxonomy and disclosure rules in their regulatory and supervisory approaches can
+improve information flows and enhance the operations of financial markets.
+Embedding climate considerations in the governance and risk management practices
+of financial firms helps manage climate-related risks more effectively and improves the
+allocation of capital across the economy. The NGFS’s work on transition planning
+provides important guidelines on how financial institutions can incorporate climate
+considerations in all aspects of their operations and manage climate-related risks
+during the transition.
+Another important area to support the scaling up of blended instruments is around
+their risk treatment in the regulatory and supervisory frameworks. Financial regulators
+face increasing pressure to reduce the risk weights associated with blended financial
+instruments. Lower weights can decrease capital costs and support the expansion of
+blended finance.
+This brings us to our second question. How do we identify the risks embedded in
+different blended instruments?
+In many cases, reducing the risk weights of blended instruments is justified. But is it
+justified in all cases? We face several challenges in our regulatory treatment of
+blended instrument. For example:
+1. It is easy to understand the risk profile of some blended instruments such as
+guaranteed loans. But other blended instruments have more complex structures.
+It is difficult to create a universal framework for all blended instruments.
+2. As I mentioned earlier, the risk does not disappear. It is shifted from one balance
+sheet to another. This other balance sheet sometimes sits in the domestic
+financial system and sometimes sits in another jurisdiction. For financial sector
+supervisors, this creates a significant level of complexity around how we think
+about the risk profile of blended finance. We need to understand the balance
+sheets of the institutions that we supervise but also of those institutions that
+provide risk insurance.
+Many of our tools such as risk ratings and internal capacity adequacy are based on
+historical data. Climate-related risks and those associated with new financial
+instruments require forward-looking analysis, which is often characterised by high
+levels of uncertainty. This often leads to a higher pricing of risk.
+3
+Global standard-setting bodies recognise this challenge and have prioritised climate-
+related risks in their work plans.
+Now to the last question. How do we mitigate against risks related to blended finance
+instruments?
+Many efforts to improve climate-related information flows in financial markets and
+enhance reporting by financial institutions can help with scaling up blended finance by
+helping central banks to better understand the risks associated with these instruments
+and mitigate them more effectively.
+This, however, is impossible without greater international cooperation as risks shift
+from one jurisdiction to another. Blended instruments will increase financial linkages
+and require a greater exchange of information across different jurisdictions.
+Financial sector regulators need to develop new skills and research capabilities to
+understand the various implications of the climate transition on the financial system.
+More importantly, we need to understand how the combination of different structural
+changes is likely to impact financial stability. For example, the rapid deployment of
+artificial intelligence (AI), in addition to the climate transition, is likely to have profound
+effects on the financial system and generate significant financial innovation.
+Scenario analysis and transition planning can help financial regulators in
+understanding future pathways and the associated risks. There have been advances
+and improvements but data quality and consistency need to be enhanced, particularly
+in emerging market and developing economies.
+In conclusion, we need a massive increase in financing for the climate transition but
+also to adjust to other structural challenges.
+Central banks and financial regulators have an important role in ensuring that the
+financial system is resilient to shocks and scales up fundings. However, our efforts to
+increase blended finance or the use of other financing tools depends critically on how
+our actions are coordinated within the broader policy environment. We not only need
+to unblock unnecessary regulatory obstacles to new finance instruments but also need
+to recognise that some of these instruments can pose risks to the financial system.
+I thank you again for the invitation and encourage you to reflect on these issues in the
+remaining sessions of the conference. All NGFS material is available on its website,
+including the paper on blended finance and recently released papers on climate
+disclosure for central banks, transition plans and recommendations on how central
+banks’ portfolio managers should develop sustainable and responsible investment
+strategies.
+4

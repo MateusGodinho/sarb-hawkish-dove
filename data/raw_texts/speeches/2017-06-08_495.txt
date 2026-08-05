@@ -1,0 +1,280 @@
+Titulo: Address by Brian Kahn, Advisor to the Governor, to the 6th Annual Nedgroup Investments Treasurer’s Conference
+Data: 2017-06-08
+Palestrante (estimado): Brian Kahn
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2017/495
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2017/495/Nedgroup-Investments-Treasurers-Conference-2017.pdf)
+----------------------------------------------------------------------
+
+“Check in” from the South African Reserve Bank
+Address by Brian Kahn, Advisor to the Governor,
+to the 6th Annual Nedgroup Investments Treasurer’s Conference,
+Summer Place, Hyde Park, 8 June 2017
+Good morning, and thank you to Nedgroup Investments for the invitation to “check in” from
+the South African Reserve Bank. We are facing a particularly challenging domestic
+environment. The economy has entered a recession following the surprisingly negative
+outcome in the first quarter of this year, and at the same time we face the prospect of further
+sovereign ratings downgrades. Added to that, we are likely to have an increasingly noisy
+political backdrop for the remainder of the year. Such conditions do not bode well for a near-
+term improvement in business and consumer confidence. Fortunately, there are some
+positives as well. The inflation outlook has improved in recent months, and the global growth
+prognosis is probably the best it has been for some time. In particular, the current sentiment
+towards emerging markets is favourable, with continued capital flows to these regions. But
+as we know, risks remain and conditions can change very quickly.
+It is against this backdrop that we have to implement monetary policy. Monetary policy acts
+with a lag, so what we do today will only have its full impact on inflation over the next 18
+months or so. Therefore, the inflation forecast is central to our decision-making process. We
+cannot impact on today’s inflation, that is history. But today’s inflation rate is useful to the
+extent that it may contain new information about the future inflation outlook, and it may also
+impact on the starting point of the forecast. Monetary policy-making is not only about
+calibrating the interest rate path to achieve an inflation outcome, but it is also about analysing
+the risks to the forecast. The future is inherently uncertain, and the more uncertain the
+environment, the more risks there are to any forecast. In my remarks to you today, I will focus
+on our recent decision and outline how we view the risks to the outlook. In particular, I will
+focus on how we deal with the exchange rate, as it is currently one of the key risks to the
+inflation outlook. This will relate directly to how we see the recent ratings downgrades.
+But first, allow me to summarise the main points from the most recent MPC statement.
+1) The latest two inflation numbers surprised significantly on the downside. This was true
+for both headline inflation and core inflation. CPI inflation measured 6.1% and 5.3%
+in March and April, while core inflation measured 4.9% and 4.8% in these two months.
+2) The headline inflation forecast improved over the short to medium term, but remains
+unchanged for the outer period. We now expect an average of 5.7% and 5.3% for 2017
+and 2018 rising to 5.5% in 2019. Although it is within the target range for the entire
+period, it is still uncomfortably close to the upper end of the target range, at around
+5.5% for the last 6 quarters of the forecast period. Our forecast did not incorporate
+the most recent inflation outcomes, which were published the day before the
+announcement.
+3) The risks to the inflation forecast were seen to be more or less balanced. This was a
+change from the previous meetings when the risks were seen to be moderately on the
+upside, although we had assessed the degree of upside risk to have moderated over
+the past few meetings.
+2
+4) The most important upside risk came from exchange rate uncertainty. However,
+despite this, there was still some “fat” in the forecast, as the prevailing exchange rate
+at that time was still a bit stronger than that assumed in the forecast. I will come back
+to the exchange rate issue a bit later.
+5) The Bank’s forecast for GDP growth was revised down for the entire forecast period,
+by 0.2 percentage points for 2017 and 2018, and by 0.3 percentage points in 2019.
+Annual growth rates of 1.0%, 1.5% and 1.7% for the forecast years were expected in
+the forecast round. The main reason for the downward revision and continued
+downside risk was the adverse impact of the sovereign credit ratings downgrade on
+consumer and investor sentiment in particular. Since then we have seen the GDP
+outcome for the first quarter, which, at -0.7%, surprised markedly on the downside,
+reinforcing the downside risk. We are therefore likely to see a further downward
+revision to our growth forecast in the next forecast round.
+6) The repo rate was left unchanged. In fact, the last change was in March 2016. In the
+last two meetings the vote was not unanimous, with one dissenting vote at both
+meetings.
+7) The MPC viewed the level of rates to be appropriate, but that we were likely at the
+end of the tightening cycle. The MPC still felt that the inflation trajectory was
+uncomfortably close to the upper end of the target range, and with inflation
+expectations still anchored at the upper end, it means that any adverse shock could
+take us quite quickly outside the target range. We noted, however, that a reduction
+in rates would be possible should inflation continue to surprise on the downside and
+if the forecast is assessed to be sustainably within the target range over the forecast
+period. However, we cautioned that in the current environment of high levels of
+3
+uncertainty, the risks to the outlook could easily deteriorate. The MPC would want to
+be more convinced that the improved inflation outlook could be sustained. We would
+not want reduce rates, only to be forced into a premature reversal of policy.
+It is not just the forecast itself that is of importance, but also how we perceive the risks to the
+forecast. Any particular forecast trajectory could have a different policy outcome depending
+on how we assess the risks. MPC members may have differing views of these risks, which
+explains to some extent why we do not always have unanimity in the decision-making
+process.
+Most of these risks revolve around the assumptions regarding the exogenous variables in the
+model. These risks have varied over time and in the past have included international oil prices,
+food prices, and electricity tariffs. In the previous two meetings we flagged downside risk
+coming from oil prices and electricity tariffs, particularly over the short to medium term,
+although there is a higher degree of uncertainty regarding the electricity tariffs applicable
+from mid-2018. The degree of downside risk was partly reduced by the downward revision of
+the assumptions of both of these variables at the May meeting, and therefore incorporated
+into the forecast itself.
+The rand exchange rate has been the main upside risk for some time, although the degree of
+upside risk has varied. A number of the risks that we face, for example higher US interest
+rates, domestic political uncertainty, changes in global sentiment or the possibility of ratings
+downgrades, affect the inflation outlook primarily through their impact on the rand. Given
+4
+the importance of the exchange rate I will spend some time talking about how we deal with
+the exchange rate in our decision making.
+It is often assumed that monetary policy is mainly about the exchange rate. This is an
+overstatement. Clearly, not every large exchange rate move requires or elicits a response. If
+that were the case, the interest rate path would have been highly variable, rather than the
+very moderate, low volatility path that we have followed in recent years. While the exchange
+rate is one of the important variables in our inflation forecast, it is not the only one and we
+have to look at its impact in conjunction with the movement of other variables. And we
+certainly do not conduct monetary policy with a view to impacting on the rand itself.
+From a monetary policy perspective, we are also more concerned about the longer-term
+trend of the exchange rate, rather than being overly focused on shorter term volatility or
+noise. We know that the rand often overreacts or overshoots in response to events and then
+retraces somewhat. Nevertheless, an understanding of the rand’s longer term trends is
+important for our risk assessment.
+The rand’s impact on inflation is dependent on the degree of pass-though. In our forecasting
+models we have a pass-through co-efficient of around 0.2 i.e. a 10% depreciation will add 2
+percentage points to inflation. In the past few years, however, we have seen a significantly
+lower pass-through. There are different estimates that have been made by various analysts.
+Our own estimates suggest a pass-through co-efficient of between 0.1 and 0.15. In effect this
+means that the impact of an exchange rate change may be overstated to some extent in our
+models.
+5
+The main reason for the decline in pass-through is probably due to the weak demand in the
+economy, which makes it difficult for firms to pass through increased costs, with resulting
+margin squeeze somewhere along the value chain. This suggests it may be a cyclical
+phenomenon. Research at the Bank suggests that there is in fact some asymmetry with
+respect to the reaction to the cycle: during a cyclical upswing, pass-through is much stronger,
+whereas in a downswing, it is much weaker.
+How do we deal with the exchange rate in our forecast? We make a simplifying assumption
+of a stable real effective exchange rate over the forecast period. That implies an expectation
+of a rand depreciation over that period in line with inflation differentials with our major
+trading partners. We then use our judgement to assign a risk to this assumption, which then
+feeds in to the overall risk to the inflation forecast.
+The critical issue then is the level of the starting point. As a general rule, we set it at the
+prevailing index level of the real exchange rate. However, if we feel that the exchange rate is
+clearly over- or undervalued at that point, we may adjust that level. In other words, should
+we regard the current strengthening or weakening of the rand as being temporary, we may
+not adjust the assumption fully until we have greater confidence of its persistence at those
+levels.
+The level that we choose has an important implication for the forecast. In 2016, for example,
+we saw a progressive improvement of the inflation forecast over the year. Most of this was
+due to revisions to the exchange rate assumption, following a recovery of the rand. For
+6
+example, between January and September last year, the average headline inflation forecast
+for 2016 declined from 6,8% to 6.4%; for 2017, from 7.0% to 5.8%; the peak declined from
+7.8% to 6.7%; and the expected return to within the target range moved from 4th quarter of
+2017 to the second quarter. During the same period, the starting point of the exchange rate
+assumption appreciated by 11%. However, I should emphasise that it is not only the exchange
+rate that impacts the forecast. The deterioration of the forecast in January 2017, for example,
+was mainly due to an upward revision of the international oil price assumption, following the
+price response to the OPEC-led supply curtailments, as well as a higher food price forecast.
+More recently, the ratings downgrades in the wake of the cabinet reshuffle caused an initial
+depreciation of the rand to almost R14 against the US dollar, and in our following forecast we
+adjusted the assumption to a slightly weaker level. The rand subsequently recovered much of
+its losses, and at the May meeting of the MPC, the rand/dollar exchange rate implicit in the
+real effective exchange rate (around R13.60 against the US dollar) was in fact weaker than
+the prevailing spot exchange rate at that time. The rand has remained relatively strong since.
+So even if we see a moderate weakening of the rand going forward, it does not necessarily
+follow that the assumption will automatically be changed, as there is some latitude for it to
+move. But we also know that the rand can move significantly and very quickly in response to
+shocks.
+Not all of the risks to the rand are on the upside (i.e. rand weakening). The rand has been
+surprisingly resilient in the past 16 months, despite the adverse domestic shocks that it has
+faced. Part of the underlying support has come from improved terms of trade, driven in part
+by weak oil prices and positive Chinese growth prospects which has impacted positively on
+7
+other commodity prices; a marked narrowing of the current account deficit, which has
+reduced the perceived fragility of the rand to possible capital flow reversals; and a generally
+more favourable view of emerging markets which has seen continued capital flows to these
+markets as the global search for yield continues.
+However, as you are all aware, there are various upside risks to the rand. Two of these are
+the risk of US policy tightening, and the risk of further ratings downgrades. We get recurring
+questions as to how deal with these issues in our deliberations.
+For much of the past two years or so, normalisation of monetary policy in the US has been
+seen as a risk to the rand. This is in part due to the strong reaction of a number of emerging
+market currencies to the so-called “taper tantrum” in 2013. Since then, the US Fed has been
+a lot more careful about its communication, and has emphasised the moderate nature of its
+tightening cycle. For some time we flagged this as a risk to the exchange rate outlook, given
+the possible impact on the direction of global capital flows, but the restrained market reaction
+to the actual tightening suggested that it was mostly priced in.
+The impact of Fed tightening on our monetary policy stance would depend on how it affects
+the inflation forecast through the impact on the currency. We do not react one for one with
+Fed moves, and we never have. We set interest rates in line with what is appropriate for our
+economy. In fact, had we reacted preemptively to possible Fed tightening, we would have got
+it terribly wrong. Since 2014, each year began with expectations of more aggressive tightening
+than actually transpired. As it turns out, there have been only 3 increases of 25 basis points
+each in December of both 2015 and 2016 and again in March this year. There is currently an
+8
+expectation of two further increases this year priced into the markets. Increases in line with
+expectations are unlikely to have a major impact on the rand, and for this reason we have not
+mentioned the possibility of Fed tightening as a risk to the forecast in our recent statements.
+Surprises in forward guidance provided by the Fed, however, could have an impact.
+There is therefore no automatic reaction on our part to global interest rate increases. We also
+have to take cognisance of what is happening to other interest rates along the yield curve.
+Capital flows are not only sensitive to short term yield differentials. In fact, the correlation
+between South African and US long bond yields is much higher than at the shorter end. And
+we should also bear in mind that the current “global interest rate cycle” is unsynchronised:
+monetary policies in Japan, the Euro area and UK are still in accommodative mode, and there
+is a general loosening bias in emerging markets.
+With respect to how we position ourselves for a sovereign ratings downgrade, it is difficult to
+give a simple answer, as there are so many scenarios that we can come up with. A ratings
+downgrade is not a one-off discrete event, it is a continuing process. Two ratings agencies,
+S&P Global Ratings and Fitch Ratings reported last week, and we await a report from Moody’s
+Investors Service very soon. But that will not be the end and more reviews will follow later in
+the year. The impact of a downgrade also depends on a number of factors: how many
+agencies have downgraded us and which ones are they? Some are more important than
+others for investor mandates and for inclusion in the various bond indices. How is domestic
+currency denominated debt rated? Currently S&P and Moody’s still have domestic currency
+denominated debt at investment grade.
+9
+A further fundamental question is who are the likely buyers of the bonds in the event of a
+local bond selloff? If it is other non-residents, the impact on the exchange rate in particular
+could be very different to a situation where the buyers are other non-residents who may be
+attracted by the consequential high yields. We have seen, for example, that non-residents
+have remained net buyers of South African government bonds in recent weeks and that bond
+yields are largely unchanged compared to where they were at the time of the downgrade.
+And finally, given that ratings announcements are generally not a big surprise, how much is
+already priced into bond yields and the exchange rate?
+Clearly there are quite a number of possible scenarios, with numerous combinations of
+outcomes and timing which makes it very difficult to assess the ultimate impact. A worst-
+case scenario would be one where all three agencies rate us as speculative or sub-investment
+grade, including domestic currency denominated debt, which results in South African
+government bonds falling out of the global bond indices. Such a scenario could entail large-
+scale net bond sales by non-residents.
+The fact that the response to the downgrade so far has been relatively benign probably has a
+lot to do with the fact that we are still not in a worst-case scenario, and we still have a window
+of opportunity to avoid this before the next round. Whether or not we will take that
+opportunity remains to be seen. But we cannot assume that further downgrades will have the
+same muted effect. Furthermore, the downgrades coincided with a more positive sentiment
+towards emerging markets in general, which could have masked some of the adverse impact.
+10
+Work done at the Bank suggests that there are three main channels through which the
+economy and monetary policy could be impacted. First would be the exchange rate channel,
+and depends on the extent of the increase in the risk premium and the net sales of bonds by
+non-residents. The second would be the impact on long bond yields in particular, but the
+effect could be on the short end as well, should the depreciation impact on the inflation
+outlook sufficiently to require a tightening of monetary policy. Ultimately, we believe the
+most serious impact of the downgrade would be on private sector investment sentiment and
+therefore on growth.
+A scenario exercise conducted in the Bank assumed that local currency debt was downgraded
+to sub-investment grade by all agencies, but in a favourable global environment. This is
+assumed to result in a net bond outflow in excess of R100bn, and a permanent increase in the
+country risk premium. The impact effect is an 11% depreciation of the rand, but it recovers
+over time and by the end of 2019 it is 5% weaker than at the starting point. By 2019, compared
+with the baseline, the GDP level is 1.1% lower (due to cumulative lower growth); potential
+output is 1% lower; and CPI inflation is 0.6% higher. Private sector investment and household
+consumption expenditure are 4% and 1% lower respectively. In terms of a monetary policy
+response, the model suggests an immediate 50 basis point increase, and a cumulative 120
+basis point increase compared with the baseline. I should stress this is a model-generated
+scenario exercise only.
+The bottom line, however, is that the uncertainty in this regard does cloud the outlook and
+contributes to upside risk to the inflation outlook, and downside risk to growth. The outcome
+is very uncertain, given the range of possible scenarios.
+11
+Moving away from the exchange rate, we are often asked why do we not reduce interest rates
+to stimulate growth, given that the ratings agencies highlight our slow growth as a key risk.
+We are of view that while monetary policy can impact on short term or cyclical growth, it has
+limited impact on potential growth or the underlying structural growth in the economy. To
+achieve a higher potential output would require structural reform initiatives that are beyond
+the capabilities of the Bank. But we can impact cyclical growth, and we are very aware of this
+in our policy decisions. This explains in part why the current interest rate cycle has been so
+moderate compared with previous cycles.
+The ratings agencies do not highlight monetary policy as one of the areas of concern. Nor do
+they see a temporary stimulus as a solution to what they see as a structural growth problem.
+To quote form the latest S&P release of last week when they maintained the current rating:
+We consider South Africa’s monetary flexibility, and its track record in achieving price stability,
+to be important credit strengths. …. The SARB is operationally independent, in our opinion,
+with transparent and credible policies…. We expect that inflation will remain below 6% this
+year and remain in the target range of 3%-6% over our three-year forecast horizon.
+In conclusion, we are concerned about the impact of our policies on short term growth, but
+we see price stability as the main contribution that we can make to longer-term growth. Our
+assessment is that the current stance of monetary policy is not tight and is not a major
+constraint to growth. As I mentioned earlier, for interest rates to be cut, we would like to see
+the inflation forecast more comfortably within the target range over the forecast period. The
+12
+recent negative growth outcomes, and in particular the contraction in household
+consumption expenditure, suggest a continued absence, and possibly weakening of demand
+pressures, which may contribute to further inflation moderation. Further downside surprises
+are also possible. But the risks that I have outlined still persist. Our policy reaction will remain
+guided by how we see the inflation outlook going forward within the economic growth
+context, but cognisant of the risks to the forecast. Ultimately it is a judgement call and, as
+always, our decisions remain highly data dependent.
+Thank you.
+13

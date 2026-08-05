@@ -1,0 +1,98 @@
+Titulo: Rashad Cassim | MPG Conference 2025
+Data: 2025-12-03
+Palestrante (estimado): Rashad Cassim
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2025/cassim-mpg-jibar
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2025/cassim-mpg.pdf)
+----------------------------------------------------------------------
+
+Opening remarks by Dr Rashad Cassim
+Deputy Governor of the South African Reserve Bank,
+at the Market Practitioners Group Conference,
+The Maslow, Sandton
+3 December 2025
+Good morning.
+As you may recall, this Market Practitioners Group (MPG) was established primarily
+to develop new reference rates for South Africa. It is often said that creating new
+benchmark rates for financial markets is like building a new foundation under a house
+you’re already living in.1 For those who have experienced a major renovation, you
+know it can put a lot of strain on a family. That is why I see it as a good sign that the
+end is now in sight; we can still come together amicably and no one is asking for a
+divorce.
+It has taken eight years to reach this point, starting with the SARB’s consultation paper
+on alternative interest rate benchmarks.
+Four years ago, the MPG and the South African Reserve Bank (SARB) agreed to
+phase out Jibar by the end of 2026.
+1 See last year’s MPG keynote, p. 4
+Page 1 of 4
+About seven months ago, we launched the ZARONIA First initiative. Since then, we
+have noted a significant increase in the adoption of ZARONIA, from R6.4 billion to over
+R200 billion in the initial months. Of course, Jibar exposures remain much larger.2
+Earlier this year, the MPG officially adopted methods for determining credit adjustment
+spreads and recommended Jibar fallback rates based on compounded ZARONIA
+rates.
+As we approach the Jibar cessation date, there are three issues of concern to the
+SARB and the MPG as a whole.
+The first is what we call the ‘No new Jibar’ event. We are already encouraging market
+participants to use ZARONIA instead of Jibar in contracts, but around the second
+quarter of next year, we plan – along with the Financial Sector Conduct Authority
+(FSCA) – to issue regulations limiting new Jibar exposures. Our aim is to stop
+increasing the stock of contracts that will need to be transitioned off Jibar.3
+After that, we will reach the major milestone of Jibar cessation.
+Jibar will be discontinued from 31 December 2026.
+All Jibar tenors will cease to be provided or be representative immediately after this
+date.
+This timing should come as no surprise. We have consistently communicated that
+Jibar cessation would happen at the end of 2026, giving everyone time to prepare for
+the transition.4
+Of course, December 2026 once felt comfortably distant. Now, it is barely a year away.
+We are aware that the pre-cessation announcement will trigger certain contractual
+provisions for the calculation and future application of fallbacks.5 We expect credit
+2 As of mid-2025, domestic Jibar exposures were estimated at R43 trillion, while offshore exposures
+were over R107 trillion.
+3 The SARB and FSCA will, however, need to consider the exceptions to incorporate in the prohibition
+notice to ensure that it does not hinder the ability of firms to manage risk effectively or have unintended
+consequences on market segments that genuinely cannot adopt alternative reference rates.
+4 See for instance the ‘Interest rate benchmark reform journey’ infographic on the MPG webpage on
+the SARB website.
+5 As observed during the Libor transition. Refer to FCA announcement on future cessation and loss of
+representativeness of ..., https://www.fca.org.uk/publication/documents/future-cessation-loss-
+representativeness-libor-benchmarks.pdf.
+Page 2 of 4
+adjustment spread calculations to crystalise today. However, these spreads will not be
+applied until after 31 December 2026, as the Jibar rates are expected to remain
+representative until that point.
+I often ask MPG members what Jibar transition risks should keep us awake. Almost
+always they highlight the challenge posed by legacy contracts that cannot easily be
+changed before Jibar is discontinued.
+To address these, the SARB and FSCA have proposed amendments to the Financial
+Sector Regulation Act (FSR Act).6 These amendments will give the SARB powers to
+designate replacement benchmarks for discontinued rates and determine adjustment
+spreads for moving contracts from one benchmark to another. We may need a
+synthetic Jibar, similar to synthetic Libor ‒ the London Interbank Offered Rate ‒ for
+dealing with some tough legacy contracts, but overall, we want to put Jibar behind us.
+In the UK, authorities used synthetic Libor to reduce disruptions in markets where
+converting certain outstanding legacy contracts to alternative reference rates was not
+feasible. However, this was a temporary solution.
+The SARB will consult on the use of the proposed powers, after the draft amendments
+to the FSR Act are published.
+The third issue is the forward-looking term measure of ZARONIA.
+We still believe that risk-free rates compounded in arrears are appropriate and
+operationally achievable for most cash market segments. We are doing this by
+developing relevant market conventions and infrastructure.
+We are working to find a benchmark administrator that will calculate and publish
+forward-looking term ZARONIA rates by April 2026. We also encourage market
+participants not to just wait for term ZARONIA, but to start building liquidity in
+ZARONIA-linked products now.
+To conclude, we have travelled a long way together, and we are now close to a
+milestone event where Jibar falls away and ZARONIA takes over. We are committed
+6 Act No. 9 of 2017
+Page 3 of 4
+to a smooth transition and over the coming year, it will take a team effort to achieve
+that.
+We all take pride in this country’s sophisticated financial sector, but that pride should
+reflect not only what we have already, but also what we can build, together.
+Operationalising new benchmark rates will be a major achievement and I hope you
+will view the work ahead not just as a burden but as an opportunity to develop
+something good that lasts.
+Thank you.
+Page 4 of 4

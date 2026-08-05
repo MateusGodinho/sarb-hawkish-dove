@@ -1,0 +1,153 @@
+Titulo: An address by Lesetja Kganyago Governor of the South African Reserve Bank at the American Chamber of Commerce
+Data: 2023-04-05
+Palestrante (estimado): Lesetja Kganyago Governor
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2023/Address-by-Lesetja-Kganyago-SARB-Governor-at-the-American-Chamber-of-Commerce
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2023/gov-kganyago/An%20address%20by%20Lesetja%20Kganyago%20Governor%20of%20the%20South%20African%20Reserve%20Bank%20at%20the%20American%20Chamber%20of%20Commerce%20.pdf)
+----------------------------------------------------------------------
+
+An address by Lesetja Kganyago,
+Governor of the South African Reserve Bank,
+at the American Chamber of Commerce,
+Pretoria, 5 April 2023
+Monetary policy amidst high inflation
+Introduction
+Ladies and gentlemen, thank you for inviting me to address you today. As you know,
+South Africa and the United States (US) have a long history of economic cooperation,
+and American businesses have played an important role in the development of our
+economy. South Africa is the US’s largest African trading partner and has the most
+diversified and industrialised economy on the continent. Last year alone, the US
+accounted for close to 9% of total exports and 7% came from imports.
+In 2021, US exports to South Africa totalled US$5.5 billion − a 25.8% increase from
+2020, while US imports from South Africa totalled US$15.7 billion − a 38.5% increase.
+There are approximately 600 US businesses operating in South Africa and many use
+South Africa as their regional headquarters,1 and a springboard for greater opportunity
+on the African continent.
+Today I want to talk about monetary policy in the context of high inflation and an
+environment of low growth ‒ conditions which are, unfortunately, normal for South
+Africa but now also feature globally. The challenge currently being faced by all central
+banks is how to steer monetary policy to get inflation down without plunging the
+1 Details are available at https://www.state.gov/u-s-relations-with-south-africa/
+economy into a recession, and doing so in a context in which key determinants of
+inflation and growth are outside our control.
+Getting policy correct in turn depends on how well we handle the analytical challenge
+of distinguishing between the supply and demand sources of our inflation and growth
+problems.
+Are the price pressures we see today related to specific shocks that will gradually fade,
+or are they more permanent? How are global shocks impacting a country like South
+Africa and how should policy respond to them?
+These are the questions I will try to unpack today.
+Where we stand now
+Higher energy and other commodity prices, supply bottlenecks as well as insufficient
+inventories are some of the factors that drove inflation sharply higher in 2021 and early
+2022. In recent months, headline inflation has started to come down in most
+jurisdictions, largely reflecting lower energy prices. By contrast, core inflation rates
+remain sticky. The lagged effects of energy, food and other cost increases are still
+feeding through to wages, services prices and many final prices.
+Furthermore, in many countries, labour markets remain very tight, even as economic
+momentum has slowed. This has forced businesses to offer higher wage increases to
+attract or retain workers. Furthermore, indications of still-solid profit margins suggest
+that firms continue to have significant latitude to pass through costs to their customers.
+So, while inflation forecasts show a decline in inflation, both for headline and core
+inflation, the uncertainty about the trajectory is very high. Forecasters are unsure about
+the terminal level of inflation and how fast it will get there. For example, members of
+the Federal Open Market Committee (FOMC) foresee, on average, personal
+consumption expenditure inflation of 3.3% this year and 2.5% in 2024.
+Consequently, the world may, for a relatively long period, have interest rates that are
+high by the standards of the past 20 years.
+Banking strains and policy
+While it is clear that central banks prefer to address higher-than-desired inflation with
+interest rates, there is a possibility for financial stability concerns to cloud
+policymaking. Financial markets have adjusted their forecasts for rates in recent
+weeks as strains in financial institutions emerged. However, it is important to
+remember that while pockets of vulnerability exist in the global financial system and
+can be exposed by the recent quick shift to more elevated funding costs, global banks
+are by and large much better capitalised and more resilient to shocks than they were
+before the global financial crisis.
+This explains why, at least so far, central banks have been able to ‘ring-fence’ problem
+institutions and maintain confidence through targeted interventions, without
+compromising on the necessary steps required to bring inflation back to target. This
+separation of financial stability concerns and the policy steps needed to address
+inflation is a critical benchmark for policy effectiveness. Central banks need to
+emphasise how the determinants of the two problems differ, how policy in each domain
+can and should respond, and to maintain the trust of the markets and the public so
+that the correct steps are taken.
+How the world affects South Africa
+There are several channels through which the global developments I have just
+described influence South Africa’s economy and markets and, in turn, the policy
+response of the South African Reserve Bank (SARB). First, higher global interest rates
+weigh on world growth, and hence the demand for South Africa’s exports. The impact
+on our balance of payments and, in turn, the rand, can be compounded as slower
+global growth reduces the prices of our commodity exports.
+Second, global banking strains can also result in reduced lending to South Africa, as
+such pressures often prompt major financial institutions to pull back loans from ‘riskier’
+destinations, especially emerging market countries. However, South African banks do
+not have large external liabilities, while the corporate sector is not heavily dependent
+on foreign bank financing. Hence, we are confident that this channel of contagion
+should remain relatively limited.
+Lasty, financial markets are probably a stronger channel through which global
+conditions affect South Africa. Portfolio flows have historically been a key source of
+funding for our current account, which is in a deficit most of the time, and these flows
+are highly sensitive to global financial conditions. South Africa’s current rating status
+as well as the recent greylisting of the country by the Financial Action Task Force will
+continue to exert downside risks to the rand, which has already underperformed most
+of its emerging market peers in recent months.
+Domestic inflationary pressures
+As described earlier, the exchange rate remains under pressure due to idiosyncratic
+domestic factors as well as the evolving global situation, thus exerting upward
+inflationary pressures. This limits the benefits of slowing global inflation to domestic
+inflation. In fact, the SARB has revised its inflation projections upwards – headline
+inflation is now forecast to decelerate at a slower rate, averaging 6.0% in 2023 (5.4%
+previously) from 6.9% in 2022. This is, in the main, due to higher fuel and food price
+inflation – a direct consequence of a more depreciated exchange rate. Domestic food
+price inflation continues to rise despite normalising global agricultural commodity
+prices. Inflation pressures on food price inflation appear to be broad-based, with most
+components still at double-digit inflation rates. While these pressures are expected to
+ease over the forecast period, food price inflation usually spills over into wage costs
+and other constraints, such as electricity and logistics, which will continue to put
+upward pressure on prices and business input costs.
+Fuel inflation continues to decline, benefitting from the correction in oil prices on the
+back of slowing global demand. However, here again, the depreciation in the currency
+is limiting the extent of this benefit, and it is thus likely to keep headline inflation
+elevated.
+In addition to this, while core inflation surprised on the downside recently, the
+exchange rate-sensitive core goods continued to accelerate. Second-round effects are
+also starting to show up in services inflation, with categories such as restaurants and
+hotels as well as public transport rising significantly. Other key services components
+such as insurance and housing inflation are starting to normalise from their recent
+lows, with insurance inflation averaging 6.4% in the recent outcome (February)
+compared to 3.1% at the same time in the previous year. Inflation expectations, which
+have increased and remained above the target midpoint, are also key to the overall
+evolution of services inflation. They largely characterise wage negotiations and
+ultimately inform price formation in the economy.
+Monetary policy going forward
+In light of all this, the SARB has often been asked: What is your view on economic
+growth and what is your forecast for inflation? These are important questions for any
+central bank and we find ourselves faced with an important conundrum, that is,
+juggling high inflation against low growth.
+Like many of our global peers, we are cognisant of weak growth prospects. Our gross
+domestic product (GDP) projection for 2023 is 0.2%, on the back of the electricity
+supply deficit. By contrast, inflation remains elevated. Our primary goal as a central
+bank is to anchor inflation expectations and to reduce the extent to which higher
+inflation does spill over into pricing behaviour in the following year. Our role as central
+banks is to keep inflation expectations anchored to prevent wage spirals from
+generating permanently higher inflation.
+As discussed at our Monetary Policy Committee (MPC) meeting held at the end of
+March, the balance of risks to the inflation outlook are assessed to be on the upside.
+As we have conveyed on several platforms, we believe that we have taken the right
+decisions over the past few MPC cycles to ensure that we get inflation back to the
+midpoint of the target range, but this cannot preclude further steps if inflation and
+inflation expectations continue to surprise higher. At this stage, we do not know what
+the terminal interest rate level will be, but we hope that the way in which we explain
+our policy creates confidence that future inflation will come back to target. We continue
+to monitor data and developments and we stand ready to act, as and when warranted.
+Concluding remarks
+In conclusion, I think many of us will agree that the emerging financial vulnerabilities
+are introducing new headwinds for global financial markets. As such, global conditions
+are likely to remain volatile in the near term, with tightening financial conditions in the
+US as new weaknesses in financial institutions emerge and concerns of contagion
+intensify.
+On the upside, the banking sector, globally, is much better capitalised than it was in
+2008 and has become more resilient to shocks. However, central banks have to guard
+against continued volatility in financial markets while ensuring that they keep to their
+mandate of price stability.
+Thank you.

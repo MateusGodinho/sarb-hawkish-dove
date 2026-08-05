@@ -1,0 +1,223 @@
+Titulo: Address by Ms Fundi Tshazibana, Deputy Governor for the South African Reserve Bank, at the Nelson Mandela Bay 2021 Leadership Summit
+Data: 2021-07-28
+Palestrante (estimado): Fundi Tshazibana
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2021/Address-by-Ms-Fundi-Tshazibana-SARB-DG-at-the-Nelson-Mandela-Bay-2021-Leadership-Summit
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2021/dg-fundi/Address%20by%20Ms%20Fundi%20Tshazibana,%20Deputy%20Governor%20for%20the%20South%20African%20Reserve%20Bank,%20at%20the%20Nelson%20Mandela%20Bay%202021%20Leadership%20Summit.pdf)
+----------------------------------------------------------------------
+
+Central banking, fast and slow1
+Address by Ms Fundi Tshazibana, Deputy Governor for the South African
+Reserve Bank, at the Nelson Mandela Bay 2021 Leadership Summit, 28 July
+2021.
+‘Leadership skills to inform the great reset of society: from global grief to
+hope’
+Good afternoon and thank you for the invitation to speak at your Leadership Summit.
+As a relatively new central banker, I have been fascinated by how central banks
+function – the magnitude of the decisions they make and the most important elements
+of their work often go unnoticed by many of us, because these things are simply what
+ought to be. We don’t think when we go to the ATM to draw cash − the banknotes are
+there. When we take out our cards to make payments and when we make EFT
+payments, we don’t stop to think about the payments process, unless of course, there
+are system glitches. We don’t think about how government is able to borrow money in
+financial markets every week – it just does. In the middle of various economic crises,
+we haven’t lost sleep over many of these things that seem to just happen.
+At the same time, there are many other things we are losing sleep over as South
+Africans. For instance, we have had over 200 0002 excess deaths over the past year
+1 The title borrows from Daniel Kahneman’s well-known book, Thinking, fast and slow. On 6 July 2020,
+Project Syndicate published an op-ed by Mohammed El-Erian also titled ‘Central banking, fast and
+slow’. The title of this speech was finalised in June and published in the Nelson Mandela Bay
+Leadership Summit programme before this article appeared. This speech deals with a different subject
+matter to the op-ed and the shared title is purely coincidental.
+2 The South African Medical Research Council estimates around 203 000 excess deaths recorded
+since 3 May 2020. https://www.samrc.ac.za/reports/report-weekly-deaths-south-africa
+1
+and a half, mostly due to COVID-19. We have a youth unemployment rate of 46.3%,3
+the largest public sector debt burden in our history; uncertainty about the reopening of
+many businesses in the hospitality, travel and tourism sectors; and the high likelihood
+that many people and many small firms will be left behind as we move into the digital
+age. These are areas where there are huge gaps between what is happening, and
+what ought to be.
+As leaders, our task is to help close these gaps. Yes, the starting point we have in our
+country is very difficult. Still, the South African problem is not only that we have a
+difficult history. It is that we keep on producing more of it. Our challenge as leaders is
+to change this pattern, not only by developing plans, but by implementing them and
+taking decisions to correct our course along the way.
+I hope my address will give you some ideas for making better decisions, based on my
+experience at the South African Reserve Bank (SARB) and the broad economics
+literature.
+Leading people, and why it’s harder than rocket science
+Economics is sometimes portrayed as a profession obsessed with money, but that
+description is perhaps better reserved for accounting. In truth, economics is a subject
+fascinated by decision-making. This is because the subject matter of economics is
+human beings and their choices, which makes it difficult because human choices defy
+simple rules.
+Ben Bernanke, a former Governor of the United States Federal Reserve, once made
+this point using the example of rocket science. In the 1960s, he tells us, there were
+many economists who tried to adapt the complicated mathematics of rocket science
+to economics. They ultimately hoped to steer economies just as rocket scientists could
+steer spaceships and missiles. But it didn’t work. As Bernanke explains:
+3 As of the first quarter of 2021, according to Statistics South Africa’s Quarterly Labour Force Survey.
+http://www.statssa.gov.za/publications/P0211/Media%20release%20QLFS%20Q1%202021.pdf
+2
+Unfortunately, macroeconomic policy turned out not to be rocket science! The
+problem lay in a crucial difference between a missile and an economy – which
+is that, unlike the people who make up an economy, the components of a
+missile do not try to understand and anticipate the forces being applied to
+them.4
+For central banking in particular, this insight helped lay the ground for inflation
+targeting. It showed policymakers that there wouldn’t be stable relationships between
+things like unemployment and inflation. If central banks thought they could get more
+jobs by tolerating more inflation, people would learn to expect higher inflation.
+Then inflation would rise, without unemployment falling. This is how the world got to
+the stagflation of the 1970s, where the 1960s trade-off between inflation and
+unemployment broke down, and both were high simultaneously.
+This experience showed that central banks needed a different theory. The new
+paradigm, inflation targeting, focused instead on communication and credibility.
+Central banks started communicating clear targets, and doing what it took to achieve
+them. As people came to understand and trust in these targets, their expectations
+shifted, which changed outcomes.
+Clear and credible communication turned out to be a secret weapon.
+Decision-making theory in behavioural economics
+These kinds of insights led to an approach called ‘rational choice’ becoming prominent
+in economics, with decisions being explained as products of rational, forward-looking
+agents pursuing self-interest. This was a useful simplification, especially for all the
+researchers whose models worked better with these shortcuts. But of course, as you
+and I know from personal experience, human beings are not rational actors.
+4 Ben S Bernanke, ‘A perspective on inflation targeting’, 25 March 2003.
+https://www.bis.org/review/r030325d.pdf
+3
+It took a psychologist, Daniel Kahneman, to move the field forward. Kahneman – who
+won the Nobel Memorial Prize for Economics in 2002 – pioneered a field called
+‘behavioural economics’, which aimed to marry the rigour of the rational choice model
+with greater realism. My title for this speech, ‘Central banking, fast and slow’, is drawn
+from his famous book, Thinking, fast and slow.
+To give context to the title, the book talks about two modes of thought: System 1
+thinking, which is fast, instinctive, and emotional; and System 2 thinking, which is
+slower, more deliberate, and logical. This book, and the larger field of behavioural
+economics, is fundamentally about human decision-making and where it goes wrong.
+I’ll sketch out some of the key ideas from this literature, and then discuss how they
+manifest in my area of work.
+For Kahneman, humans make two kinds of judgement errors: bias and noise. People
+use decision-making shortcuts, often unconsciously, which cause them to make
+mistakes in specific directions. This is bias. And then their judgements are surprisingly
+erratic, which is noise.
+A good example of bias is the fear of flying. Plane crashes are rare but when they
+happen, they are newsworthy. On the other hand, car crashes are very common, but
+they get much less attention. Unfortunately, we are biased towards treating visible and
+dramatic information as being more important. As for noise, even where there is no
+bias, there is still a surprising amount of randomness in human decisions.
+In their latest book,5 Kahnemann and his co-authors discuss large disparities in
+criminal sentences for basically similar cases, with some defendants getting one-year
+sentences and others 15 years for the same offence. They also document similar
+noisiness in the medical profession. Radiographers, for example, will come up with
+different diagnoses even when looking at the same X-rays.
+5 Daniel Kahneman, Olivier Sibony and Cass Sunstein, Noise, New York: Little, Brown Spark, 2021.
+4
+The point is not that judges and medical professionals are especially untrustworthy.
+Rather, it is that human decisions are surprisingly random, even for experts and even
+for something quite objective such as an X-ray.
+Before I joined the central bank, I used to make jokes about central banks and their
+committees. I now have an appreciation of why they matter as decision-making
+structures. Most real-world decision-making features high levels of uncertainty and
+significant risk of error. This means that we must have mechanisms to bring together
+different perspectives and that we must rigorously interrogate evidence to minimise
+our personal bias and noise so that decisions can be justified. This is relevant for both
+public policymakers and private sector leaders.
+Central banking – slow thinking, not short-term thinking
+When I first started exploring the work on fast and slow thinking, I of course started
+with its relevance for public policy. Central banking should be a classic case of slow,
+deliberative thinking, with a medium-term view and logical, evidence-based analysis.
+When we change interest rates today, it has effects about 12 to 24 months ahead. But
+very often the debate about monetary policy is absorbed by short-term thinking,
+focused on last month’s data.
+For instance, in May this year we received an inflation print of 5.2%, which is above
+the 4.5% midpoint of our inflation target. The SARB had been projecting a spike in
+inflation for over a year, and had published its forecast for inflation and implications for
+the interest rate path, so the May inflation print was basically no surprise to us at the
+SARB.
+Nonetheless, this concrete and visible data point seemed to make people think that
+the SARB would now be more likely to hike interest rates. Similarly, in June, when
+inflation slowed to 4.9%, this was welcomed as good news for interest rates. But again,
+we had expected this. At most, it confirmed our forecast.
+These were classic examples of the so-called ‘availability heuristic’, where something
+easy to see obscures the facts which actually matter for a decision.
+5
+This past year, the focus on short-term issues contributed to criticism of the SARB as
+not doing the right thing. Yet, when we look at historical performance, the SARB,
+imperfect as it might be, has kept to its price stability mandate and brought down
+inflation rates to well within the target range. The cost of borrowing is therefore lower
+because lenders don’t have to demand so much inflation compensation. SARB
+decisions have also become more transparent – at every meeting of the MPC we
+publish our forecasts and give reasons for our decisions.
+Fairly low and stable inflation is now something we can take for granted as South
+Africans, and high inflation is perceived as something that happens to other people far
+away. But if the SARB hadn’t patiently worked on stabilising inflation and building
+credibility, we could easily have been one of those high inflation countries. Then high
+inflation would have been high up the list of problems I mentioned earlier, worrying us
+all and keeping us awake. And the SARB certainly wouldn’t have been able to move
+fast when the COVID-19 crisis hit, and cut interest rates to record lows.
+The SARB has demonstrated with its policy response to the COVID-19 crisis that ‘slow
+thinking’ does not mean slow responses, and it certainly does not mean not taking
+decisions. Actually, slow, more deliberate, logical and long-term thinking is essential
+for building buffers that support rapid responses during a crisis. And for public
+institutions to adapt to the evolving needs of the economy.
+To minimise our individual biases and noise, at the SARB we have committee-based
+decision meetings. This is where we sit down, study the data and consult models that
+give us policy advice. Then we argue with each other, often quite energetically. Maybe
+you think real experts don’t disagree and don’t need computer models to help make
+decisions, but given the high levels of uncertainty and significant risks of error in
+decision-making, it is crucial to have the confidence to test your decisions properly.
+You are a better leader if you accept that decision-making is hard and that gut instinct
+is unreliable.
+Conclusion
+6
+In offering this brief sketch of decision-making, and how economists have studied it
+over the years, let me conclude with a couple of takeaways that I hope will stay with
+you and inform your own thinking and leadership.
+The first lesson is that leadership is about people. People learn; they adapt their
+behaviour to incentives and their expectations of the future. Central bankers and many
+other economists have spent too much time trying to fit people into physics-like models
+with unchanging laws and behaviours. We have done much better since we came to
+rely instead on communication and credibility as key mechanisms for achieving our
+goals.
+A second lesson is that once longer-term objectives have been set, we should have
+the discipline to stick to them. This does not mean that we ignore where we are –
+starting points do matter. But there is a big difference between course correction and
+changing strategy.
+As a country, we need to make decisions and take deliberate actions that will move
+us steadily in the direction that we set out in our long-term strategy, the National
+Development Plan (NDP). The NDP vision for the country includes, among other
+things, an inclusive economy with high employment, a low cost of living, a lower cost
+of doing business and better education outcomes. There are no shortcuts here. As the
+saying goes, ‘The best time to plant a tree was 20 years ago. The second best time is
+now.’ We all wish better decisions had been made historically, but the question for
+leaders is, what good decisions are you making now?
+The third lesson is that the lived experience of being a leader is confusing, loud and
+uncertain. We all cope as best we can, but some coping strategies make things worse.
+As leaders, we therefore need to work hard to manage our biases and our knee-jerk
+reactions. Thus, it is vital to have sound mechanisms that bring together different
+perspectives, that minimise bias and noise in decision-making, and which end with a
+clear decision.
+7
+As leaders we must have humility and accept that finding answers is not easy. We
+must design the best process we can to get to good decisions, and then have the
+courage to commit and deliver.
+The fourth lesson is that, as we contemplate the scale of our challenges as institutions,
+as businesses, as a country, we must remember that we can’t do it all and we will fail
+if we try. One of the things the behaviouralists got right was to recognise that
+complexity can be overwhelming, and that real-world decision-making requires coping
+mechanisms. From the perspective of a country, one of the ways you do this is by
+having institutions that accumulate expertise and specialise in making specific
+decisions. Then you let them do their jobs.
+At the SARB, we have been given mandates to protect price and financial stability.
+Those are clear missions, assigned to us by a democratic, constitutional order, and
+we have focused on them. We have avoided interfering in other areas where we don’t
+have expertise and where we could put our main goals at risk. This focus has helped
+us deliver substantial benefits for South Africa.
+The broader lesson is that we can’t fix everything; it’s just too much. We have to divide
+up the work, and then we have to each focus on the things we can do best. It may be
+unsatisfying to see problems you aren’t tackling, but there is plenty of important work
+to go around.
+I hope these ideas will be useful to you.
+Thank you.
+8

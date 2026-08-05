@@ -1,0 +1,352 @@
+Titulo: Special guest lecture by Lesetja Kganyago, Governor of the South African Reserve Bank, at the Department of Economics, Stellenbosch University
+Data: 2024-10-17
+Palestrante (estimado): Lesetja Kganyago
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2024/sarb-governor-lesetja-kganyago-stellenbosch-university-special-guest-lecture
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2024/kganyago-lecture-stellenbosch-2024-10.pdf)
+----------------------------------------------------------------------
+
+Special guest lecture by Lesetja Kganyago,
+Governor of the South African Reserve Bank,
+at the Department of Economics, Stellenbosch University,
+17 October 2024
+Lessons learnt: how the South African Reserve Bank moved inflation to 4.5%,
+and what it cost
+Good day.
+My subject today is lower inflation. It is a major global theme – we have experienced
+the biggest inflation surge in decades, and now policymakers are looking back at the
+lessons learnt. I want to reflect on those lessons. I also want to discuss the South
+African experience with lower inflation. For that, I will focus on our move to 4.5% as
+the midpoint objective of monetary policy − a change we introduced back in 2017. All
+of this is relevant to our ongoing discussion about the inflation target and the
+desirability of moving to a lower target, in line with our peers.
+The first lesson, from the global inflation surge, is that people really hate inflation.
+We always knew inflation was bad, and we always knew the public disliked it. Still,
+many economists have been surprised by the depths of public unhappiness with high
+inflation. This has been especially clear in advanced economies that had very low
+inflation over a sustained period, usually 2% or less. At those rates, most people did
+not have to worry about inflation. But after the COVID-19 pandemic, they suddenly
+experienced the kind of price increases usually found in poorer countries, and they
+hated it even more than expected. They objected when prices rose, and they were
+disappointed when they did not fall again afterwards.1 They felt their wages had not
+1 As Jared Bernstein put it, “A central banker wants inflation to get back to target. A shopper wants his
+or her old price back.” ‘Inflation’s (almost) roundtrip: What happened, how people experienced it, and
+what have we learned?’, Remarks by Council of Economic Advisers (CEA) Chair Jared Bernstein at
+the Economic Policy Institute, 30 July 2024. https://www.whitehouse.gov/cea/written-
+materials/2024/07/30/inflations-almost-roundtrip-what-happened-how-people-experienced-it-and-
+what-have-we-learned/
+1
+kept up with inflation.2 They objected that it would have been easier to cope with a
+recession.3 It is a strong reminder to central bankers that the public like price stability
+and dislike inflation.
+A second lesson is about the effectiveness of monetary policy – what works, and what
+doesn’t.
+Something that didn’t work was the ‘transitory’ argument, the claim made in 2021 that
+high inflation would be temporary, and there was no need for a monetary policy
+response.
+As Jerome Powell said in his Jackson Hole speech this year, “The good ship Transitory
+was a crowded one, with most mainstream analysts and advanced-economy central
+bankers on board.”4 You will notice he exempted emerging market central bankers,
+who were more used to severe supply-demand imbalances and their inflation
+consequences. The fact is, the good ship Transitory sank in the inflation storm of 2022
+– but fortunately everyone on board escaped to another vessel, joining the emerging
+market central bankers with aggressive inflation-fighting policies.5
+Another failed claim was the 2022 argument that inflation would come down only
+through a severe recession, with a big increase in unemployment. In fact, inflation in
+major economies, like the United States (US), fell from about 9% to just over 2%, with
+no recession and steady job growth.6
+Looking at this record, you could say that central bankers either got it right or they got
+lucky.7
+My sense is that they made their own luck.
+2 S Stantcheva, ‘Why do we dislike inflation?’, NBER Working Paper 32300, April 2024.
+https://www.nber.org/papers/w32300
+3 S Keynes, ‘Is a recession worse than inflation?’, Financial Times, 14 June 2024:
+https://on.ft.com/3VGP6lQ
+4 J Powell, ‘Review and outlook’, Speech by Jerome Powell, Chair of the Board of Governors of the
+Federal Reserve System, at ‘Reassessing the Effectiveness and Transmission of Monetary Policy’,
+an economic symposium sponsored by the Federal Reserve Bank of Kansas City, Jackson Hole,
+Wyoming, 23 August 2024. https://www.federalreserve.gov/newsevents/speech/powell20240823a.htm
+5 See, for example, Rich Miller, ‘Jerome Powell ditches “transitory” tag, paves way for rate hike’,
+30 November 2021. https://www.bloomberg.com/news/articles/2021-11-30/powell-ditches-transitory-
+inflation-tag-paves-way-for-rate-hike
+6 ‘Has Team Transitory really won America’s inflation debate?’. The Economist, 10 January 2024.
+https://www.economist.com/finance-and-economics/2024/01/10/has-team-transitory-really-won-
+americas-inflation-debate
+7 C Giles, ‘Were central bankers lucky or smart in reducing inflation?’, Financial Times, 2 July 2024.
+https://www.ft.com/content/bd22ac3c-4cf9-4eed-b8d8-ec20103dfb8f
+2
+There is no question that supply-side factors helped. We had lower oil price inflation,
+lower food price inflation and better supply-chain functioning after the COVID-19
+disruptions.
+But it is equally clear that the monetary policy response is part of the story.
+Forceful policy responses put the brakes on inflation. They also helped convince the
+public that central banks were committed to low inflation, and that high inflation was
+an aberration, not the new normal. In the language of the Bank for International
+Settlements, central banks managed to get back to a zone of stability, averting a switch
+to a high inflation regime.8
+The lessons are, it was wrong to say we could have low inflation for free, that we could
+just look through shocks, keep rates low, and all would be fine. But it was also wrong
+to say that lowering inflation would require a recession and large-scale job losses: a
+soft landing was an attainable goal.9 What we have seen is a reminder that good
+monetary policy can deliver low inflation at a modest cost. It does that by safeguarding
+the low inflation regime, which has its own self-stabilising properties.10 Given how
+strongly people dislike inflation, this is clearly the space we want to occupy.
+Let me now turn to our own inflation experience.
+South Africa implemented inflation targeting nearly a quarter of a century ago, in 2000.
+Looking back, the framework has been generally successful.11 Both inflation and
+interest rates have been lower than they were before inflation targeting. Inflation has
+also been within the 3−6% target range, on average. However, this average has been
+on the high side of the target range. Since 2000, using the ‘targeted inflation’ measure,
+it has averaged 5.85%.12 We have also missed the target quite often, almost
+exclusively to the upside: we have been above the 6% upper bound of the target nearly
+40% of the time, compared with only 1% of outcomes below the 3% lower bound.13
+8 See Bank for International Settlements, Annual Economic Report, Chapter 2, 30 June 2024.
+https://www.bis.org/publ/arpdf/ar2024e.htm
+9 For a discussion of soft and hard landings, see Sam Boocker and David Wessel, ‘What is a soft
+landing?’, 14 September 2023. https://www.brookings.edu/articles/what-is-a-soft-landing/
+10 C Borio et al., ‘The two-regime view of inflation’, BIS Papers No. 133, March 2023.
+https://www.bis.org/publ/bppdf/bispap133.pdf
+11 See National Treasury, Macroeconomic policy: a review of trends and choices, 2024 (especially pp.
+30-32.
+https://www.treasury.gov.za/documents/national%20budget/2024/Macroeconomic%20Policy%20Revi
+ew.pdf
+12 The targeted measure of inflation was the consumer price index excluding mortgage costs (CPIX),
+which then shifted to the consumer price index (CPI). Over the past 10 years (120 months since July
+2014) it has averaged 5.12%.
+13 Out of 294 months, 113 have had inflation above 6%, while 3 have been below 3%; 38.4% of the
+months have been above 6% compared with 1% below 3% (all during COVID-19). This reflects
+targeted inflation; CPI was below 3% for a period in the 2000s, but as this was not the targeted
+measure of inflation, it did not constitute target breaches.
+3
+When we reflected on our record, soon after I was appointed as Governor, we
+identified three shortcomings.
+First, we were missing our target too frequently – even though 3−6% is one of the
+wider targets around, and therefore should have been relatively easy to hit most of the
+time.14
+Second, our average inflation rate was high. Inflation was mostly near 6%. This did
+not amount to a crisis, and it was much better than the double-digit rates seen in the
+1980s and 1990s. But it was not good. At 6% inflation, prices double in just over a
+decade and triple in two decades.15 No one could confuse that with price stability.
+Third, we realised that the economy had a structural growth problem. After the global
+financial crisis, South Africa’s growth slowdown was diagnosed as a weak demand
+problem. To deal with it, we tolerated higher inflation so that we could avoid rate
+increases and restore growth. It didn’t work. Growth never came back; we just ended
+up with high inflation.16 Accommodative monetary policy was the wrong medicine for
+the patient.
+These hard truths prompted us to try a new strategy.
+From 2017, we began emphasising that we wanted inflation in the middle of our target
+range, at 4.5%. We would not treat 3−6% as a ‘zone of indifference’, which in practice
+meant aiming for the top of the range and ignoring the bottom half. Rather, we were
+explicit that we wanted to be at the midpoint, over time. The range would be there to
+handle volatility, which is inevitable with inflation. But over time, the SARB would
+always be working to bring inflation back to 4.5%.
+To make this point clear, we put it in the Monetary Policy Committee statement and
+our Monetary Policy Review. We discussed it in speeches.17 We also adopted a new
+14 The standard deviation of CPI inflation, since 2000, has been 1.95 percentage points, implying that
+around 90% of observations should have been within a 3-percentage point range, with a normal
+distribution and a mean of 4.5%. As noted above, only around 60% of outcomes were within the target
+range.
+15 Starting at a price level of 100, at 6% inflation prices pass 200 in year 12 and 300 in year 19. Given
+compound interest, by year 31 the price level passes 600.
+16 For a fuller discussion, see L Kganyago, ‘South Africa’s growth performance and monetary policy’,
+an address by Lesetja Kganyago, Governor of the South African Reserve Bank, at the Bureau for
+Economic Research, Cape Town, 22 October 2015.
+https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-
+governors/2015/456
+17 See, for example, L Kganyago, ‘South Africa’s macroeconomic adjustment and monetary policy’, an
+address by Lesetja Kganyago, Governor of the South African Reserve Bank, at the 5th SA Tomorrow
+Investor Conference, New York, 9 November 2017. See especially p. 5: “Bringing inflation to the
+midpoint and ultimately anchoring expectations there, instead of at 6%, is one of the SARB’s most
+important medium-term strategic goals.”
+4
+flagship forecasting model, the Quarterly Projection Model, which included an explicit
+4.5% objective and projected a path for the policy rate that would deliver on that goal.
+The new strategy worked. Over the next few years, we achieved lower inflation, and
+we also secured broad stakeholder understanding of our revised objective.
+Between 2017 and 2019, we recorded many more mentions of our 4.5% objective, for
+instance from experts and journalists, in analyst reports and news articles.18 No longer
+did anyone have to write scholarly papers to estimate our implicit target19; we
+communicated exactly what it was.
+And inflation slowed. In 2016, annual inflation was 6.3%. That fell to 5.3% in 2017,
+4.6% in 2018 and 4.1% in 2019. By the time COVID-19 hit, the latest monthly inflation
+print we had in hand was 4.5%, exactly.20
+Inflation expectations also declined significantly, from near the top of the target range
+to around the middle. For instance, at the start of 2017, two-year ahead survey
+expectations were at 6%.21 At the beginning of 2020, that measure was down to 4.8%,
+and by the end of the year it was 4.5%.
+We were clear that we wanted inflation at 4.5% − and we delivered.
+This experience demonstrated some lessons that remain important today. These are
+lessons about the costs of lower inflation, about structural factors like high
+administered prices, and about the role of monetary policy in shaping trend inflation.
+I’ll start with the influence of monetary policy over inflation.
+If you go and ask people what causes inflation, you often get answers about food or
+oil prices, and other such supply-side factors. Yet all countries face these shocks.
+Nonetheless, different countries have different inflation rates over time, sometimes
+very different rates.
+It is easy to understand moves in inflation caused by something like the petrol price.
+But over longer periods, such as 10 years, these factors mainly create volatility,
+https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-
+governors/2017/516.”
+18 South African Reserve Bank, Monetary Policy Review, October 2019. See Box 2, pp. 8-9.
+https://www.resbank.co.za/en/home/publications/publication-detail-pages/reviews/monetary-policy-
+review/2019/9526
+19 See, for example, N Klein. ‘Estimating the implicit inflation target of the South African Reserve
+Bank’, IMF Working Paper No. 2012/177, 1 July 2012.
+https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Estimating-the-Implicit-Inflation-Target-of-
+the-South-African-Reserve-Bank-26045
+20 This reflects the January 2020 print.
+21 This refers to the survey of inflation expectations conducted by the Bureau for Economic Research
+5
+nothing more. For the long-run price level, it is the central bank that must take most of
+the responsibility. Yet, because the inflation process is not always well understood,
+monetary policy is not held adequately accountable, and our stakeholders are not fully
+aware of what they can ask us.
+Let me give a simple example.
+In 2000, both Chile and South Africa adopted inflation targets. Chile went for 3% and
+we went for a range of 3−6%. Since then, our inflation has been higher than Chile’s by
+1.8 percentage points, on average.22 Chilean inflation has been a bit under 4%,
+whereas ours, as mentioned earlier, has been close to 6%. This may not sound like
+much of a difference, but if you look at price levels, Chile’s prices are now 2.8 times
+what they were in 2000, while ours are 4.5 times higher. Both have increased a lot –
+but ours has increased much more. It was not that we faced a higher world oil price or
+a higher wheat price. And both countries had professional, independent central banks.
+The difference was that we had a higher inflation target.
+This comparison takes me to the subject of administered prices. In South Africa, we
+have a range of prices set by government, for services such as water and electricity.
+These items tend to have high inflation, well above our target. If you start talking about
+lowering the target, a standard objection is, ‘What about administered price inflation?
+You cannot control administered prices; if you aim for lower inflation, you will hurt the
+rest of the economy’. We heard this a lot back when we started aiming for 4.5%, and
+we also hear it now, in the ongoing discussion about moving to a lower target.
+Unpacking this issue, it is important to realise that high administered price inflation
+negatively impacts everyone, whether the target is 6% or 4.5% or 3%, or whatever it
+may be. What we are seeing with administered prices is known as a ‘relative price
+adjustment’. Essentially, these goods and services are becoming more expensive
+relative to others. When this increase stems from inefficiencies and the pricing power
+of monopolies, it is detrimental both to the economy and to consumers. This is an
+important part of the reason we have long called for lower administered price inflation.
+However, it does not mean that the administered price inflation problem is worse at a
+target of 4.5% than 6%. Similarly, raising the inflation target would not necessarily
+improve the situation.
+If you have a higher target, you would expect all prices to rise faster, across the
+economy. You would expect your currency to lose its buying power for global
+commodities, such as energy and food, faster. You would expect more currency
+22 This comparison uses International Monetary Fund data. The measure for South Africa is the CPI,
+not targeted inflation, so average inflation for 2020-23 was 5.54%; it would be higher using targeted
+inflation (5.85%). Average inflation for Chile was 3.78% for this period.
+6
+depreciation, meaning your currency would become less valuable compared to others
+that hold their value better.
+In these circumstances, administered price inflation would likely increase. Price
+setters, still intent on making relative price adjustments, would still have the power to
+do so, and would simply implement even larger price increases.
+If this situation is turned around, it becomes clear how it is possible to achieve lower
+headline inflation even with high administered price inflation. The overall price level
+rises more slowly, the currency depreciates at a slower pace, and the rate of
+administered price inflation slows, even as the ‘wedge’ to other prices remains.
+This is what we observed after 2017. Headline inflation slowed, and so did inflation for
+administered prices. The gap between the two was largely unchanged. From 2010 to
+2016 it was 2.4%; since 2017 it has been 2.3%.23 Of course, the administered price
+series is heavily influenced by global oil prices, which are not administered, or at least,
+not by South African authorities. Even excluding the fuel price component,
+administered price inflation was lower after 2017, whether looking at water, electricity,
+school fees or vehicle licences. On average, the difference closely matched the
+amount of total disinflation we achieved – 1.5 percentage points – with headline
+inflation slowing from around 6% to 4.5%.
+Does disinflation negatively impact the rest of the economy if administered price
+inflation is high? It is important to remember that administered prices make up about
+16% of the consumer price index (CPI) basket.24 It is an important category but hardly
+a dominant one. If we want 4.5% inflation, and administered prices are stuck at
+2.4 percentage points above headline inflation, as they have been, that means other
+prices can only rise by about 4%. For 3% inflation, the same calculation gives an
+inflation rate for other prices of about 2.5%. In other words, you do not have to push
+the rest of the economy into deflation, even if you have high administered prices. You
+just need everyone else to implement smaller increases.
+Of course, it is highly desirable to have lower administered prices. And it is easier to
+have lower inflation, and lower rates, where these categories are helping, and not
+hurting, the disinflation effort. But let us not pretend we must live with a relatively high
+inflation target just because of our administered price problem. It did not stop us from
+getting from 6% inflation to 4.5%.
+This brings me to another concern about lower inflation, that the short-term costs are
+high. The expectation is that with a lower target, the central bank will raise rates,
+23 Arguably, the disinflation was achieved after 2017 but before 2020. The gap is 2.6% for 2018 to
+date and 2.4% for 2019 to date.
+24 CPI excluding administered prices is 83.78% of the total basket. CPI for administered prices but
+excluding fuel and paraffin is 88.5% of the total basket.
+7
+squeezing the economy. Unemployment will then rise, firms will be unable to raise
+prices because of weak demand, and so inflation slows. This trade-off between growth
+and inflation strikes some people as unacceptable, even when they understand that
+lower long-term inflation would be desirable. It is therefore interesting to consider what
+it cost us to get to 4.5% inflation.
+In the real world, it is difficult to test counterfactuals. We cannot go back in time and
+conduct an experiment where we kept on aiming for the top of our target range rather
+than the middle. We do, however, have a study where two economists constructed a
+counterfactual model.25 Their work compares actual outcomes with how the economy
+was likely to proceed without the 4.5% change. The results make for interesting
+reading.
+Perhaps the most striking is, they find no reduction in aggregate demand during the
+move to 4.5%. Growth in gross domestic product (GDP) is in line with the
+counterfactual. Unemployment is generally unaffected. Credit extension is higher.
+Their conclusion is that there was little or no cost to getting inflation to 4.5%. And the
+explanation they provide is that the SARB’s commitment to 4.5% was heard and
+understood. Inflation was not forced down by a recession; it was managed lower by
+clear and credible communication.
+This conclusion lines up with another study, by SARB economists, of sacrifice ratios
+in South Africa.26 A sacrifice ratio is the cost of reducing inflation, measured as the
+amount of GDP growth lost for each percentage point of lower inflation. For the period
+where we moved inflation to 4.5%, this study finds a negative sacrifice ratio, which
+means there was no cost. The authors also find that disinflation costs have generally
+been low in South Africa.
+This is, once again, contrary to the popular intuition that lower inflation is achieved by
+slower growth and higher unemployment. And once again, the key seems to be the
+SARB’s credibility and communication. If the public understands and believes the
+central bank’s objectives, disinflation can be achieved with little or no pain.
+Ladies and gentlemen, let me conclude with a summary of the lessons learnt, which
+should be informing our current conversations.
+25 E Pirozhkova and N Viegi, ‘Change of the SARB’s preferred inflation target in 2017: the conditional
+forecast story’, SARB Occasional Bulletin of Economic Notes No. 2401, April 2024.
+https://www.resbank.co.za/content/dam/sarb/publications/occasional-bulletin-of-economic-
+notes/2024/change-of-the-sarbs-preferred-inflation-target-in-2017-the-conditional-forecast-story-april-
+2024-01.pdf
+26 C Loewald, K Makrelov and E Pirozhkova, ‘The short-term costs of reducing trend inflation in South
+Africa’, South African Reserve Bank Working Paper Series WP/22/08, 2 August 2022.
+https://www.resbank.co.za/content/dam/sarb/publications/working-papers/2022/WP%202208.pdf
+8
+First, we have a relatively high inflation rate. We often speak as if this is a structural,
+inevitable thing, and not a policy choice. But the fact is, we could have a lower inflation
+target, like almost all our peers, and with it, lower inflation. If we achieved this, I think
+South Africans would enjoy the lower inflation experience, and will look back at the era
+of inflation generally over 5% as a period of great inconvenience and difficulty. People
+prefer price stability. We cannot honestly claim that we are delivering that.27 We can
+do better.
+Second, in discussing inflation in South Africa, analysts too often misrepresent the
+administered price problem. Yes, administered price inflation is too high, and
+damaging for the economy. Yes, if it were lower, that would help deliver lower inflation
+and lower interest rates. But administered prices are also responsive to economy-wide
+inflation, and they are not such a large part of the basket that disinflation can only be
+achieved by forcing everyone else into deflation. The conversation about lower
+inflation should not be held hostage by administered prices.
+Third, it is still often assumed that lower inflation means lower growth, despite rigorous
+studies showing that sacrifice ratios can be low. It is depressing enough that short-
+term pain is considered such a decisive argument against long-term gain. But it is even
+worse that it is considered a winning argument, when it is not even clear there is short-
+term pain. The studies of the move to 4.5% inflation certainly do not show high costs.
+They show a path to lower inflation that relies mainly on communication and credibility,
+rather than high rates.
+Overall, I think these three misconceptions leave us with a macroeconomic discussion
+that is too pessimistic and insufficiently ambitious. We have an opportunity to achieve
+permanently lower inflation and therefore permanently lower interest rates. Executed
+effectively, a lower target could be achieved at little cost – just as we moved to 4.5%
+at little cost.
+Ladies and gentlemen, this is a season of reform in South Africa. For any successful
+reform, you need to start with ambition and conviction, and then you need to follow
+that with great care and responsibility, to get the execution right. I hope with this lecture
+I have helped us find our ambition and conviction, so we can move on to excellence
+in delivery.
+Thank you.
+27 As Patrick Honohan and Athanasios Orphanides noted in their review of South African monetary
+policy, “Inflation at 4.5% is arguably still too high to be really thought of as price stability.” South Africa
+– Towards Inclusive Economic Development (SA-TIED), ‘Monetary policy in South Africa, 2007-21’,
+SA-TIED Working Paper No.208, March 2022. https://sa-tied.wider.unu.edu/sites/default/files/SA-
+TIED-WP208.pdf
+9

@@ -1,0 +1,166 @@
+Titulo: Opening Address by Governor Lesetja Kganyago at the Project Khokha 2 Report Launch
+Data: 2022-04-06
+Palestrante (estimado): Governor Lesetja Kganyago
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2022/Opening-Address-by-Governor-Lesetja-Kganyago-at-the-Project-Khokha-2-Report-Launch
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2022/Opening%20Address%20by%20Governor%20Lesetja%20Kganyago%20at%20the%20Project%20Khokha%202%20Report%20Launch.pdf)
+----------------------------------------------------------------------
+
+Opening address by Lesetja Kganyago,
+Governor of the South African Reserve Bank,
+at the launch of the Project Khokha 2 report
+6 April 2022
+Good day, ladies and gentlemen.
+Welcome to the virtual public release of the Project Khokha 2 (PK2) report.
+The project was launched in January 2021 as an initiative under the Innovation
+Accelerator of the Intergovernmental Fintech Working Group (IFWG) led by the South
+African Reserve Bank (SARB) through its Fintech Unit.
+PK2 explored the implications of tokenisation in financial markets through a proof-of-
+concept (PoC) that issued, cleared and settled SARB debentures using distributed
+ledger technology (DLT). In doing so, PK2 built on Project Khokha 1 (PK1), which
+many of you are familiar with.
+PK1 was our initial financial technology (fintech) policy exploration and technical trial
+in the use of DLT for interbank settlements; it explored the use of DLT for interbank
+settlements by successfully replicating some functions of the South African real-time
+gross settlement (RTGS) system on DLT.
+Innovation in financial services in general, and in digital financial services in particular,
+has made significant progress since the launch of the PK1 report in June 2018.
+One of the most noteworthy trends affecting financial markets over the last half-century
+is what is referred to as ‘dematerialisation’. Following advances in computer
+technology since the 1960s, financial markets started to move away from recording
+Page 1 of 6
+securities ownership in a physical ledger to recording ownership on centralised digital
+ledgers. Over time, this led to centralised financial market infrastructures such as
+central securities depositories and central counterparties evolving to play a critical role
+in recording the ownership of assets and, by extension, managing the risks involved
+in the process of recording the transfer and ownership of value.
+Building on this initial convergence towards the digitalisation of financial markets,
+tokenisation goes one step further by representing different forms of traditional assets
+(such as money and securities) as tokens on DLT-based platforms. Such DLT-based
+platforms move the recording of transfer and ownership of value from individual
+ledgers kept by centralised financial market infrastructures to shared distributed
+ledgers.
+DLT-based infrastructures may require fit-for-purpose money which is appropriate for
+such DLT-based platforms. This has resulted in several central banks opting to further
+explore the viability of tokenised central bank money in financial markets. Such
+exploration – although largely conceptual at this stage – is important given the growth
+in technological innovation and the use of new forms of payment instruments facilitated
+by the rapid pace of innovation.
+In our experimentation during PK2, two forms of tokenised money were created to
+allow for settlement.
+The first form of money was a tokenised form of central bank money which was a
+liability of the central bank issued onto a specific DLT owned and operated by the
+SARB in the PoC. This form of money was used to purchase SARB debentures in the
+primary market.
+The second form of money was issued by commercial banks as a stablecoin and used
+for purchasing SARB debentures in the secondary market.
+In this way, PK2 explored and expanded on how settlement in central bank money
+and commercial bank money can happen on DLT.
+Page 2 of 6
+The debenture token market benefitted from having a riskless settlement asset in the
+form of a wholesale central bank digital currency (wCBDC) used for settlement. This
+reduced the settlement risk, particularly that payment might fail or might be uncertain
+due to riskiness in the settlement asset.
+The wCBDC prototype developed in PK2 was also the preferred asset in other
+instances. It served as the reserve asset guaranteeing the value of the wholesale
+stablecoin issued by commercial banks, and it was used to make payment to
+debenture token holders upon the maturity of the debenture. The role of the central
+bank in the tokenised debenture token market was therefore similar to the current role
+played by the central bank.
+Our attempts to learn more about the relevant technology have been guided by a few
+principles that can also be referred to as ‘the five Ps of fintech policy exploration’.
+Purpose-driven projects
+From a central banking perspective, practical exploration should always be
+conducted with a purpose. Central banks should therefore ‘play’ to learn and gain
+deeper insights into technology-based innovation and its potential impact on their
+mandate as well as on any relevant policy and regulatory frameworks in the financial
+system.
+I refer to the term ‘playing’ deliberately because our exploration with technology often
+happens in a controlled environment, whether it is a PoC such as Project Khokha or
+whether it is a ‘regulatory sandbox’ in the event of live transactions on a confined basis.
+Since DLT-based innovation is still quite nascent, it is difficult to reach definitive
+conclusions on its potential implications. In this way, practical experimentation helps
+inform our thinking about different scenarios which may arise in the future.
+PK2 was an experimental research project. It followed an exploratory approach, which
+enabled the PoC to contribute to the complex discussion surrounding tokenisation in
+financial markets.
+Page 3 of 6
+PK2 does not signal support for any particular technology, nor does it signal any
+specific shift in policy direction. The project was not about replicating the status quo.
+Rather, it was about challenging our thinking around designing for a different future.
+Playing in collaboration
+This has been a guiding principle for much of our work has been the following African
+proverb: “If you want to go fast, go alone, but if you want to go far, go together.” The
+technical teams are continuing to explore how they can build different applications in
+addition to the ones built for the prototypes during the main phase of PK2. This is to
+ensure that we can get the maximum shared learning out of our collaboration.
+The PK2 report is the SARB’s contribution to broader discussions surrounding the
+regulatory treatment of crypto-assets and financial market innovation. We hope that it
+provides meaningful insight to the discussions taking place between policymakers and
+regulators as they continue to consider the most appropriate way to amend the existing
+domestic legal and regulatory frameworks.
+We recognise that digital currency innovation cannot be explored in isolation. The
+SARB continues to draw on the insights emerging from various initiatives, including
+(but not limited to) our ongoing study into the feasibility, desirability and
+appropriateness of a retail central bank digital currency (CBDC), to enrich our
+understanding of digital currency implications.
+It is also important to acknowledge the inherently borderless nature of DLTs and the
+critical importance of international collaboration. The SARB was a proud participant in
+the Bank for International Settlements (BIS)-led Project Dunbar, which considered how
+a multi-CBDC platform could be used for international settlements. The Project Dunbar
+report was released two weeks ago, and I would like to strongly encourage you to read
+it, as it provides insightful supplementary views and information to the PK2 report.
+Such initiatives further emphasise the need to consider interoperability and integration
+between various digital currency and transfer-of-value platforms.
+Page 4 of 6
+Pondering the outcomes
+This outcome explores the implications of DLT-driven innovation through practical
+exploration. Such exploration leads to practical insights which require further analysis,
+research and dialogue. However, pondering on the lessons learnt and the insights
+gained should not lead to ‘analysis paralysis’ or unnecessary pontification.
+It is important to interrogate the efficiencies and benefits that new technology may
+introduce. In the context of DLT-based platforms in financial markets, potential
+efficiencies relate to:
+• increased transparency in the holding of securities;
+• reduction in costs due to automation; and
+• the removal of multiple manual reconciliation processes across a network of
+intermediaries.
+One of the primary risks stems from the lack of regulatory certainty as the existing
+legal and regulatory frameworks for financial markets were not designed for trading,
+clearing or settling on DLT.
+Promoting responsible innovation
+This looks at how innovation should be done in a way that the financial system is taken
+forward to benefit society as a whole. This includes contributing to achieving objectives
+such as:
+• improving efficiency;
+• lowering barriers to entry for financial activity; and
+• addressing any challenges restricting access to meaningful financial services.
+Policy and regulatory implications
+The insights gained through practical exploration should lead to greater regulatory
+clarity – both for innovators and for regulators – and should be in the broader interest
+of ensuring a level playing field for all market participants.
+As financial services regulators in South Africa, we follow an activity-based and
+technology-neutral approach, although we are not technology-blind. It may well be that
+innovation enabled by DLT may change the risks involved in a particular business
+Page 5 of 6
+process, for instance reducing or even eliminating counterparty risk, which may in turn
+require us to reconsider the appropriateness of specific regulations.
+Regulators need to move with caution when considering developments before they
+implement any regulatory changes. They should be fully appreciative that regulated
+entities require clarity before fully committing to entering DLT-based markets.
+Conclusion
+As I conclude, some may ask whether central banks and regulators will still be relevant
+in a world based on some of the decentralised principles explored in Project Khokha.
+From a regulatory perspective, I think it is unlikely that decentralised markets will be
+suitable in all instances or that decentralisation will guarantee the achievement of
+public policy objectives such as consumer protection, financial stability as well as
+safety and soundness, which fall within the mandates of central banks and regulators.
+The role of central banks, regulators and policymakers should, however, evolve with
+financial markets to ensure that we continue to fulfil our mandates in future financial
+markets.
+Central banks, regulators and policymakers can – and indeed must – play an active
+role in shaping a potential move to DLT-based markets through playing with purpose,
+playing in a collaborative way, pondering the implications of innovation, promoting
+responsible innovation for the public good, and informing an appropriate policy and
+regulatory response.
+Thank you.
+Page 6 of 6

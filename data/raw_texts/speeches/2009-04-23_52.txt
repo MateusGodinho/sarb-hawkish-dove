@@ -1,0 +1,410 @@
+Titulo: Presentation at the Wits Business School, on 23 April 2009 by Dr M Mnyande, Chief Economist and Executive General Manager. South African Reserve Bank
+Data: 2009-04-23
+Palestrante (estimado): Dr
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-senior-management/2009/52
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-senior-management/2009/52/presentation-by-dr-m-mnyande.pdf)
+----------------------------------------------------------------------
+
+Inflation targeting in a time of financial and economic crisis – South Africa’s
+experience
+Presentation at the Wits Business School, on 23 April 2009 by Dr M Mnyande, Chief
+Economist and Executive General Manager. South African Reserve Bank
+Introduction
+The run-up to the present financial and economic crisis started a long time ago and
+some of its elements were pre-empted in various discussions. For instance, at the
+World Economic Forum held in January 2008, a recession in the United States(US)
+was identified as an important threat to global financial stability and economic growth.
+Concerns were raised about the impact of the sub-prime crisis and declining US house
+prices on the US banking sector, as well as the possible systemic risks to other
+financial markets and economies globally. A continued sharp decline in US house
+prices did materialise in 2008 and had a significant impact on economic activity
+worldwide.
+During the past year global financial markets have witnessed the collapse of renowned
+financial institutions and have experienced contagion and increasing systemic risk on
+the largest scale since the Great Depression era. Various organisations, including the
+International Monetary Fund (IMF), foresee huge further potential aggregate losses
+and writedowns relating to loans and securities globally.
+The uncertainty and the bigger-than-expected losses that have already occurred have
+caused exceptional volatility in global financial markets and have resulted in a
+reduction in risk appetite especially towards emerging-market economies. This global
+financial turmoil has impacted severely on real economic activity in both the
+industrialised and developing countries, and declining economic and business
+sentiment and weak consumer demand have resulted in a sharp slowdown in global
+economic growth.
+2
+Today I would like to discuss how South Africa’s monetary policy framework has
+performed thus far in the pre- and contemporaneous crisis period, and how financial
+stability considerations have increasingly informed monetary policy decision-making
+globally in recent months.
+The South African Reserve Bank’s (Bank) primary goal and operational
+autonomy
+At the outset, in this great institution of learning, allow me to re-emphasise the primary
+goal of the Bank. This I believe is critical in our quest to enhance the awareness of
+what the Bank can and should do.
+The primary goal of the Bank in the South African economic system is the achievement
+and maintenance of price stability. This goal is assigned to the Bank in terms of the
+Constitution of the Republic. In pursuing its objective, the Bank assumes responsibility
+for the functions as set out in its mission statement. Although it is possible to pursue
+price stability using alternative approaches, the current monetary policy framework is
+inflation targeting. As stated clearly and time again in our communication with the
+public, sound monetary policy in the Bank’s view, provides a stable platform for
+sustainable economic and employment growth (Mboweni, 2005).
+The Bank is operationally independent in terms of the Constitution and the South
+African Reserve Bank Act. This means that while the Ministry of Finance and the Bank
+jointly recommended the inflation-target range to be adopted by Government and
+sanctioned by Parliament, the Bank retains complete autonomy to decide on the
+instruments used to achieve the goals of monetary policy and instrument settings.
+To strengthen policy co-ordination, the consultative process between the Bank and the
+National Treasury was strengthened with the conclusion of a memorandum of
+understanding which set out a framework for the consultative process to oversee
+macroeconomic, banking, financial and regulatory issues.
+3
+South Africa’ s experience with inflation targeting
+The South African experience with respect to inflation and output variability during the
+inflation-targeting era has generally been favourable. In his recent paper, Brian Kahn
+(2008) compared the inflation-targeting period from 2000 with the period of the 1990s,
+and found that in the pre-targeting period, the inflation-targeting measure, (CPIX)
+inflation, averaged 10,8 per cent in the 1990s, and declined to 6,5 per cent in the
+targeting period.1
+The average real economic growth rates in the two periods were 1,4 per cent and 4,25
+per cent, respectively (measured as year-on-year percentage changes in real gross
+domestic product). Our inflation-targeting framework over the recent past has
+therefore been consistent with higher average output growth. Under this framework by
+luck or fact, the period from 1999 to 2008 in the broadest measure, has turned out to
+be the longest sustained period of economic growth in South Africa’s economic history,
+complemented by both a lower rate of inflation and a stable monetary policy.
+In terms of variability, the standard deviation of inflation in South Africa declined from
+3,56 to 2,17 percentage points over this period, while the standard deviation of output
+growth declined from 2,28 to 1,06 percentage points. Simply put, not only did average
+inflation and inflation variability decline, but output growth variability declined as well.
+This is a good thing, and should clearly be viewed as supportive of long-term economic
+growth and development.
+Kahn’s (2008) paper also found that there has been greater stability in the real interest
+rate, measured as the official policy rate (repo rate) adjusted by the inflation rate. On
+this basis, the real policy rate averaged 5,7 per cent in the 1990s, and 3,3 per cent in
+the inflation-targeting period. Of greater significance perhaps is the relative stability of
+1 CPIX inflation (then, headline inflation excluding mortgage interest cost) was the inflation targeting
+measure from 2000 to 2008. It was formally calculated from 1998 by Statistics South Africa. Own
+estimates of CPIX prior to 1998 were made by the South African Reserve Bank and were used by Kahn
+(2008) starting from 1990.
+4
+the real rate in the inflation-targeting period, with the standard deviation falling from
+4,08 in the 1990s to 1,29 percentage points in the 2000s.
+However, the inflation outcome has exceeded the target range since April 2007,
+initially under pressure from strong domestic demand, and international oil and food
+price increases. As general inflation pressures began to emerge, the Monetary Policy
+Committee (MPC) initially began to communicate strongly the consequences of
+excessive domestic spending and cautioned consumers against this. In June 2006 the
+Monetary Policy Committee began to tighten the monetary policy stance. Monetary
+policy was reacting to supply-side shocks and exuberant real growth in household
+consumption expenditure (the latter eventually reached a rate of 9 per cent by the final
+quarter of 2006).
+Much of the MPC’s focus in 2008 continued to be on emerging second-round effects.
+Furthermore, inflation expectations, which for some time had been anchored within the
+inflation-target range, also showed evidence of increasing, along with wage
+settlements. While expectations were no longer anchored within the target range,
+there was still an expectation that inflation would moderate over the next two years.
+The interest rate cycle was reversed in December 2008 with a reduction of 50 basis
+points in the repurchase rate on the basis of the expected return of inflation to within
+the target range. Meanwhile, as I mentioned earlier, the domestic and global
+economic outlook had weakened significantly. Domestic demand conditions
+deteriorated as gross domestic expenditure and domestic final demand contracted in
+the fourth quarter of 2008. Domestic demand conditions are expected to remain under
+pressure as a result of declining disposable incomes, tighter credit conditions and
+negative wealth effects.
+Credit extension to the private sector continued along its spiral of deceleration owing to
+lower demand and more stringent lending criteria being applied by banks. Against the
+backdrop of a slowing global and domestic economy and an improved medium-term
+5
+outlook for inflation, the MPC decided to reduce the repurchase rate by a further 100
+basis points at each of its subsequent meetings in February and March 2009.
+The most recent central forecast of the Bank shows consumer price inflation averaging
+8,1 per cent in the first quarter of 2009 and then declining to below 6 per cent in the
+third quarter of the year. However, on account of technical base effects, inflation is
+expected to subsequently edge higher and marginally exceed the upper end of the
+inflation-target range, before returning to within the range in the second quarter of
+2010. It is projected to remain within the range until the end of the forecast period in
+the fourth quarter of 2010, when it is expected to average 5,3 per cent. Having stated
+that, we must however understand that the heightened levels of uncertainty and the
+rate of change of global developments make these forecasts subject to higher risk than
+is usually the case.
+Monetary policy and financial stability
+Prior to the current financial crisis, the interaction between financial stability and
+monetary policy had been fairly loose. Although warning signals about the potential
+economic impact of financial crises had been given by a number of less severe crises,
+these crises mainly affected specific geographical regions, mostly in emerging
+markets. As a result, they did not have such a severe impact on industrialised
+countries and the world economy.
+In the South African Reserve Bank as well as in most central banks, financial stability
+had generally been treated as an extension of the regulatory responsibilities, while
+monetary policy focused primarily on inflation/or price stability. Thus financial stability
+considerations did not generally play a major role in the formulation and/or
+implementation of monetary policy.
+The intensity of the current crisis has since brought the issue of financial stability to the
+fore and is forcing central banks to reconsider their thinking about the links between
+6
+financial stability and monetary policy. This is also true for the Bank. For example,
+this issue was discussed extensively recently in the Bank’s senior management
+strategy meeting. Evidence presented at the meeting seems to suggest that there is a
+strong likelihood of some profound changes in the roles and responsibilities entrusted
+to central banks, regarding the stability of the financial system.
+Even at this developmental stage of the crisis, one can clearly identify a number of
+linkages between monetary policy and financial stability that were not fully recognised
+before or, if they were, had not been actively pursued by central banks. I’ll briefly
+address a few of these linkages, some of which are operational in nature, and some
+more conceptual or philosophical.
+Financial stability is necessary for effective transmission of monetary policy
+The current crisis is the most compelling example yet of the extent to which the
+functioning of financial markets can fail if confidence is lost. Central banks had, in a
+sense, taken for granted that they will always be able to implement monetary policy
+through their various policy instruments, no matter what.
+After all, although there have been financial crises before, the almost complete and
+broad-based breakdown of certain markets that occurred in many of the developed
+countries during 2008 has been unprecedented. Suddenly, the major central banks
+found themselves in the peculiar situation where market rates became disjointed from
+policy rates.
+Interbank rates became almost irrelevant as interbank lending activity stalled, and
+some central banks had to assume a ‘brokering’ role between banks. Longer-term
+rates responded to various influences stemming from the instability of financial markets
+and the general loss of confidence among market participants, rather than to policy
+rates. As a result, the spreads between policy and market rates, as well as between
+short- and longer-term rates widened significantly. In this environment it became clear
+7
+to all that it is impossible to implement monetary policy in the absence of financial
+stability.
+This is the first operational linkage that central banks and governments have to
+acknowledge. Central banks cannot formulate and implement monetary policy without
+pursuing financial stability, because financial stability is essential for the effective
+implementation of monetary policy.
+Monetary policy tools are being used to protect financial stability
+The most visible part of monetary policy is the level of a central bank’s policy interest
+rates, which should determine the price of credit in the market. Since the onset of the
+financial crisis, the major central banks have reduced their interest rates dramatically,
+some to a level close to zero. It was fortunate, though probably not a coincidence, that
+these reductions coincided with declining inflation worldwide. However, it was also
+evident that, in the current circumstances, concerns about the state of the global
+economy and the need to restore financial stability were the main drivers behind these
+interest rate decisions, rather than the normal monetary policy considerations of
+central banks.
+While policy rates represent the visible component of monetary policy, there is also a
+less visible component, namely the amount of liquidity that a central bank makes
+available in the market. Central banks have the ability to create additional money-
+market liquidity, for example by lending additional funds to institutions or by purchasing
+financial assets.
+In particular, since October 2008, the major central banks have provided significant
+amounts of liquidity to their respective banking sectors in order to help overcome the
+malfunctioning of interbank and credit markets. This provisioning of additional liquidity
+is often referred to as “quantitative easing”. If left unsterilised, it increases the
+monetary base in a financial system just as directly as printing more banknotes would
+8
+do, and can be inherently inflationary in future. It is a policy option that remains
+available to central banks and can be pursued even when they are unable to reduce
+policy rates further.
+The ability of the major central banks to ‘sterilise’ their liquidity injections has been
+varied. In the case of the European Central Bank, the additional liquidity provided did
+not significantly increase overall market liquidity, because banks chose to deposit
+similar amounts with the ECB. It did, however, change the role of the ECB to that
+equivalent to an interbank broker, leaving it exposed to increased credit risk on its
+balance sheet.
+In the case of the US, the Federal Reserve managed to drain most of the additional
+liquidity until October 2008, but thereafter was no longer able to do so as the
+cumulative amount lent by the Federal Reserve became too large2. Nevertheless, it is
+evident that quantitative easing, which essentially is a monetary policy tool and in
+normal conditions should primarily be aimed at supporting a central bank’s monetary
+policy stance, is a tool that is being used by central banks to restore financial stability.
+Central banks put greater emphasis on their financial stability responsibilities
+All the major central banks, and a number of emerging-market central banks, have
+acknowledged the need to restructure their functions in order to give more emphasis,
+and in some cases, more legal support to their financial stability responsibilities.
+Perhaps one of the reasons why this has not been done previously is that financial
+stability is a much more difficult and elusive concept to define than price stability, and
+therefore more difficult to measure. Also, financial instability can arise from various
+sources, and policy responses are less clear-cut and predictable. Sometimes, policy
+options lie outside the domain of central banking.
+2 Lacker, J, President of the Federal Reserve Bank of Richmond. Remarks made at a meeting of the National
+Association for Business Economics. 2 March 2009.
+9
+Be that as it may, recent events have shown that when systemic instability arises, it is
+up to the central banks to restore confidence in the markets, and they are better
+equipped to do this by giving adequate attention (in advance) to their roles,
+responsibilities and legal powers in this regard. Sir John Gieve, Deputy Governor of
+the Bank of England (BoE), recently said that, with reference to the collapse of
+securitisation markets in August 2007 and the failure of Northern Rock, “with the
+benefit of hindsight, the main problem was not the handling of the initial rescue, but
+that […] having stepped in, the authorities were hamstrung by the inadequacy of the
+legal powers to resolve it quickly and cleanly” (Gieve, 2009).
+There are a number of examples of steps taken to strengthen central banks’ financial
+stability functions. The BoE has recently restructured to enhance its ability to deal with
+systemic instability. A new Banking Act was passed in February 20093, which puts the
+BoE’s financial stability objective onto a statutory footing. The BoE’s authority to
+respond to systemic threats to financial stability has been increased and tightened.
+This Act gives a statutory financial stability objective to the BoE and provides a
+permanent set of tools to strengthen the ability of the tripartite authorities in the UK to
+deal with distressed banks. In terms of the Act, a Special Resolution Regime was
+created in the BoE to deal with distressed banks.
+In March 2009 the Bundesbank also announced that it intends to strengthen its role in
+financial stability by establishing a new department as part of a significant structural
+overhaul. Much more resources will be dedicated to expert financial stability analysis.
+The Governor of the Bundesbank, Mr Axel Weber, indicated that the Bundesbank was
+attaching greater importance to financial stability analysis and that central banks had a
+natural interest in financial stability, given their systemic insights and closeness to
+markets.4
+3 UK Banking Act 2009, available on the Bank of England internet website.
+4 CentralBankNews.Com. 23 March 2009. Buba to strenghthen stability role.
+10
+Last month the Federal Reserve System (the Fed) also clarified its role as a guardian
+of financial stability. In agreement with the US Treasury, it formulated four points that
+set out in detail the limits of its role in preserving stability, namely that,
+- There should be co-operation between the US Treasury and the Fed in
+improving the functioning of credit markets and fostering financial stability;
+- the Fed should avoid credit risk and credit allocation;
+- the pursuit of financial stability should not constrain the preservation of
+monetary stability; and
+- there is a need for a comprehensive resolution regime for systemically critical
+financial institutions.5
+It is clear that recent events have forced central banks into unchartered territory with
+regard to their roles in preserving financial stability. While it is clear that they are likely
+to carry bigger and better-defined financial stability responsibilities, they will also have
+to find new balances between these responsibilities and their monetary policy
+objectives.
+The scope of monetary policy may widen
+Economists and central bankers alike have long debated the role that asset price
+developments should play in the formulation of monetary policy. This debate can be
+approached from two perspectives. The first perspective raises the question whether
+asset prices should be considered as important inputs to policy formulation. This
+question relates to the increasing emphasis that is placed on macro-prudential
+analyses to identify possible threats to systemic stability, which includes threats
+emanating from excessive asset price developments that cause increasing and
+unsustainable imbalances between the fundamental and market values of assets.
+The second perspective focuses on whether monetary policy should be aimed at
+achieving specific asset price levels, or perhaps to burst perceived asset bubbles.
+5 Federal Reserve System. 23 March 2009. Joint statement by Treasury and the Federal Reserve on the Federal
+Reserve’s role in preserving financial and monetary stability.
+11
+From this perspective, asset prices become an objective or target of monetary policy.
+There is little consensus about this contentious issue. Some argue that an inflation-
+targeting regime is too narrow, forcing central banks to focus on consumer price
+developments, while ignoring broader prices and market developments.
+A counterargument is that inflation targeting should not be so narrowly interpreted, but
+within the broader scope of economic and financial market developments.
+Nevertheless, in the speech referenced earlier, Sir John Gieve makes the point that “if
+inflation targeting by a central bank is an essential foundation of policy, it is pretty
+clearly not sufficient on its own”, and that central banks may need to prevent asset
+price and credit booms, as well as control consumer prices (for which they may need
+more than one instrument).
+It is not my intention to enter into this debate at this early stage. I am sure there will be
+heated arguments about it in years to come, and various approaches will be
+researched and tested. Suffice it to say, that the current crisis has illustrated the costly
+consequences of not giving adequate attention to asset prices and allowing a build-up
+of risks and positions that, with hindsight, were clearly unsustainable at a systemic
+level.
+However, central banks and governments of especially the developed countries have
+been busy technically repairing credit systems, assessing dysfunctional housing
+markets and developing measures to counter declines in private incomes and
+spending. One of the most important aims of all these rescue missions is also to
+restore public confidence. More specifically, on monetary policy positioning, the recent
+OECD Economic Outlook has urged that monetary authorities in the member countries
+attempt to “to bring or keep policy rates to near zero,” while on the Fiscal Policy the
+report also urged fiscal authorities to “adopt discretionary fiscal stimulus depending on
+country – specific circumstances, but should also guard against fuelling long-term
+inflation …..”
+12
+Conclusion
+The mandate of the Bank remains to focus on and counter inflation. The inflation-
+targeting monetary policy framework has improved the policy responses to the
+sizeable domestic and external shocks encountered during the period of inflation
+targeting. The responses of the MPC have been directed at the expected increase in
+inflation if exogenous shocks are expected to feed through strongly to generalised
+price increases. This is consistent with the forward-looking application of monetary
+policy implied by an inflation-targeting policy framework.
+However, in the absence of an explicit target for inflation, monetary policy would still
+have remained focused on achieving price stability, and would have had to respond to
+the same shocks that the economy has been exposed to. Inflation targeting makes
+this process more transparent and provides an explicit anchor for the managing of
+inflation expectations.
+Although price stability is regarded as a necessary prerequisite for sustained economic
+growth, the Bank holds the view that success with this goal is strongly dependent on
+financial system stability. The Bank has consequently intensified its focus on
+macroeconomic issues concerning the financial system since 2004. To this end, the
+Bank on an ongoing basis monitors all sections of the financial system to spot signs of
+potential imbalances that could have adverse effects on the soundness of the financial
+system. The Bank contributes to a transparent discourse concerning financial stability
+through the ongoing publication of the Financial Stability Review, which is published
+biannually.
+Internationally through substantive monetary and fiscal policy intervention, most
+important financial markets have remained functional, but confidence levels remain low
+and have continued to fall in some countries. Some impaired credit markets have
+gradually started to function properly, going by market spreads, although in many
+instances such markets remain critically dependent on central bank and government
+support.
+13
+The depth and duration of the current global recession and the eventual full impact on
+South Africa will be determined by the extent to which success is achieved with the
+wide range of monetary and fiscal policy steps that have been announced by policy-
+makers worldwide in recent months. To the extent that banking crises have proven
+historically to take quite long to resolve fully, the current synchronised global recession
+could prove to endure somewhat longer than expected. However, the fact that many
+of the policy steps that have been announced to combat the crisis have been
+implemented speedily and on a co-ordinated basis between countries, is a positive
+force in shaping the global outlook.
+The domestic slowdown in the third quarter of 2008 followed by the first output growth
+contraction in ten years clearly indicate that South Africa’s real economy has not been
+spared by the global financial crisis. Although the deficit on the current account of the
+balance of payments narrowed significantly in the fourth quarter of 2008, preliminary
+trade data for January and February 2009 suggested that the country’s trade deficit
+with the rest of the world could have widened again in the first quarter of 2009. In
+addition, the financing of the current account deficit remains a challenge considering
+the contraction in cross-border lending in an environment characterised by uncertainty
+in global financial markets.
+The short-term, miscellaneous business cycle indicators have weakened significantly
+in the most recent months, almost guaranteeing a further contraction in the first quarter
+of this year. Though the composite leading business cycle indicator increased
+somewhat in February this year, seven of the eleven component time series available
+declined, as four increased. This was attributed to a sharp increase in the interest rate
+spread component. Thus, the February uptick does not indicate a turning point by any
+means. Instead the trend still points to a continued slowdown in aggregate economic
+activity this year.
+A dismal performance by the country’s most critical sectors, that is, manufacturing and
+mining output, calls upon new ideas by New Growth Theorists, to make more than just
+14
+sense for South Africa, if growth and development objectives have to be achieved on a
+sustainable basis. Contraction in the real disposable income of households in the last
+quarter of 2008 has visibly dampened household spending, reflecting the early
+outcomes of “Tough Times.”
+Cost structures and pricing differ across sectors of the economy and at a micro level
+are affected by a variety of issues ranging from the prevalence of parity pricing models,
+import regulations, logistics in accessing markets and the barriers to entry in certain
+sectors. The Da Gama in Zwelitsha, King William’s Town in the Eastern Cape, is one
+example of such firms that are currently experiencing an uphill – considering the
+above-mentioned, including the input costs of coal, electricity, chemicals, cotton, and
+ultimately internal and external demand for the final product.
+During the Bank’s recent visits to the provinces and discussions held with local firms,
+private and public officials and trade unions, it became clear that none of the above-
+mentioned are controlled by monetary policy except to, a lesser extent, the impact on
+consumer demand, if purchases are done through credit. Monetary policy is, but part
+of a bigger picture, where all the role-players ranging from the National Treasury,
+Department of Trade and Industry, the agricultural, chemicals, financial, wholesale and
+retail sectors - to name but a few, need to address the serious concerns and causes
+of South Africa’s economic hardships at a micro and macro levels. The Bank, at all
+times and in different platforms such as this one, attempts to conduct open-mouth
+operations to morally persuade businesses and public entities to price within the
+inflation-target range.
+These troubling times with undesirable contractions should be viewed as a passing
+phase – a short-run experience – which in Neo Walrasian terms cannot be placed as a
+“center of gravitation” for the South African economy. Observing some key economic
+variables there is evidence to suggest that the economy will move away from this
+current position into another (long-term) positive growth territory in the near term.
+Thank you
+15
+References:
+Gieve, 2009, “Seven lessons from the past three years”, speech delivered at the
+London School of Economics, February 19.
+Kahn, S 2008, “Challenges of Inflation Targeting for Emerging Market economies: The
+South African Case”, paper prepared for the South African Reserve Bank Conference
+on Challenges for Monetary Policy-makers in Emerging Markets, October 29 to 31.
+CDE, 2009, “Roundtable, accelerating growth in tough times, March 2009, Number 1
+Mboweni, T T 2005, “Monetary policy and sustainable economic growth”, Address to
+the Bureau for Economic Research Conference on Growing the South African
+Economy, November 9.
+Quarterly Bulletin, March 2009, South African Reserve Bank, No 251
+OECD Interim Economic Outlook, March 2009, www.oecd.org/oecdEconomicOutlook

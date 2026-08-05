@@ -1,0 +1,210 @@
+Titulo: Remarks by Dr Mnyande, Chief Economist and Executive General Manager of the South African Reserve Bank, at the launch of the Financial Stability Review on 6 May 2009
+Data: 2009-05-06
+Palestrante (estimado): Mnyande
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-senior-management/2009/53
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-senior-management/2009/53/fsr-launch-speech-march-2009_1.pdf)
+----------------------------------------------------------------------
+
+Remarks by Dr Mnyande, Chief Economist and Executive General
+Manager
+of the South African Reserve Bank, at the launch of the
+Financial Stability Review on 6 May 2009
+Invited guests, members of the press and colleagues from the South African
+Reserve Bank.
+It is my privilege to welcome you to the release of the latest Financial Stability
+Review (FSR) of the Bank.
+The purpose of this publication is to identify and analyse potential risks to South
+Africa’s financial system stability, and to communicate such assessments in an
+endeavour to stimulate serious debate about pertinent financial stability issues and
+their implications for overall economic activity.
+The Bank has been publishing the FSR on a six-monthly basis since March 2004,
+making this the eleventh edition. However, with this edition the Bank enters a new
+phase: it is the first time that the FSR is officially launched at a press conference.
+This is in line with other major publications of the Bank, such as the Bank’s Quarterly
+Bulletin, Monetary Policy Review and Annual Report.
+Raising the profile of this publication in this current global environment gives the
+Bank an additional tool and opportunity to communicate its views about the stability
+of the South African financial system, which has, in the most recent years, become
+critical to the understanding of the overall global financial system. The global
+financial crisis, which started in mid-2007, has compelled the Group of Twenty (G-
+20) countries, among others, to raise the level of transparency regarding financial
+system arrangements.
+Thus, this press conference serves as a concrete manifestation of the growing
+importance of financial stability as a central bank function, alongside its conventional
+and primary function of maintaining price stability. This greater emphasis on financial
+stability is a global trend and one that we expect will change the way in which central
+banks conduct their business. As we speak, internationally much attention is being
+given to central banks’ role in promoting and preserving financial stability - in the
+context of both supervision and policy. Various central banks have also restructured
+and enhanced their legal mandates to give full effect to these responsibilities.
+In a supervisory or macroprudential context, central banks, as agreed by both the
+International Monetary Fund (IMF) and the Bank for International Settlements (BIS),
+should have the capacity to
+ identify systemic threats at an early stage;
+ promote measures to reduce these threats;
+ develop and test contingency plans and crisis preparedness; and
+ in extreme cases, implement safety net measures to support systemically
+important financial institutions, maintain confidence in financial markets and
+restore the efficient functioning of markets.
+In a policy context, a central bank’s financial stability function is complementary to,
+rather than in conflict with, its monetary policy function. Greater emphasis on
+financial stability issues certainly does not imply that the Bank would pursue these
+objectives at the expense of price stability. The major central banks that have
+intervened in unprecedented ways and to astounding amounts in markets in pursuit
+of financial stability have categorically stated that these interventions should not be
+inflationary, and proper exit strategies should be formulated in order to prevent them
+from becoming so.
+In our case, the Bank has increased the frequency of meetings of the Monetary
+Policy Committee from every second month to monthly this year, in order to monitor
+2
+internationally and locally both the real and financial economic developments on a
+more frequent basis. We are therefore simultaneously and continuously reviewing
+the role that the Financial Stability Department plays in this process, and this was
+one of the key topics for discussion at the recent Strategic Planning Session of the
+executive and senior management of the Bank.
+The financial stability and monetary policy functions of a central bank are
+complementary, primarily due to the linkages that exist between the two: monetary
+policy implementation becomes impossible in the absence of well-functioning
+markets and an effective transmission mechanism. This is a topic for discussion at
+the next monetary policy strategy meeting of the Bank, which will be held early in
+June. Furthermore, recent experience internationally has shown the severity of the
+cost associated with unsustainable asset bubbles when they burst.
+It is for these reasons that monetary policy-makers here and elsewhere have to take
+cognisance of systemic developments - such as unsustainable asset price increases
+that do not reflect fundamentals, over-leveraging, liquidity pressures and excessive
+credit growth. As mentioned earlier, the purpose of the FSR is to highlight any such
+developments, and to review regulatory aspects that could impact on financial
+markets. At this point, allow me to proceed with a short summary of the key issues
+that are raised in this edition.
+Since the release of the September 2008 FSR, the global financial crisis has
+intensified. Many industrialised economies have fallen into recession and emerging-
+market economies (EMEs) now appear much less immune to the effects of the
+deepening recession in these major economies. Global deleveraging, sharp
+declines in international trade and a so-called flight to quality by investors have
+taken their toll on output growth and have markedly reduced investors’ demand for
+EMEs’ financial assets.
+3
+Key risks in the global recessionary environment that are feeding back into the
+financial system include a decline in net lending to households and businesses,
+lower corporate profits, higher default rates, further losses in equity markets, weaker
+property and commodity markets, and volatility in currency markets. Monetary
+authorities in some industrialised countries have provided liquidity support and
+reduced their policy rates drastically to help restore confidence and increase credit
+extension, and several governments have announced fiscal stimulus packages to
+support the crippled domestic demand.
+The G-20 leaders (of which South Africa remains a key member) agreed on a Global
+Plan for Recovery and Reform at the London Summit in early April 20091 to repair
+the global financial system, restore confidence and lending, and to avoid a
+prolonged deep global recession. This plan is also aimed at benefiting economic
+growth in EMEs and in other developing countries, including those in Africa. The
+G-20 meeting stressed specific economic, financial and social risks stemming from
+the financial crisis, which are summarised in a box in the FSR on page 8.
+The general conclusion of this edition of the FSR is that South African financial
+markets have so far been spared the worst of the direct effects of the recent global
+financial calamity. Analysis will show that the South African banks have maintained
+levels of capital well in excess of the already prudent regulatory requirement, and
+their degree of leverage and their off-balance-sheet risk exposures have been much
+lower than those of the failed banks in other G-20 countries.
+Evidence will also reveal that South African banks have primarily felt the impact of
+the global financial crisis indirectly, through higher funding costs and increased
+impairments. Higher funding costs and increased impairments are, however, also
+attributable to the negative impact of the lower real economic activity on borrowers,
+following years of high credit growth. Fortunately the South African banking sector
+1 G-20 Communiqué from the London Summit. 2 April 2009. The Global Plan for Recovery and
+Reform.
+4
+was further shielded from developments in global financial markets by its limited
+exposure to foreign currency-denominated assets, and by its limited dependence on
+foreign currency-denominated funding liabilities.
+Notwithstanding this, conditions in the South African financial markets and banking
+sector have deteriorated in recent months. Share prices on the JSE Limited have
+declined, foreign portfolio investment flows reversed and impaired advances of
+banks increased as the profitability of financial institutions declined somewhat.
+However, these developments, as we are all aware, have mainly resulted from the
+spill-over effects of the international financial crisis, rather than from direct exposure
+to toxic assets from some major economies, liquidity squeezes in the domestic
+banking system, malfunctioning South African financial markets, funding constraints
+on banks, excessive leverage in the financial sector or the effect of currency
+depreciation on foreign debt.
+As evidenced in the recently released South African Reserve Bank Quarterly
+Bulletin, the global economic slowdown has also impacted on real economic activity
+in South Africa. South African financial and non-financial entities are experiencing
+pressures as a result of the global financial turmoil and the slowdown in economic
+activity. Some firms, particularly in mining and manufacturing and notably in the
+motor industry, retrenched a significant number of employees in the first quarter of
+this year – leading to an increase in the unemployment rate by 1,6 percentage points
+from the fourth quarter of 2008 to 23,5 percent in the first quarter of this year.
+In the fourth quarter of 2008 confidence in the financial sector dropped to its lowest
+historical level and the business confidence level also declined significantly. In the
+first quarter of 2009 though, this was ameliorated by factors such as reduced interest
+rates, lower petrol prices, a relatively stable rand exchange rate and a stimulatory
+National Budget announced in February 2009.
+5
+The uncertainty in financial markets and the more pronounced slowdown in the
+economy from the third quarter of 2008 affected consumer confidence and
+undermined the outlook for consumption. Consumption expenditure continued to be
+subdued as households reduced spending and postponed their purchases of mostly
+durable goods. Although there has been a moderation in the growth rate of
+household debt, households remain highly indebted. Since the previous FSR, there
+have been continuing signals of financial distress in the household sector which has
+been mainly aggravated by further negative economic shocks or what seems to be a
+sustained slowdown in the real economy. Nominal house prices have started to
+decline amid high borrowing costs and more stringent lending criteria by financial
+institutions. Fears continue of further retrenchments in certain sectors of the
+economy. Recent reductions in interest rates may of course moderate the slowdown
+in the property market.
+An effective regulatory infrastructure is integral to the smooth functioning of a
+financial system. The domestic regulatory infrastructure should keep abreast of
+international developments in the financial system and, as such, is subject to
+continued change and enhancement. Developments in the financial infrastructure
+and regulatory environment that are likely to strengthen the resilience of the financial
+system include new legislative developments to improve competition, consumer
+protection and corporate governance. Implementation of relevant findings of the joint
+IMF/World Bank 2008 Financial Sector Assessment Program (FSAP) evaluation of
+the South African financial system should further contribute to the resilience of the
+South African financial system. An overview of the findings of the FSAP mission is
+presented in a separate box on page 30 of the FSR.
+The ongoing programme of local financial development to increase the robustness of
+the financial system will, to a large degree, be influenced by the international agenda
+of responses to the global financial crisis. Although the South African financial
+system has been less affected, as mentioned earlier, South Africa has been active in
+formal and informal international forums analysing the crisis, and will be expected to
+6
+respond to relevant regulatory changes deemed necessary to strengthen the global
+financial system. This may entail matters such as the legal mandate, role and
+responsibilities of authorities to support financial stability; the scope and design of
+the financial safety net; cross-border co-operation between regulators;
+countercyclical prudential requirements; and stronger macroprudential regulation
+and analysis.
+The national payment system (NPS) is a vital component of the broader financial
+system, and its smooth and efficient functioning is regarded as essential for
+supporting financial system stability in South Africa. A conceptual description of the
+risk mitigation measures that have been built into the NPS is provided as a separate
+section of the FSR.
+The issue of how to promote financial stability through countercyclical policy
+measures has become very topical in the current global circumstances and is
+attended to at various levels in the international regulatory arena. It is increasingly
+recognised that some of the prudential tools, valuation methods and accounting
+practices that have been applied have tended to encourage procyclical behaviour,
+that is, increasing the upswings and exacerbating the downswings. A more detailed
+discussion on countercyclicality is presented in a box of this FSR issue on page 32.
+Finally, the FSR contains a note that gives a South African perspective on the global
+financial market turmoil and central bank intervention. Various aspects and
+indicators of turmoil in international financial markets are compared to the South
+African situation. The general conclusion is that, although conditions in the South
+African financial markets and banking sector have deteriorated in recent months, the
+international financial crisis has, to date, not resulted in severe instability in the
+domestic financial system. The Bank did not have to inject additional liquidity into the
+money market or provide special liquidity assistance to any of the major financial
+and non-financial institutions in South Africa. Neither did it have to use foreign
+7
+exchange reserves to intervene in the foreign exchange market. Interbank markets
+continued to function as normal, both in terms of prices (typically interest rates) and
+volumes. South African banks were not as excessively geared as some of their
+distressed counterparts in the developed countries, their off-balance-sheet
+exposures were modest and their capital-adequacy ratios remained very healthy.
+I have briefly highlighted the key issues raised in the FSR. Much more detailed
+analyses are available in the publication itself, and I trust that you will find these
+interesting, stimulating and relevant to the current environment.
+Thank you
+8

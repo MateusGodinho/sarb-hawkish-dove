@@ -1,0 +1,223 @@
+<title>SARB — Speeches, last 3 years</title>
+
+<style>
+.viz-root {
+  color-scheme: light;
+  --surface-1:      #eaf2f8;
+  --page:           #f9f9f7;
+  --text-primary:   #0b0b0b;
+  --text-secondary: #52514e;
+  --muted:          #6b7580;
+  --grid:           #ffffff;
+  --baseline:       #b9c6d1;
+  --raw:            #52514e;
+  --smooth:         #e34948;
+  --band:           #e34948;
+  --event:          #6b7580;
+  --hike:           #eb6834;
+  --cut:            #1baf7a;
+  --border:         rgba(11,11,11,0.10);
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:where(:not([data-theme="light"])) .viz-root {
+    color-scheme: dark;
+    --surface-1:      #1c2732;
+    --page:           #0d0d0d;
+    --text-primary:   #ffffff;
+    --text-secondary: #c3c2b7;
+    --muted:          #9aa5af;
+    --grid:           #2c3a47;
+    --baseline:       #46586a;
+    --raw:            #c3c2b7;
+    --smooth:         #e66767;
+    --band:           #e66767;
+    --event:          #9aa5af;
+    --hike:           #d95926;
+    --cut:            #199e70;
+    --border:         rgba(255,255,255,0.10);
+  }
+}
+:root[data-theme="dark"] .viz-root {
+  color-scheme: dark;
+  --surface-1:      #1c2732;
+  --page:           #0d0d0d;
+  --text-primary:   #ffffff;
+  --text-secondary: #c3c2b7;
+  --muted:          #9aa5af;
+  --grid:           #2c3a47;
+  --baseline:       #46586a;
+  --raw:            #c3c2b7;
+  --smooth:         #e66767;
+  --band:           #e66767;
+  --event:          #9aa5af;
+  --hike:           #d95926;
+  --cut:            #199e70;
+  --border:         rgba(255,255,255,0.10);
+}
+.viz-root { background: var(--page); padding: 24px; box-sizing: border-box; }
+.card {
+  background: var(--surface-1);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 18px 22px 12px;
+  max-width: 1100px;
+  margin: 0 auto 14px;
+}
+.card h1 { font-size: 16px; margin: 0 0 2px; color: var(--text-primary); font-weight: 600; }
+.card .sub { font-size: 12.5px; color: var(--text-secondary); margin-bottom: 12px; }
+.legend { display:flex; gap:16px; font-size:11.5px; color:var(--text-secondary); margin: 6px 0 2px; flex-wrap: wrap; }
+.legend .item { display:flex; align-items:center; gap:6px; }
+.legend .swatch { width:16px; height:2px; display:inline-block; }
+.legend .dotswatch { width:6px; height:6px; border-radius:50%; display:inline-block; }
+svg { width: 100%; height: auto; overflow: visible; display:block; }
+.axis-label { fill: var(--muted); font-size: 10.5px; }
+.axis-title { fill: var(--text-secondary); font-size: 11px; }
+.grid-line { stroke: var(--grid); stroke-width: 1; }
+.baseline { stroke: var(--baseline); stroke-width: 1; stroke-dasharray: 2 2; }
+.event-line { stroke: var(--event); stroke-width: 1; stroke-dasharray: 1 3; }
+.raw-line { fill:none; stroke: var(--raw); stroke-width: 1; opacity: 0.45; }
+.raw-dot { fill: var(--raw); opacity: 0.55; cursor: pointer; }
+.raw-dot.hike { fill: var(--hike); opacity: 0.85; }
+.raw-dot.cut { fill: var(--cut); opacity: 0.85; }
+.smooth-band { fill: var(--band); opacity: 0.14; }
+.smooth-line { fill:none; stroke: var(--smooth); stroke-width: 2.5; stroke-linecap: round; }
+#tooltip {
+  position: fixed; pointer-events: none;
+  background: var(--surface-1); border: 1px solid var(--border); border-radius: 8px;
+  padding: 9px 11px; font-size: 12px; color: var(--text-primary);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.18); max-width: 300px; display: none; z-index: 10; line-height: 1.45;
+}
+.note { font-size: 11.5px; color: var(--text-secondary); max-width: 1100px; margin: 8px auto 20px; padding: 0 4px; }
+</style>
+
+<div class="viz-root">
+  <div class="card">
+    <h1>SARB — Speeches, last 3 years</h1>
+    <div class="sub">Henry (2008) index, 1 point per speech · smoothed red line (LOWESS)</div>
+    <div class="legend">
+      <span class="item"><span class="dotswatch" style="background:var(--raw)"></span> SI (Henry) — rate held / no associated decision</span>
+      <span class="item"><span class="dotswatch" style="background:var(--hike)"></span> rate hike (at the meeting, or the most recent one before the document)</span>
+      <span class="item"><span class="dotswatch" style="background:var(--cut)"></span> rate cut (same)</span>
+      <span class="item"><span class="swatch" style="background:var(--smooth)"></span> SI (Henry), LOWESS-smoothed</span>
+    </div>
+    <svg id="chart" viewBox="0 0 1060 360" preserveAspectRatio="xMidYMid meet"></svg>
+  </div>
+</div>
+<div class="note">Last 3 years (same series as the full speeches chart).</div>
+<div id="tooltip"></div>
+
+<script>
+const DATA = [{"date": "2023-07-28", "score": 0.6577, "title": "An address by Lesetja Kganyago Governor of the South African Reserve Bank (SARB), at the 103rd annual Ordinary General Meeting of the SARB shareholders", "action": "hold", "rate": 8.25, "x": 0.0}, {"date": "2023-08-15", "score": 0.4, "title": "Speaking notes for Lesetja Kganyago, Governor of the South African Reserve Bank at the MPC Schools Challenge Winners Announcement", "action": "hold", "rate": 8.25, "x": 18.0}, {"date": "2023-09-05", "score": 0.7919, "title": "An address by Lesetja Kganyago Governor of the South African Reserve Bank at the University of Limpopo", "action": "hold", "rate": 8.25, "x": 39.0}, {"date": "2023-10-19", "score": 0.5075, "title": "Speech by Lesetja Kganyago Governor of the South African Reserve Bank  at the Nelson Mandela University", "action": "hold", "rate": 8.25, "x": 83.0}, {"date": "2023-11-17", "score": 0.5758, "title": "An address by Fundi Tshazibana Deputy governor of the South African Reserve Bank at the Central Bank of Eswatini", "action": "hold", "rate": 8.25, "x": 112.0}, {"date": "2023-12-01", "score": 0.64, "title": "An address by Fundi Tshazibana Deputy Governor of the South African Reserve Bank, at the South Africa Year Ahead Conference 2023 Bank of America Securities", "action": "hold", "rate": 8.25, "x": 126.0}, {"date": "2023-12-20", "score": 0.3333, "title": "Honorary Doctorate in Commerce bestowed on South African Reserve Bank Deputy Governor and Chief Executive Officer of the Prudential Authority, Fundi Tshazibanai at University of Stellenbosch on 14 December 2023", "action": "hold", "rate": 8.25, "x": 145.0}, {"date": "2024-02-06", "score": 1.44, "title": "Speech by Lesetja Kganyago Governor of the South African Reserve Bank at the INCA Capacity Building Fund Summer School", "action": "hold", "rate": 8.25, "x": 193.0}, {"date": "2024-03-06", "score": 1.0769, "title": "Remarks by Rashad Cassim Deputy Governor of the South African Reserve Bank at the Annual Financial Markets Cocktail Function", "action": "hold", "rate": 8.25, "x": 222.0}, {"date": "2024-03-13", "score": 0.3871, "title": "Keynote address by Lesetja Kganyago Governor of the South African Reserve Bank at the Financial Sector Conduct Authority Industry-wide Conference 2024", "action": "hold", "rate": 8.25, "x": 229.0}, {"date": "2024-04-25", "score": -0.1053, "title": "Speech by Sabihah Mohamed CEO of the Corporation for Deposit Insurance at the launch", "action": "hold", "rate": 8.25, "x": 272.0}, {"date": "2024-04-25", "score": 0.8571, "title": "Speech by Lesetja Kganyago Governor of the South African Reserve Bank at the launch of the Corporation for Deposit Insurance", "action": "hold", "rate": 8.25, "x": 272.0}, {"date": "2024-05-07", "score": 1.2727, "title": "An address by Lesetja Kganyago Governor of the South African Reserve Bank, at the memorial service for the late Dr Sam Motsuenyane", "action": "hold", "rate": 8.25, "x": 284.0}, {"date": "2024-06-25", "score": -0.023, "title": "Keynote address by Fundi Tshazibana, Deputy Governor of the South African Reserve Bank, at the Toronto Centre Workshop on Blended Finance", "action": "hold", "rate": 8.25, "x": 333.0}, {"date": "2024-07-30", "score": 0.6466, "title": "An address by Lesetja Kganyago Governor of the SARB, at the 104th annual Ordinary General Meeting of the SARB shareholders", "action": "hold", "rate": 8.25, "x": 368.0}, {"date": "2024-08-15", "score": 0.4496, "title": "Public lecture by South African Reserve Bank Governor Lesetja Kganyago at the University of the Free State", "action": "hold", "rate": 8.25, "x": 384.0}, {"date": "2024-08-21", "score": 0.875, "title": "Keynote address by Deputy Governor Rashad Cassim at the 2024 Market Practitioners Group Conference", "action": "hold", "rate": 8.25, "x": 390.0}, {"date": "2024-09-05", "score": 1.4286, "title": "Speaking notes for Rashad Cassim Deputy Governor of the South African Reserve Bank at the Payments Study Report Launch", "action": "hold", "rate": 8.25, "x": 405.0}, {"date": "2024-10-02", "score": 1.0943, "title": "Opening address by Governor Lesetja Kganyago Governor of the South African Reserve Bank at the 2024 Payments Conference", "action": "cut", "rate": 8.0, "x": 432.0}, {"date": "2024-10-17", "score": 0.4751, "title": "Special guest lecture by Lesetja Kganyago, Governor of the South African Reserve Bank, at the Department of Economics, Stellenbosch University", "action": "cut", "rate": 8.0, "x": 447.0}, {"date": "2024-11-07", "score": 1.25, "title": "Lesetja Kganyago pays tribute to his friend and Governor no. 8 Tito Mboweni", "action": "cut", "rate": 8.0, "x": 468.0}, {"date": "2025-02-13", "score": 0.5263, "title": "Lesetja Kganyago | Institutions, leadership and the populist challenge", "action": "cut", "rate": 7.5, "x": 566.0}, {"date": "2025-04-22", "score": 1.0189, "title": "Lesetja Kganyago | Challenges of the Group of Twenty", "action": "hold", "rate": 7.5, "x": 634.0}, {"date": "2025-05-06", "score": 0.3448, "title": "Lesetja Kganyago | The role of ethical leadership amid threats to academic freedom", "action": "hold", "rate": 7.5, "x": 648.0}, {"date": "2025-06-20", "score": 0.24, "title": "Lesetja Kganyago | Students and universities as catalysts for change", "action": "cut", "rate": 7.25, "x": 693.0}, {"date": "2025-08-08", "score": 0.7097, "title": "Address by Lesetja Kganyago, Governor of the SARB, at the 105th annual Ordinary General Meeting", "action": "cut", "rate": 7.0, "x": 742.0}, {"date": "2025-08-12", "score": 0.4181, "title": "Lesetja Kganyago | From fragility to strength: The role of price stability", "action": "cut", "rate": 7.0, "x": 746.0}, {"date": "2025-08-27", "score": 0.08, "title": "Fundi Tshazibana | Leveraging AI from a South African perspective", "action": "cut", "rate": 7.0, "x": 761.0}, {"date": "2025-09-04", "score": 0.8936, "title": "Rashad Cassim | Annual Financial Markets Cocktail Engagement", "action": "cut", "rate": 7.0, "x": 769.0}, {"date": "2025-09-25", "score": -0.127, "title": "Lesetja Kganyago | More or less regulation: Responding to a changing global environment", "action": "hold", "rate": 7.0, "x": 790.0}, {"date": "2025-10-10", "score": 1.0099, "title": "Lesetja Kganyago | Exchange rates and tariffs", "action": "hold", "rate": 7.0, "x": 805.0}, {"date": "2025-10-15", "score": 0.2086, "title": "Fundi Tshazibana | Financial policy in the era of the climate crisis: An African perspective", "action": "hold", "rate": 7.0, "x": 810.0}, {"date": "2025-10-20", "score": 0.386, "title": "Fundi Tshazibana | Leading with vision, empathy and adaptability: The mandate of supervisory leadership", "action": "hold", "rate": 7.0, "x": 815.0}, {"date": "2025-10-23", "score": 1.5294, "title": "Lesetja Kganyago | Advancing Cross-Border Payments", "action": "hold", "rate": 7.0, "x": 818.0}, {"date": "2025-11-11", "score": 1.2727, "title": "Lesetja Kganyago | Address at the G20 TechSprint", "action": "hold", "rate": 7.0, "x": 837.0}, {"date": "2025-11-27", "score": -0.4, "title": "Fundi Tshazibana | Promoting green finance: The role of central banks in supporting sustainable investments", "action": "cut", "rate": 6.75, "x": 853.0}, {"date": "2025-12-03", "score": 0.7368, "title": "Rashad Cassim | MPG Conference 2025", "action": "cut", "rate": 6.75, "x": 859.0}, {"date": "2026-03-11", "score": 0.25, "title": "Fundi Tshazibana | Building climate resilience amid structural shocks and policy divergence", "action": "hold", "rate": 6.75, "x": 957.0}, {"date": "2026-05-04", "score": 0.5833, "title": "Lesetja Kganyago | Supply shocks, monetary policy and the 3% target", "action": "hold", "rate": 6.75, "x": 1011.0}, {"date": "2026-05-06", "score": 0.9302, "title": "Lesetja Kganyago | One crisis after another: shocks, imbalances and resilience in the global economy", "action": "hold", "rate": 6.75, "x": 1013.0}, {"date": "2026-05-08", "score": -0.0282, "title": "Fundi Tshazibana | Regulation and supervision of the financial sector  in the age of artificial intelligence", "action": "hold", "rate": 6.75, "x": 1015.0}, {"date": "2026-06-02", "score": 0.4762, "title": "Lesetja Kganyago | Managing supply shocks: The role of monetary policy", "action": "hike", "rate": 7.0, "x": 1040.0}, {"date": "2026-06-09", "score": 0.5098, "title": "Rashad Cassim | Money in motion: Payments, digital assets and the future of finance", "action": "hike", "rate": 7.0, "x": 1047.0}, {"date": "2026-06-19", "score": 1.4483, "title": "Lesetja Kganyago | Launch of the SARB Museum", "action": "hike", "rate": 7.0, "x": 1057.0}, {"date": "2026-06-23", "score": 0.6105, "title": "Lesetja Kganyago | Leadership in policymaking", "action": "hike", "rate": 7.0, "x": 1061.0}, {"date": "2026-06-24", "score": 0.7273, "title": "Rashad Cassim | Monetary policy, the yield curve and financial markets", "action": "hike", "rate": 7.0, "x": 1062.0}, {"date": "2026-07-09", "score": 0.8462, "title": "Lesetja Kganyago | Remarks at the dinner for Heads of Foreign Missions", "action": "hike", "rate": 7.0, "x": 1077.0}];
+const SMOOTH = [{"x": 0.0, "y": 0.5627028164106386}, {"x": 18.0, "y": 0.5681543841289665}, {"x": 39.0, "y": 0.5767856188531292}, {"x": 83.0, "y": 0.606656986986982}, {"x": 112.0, "y": 0.6342531733981213}, {"x": 126.0, "y": 0.6474046797342916}, {"x": 145.0, "y": 0.6708898257036642}, {"x": 193.0, "y": 0.710395132475004}, {"x": 222.0, "y": 0.7443209400810589}, {"x": 229.0, "y": 0.7481967335994816}, {"x": 272.0, "y": 0.6547510170777178}, {"x": 272.0, "y": 0.6547510170777178}, {"x": 284.0, "y": 0.6135740735454277}, {"x": 333.0, "y": 0.6262551614487968}, {"x": 368.0, "y": 0.5736159248481959}, {"x": 384.0, "y": 0.6853750836993985}, {"x": 390.0, "y": 0.7203431613841554}, {"x": 405.0, "y": 0.8037746211293681}, {"x": 432.0, "y": 0.9149529939541249}, {"x": 447.0, "y": 0.8802510259725106}, {"x": 468.0, "y": 0.8499053469032549}, {"x": 566.0, "y": 0.7086543843633156}, {"x": 634.0, "y": 0.5537208395064973}, {"x": 648.0, "y": 0.5443249775391525}, {"x": 693.0, "y": 0.5018966078318063}, {"x": 742.0, "y": 0.43565646669857444}, {"x": 746.0, "y": 0.44555915164262755}, {"x": 761.0, "y": 0.4836149859634862}, {"x": 769.0, "y": 0.4909644309481048}, {"x": 790.0, "y": 0.5291531296726252}, {"x": 805.0, "y": 0.6055610408042804}, {"x": 810.0, "y": 0.6329278097494111}, {"x": 815.0, "y": 0.6482467122550967}, {"x": 818.0, "y": 0.6567281059826212}, {"x": 837.0, "y": 0.7191265953285748}, {"x": 853.0, "y": 0.7727605503320845}, {"x": 859.0, "y": 0.7769590080966848}, {"x": 957.0, "y": 0.28552449457325024}, {"x": 1011.0, "y": 0.4994038487995594}, {"x": 1013.0, "y": 0.5094548147277876}, {"x": 1015.0, "y": 0.5195305593906216}, {"x": 1040.0, "y": 0.6462985570043628}, {"x": 1047.0, "y": 0.6819543429977616}, {"x": 1057.0, "y": 0.7331129795284986}, {"x": 1061.0, "y": 0.7536896357224048}, {"x": 1062.0, "y": 0.7588444398971246}, {"x": 1077.0, "y": 0.8366561227046164}];
+const BAND = [{"x": 0.0, "y": 0.5627028164106386, "s": 0.0}, {"x": 18.0, "y": 0.5681543841289665, "s": 0.06374985981575866}, {"x": 39.0, "y": 0.5767856188531292, "s": 0.12400220076683094}, {"x": 83.0, "y": 0.606656986986982, "s": 0.20131288115966317}, {"x": 112.0, "y": 0.6342531733981213, "s": 0.24062805591595676}, {"x": 126.0, "y": 0.6474046797342916, "s": 0.2577410505854195}, {"x": 145.0, "y": 0.6708898257036642, "s": 0.27953596880888587}, {"x": 193.0, "y": 0.710395132475004, "s": 0.3338265499308816}, {"x": 222.0, "y": 0.7443209400810589, "s": 0.35496136851224036}, {"x": 229.0, "y": 0.7481967335994816, "s": 0.3580153420002595}, {"x": 272.0, "y": 0.6547510170777178, "s": 0.37888232151608076}, {"x": 272.0, "y": 0.6547510170777178, "s": 0.37888232151608076}, {"x": 284.0, "y": 0.6135740735454277, "s": 0.38374425791524697}, {"x": 333.0, "y": 0.6262551614487968, "s": 0.37528474447891635}, {"x": 368.0, "y": 0.5736159248481959, "s": 0.36948054302834454}, {"x": 384.0, "y": 0.6853750836993985, "s": 0.36423944608135256}, {"x": 390.0, "y": 0.7203431613841554, "s": 0.3625521335729519}, {"x": 405.0, "y": 0.8037746211293681, "s": 0.356386425253549}, {"x": 432.0, "y": 0.9149529939541249, "s": 0.3438579997291746}, {"x": 447.0, "y": 0.8802510259725106, "s": 0.33985715130514516}, {"x": 468.0, "y": 0.8499053469032549, "s": 0.3345701078630707}, {"x": 566.0, "y": 0.7086543843633156, "s": 0.32116043378572556}, {"x": 634.0, "y": 0.5537208395064973, "s": 0.2971214103727782}, {"x": 648.0, "y": 0.5443249775391525, "s": 0.2970185293530093}, {"x": 693.0, "y": 0.5018966078318063, "s": 0.32248920888837773}, {"x": 742.0, "y": 0.43565646669857444, "s": 0.34870293887547216}, {"x": 746.0, "y": 0.44555915164262755, "s": 0.35026790811155123}, {"x": 761.0, "y": 0.4836149859634862, "s": 0.3554161954286057}, {"x": 769.0, "y": 0.4909644309481048, "s": 0.3586587939674791}, {"x": 790.0, "y": 0.5291531296726252, "s": 0.36044617664169587}, {"x": 805.0, "y": 0.6055610408042804, "s": 0.3637598736348052}, {"x": 810.0, "y": 0.6329278097494111, "s": 0.3645795312468601}, {"x": 815.0, "y": 0.6482467122550967, "s": 0.36494364542148766}, {"x": 818.0, "y": 0.6567281059826212, "s": 0.3648437707499591}, {"x": 837.0, "y": 0.7191265953285748, "s": 0.3562691201782358}, {"x": 853.0, "y": 0.7727605503320845, "s": 0.33963553711115846}, {"x": 859.0, "y": 0.7769590080966848, "s": 0.3313506068053726}, {"x": 957.0, "y": 0.28552449457325024, "s": 0.25749038187065343}, {"x": 1011.0, "y": 0.4994038487995594, "s": 0.2350858041400723}, {"x": 1013.0, "y": 0.5094548147277876, "s": 0.2337287263187921}, {"x": 1015.0, "y": 0.5195305593906216, "s": 0.23234805152361845}, {"x": 1040.0, "y": 0.6462985570043628, "s": 0.21236891456606946}, {"x": 1047.0, "y": 0.6819543429977616, "s": 0.20554481203083594}, {"x": 1057.0, "y": 0.7331129795284986, "s": 0.1945323437271259}, {"x": 1061.0, "y": 0.7536896357224048, "s": 0.18964664541806805}, {"x": 1062.0, "y": 0.7588444398971246, "s": 0.18837753117750108}, {"x": 1077.0, "y": 0.8366561227046164, "s": 0.16668487596685}];
+const X_MIN = 0.0, X_MAX = 1077.0;
+const IT_X = null;
+const YEAR_STEP = 1;
+
+const svg = document.getElementById('chart');
+const W = 1060, H = 360;
+const M = {top: 14, right: 18, bottom: 32, left: 40};
+const plotW = W - M.left - M.right;
+const plotH = H - M.top - M.bottom;
+
+const allY = DATA.map(d => d.score);
+const yPad = 0.3;
+const yMin = Math.floor((Math.min(...allY) - yPad) * 4) / 4;
+const yMax = Math.ceil((Math.max(...allY) + yPad) * 4) / 4;
+
+function x(v) { return M.left + ((v - X_MIN) / (X_MAX - X_MIN)) * plotW; }
+function y(v) { return M.top + (1 - (v - yMin) / (yMax - yMin)) * plotH; }
+
+function svgEl(tag, attrs) {
+  const el = document.createElementNS('http://www.w3.org/2000/svg', tag);
+  for (const k in attrs) el.setAttribute(k, attrs[k]);
+  return el;
+}
+
+const step = (yMax - yMin) > 3 ? 1 : 0.5;
+for (let v = Math.ceil(yMin / step) * step; v <= yMax; v += step) {
+  const gy = y(v);
+  svg.appendChild(svgEl('line', {x1: M.left, x2: W - M.right, y1: gy, y2: gy, class: Math.abs(v) < 1e-9 ? 'baseline' : 'grid-line'}));
+  const lbl = svgEl('text', {x: M.left - 8, y: gy + 4, class: 'axis-label', 'text-anchor': 'end'});
+  lbl.textContent = (v > 0 ? '+' : '') + v.toFixed(step < 1 ? 1 : 0);
+  svg.appendChild(lbl);
+}
+
+let lastYear = null;
+DATA.forEach((d) => {
+  const year = d.date.slice(0, 4);
+  if (year !== lastYear && (parseInt(year) % YEAR_STEP === 0)) {
+    const gx = x(d.x);
+    const lbl = svgEl('text', {x: gx, y: H - M.bottom + 16, class: 'axis-label', 'text-anchor': 'middle'});
+    lbl.textContent = year;
+    svg.appendChild(lbl);
+    lastYear = year;
+  } else if (year !== lastYear) {
+    lastYear = year;
+  }
+});
+
+const axisTitle = svgEl('text', {x: (M.left + W - M.right) / 2, y: H - 2, class: 'axis-title', 'text-anchor': 'middle'});
+axisTitle.textContent = 'Date';
+svg.appendChild(axisTitle);
+const yAxisTitle = svgEl('text', {x: -H/2 + M.bottom, y: 12, class: 'axis-title', 'text-anchor': 'middle', transform: 'rotate(-90)'});
+yAxisTitle.textContent = 'Index Value';
+svg.appendChild(yAxisTitle);
+
+if (IT_X !== null) {
+  const gx = x(IT_X);
+  svg.appendChild(svgEl('line', {x1: gx, x2: gx, y1: M.top, y2: H - M.bottom, class: 'event-line'}));
+}
+
+let bandPath = '';
+BAND.forEach((p, i) => {
+  const px = x(p.x), pyTop = y(p.y + p.s);
+  bandPath += (i === 0 ? 'M ' : 'L ') + px + ' ' + pyTop + ' ';
+});
+for (let i = BAND.length - 1; i >= 0; i--) {
+  const p = BAND[i];
+  bandPath += 'L ' + x(p.x) + ' ' + y(p.y - p.s) + ' ';
+}
+bandPath += 'Z';
+svg.appendChild(svgEl('path', {d: bandPath, class: 'smooth-band'}));
+
+let rawPath = '';
+DATA.forEach((d, i) => { rawPath += (i === 0 ? 'M ' : 'L ') + x(d.x) + ' ' + y(d.score) + ' '; });
+svg.appendChild(svgEl('path', {d: rawPath, class: 'raw-line'}));
+
+const tooltip = document.getElementById('tooltip');
+DATA.forEach((d) => {
+  const isRate = d.action === 'hike' || d.action === 'cut';
+  const cls = 'raw-dot' + (d.action ? ' ' + d.action : '');
+  const dot = svgEl('circle', {cx: x(d.x), cy: y(d.score), r: isRate ? 3.6 : 2.3, class: cls});
+  dot.addEventListener('mouseenter', (ev) => showTooltip(ev, d));
+  dot.addEventListener('mousemove', positionTooltip);
+  dot.addEventListener('mouseleave', () => tooltip.style.display = 'none');
+  svg.appendChild(dot);
+});
+
+let smoothPath = '';
+SMOOTH.forEach((p, i) => { smoothPath += (i === 0 ? 'M ' : 'L ') + x(p.x) + ' ' + y(p.y) + ' '; });
+svg.appendChild(svgEl('path', {d: smoothPath, class: 'smooth-line'}));
+
+const ACTION_LABEL = {hike: 'rate hike', cut: 'rate cut', hold: 'rate held'};
+function showTooltip(ev, d) {
+  let html = `<div style="font-weight:600">${d.date}${d.kind ? ' · ' + d.kind : ''}</div>`;
+  html += `<div style="color:var(--text-secondary); margin-top:2px;">${(d.title || '').slice(0, 140)}</div>`;
+  html += `<div style="margin-top:4px;">score ${d.score.toFixed(3)}</div>`;
+  if (d.action) {
+    html += `<div>${ACTION_LABEL[d.action] || d.action}${d.rate !== null && d.rate !== undefined ? ' · prevailing rate ' + d.rate + '%' : ''}</div>`;
+  }
+  tooltip.innerHTML = html;
+  tooltip.style.display = 'block';
+  positionTooltip(ev);
+}
+function positionTooltip(ev) {
+  const pad = 16;
+  let left = ev.clientX + pad, top = ev.clientY + pad;
+  if (left + 300 > window.innerWidth) left = ev.clientX - 300 - pad;
+  tooltip.style.left = left + 'px';
+  tooltip.style.top = top + 'px';
+}
+</script>

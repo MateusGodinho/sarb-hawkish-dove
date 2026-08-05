@@ -1,0 +1,263 @@
+Titulo: An opening address by Rashad Cassim, a Deputy Governor of the South African Reserve Bank, at the World Fintech Festival 
+Data: 2020-12-08
+Palestrante (estimado): Rashad Cassim
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2020/An-opening-address-by-Rashad-Cassim-a-Deputy-Governor-of-the-South-African-Reserve-Bank-at-the-World-Fintech-Festival
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2020/speech-by-dg-cassim-8-december-2020/Deputy%20Governor%20Rashad%20Cassim%20Remarks%20at%20the%20World%20Fintech%20Festival%20December%202020.pdf)
+----------------------------------------------------------------------
+
+An opening address by Rashad Cassim,
+a Deputy Governor of the South African Reserve Bank,
+at the World Fintech Festival
+8 December 2020
+Challenges facing fintechs and opportunities to respond
+Good day to our South African financial technology (fintech) community and to all our
+fintech colleagues connecting to the World Fintech Festival in South Africa.
+The Intergovernmental Fintech Working Group (IFWG) is honoured to be part of this
+year’s Singapore Fintech Festival. We would like to commend the Monetary Authority
+of Singapore for organising a virtual festival which is testament to the immense
+possibilities that are unlocked when we embrace technology in the way we work and
+interact. My understanding is that we are likely over 100 000 people connected to this
+event.
+Before we begin today’s programme, I would like to talk, very briefly, about the
+significance of fintech, particularly in the context of COVID-191, and reflect on some
+of the challenges that fintech continues to face. For fintech to continue making inroads
+into financial services, it may be important for the ecosystem to overcome some of
+these challenges. Many of these reflections will be explored further by esteemed
+expert speakers in the panel discussions.
+I realise that any discussion of fintech raises a dilemma for many of us, given that it is
+a complex and multifaceted subject involving topics as diverse as, among others,
+regulatory barriers, the nature and use of technology, and its social and economic
+impact, be it economic efficiency or financial inclusion. COVID-19 has also opened up
+a whole new set of issues and challenges for fintech firms.
+1 coronavirus disease 2019
+Page 1 of 9
+While I would like to focus my talk specifically on four challenges facing the fintech
+industry – drawing, in part, from the South African experience – let me say a few things
+about what COVID-19 means for fintech firms.
+Although the pandemic has placed significant stress on all businesses, including
+fintech firms, many of them, specifically those with established consumer bases, have
+managed to pivot. There are growing examples of fintech firms helping small, micro
+and medium enterprises (SMMEs) in ‘going online and digital’.
+The ‘going online and digital’ phenomenon is propelled by the pandemic. This is not
+only as a result of waning demand during periods of lockdown, but also because of
+shifting consumer behaviour. Heightened consciousness of social distancing and
+avoidance of physical interaction has thrust fintech further into action, with more
+people adopting digital financial services. South Africa is no exception, with nearly
+80% of surveyed South Africans reporting that they used contactless payment
+methods as a perceived safer way to pay since the COVID-19 outbreak.2
+To meet the increased demand for digital payments, there has been a resurgence of
+innovation in digital payment products and channels, including cheaper and more
+convenient point-of-sale (POS) devices for small businesses as well as the
+strengthening of apps and platforms that enable consumers and businesses to make
+payments.3, 4, 5 In addition to digitising payment at POS, merchants are also adopting
+online sales (or e-commerce), which provides more safety and convenience to
+customers while also expanding customer reach. In South Africa, for example, one of
+the largest payment gateways has reported a surge in online payments, recording a
+2 MasterCard, April 2020, Global Consumer Study, available at
+https://newsroom.mastercard.com/mea/press-releases/mastercard-study-shows-south-african-
+consumers-make-the-move-to-contactless-payments-for-everyday-purchases-seeking-touch-free-
+payment-experiences/.
+3 Tom Jackson, 14 September 2020, ‘SA fintech start-up Ozow launches new payments platforms,
+zero-rates data costs’, available at https://disrupt-africa.com/2020/09/sa-fintech-startup-ozow-
+launches-new-payments-platforms-zero-rates-data-costs/.
+4 Staff Reporter, 29 October 2020, ‘Yoco launches new stand-alone card machine for small
+businesses’, available at https://www.iol.co.za/business-report/companies/yoco-launches-new-stand-
+alone-card-machine-for-small-businesses-f59ed3e8-c60f-4333-908f-5254bae139e9.
+5 Ishani Chetty, 29 September, ‘New payment tool launches for local SMEs’, available at
+https://ventureburn.com/2020/09/new-payment-tool-launches-for-local-smes/.
+Page 2 of 9
+year-on-year increase of almost 90% in total new business account registrations since
+the lockdown began.6
+Possible structural challenges facing fintechs
+Allow me to turn our attention to possibly more structural challenges facing fintech
+firms today.
+I have distilled these challenges to the primary challenge of access, and have tagged
+it as challenges around four R’s, namely:
+i. access to regulators;
+ii. access to rule-making;
+iii. access to resources; and
+iv. access to refined financial services data.
+Access to regulators
+Incumbent firms in financial services have a long history with regulators. By virtue of
+being regulated, and often highly regulated, incumbents have access to regulators.
+For these incumbents, when new products or services are conceived, it is often
+mandatory to ensure engagement with regulators to gain approval for new innovations.
+This is to assess fit with regulations and compliance frameworks. This required
+engagement has strengthened further after the 2008 global financial crisis, and
+especially as technology reshapes how financial services are delivered. New cloud
+propositions, robo-advice services and even the application of artificial intelligence (AI)
+often warrant deeper engagements with regulators.
+In contrast to incumbents, fintech firms may operate on the regulatory periphery. They
+often create services different from existing platforms. Cases in point are crypto-
+assets, initial coin offerings, and Internet finance such as peer-to-peer lending and
+crowd-funding platforms. Fintechs tend to focus on services close to the front-end and
+the consumer interface. They are, again, likely to be on the outer periphery of highly
+6 PayFast, 27 April 2020, ‘PayFast sees spike in new business registrations spurred by COVID-19
+lockdown’, available at https://www.payfast.co.za/blog/payfast-sees-spike-in-new-business-
+registrations-spurred-by-covid-19-lockdown/.
+Page 3 of 9
+regulated value chains such as payment systems. Unlike the core players in clearing
+and settlement that are highly regulated, fintechs may have ‘light touch’ or no
+regulations applied to them.
+Based on this, our experience is that fintech firms may often not be in the direct
+regulatory purview of authorities, and may therefore have less formalised and less
+frequent meetings with regulators.
+The first possible structural challenge, then, is access to regulators.
+This is an important challenge to resolve.
+Our laws and regulations have historically been crafted for financial services
+intermediaries, long in the domain. The legal and compliance frameworks may be hard
+to interpret for fintech firms who may be tech-savvy start-ups with limited compliance
+know-how or competencies.
+Access to regulators, and know-how of which authorities to connect with for particular
+types of queries, is important. Our regulatory architecture can be complex, with
+multiple financial services authorities, ranging from prudential and conduct-focused,
+through credit-related, to financial intelligence-related regulators. Access to this
+network is important in order to reduce any potential barriers to entry from a legal,
+regulatory and compliance perspective. This is why we have seen a rapid emergence
+of innovation centres, hubs and guidance units across the globe: in recognition of the
+importance of increasing access to regulators, by fintech firms in particular.
+Access to rule-making
+Rule-making in financial services can be complex. The ‘rules of the game’ can be
+embedded in legislation and regulations, and through related instruments such as
+directives, position papers and standards.
+A good example of this complexity can be seen in the regulation of payment systems.
+Often, primary regulations set the conditions or criteria based on which stakeholders
+Page 4 of 9
+can have access to clearing and settlement systems. Such primary regulations
+position the overarching principles and objectives of providing legal certainty,
+deepening financial inclusion, and ensuring the general safety and efficiency of
+payment systems.
+However, at a ‘lower level’, rules related to how payment schemes operate are equally
+important in setting specific conditions or criteria related to a payment system. As an
+example: direct credit systems will define clearing time-frames, and debit systems will
+define charge-back rules or conditions. These types of rules are often called the ‘rule
+books’ in jurisdictions like Canada and the United Kingdom (UK). There are ‘rule
+books’ publically available for schemes such as the Single European Payments Area
+(SEPA) Credits in Europe or, in the UK, the Faster Payments Scheme.
+In South Africa, we have found that, due to legacy reasons, some of the rule-making
+processes, especially in the payment system space, have traditionally been the
+domain of incumbents. Based on some of the cases reviewed, our sense is that
+broader input into the rule-making processes by those impacted across the value chain
+would benefit from obtaining a variety of competing perspectives. The voice of fintech
+firms in this process is important. This kind of ever-increasing access to influence rule-
+making is vital to ensuring that the best policy and regulatory stances are adopted.
+Even more importantly, the ‘rules of the game’ must not create barriers to growth for
+fintechs. We have identified a few scenarios where this may be the case. Authorities
+have to ensure that the approach to, and governance of such processes, is transparent
+and robust.
+Access to resources
+Two significant resource challenges facing fintechs are access to capital and access
+to skills sets.
+Unlike incumbents who generally have reasonable access to finance, fintech firms and
+specifically fintech SMMEs may experience significant additional challenges
+accessing finance. While consumer credit is likely well-served in South Africa, SMMEs
+Page 5 of 9
+continue to struggle to access critical funding to sustain themselves and even grow.
+This is despite the significant contribution that these businesses make to gross
+domestic product (GDP) and employment.
+The inability of SMMEs to raise funds is caused by a number of demand- and supply-
+side factors, such as the lack of financial records and the inability of lenders to tailor
+their loan terms to match the business needs. According to a 2019 report by one of
+the large banks in South Africa, few fintechs manage to secure start-up capital, with
+the general sentiment indicating that funding seems to be readily, but not openly,
+available. More broadly speaking, SMMEs also operate in a mostly informal, invisible
+and cash-based economy. Addressing this challenge is related to the broader need to
+digitise these businesses and ensure that they are included in the digital economy.
+Turning our attention to the importance of access to skills: although much emphasis
+is placed on the technologies in the fintech domain, it is the people, the skills and the
+talent that create the innovation and propel the change. This is evidenced across the
+fintech value chain: from the data scientists who unearth customer behaviour patterns,
+needs and ‘pain points’, through the software developers and engineers who develop
+the solutions, to the business heads who craft growth strategies based on an emerging
+technology.
+However, similarly to most countries, particularly developing countries, South Africa
+has a shortage of technical skills. The 2019 South African Information, Technology
+and Communication (ICT)7 Skills Survey found that the Fourth Industrial Revolution
+(4IR) has not had a significant impact on the South African ICT skills landscape yet.
+According to the report, the skills associated with the current set of emerging
+technologies – such as AI, the Internet of Things, blockchain, automation, data science
+and programming – were the scarcest.8 This leads to a race for talented and skilled
+individuals such as data scientists, programmers, software developers and design
+thinkers. The challenge, of course, is not specific to fintech firms; it also affects us as
+regulators. However, based on our discussions with fintech firms, the race for
+acquiring such skills sets is pronounced for fintechs, especially if they are still in their
+7 Information and Communication Technology
+8 Johannesburg Centre for Software Engineering (JCSE) (Wits University) and the Institute of
+Information Technology Professionals South Africa (IITPSA), 2019, South African ICT Skills Survey
+Page 6 of 9
+early phases of development and/or maturity. It is less so for big-tech firms with well-
+established markets.
+Access to refined financial services data
+Finally, we turn to the importance of data, specifically refined and granular data.
+It has become cliché to say that ‘data is the new oil of the economy’. As the digital
+economy continues to be embedded through the use of mobile devices, the use of
+social media platforms, and generally increasing activities over the Internet and online
+commercial platforms, we will increasingly create and leave behind ‘digital bread
+crumbs’ of unprecedented volumes. Never before have we seen such volumes of data.
+And for the first time in human history, we also now have evolving tools and techniques
+at our disposal through cloud-computing, AI and machine-learning methods to handle
+such volumes of data.
+However, in this new digital economy, the availability of, and access to, data related
+to, for example, transactional payments or specific customer behaviour, has become
+a key competitive driver. Access to both structured and especially unstructured data
+can provide significant competitive advantages to those who own it. Fintechs in
+particular are exploring the use of Big Data to produce new services such as product
+comparisons and tailored solutions based on consumer-specific data. While Big Data
+presents new opportunities, the scope of available data, and how to govern access to
+that data, poses new challenges for the financial services industry and regulatory
+authorities around the world.
+As a result of the above, access to refined data is a key issue that regulatory authorities
+have to deal with. Examples of addressing it through Open Banking and Open Finance
+efforts are increasing in many jurisdictions.
+For South Africa, it is important to land on the policy imperatives for such efforts. There
+are a number of open questions for authorities. These include (but are not limited to):
+ Should incumbents be required to share their data with fintechs?
+Page 7 of 9
+ Should the standards for sharing data be developed by the regulators or by the
+market?
+ How is customer data protection being ensured, and what commercial
+arrangements might arise from owning that data?
+ When dealing with such large data sets, what measures are in place to detect,
+respond to and recover from cyberattacks?
+Addressing these and other open questions is important in moving the fintech dial
+forward.
+In South Africa, numerous fintech firms applied for our Regulatory Sandbox process
+to trial new Open Banking models. To make progress within this space, we require
+incumbents and fintech firms to work together to shape our policy thinking and policy
+stances. Any unaddressed solutions will possibly continue to see fintech firms using
+methods that may pose an increased operational risk. The solutions of open
+Application Programming Interfaces (APIs) are therefore pressing. The industry
+should actively engage with fintech firms on this long-standing matter. We also need
+to learn from jurisdictions that have already traversed this path, and modestly take
+from their emerging lessons.
+Conclusion
+Allow me to conclude.
+The South African regulators recognise the role they can play in addressing these
+access challenges. The IFWG aims to demystify the regulatory landscape, provide
+space for safe experimentation, and actively advance innovation. We do this through
+the Innovation Hub, launched earlier this year, and its three facilitators: the Regulatory
+Guidance Unit, the Regulatory Sandbox and the Innovation Accelerator.
+Page 8 of 9
+Since launching the Innovation Hub, we have received nearly 100 queries in the
+Regulatory Guidance Unit and over 50 applications to the Regulatory Sandbox. These
+numbers show just how vibrant and dynamic the South African fintech ecosystem is.
+Most importantly, though, they are a positive sign of increasing access to regulators
+and rule-making for fintechs, which enables us to hear more of those divergent and
+new voices.
+In addition, the Innovation Accelerator is a space for us to drive both internally oriented
+and market-facing innovation initiatives. We focus particularly on those initiatives that
+address the challenges faced, and have the potential to deliver benefits across the
+regulatory and broader financial services landscape. We currently have eight initiatives
+under the Accelerator, looking at important topics such as digital platforms, crypto-
+assets, financial markets innovation, Open Banking, non-traditional data and big tech
+in fintech. What makes this unique is that regulators are journeying along to co-create
+an understanding of the major issues facing fintechs, including co-developing policy
+stances.
+The fintech phenomenon is here to stay, and will continue to grow. In the end,
+however, it is not about fintech but about creating vehicles to support innovation in the
+economy and the financial sector. It turns out that fintech firms just happen to be the
+key agent through which we are moving towards a more dynamic financial sector.
+I trust you will enjoy the deliberations today, and would like to end by congratulating
+the IFWG and the Monetary Authority of Singapore for arranging this event.
+Thank you.
+Page 9 of 9

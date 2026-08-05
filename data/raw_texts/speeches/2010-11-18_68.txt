@@ -1,0 +1,150 @@
+Titulo: Remarks by Mr. Daniel Mminele, Deputy Governor, South African Reserve Bank, on the occasion of the Annual National Payment System Cocktail Function ? 18 November 2010, Centurion, South Africa
+Data: 2010-11-18
+Palestrante (estimado): Mr. Daniel Mminele
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2010/68
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2010/68/remarks-by-mr-daniel-mminele.pdf)
+----------------------------------------------------------------------
+
+Remarks by Mr. Daniel Mminele, Deputy Governor, South African
+Reserve Bank, on the occasion of the Annual National Payment
+System Cocktail Function – 18 November 2010, Centurion,
+South Africa
+Good evening ladies and gentlemen.
+Thank you for accepting our invitation and welcome to the 2010 annual cocktail
+function for payment system stakeholders and participants in South Africa.
+Although this is traditionally an evening of relaxation, mingling with colleagues
+and business partners, and of just saying “thank you” for another year of good
+co-operation, it is also an appropriate occasion to reflect on the year gone by and
+look at a few things that await us in the year to come.
+The past year has been a trying one in the domestic and global economy and
+was full of challenges in many respects.
+At this time last year, we were all cautiously optimistic about where the global
+economy was heading. Following significant monetary and fiscal policy stimulus
+packages we had seen a re-emergence from the recession across a broad front.
+The collaborative approaches to dealing with the crisis seemed to be having the
+desired effect. While there were some risks to the outlook, there was similarly an
+acute awareness of the need to continue the repair work to various elements of
+the global financial system so as to ensure that the recovery could become self-
+sustaining, with the private sector replacing the public sector as the main engine
+for the recovery.
+We subsequently saw international and domestic growth moderating and
+divergent trends emerging, with developing countries and emerging markets
+continuing to do relatively well, while advanced economies were struggling. This
+got compounded by underlying sovereign and banking vulnerabilities, which,
+given the recent turmoil in sovereign debt markets, remain a significant
+Page 2
+challenge. Another challenge has been the low yield environment in developed
+countries, which has resulted in significant inflows into emerging markets, which
+are putting appreciation pressure on their currencies and contributing to uneven
+and unbalanced recoveries, while harbouring the risk of facilitating the build-up of
+asset price bubbles.
+The global crisis, and the lessons we are still learning from it, has also reinforced
+the need to work towards robust systems in the financial sector, including the
+payment and settlement system.
+On the international front, the Bank has, during 2010, been actively involved in
+the activities of the Bank for International Settlements (BIS) Committee on
+Payment and Settlement Systems (CPSS). South Africa joined this committee
+when its membership was expanded late last year from the G10 countries to
+include all G20 countries. In the aftermath of the global crisis, the CPSS, in
+collaboration with the Financial Stability Board (FSB), the Basel Committee on
+Banking Supervision (BCBS) and the International Organisation of Securities
+Commissions (IOSCO) has been involved in several projects aimed at reviewing
+principles and standards for the financial sector. Besides the main CPSS the
+Bank is involved in workgroups relating to liquidity and operational risk
+management as well as retail activities. It is anticipated that a general review of
+standards will be concluded in early 2011. In this regard, the Bank has been
+approached by the CPSS Secretariat to arrange a general consultation session
+for the South African and SADC financial sector in South Africa in early 2011.
+Another important area of the Bank’s work in the international arena has been its
+involvement as part of the foreign-exchange Continuous Linked Settlement (CLS)
+system oversight group, chaired by the Federal Reserve Bank of New York.
+Among the many things highlighted by the global crisis is a realisation that there
+are certain critical systemically important systems in the international payments
+settlement environment, to which major players are interlinked and which
+deserve special attention from international regulators. CLS, although it has
+Page 3
+proven its resilience during the crisis, is one of those systems receiving closer
+attention.
+On the domestic front, the Bank has been dealing with some fairly tough issues,
+not least of which those arising out of the recommendations of the Banking
+Enquiry Report as they relate to interchange and access to the NPS. Following
+intensive consultation between the National Payment System Department
+(NPSD), National Treasury, Competition Commission and Department of Trade
+and Industry, proposals were put forward by the NPSD to facilitate a process to
+review the interchange rates in the various payment streams. In terms of these
+proposals the Bank will appoint a facilitator to meet with stakeholders and
+determine, on a consultation basis, the parameters which need to be taken into
+consideration for interchange determination in each payment stream. Following
+this process an organisation will be appointed to process the data provided by
+stakeholders in terms of the parameters and to calculate the interchange rates in
+each payment stream, including cards. It is expected that this process will take
+between 6 to 12 months to complete. The Competition Commission and National
+Treasury have supported these proposals, which will help address one of the key
+recommendations from the Banking Enquiry Report.
+As for the recommendations relating to “Access to the Payment System”
+contained in the report, these have largely been dealt with by the Bank in terms
+of the Vision 2010 strategies that have been implemented over the past few
+years including the period during the course of the enquiry. To bring closure to
+this matter the NPSD is finalising a position paper to be published in early 2011.
+In this regard, one of the changes that has occurred in the past few years, and
+which deals with the recommendations, is the creation of the National Payment
+System Advisory Body. This body, which met earlier this afternoon, provides for
+representation of both bank and non-bank stakeholders in the NPS. It has been
+expanded in its operation to include consultation on a strategic level, but now
+also provides for consultation on the operational level of the NPS.
+Page 4
+On the settlement system provision, the SAMOS version 7 project is well under
+way. The project was initiated on the back of a benchmarking exercise that was
+conducted with 6 of the central banks that operate RTGS systems that interface
+into the CLS system. The results of the benchmark exercise enabled the Bank to
+make a decision to enhance the current settlement infrastructure and applications
+with specific focus on the following:
+ To standardise the settlement network to reduce complexity and use
+enhanced standard offerings from the network service provider SWIFT.
+ To enhance the main settlement application and front end systems in line with
+changes to the network as well as incorporating other changes put forward by
+the settlement system stakeholder community.
+All requirements for the enhancement of the application system and related
+infrastructure have been agreed between the NPSD and the participant
+community. The infrastructural component implementation and the development
+of application system enhancements by both the Bank and stakeholder
+participants are under way. User acceptance testing of the enhanced system and
+infrastructure by NPSD is scheduled to commence in January 2011 with
+implementation scheduled for May 2011.
+In terms of its oversight role, other than the international aspects mentioned
+before, the Bank has continued to interact with the clearing and settlement banks
+and the Payment Clearing House operators, but has placed a specific focus on
+the role of non-bank operators and third party service providers this year. Visits
+have been made to the highest volume/value operators in the system to measure
+their compliance to directives.
+Furthermore, our own need for information over the past several years and the
+need to provide a comprehensive view of the NPS to different bodies, including
+the domestic financial industry, Government, the SADC Community, the BIS and
+the World Bank, required that meaningful information be collected from
+Page 5
+participants and collated. As the information required went beyond that which is
+available from the clearing and settlement systems, an NPS Information Return
+was developed and implemented to gather and provide a broad perspective of
+the payments landscape within South Africa. This process has been developed
+over a period of eighteen months to a point where the data is now reliable. With
+the information collected and aggregated, the Bank can, for the first time, provide
+a holistic view of the South African payments industry.
+On the regional front the SADC project team is currently working on a model for
+integration of the payment system in the region in terms of the SADC integration
+plan. A model system for implementation in the CMA, as a platform for the SADC
+process, has been proposed and has received support from the CMA Governors
+at their November 2010 meeting.
+In conclusion, therefore, 2010 has been a busy and challenging year. Not only
+have we seen developments in regulation internationally but also many
+developments on the domestic and regional front, including the launching of new
+innovative payment system initiatives. The year 2011 will again bring its
+challenges, but I am confident that we will deal with these successfully as we
+have dealt with them in the past.
+May I take this opportunity to thank the banking community, the Payments
+Association of South Africa, clearing house operators and non-bank stakeholders
+represented here today for their continued co-operation with the Bank.
+Finally, allow me to also convey my appreciation to my colleagues from the
+National Payments System Department, under the able leadership of Dave
+Mitchell, for their important contribution to ensuring the soundness, safety and
+efficiency of the payments system in South Africa.
+Thank you.

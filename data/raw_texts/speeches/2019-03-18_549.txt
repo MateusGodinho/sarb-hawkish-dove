@@ -1,0 +1,256 @@
+Titulo: An opening address by Arif Ismail, Head of Fintech at the South African Reserve Bank, at the International Monetary Fund AFRITAC Fintech Seminar
+Data: 2019-03-18
+Palestrante (estimado): Arif Ismail
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-senior-management/2019/549
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-senior-management/2019/549/Keynote-address.-The-fintech-frenzy.-fad-or-financial-sector-transformer.pdf)
+----------------------------------------------------------------------
+
+An opening address by Arif Ismail,
+Head of Fintech at the South African Reserve Bank,
+at the International Monetary Fund AFRITAC Fintech Seminar
+The Sheraton Hotel, Pretoria
+18 March 2019
+The fintech frenzy: fad or financial sector transformer?
+Ladies and gentlemen, good morning.
+I would like to take the opportunity to heartily welcome you to South Africa:
+sanibonani.
+We are certain that the deliberations over the next three days will result in robust
+debates and fresh insights on the financial technology (fintech) phenomenon.
+It’s certainly a phenomenon that has attracted significant attention over the recent
+few years.
+Given this growing interest in fintech, as well as the rapidly changing environment,
+I would like to focus my address on an emerging question and debate which may set
+the tone for this seminar: is fintech a fleeting occurrence, a fad, or is it a
+phenomenon that can transform financial services?
+The above question is an important one. If fintech is merely a passing phenomenon,
+it may not warrant the kind of significant resources that are being dedicated to
+review, understand and manage it. This includes ongoing considerations on
+balancing innovation and regulation. This substantive effort is observed at both
+international and domestic levels, and involves all authorities within financial
+services. With only scarce resources and often also other serious emerging market
+challenges, authorities, including central banks, have to be selective over where to
+dedicate these scarce resources and focus their attention. We also have to ensure
+Page 1 of 9
+that we do not get caught up in the hype and frenzy of fintech; our efforts must be
+aligned with our respective institutions’ core purpose and mandate.
+On the other hand, if fintech offers the potential for addressing the very challenges
+that we face within financial services – such as the continually underserved or even
+non-served markets, inefficient or suboptimal financial market infrastructures, and
+concentrated provision of financial services – then directing efforts towards limiting
+the barriers to fintech innovation is of prime importance.
+Let me now turn our attention to why some may argue that fintech is a fad and
+simply ‘old wine in new bottles’1.
+The cynics’ view: why a fad?
+There is growing consensus that the crypto bubble has burst. As can be seen in the
+sharp drop of the price of the Bitcoin, this is indeed the case. Similar to other bubbles
+experienced in the past, such as the Tulip bubble or, more recently, the tech
+(or .com) bubble, the pattern has been the same. First, there is significant hype
+introduced by something novel, followed by a sharp rise in prices, an ever-increasing
+fear of missing out, a peak, and finally a collapse in the price, after the inherent or
+intrinsic value of the asset is critically appraised.
+Some critics of crypto-assets point out that they are not currency. They argue that
+crypto assets have sharp and volatile price movements; they are not widely accepted
+as a medium of exchange; they have the characteristics of a sophisticated Ponzi
+scheme; they consume resources such as electricity, making them an environmental
+disaster2. Despite the significant efforts made by fintech players, and for all their
+promise, crypto-assets have yet to meaningfully shift or transform the monetary and
+payment systems. As a result, sentiments around fintech being a fad, are fuelled.
+The recent crypto-exchange cyberattacks in Japan and other events, including the
+shutdown of a Vancouver-based crypto-exchange, highlight the risks and likely
+1 Douglas, J L and Grinberg, R. 2017. Old wine in new bottles: bank investments in fintech
+companies.
+2 Carstens, A. 15 November 2018. Money in a digital age: 10 thoughts. Singapore: Lee Kuan Yew
+School of Public Policy.
+Page 2 of 9
+unsustainability of some fintech activity. The Canadian exchange was forced to close
+after its Chief Executive Officer died while traveling in India. With him having sole
+access to the private keys of some US$170 million worth of crypto-assets, his
+sudden death left the company without access to the assets it held on behalf of its
+customers. This example again points to emerging alternate systems not being
+robust or sustainable, and being hailed as a passing phenomenon.
+Fundamentally, while the decentralised nature of crypto-assets is hailed as one of
+their main strengths, it has also been shown to be one of their main weaknesses in
+what has been described as the ‘distributed liability’ conundrum.
+A similar set of concerns has been highlighted with initial coin offerings (ICOs) that
+raise funds and then are discovered to be fraudulent. Last year, the Securities and
+Exchange Commission charged two co-founders of a purported financial services
+start-up with orchestrating a fraudulent ICO that had raised more than US$32 million
+from thousands of investors. Similar reports3 highlight that ‘531 ICOs that have failed
+or are failing looked sketchy from the very start. These projects still raised more than
+US$231 million between them’.
+The above examples I have mentioned notwithstanding, crypto-assets have
+nonetheless drawn attention to, and raised awareness of, their underlying
+technology, namely distributed ledger technology (DLT) or blockchains. The potential
+of the technology to transform financial market infrastructures and influence the
+issuance of central bank digital currencies is being increasingly discussed and
+debated. Critics, however, point to the many experiments that central banks and
+other authorities have been trialling, without seeing any major traction in the ‘live’ or
+production environment despite these efforts. Projects such as Ubin in Singapore,
+Jasper in Canada, and Stella between the Bank of Japan and the European Central
+Bank are being closely followed by other central banks and the broader financial
+services community.
+You will also hear from my colleagues about the South African Reserve Bank’s
+(SARB) own efforts around DLT, labelled Project Khokha. Again, sceptics will point
+3 bitcoin.com
+Page 3 of 9
+out that, for all the effort around exploring the potential of various assets or tokens on
+the blockchain, none of it has transformed into commercially viable products or
+processes. The natural conclusion is therefore that much of this is just a passing fad.
+DLT, like other technologies, is criticised as ‘a solution looking for a problem’.
+The comparative benefits of alternative financial services ecosystems or platforms
+have not been demonstrated yet, which lends further credence to views that fintech
+is merely a passing trend. Central-bank-issued digital currencies that allow broad
+access to a central bank’s balance sheet for general purpose use is equally cited as
+a topic that has attracted much debate. However, the policy imperative, implications
+and unintended consequences are still largely unclear, and attention on these topics
+may equally pass. You will hear more from our colleagues from the Riksbank on the
+policy complexities of dealing with such topics and the careful consideration that
+central banks are giving to the impact of, for example, a declining cash base. Cynics
+will point to the interplay between the existing electronic payment systems, the
+general inexperience and lack of capacity and know-how of central banks to offer
+electronic retail payments, as well as the potentially disruptive effect to the two-tiered
+banking structure that could stall such issuance and make this, again, a ‘much talk
+but limited action’ passing fad.
+Turning their attention away from crypto-assets, distributed ledgers and digital
+currencies, cynics cite that even fintech activity in payment systems, often
+referenced as the advancement and impact of fintech – such as paying seamlessly
+for ride-hailing services, booking B&B venues online, or paying for one’s coffee
+simply by tapping one’s mobile phone – relies on existing financial services platforms
+and infrastructure. But these are not examples of disruption or disintermediation of
+financial services. Rather, this is the leveraging of existing infrastructure. All that has
+morphed is the form factor – a shift, for example, from physical plastic to mobile
+devices. The underlying rail tracks or architecture remains the same.
+In summary, the core argument from sceptics is that fintech is nothing new. It is
+merely innovation that is ongoing in financial services and that will continue to do so
+over time. New technological innovations and new form factors such as mobile
+devices will merely connect to long-standing infrastructure.
+Page 4 of 9
+The proponents’ view: why a financial sector transformer?
+Let’s turn our attention to the proponents’ view.
+From this perspective, fintech holds the potential to transform financial services.
+More generally, it has been touted that the innovation produced by fintech firms is
+intensely customer-centric. The innovation hones in on customer ‘pain points’ and,
+through the use of technology, produces seamless, convenient, quick, simple,
+accessible, easy-to-understand, real-time and cheaper solutions. No more waiting in
+queues, filling in lengthy application forms, or having to provide paper-based
+personal information. All of this is done ‘at your fingertips’, in the comfort of your own
+space, at a fraction of the cost and time, compared to traditional solutions. What
+stands out from these claims is that today’s innovation, unlike that of the past, is
+being produced by non-incumbents (i.e. fintech firms).
+These are players that have typically not been long-standing financial institutions
+and, as part of their modus operandi and culture, are very comfortable to challenge
+the status quo. Why does a product or a service need to be delivered in the way that
+it has traditionally been delivered? Is there a better, simpler, easier, cheaper, more
+effective way to deliver this? These firms typically do not start with questions around
+the regulatory or compliance framework; they do not ask about the laws or
+processes that they must comply with. Rather, they attempt to solve real-world
+frustrations in novel ways.
+What enables them is rapid shift in technological innovation, including combining
+new methods in unique ways. They use and combine mobile technology, global
+positioning systems and Internet-based platforms such as social media and cloud
+platforms with data aggregation and analysis tools, including biometric capabilities,
+to produce something novel. Unlike in the past, they can scale their products and
+services quickly and across borders within short timeframes. From a fintech
+proponent’s perspective, this is what is different from innovation in the past. This is
+Page 5 of 9
+equally what makes the cynics’ claim that ‘this time is no different’ almost
+unpalatable to fintech proponents. Is there evidence, though, for these claims?
+A cursory and anecdotal search of the top 10 or 15 fintech firms per year produces
+contrasting examples of fintech firms across the financial spectrum. Solutions span
+mobile savings wallets, new payment platforms, alternate lending models, emerging
+insurance platforms, investment platforms driven by robo-advisers targeted at low-
+income earners, and financial data aggregators that can find comparative financial
+products at the click of a button. To illustrate the proponents’ evidence, these are but
+a few examples that have been presented at various global fintech outreach events.
+Of course, they are only illustrative and not meant to signal endorsement of any
+product or service. This highlights, though, the case for this time being very different.
+According to thestreet.com, the following are 4 of the purported top 10 fintech firms
+in 2019 are in the investment, lending, remittance and payments domains.
+In the investment domain, financial services company Robinhood allows customers
+to invest in publicly traded companies and exchange-traded funds listed on the
+United States (US) stock exchange without paying hefty commissions. The
+company, in turn, makes money from margin lending and a cash-balancing process.
+In a recent funding round, Robinhood raised about US$350 million at a valuation of
+US$5.6 billion. The service is especially popular among younger people, who admire
+the hassle-free stock trading, without commissions or fees.
+In the lending domain, Avant provides personal loans using machine learning to
+evaluate borrowers’ credit worthiness and establish interest rates. Launched in 2012,
+the company has raised almost US$1.8 billion in debt and investments. Back in
+2015, it was ranked 6th on Forbes America’s Most Promising Companies list.
+In the remittances domain, TransferWise is one of Europe’s fastest-growing fintech
+companies that helps its customers with a peer-to-peer money-transferring service
+worldwide. As a start-up, TransferWise received its seed funding of around
+US$1.3 million from a consortium and several individual investors as well. In
+2013, Peter Thiel’s Valar Ventures led a US$6 million investment round. Over the
+Page 6 of 9
+next three years, the company raised US$109 million. Last year, the company raised
+US$280 million. It plans to expand into Asian markets. Proponents of fintech share
+these numbers to highlight the potential of the technology.
+Turning to the payments and investment domain, Ant Financial is acclaimed as the
+biggest fintech company in the world. Originally a subsidiary of the Alibaba Group
+based in China, Ant Financial owns Alipay (the largest mobile payment platform in
+the world), Yu’e Bao (the world’s biggest money market fund), and also a private
+credit-rating system known as Sesame Credit. By early 2017, Ant Financial had
+reached a US$60 billion valuation.
+In summary, the proponents’ perspective is that fintech should not be narrowly
+defined in relation to just crypto-assets or the use of distributed ledgers within a
+financial market infrastructure. Fintech activity spans across lending, payments,
+insurance and investments, as can be seen from the few examples above. Their
+view is aligned with the Financial Stability Board’s definition of fintech: that fintech is
+technology-enabled innovation in financial services that could result in new business
+models, applications, processes or products with an associated material effect on the
+provision of financial services4. Proponents are, however, also quick to recognise
+that many fintech firms will fail. But numerous fintechs are going to make a
+significant contribution by challenging existing systems and conventions. The
+valuations from the above examples provide some evidence for the growth and
+potential impact of fintech. From this perspective, fintech is seen as a catalyst, a
+moderniser, and a transformer of financial services.
+The South African Reserve Bank’s perspective
+Allow me to conclude with the SARB’s perspective on the question posed: is fintech
+a fleeting phenomenon or a catalyst for financial transformation?
+Aligned with the work of many global institutions and standard-setting bodies, such
+as the Financial Stability Board, the SARB and other regulators are of the view that
+fintech is not a passing phenomenon. Rather, fintech holds the potential to transform
+4 Financial Stability Board. 2017. Financial stability implications from fintech supervisory and
+regulatory issues that merit authorities’ attention.
+Page 7 of 9
+markets, likely leading to increased contestability and competition. There are
+certainly benefits, as can be seen from the cases offered by proponents, but there
+are equally new risks that are emerging.
+In line with the elements highlighted in the International Monetary Fund’s (IMF) Bali
+fintech agenda, there is a strong view that we should embrace the promise of fintech.
+We equally need to be close to the developments, monitor them, and adapt our
+regulatory framework and supervisory practices for orderly development and
+continued stability of the financial system. The ultimate aim is to safeguard the
+integrity of financial systems while creating enabling frameworks for innovation to
+thrive.
+South Africa has thus adopted a balanced approach towards the development of
+fintech.
+During 2017, the SARB established a dedicated Fintech Unit to assist with reviewing
+our policies and regulatory regimes that may impact on fintech. Of importance is
+determining if our frameworks remain appropriate and conducive to the emerging
+changes. The Fintech Unit has also been instrumental in co-creating collaborative
+structures internally, as well as with other policymaking and regulatory agencies.
+There is now an active Intergovernmental Fintech Working Group that comprises
+National Treasury, the Financial Sector Conduct Authority (FSCA), the Financial
+Intelligence Centre (FIC) and the South African Revenue Service (SARS). Together,
+we aim to cooperate and review stances on complex fintech developments such as
+crypto-assets, peer-to-peer lending and crowd-based funding. Importantly, we aim to
+collaborate on the establishment of an innovation hub. There is active work at
+present on the design of an innovation hub, which will comprise structures such as a
+regulatory guidance unit and a regulatory sandbox. These are important structural
+mechanisms that will progress the elements highlighted in the IMF’s Bali fintech
+agenda.
+You will hear much more about these developments from the colleagues
+participating in the sessions, from various jurisdictions. This is the age of platforms,
+collaboration and a shared digital economy. I would like to encourage all of us to
+Page 8 of 9
+take this platform created by the IMF to robustly engage, share openly and, through
+interaction, assist in creating awareness of any potential fads. However we equally
+need to surface what may be game-changing and transformational innovation being
+produced by fintech firms around the world. This is important so we can get the
+balance right between innovation and regulation, which remains our collective key
+challenge.
+With this, I wish you well over the next three days.
+Thank you.
+Page 9 of 9

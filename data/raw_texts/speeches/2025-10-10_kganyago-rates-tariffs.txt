@@ -1,0 +1,205 @@
+Titulo: Lesetja Kganyago | Exchange rates and tariffs
+Data: 2025-10-10
+Palestrante (estimado): Lesetja Kganyago
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2025/kganyago-rates-tariffs
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2025/kganyago-rates-tariffs.pdf)
+----------------------------------------------------------------------
+
+Address by Lesetja Kganyago,
+Governor of the South African Reserve Bank,
+at the Kgalema Motlanthe Foundation
+Drakensberg Inclusive Growth Forum,
+10 October 2025
+Exchange rates and tariffs
+Introduction
+Ladies and gentlemen, thank you for the opportunity to address you today. I am
+grateful to former President Kgalema Motlanthe and his Foundation for convening this
+forum, and it is a pleasure to be with you all here in the beautiful Drakensberg.
+The theme chosen for my address – exchange rates and tariffs – speaks to both an
+old problem and a new one. The old problem is the alignment – and misalignment –
+of exchange rates. This remains a subject of perennial interest in global
+macroeconomics, with each decade marked by its own controversies. The new
+problem is tariffs, which is new in the sense that, until this year, we lived in a world
+where all the leading countries favoured openness to trade, and had done so for
+decades. We no longer live in that world. What does this mean for our economy?
+Exchange rate effects of tariffs
+Let me start with the relationship between tariffs and the exchange rate, and
+specifically with the textbook account. The textbook says that, when a country imposes
+tariffs on trade, it will make itself more expensive. For instance, tariffs on cars or fridges
+1
+make imports costlier and allow domestic producers to charge higher prices.1
+Furthermore, as people reduce their consumption of traded goods, they supply less
+currency to foreign exchange markets, which tends to strengthen the local exchange
+rate.2
+Economists like to talk about the real exchange rate, which is the exchange rate
+adjusted for the difference in inflation between two countries. The textbook account
+makes it pretty clear that tariffs tend to appreciate a country’s real exchange rate, by
+moving both the domestic price level and the exchange rate itself.3
+At the beginning of this year, it seemed the simple textbook account was all we needed
+to understand the world. The new United States (US) administration moved quickly
+towards much higher tariffs. The dollar promptly appreciated; by some measures, it hit
+a multi-decade high in January.4 US inflation also started to edge up, and the
+differentials with major trading partners began widening. All this made the US more
+expensive to trade with.
+The twist, however, is that from January onwards, the dollar has weakened.
+Depending on the measure used, it has depreciated by around 7−8% from its January
+peak. There isn’t much evidence that foreigners are dumping their US assets, but there
+is evidence that they are hedging their dollar positions more aggressively.5 We must
+also bear in mind that the dollar has been relatively strong over the past few years, so
+it made sense that it would correct towards more normal values, not least because US
+interest rates have eased lower.
+One implication of all this is that 2025 has been a better year for emerging markets
+than many had feared. The adverse scenario for emerging markets was a wicked mix
+1 Ralph Ossa “In a world of trade tensions, what do tariffs really do?” 11 April 2025. Available at:
+https://www.wto.org/english/blogs_e/ce_ralph_ossa_e/blog_ro_11apr25_e.htm
+2 For instance, see this post by Greg Mankiw (author of a famous introductory economics textbook):
+https://gregmankiw.blogspot.com/2025/03/kevin-hassett-forgets-econ-101.html
+3 Davide Furceri et al. “Macroeconomic consequences of tariffs” October 2018. Available at:
+https://www.imf.org/-/media/Files/News/Seminars/2018/ARC2018/s4-furceri.ashx
+4 For instance, the US Federal Reserve compiles nominal and real broad dollar indices which go back
+to 2006; both hit their highest recorded values in January 2025.
+5 Hyun Song Shin et al. “US dollar’s slide in April 2025: the role of FX hedging” 20 June 2025.
+Available at: https://www.bis.org/publ/bisbull105.pdf
+2
+of a strong dollar, high US interest rates, and tariffs that hurt our export industries.
+While we still have the tariffs to grapple with, the other factors have been more
+favourable.
+For South Africa, it has been a year marked by rising terms of trade, a stronger and
+less volatile rand, and lower domestic interest rates across the yield curve. Given the
+risks involved, this is one of the more positive outcomes we could have hoped for. It
+is a relief that things did not turn out worse.
+The exchange rate and growth
+We cracked open the textbook earlier to check the standard relationship between
+tariffs and the exchange rate, so let us now do the same for the economic effects of
+an exchange rate appreciation. The way this subject is usually introduced in
+economics classes is through the Mundell−Fleming framework. This simple and
+elegant model demonstrates that currency depreciation boosts growth, given certain
+assumptions. The short version is that a cheaper currency leads to importing less and
+exporting more, which expands aggregate output. Equivalently, a stronger currency is
+considered growth negative.
+Once again, the reasoning is clear, but the textbook conclusion seems to be at odds
+with the facts. Should rand appreciation really be viewed as bad news? It is puzzling,
+because for much of the past 10 years or so, we have generally had a weaker
+exchange rate, yet this has coincided with extremely low growth.
+Indeed, back in the late 2000s, it was often argued that South Africa’s real exchange
+rate was too strong and too volatile.6 This indicator has since become significantly
+weaker and less volatile.7 If you consider indicators of purchasing power parity, such
+as the simple Big Mac Index, you see that for the rand to have the same buying power
+in the US as it does here, the exchange rate would need to be around 50−60%
+stronger. 8 More sophisticated measures of purchasing power parity suggest that equal
+6 Ricardo Hausmann. “Final recommendations of the International Panel on ASGISA” May 2008
+Available at: https://growthlab.hks.harvard.edu/files/growthlab/files/161.pdf
+7 For instance, the Bank for International Settlements’ real effective exchange rate (REER) measure
+was 27% stronger for the period 1994−2014 versus 2014−2025, and the standard deviation of the
+series was about 10 percentage points higher.
+8 https://www.economist.com/interactive/big-mac-index
+3
+buying power would require an exchange rate close to R8 per dollar.9 It seems clear
+that the rand has been cheap, yet this has not triggered more growth. As far as I can
+tell, the main effect has been to stop people talking much about the real effective
+exchange rate.
+One explanation for this missing growth relationship is that a currency sometimes
+reflects larger developments in a country, in the same way that a share price speaks
+to the heath of a company. If a country looks good, investors are impressed, and the
+currency appreciates. By the same token, if they lose confidence, they sell. When you
+have good news stories, such as structural reforms, fiscal discipline and effective
+governance, you get growth, and at the same time you get currency gains. When you
+have bad news stories, such as state capture, unsustainable debt growth and junk
+status, growth weakens and the currency follows suit. This reminds us that while a
+competitive exchange rate is indeed a valuable policy good, it is no panacea. Worse
+still, a currency can be undervalued for all the wrong reasons, in which case the
+standard benefits do not apply.
+Another consideration is that growth benefits from imports as well as exports.10 It is
+really not the case that exporters are always winners, importers are losers, or that
+countries should compete to import as little as possible – even if that mercantilist
+thinking gains some traction from time to time.
+For a start, export industries often benefit from imported components, and much the
+same goes for most other industries. Indeed, capital goods for investment are often
+imported, and almost all economies will find it more efficient to buy these items on
+global markets rather than develop them domestically. For instance, most airlines
+acquire their planes from Boeing or Airbus. This may help explain why many emerging
+markets tend to invest more when their currencies are stronger, and this extra
+investment raises growth.11
+9 This references the World Bank’s purchasing power parity (PPP) conversion factors: For South
+Africa, they estimate a factor of 7.4 in 2024, which means that for PPP to hold, the rand should have
+traded at 7.4 to the US dollar last year, rather than its actual exchange rate of 18.3.
+10 Lawrence Edwards and Ayanda Hlatshwayo. “Exchange rates and firm export performance in
+South Africa” January 2020. Available at:
+https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2020-1.pdf
+11 Steve Brito et al. “Real Exchange Rates, Economic Complexity, and Investment” 10 May 2018.
+Available at: https://www.imf.org/en/Publications/WP/Issues/2018/05/10/Real-Exchange-Rates-
+Economic-Complexity-and-Investment-45867
+4
+That does not mean you should aim for the strongest exchange rate possible, of
+course. But it does suggest a balanced approach that also considers the benefits of
+imports.
+South Africa’s exchange rate policy and dynamics
+As you know, in South Africa we have long applied a policy of exchange rate flexibility.
+We came by this the hard way: we used to intervene in the exchange rate, and we got
+burnt, losing billions of dollars and credibility as well, because the interventions did not
+achieve their goals.
+Our policy of flexibility has worked well for us. The exchange rate acts as a shock
+absorber for the economy, repricing assets and tradables to keep locals competitive,
+even during events like commodity price movements. Because South African
+households and firms do not hold a lot of foreign currency debt, sharp declines in the
+rand do not create financial instability – which has been a major problem in some other
+economies. And the South African Reserve Bank has been able to build credibility
+around its inflation target, ensuring that rand movements do not pass through to
+inflation at a high rate.
+All that said, there are still some aspects of our exchange rate regime that are hard to
+enjoy. One is the trend of depreciation. Everyone remembers when the rand was
+stronger – at seven to the dollar, for example, compared to seventeen now. Another
+is volatility. While we still do not have much evidence that volatility disrupts economic
+activity in South Africa, South Africans certainly like to joke about how the rand has
+more mood swings than a teenager, or that it is the drama queen of emerging market
+currencies.
+Our commitment to a free-floating exchange rate is now 27 years old – we started in
+1998 – and I would like to suggest that we are now outgrowing some of this drama
+and settling down to a more mature stage of life.
+One of the key drivers here is the shift towards permanently lower inflation. As many
+of you will know, this year we expressed a preference for inflation to settle at the
+bottom of our 3−6% target range. As we have often argued, our inflation rate is out of
+line with our peers and competitors. Most advanced economies target 2%. Emerging
+markets used to be much higher, but nowadays they commonly target rates between
+5
+2% and 4%, with a middle-income median of 3%. We have stuck with a 3−6% target
+range for 25 years – a quarter of a century – but this range is too high and too broad.
+It has left us as inflation outliers.
+Unfortunately, if you aim for a high inflation rate, you end up raising prices faster than
+other countries. The implication is that you need your currency to depreciate, to
+compensate and keep the real exchange rate stable. The result is a kind of ‘damned-
+if-you-do, damned-if-you-don’t’ trap: either you get a perennially weaker currency, with
+all its disappointments, or you don’t, and you lose competitiveness.
+This no longer applies if you have an inflation close to that of your peers – as we now
+do. To give a clear example, there used to be a large gap between our inflation rate
+and the US inflation rate. In 2016, it was 5 percentage points. Last year, the difference
+was less than 1 percentage point, and it is expected to stay small. Under these
+circumstances, the exchange rate should behave differently too.
+I would also like more people to recognise that rand volatility has declined. Option-
+implied volatility is now at long-term lows. Yet, outside of financial markets, most
+people still believe the rand is a highly volatile currency. The only problem with this
+view is that it no longer describes the facts in front of us.
+A last point I would like to see more widely recognised is, back in 1998, we had
+negative foreign exchange reserves. That made us vulnerable. We filled in that hole
+during the 2000s, and we have gradually grown reserves since. I am not sure if it is
+widely appreciated how much stronger our position has grown. In August, we
+surpassed US$70 billion for the first time. While that is partly a story about gold prices,
+it is not just about gold. For the first time, we satisfy all the major reserve adequacy
+metrics, including the International Monetary Fund’s own measure. Alongside our
+positive net international investment position, our external position is arguably as
+strong as it has ever been. If the rand gets uncomfortably strong, we would be happy
+to accumulate more reserves.
+Conclusion
+Ladies and gentlemen, to conclude, global conditions are clearly challenging. The
+domestic environment has its challenges too. Fortunately, it is not all bad news. So far
+this year, global conditions have changed in ways that are, unexpectedly, quite
+6
+supportive of emerging markets, with a weaker dollar, stronger terms of trade, and
+lower interest rates. South Africa has shared in these benefits. You asked me to talk
+about exchange rate conditions, and I have explored how an exchange rate shapes
+output, and how our South African policy conversation has evolved over the years. We
+have travelled a long road, but a welcome destination is now in sight. South Africa’s
+external position has strengthened markedly. So, when people tell you the rand is a
+weak and volatile currency, encourage them to think again.
+Thank you.
+7

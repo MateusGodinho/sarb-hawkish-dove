@@ -1,0 +1,347 @@
+Titulo: Address by Mr Leon Myburgh, Head of the Financial Markets Department at the Council of Retirement Funds for South Africa/Batseta’s 2nd Winter Conference, 6-7 June 2016
+Data: 2016-06-07
+Palestrante (estimado): Leon Myburgh
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-senior-management/2016/468
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-senior-management/2016/468/Speech---Leon-Myburgh---Batseta-07-June-2016.pdf)
+----------------------------------------------------------------------
+
+Address by Mr Leon Myburgh
+Head of the Financial Markets Department, South African Reserve Bank
+Council of Retirement Funds for South Africa/Batseta’s 2nd Winter Conference
+Durban, 6-7 June 2016
+The evolution of South Africa’s credit ratings1
+Introduction
+Good morning ladies and gentlemen.
+I would like to thank the Council of Retirement Funds for South Africa for the
+opportunity to address you at the 2nd Batseta Winter Conference. The theme of the
+conference, ‘Smart Practices for Thriving Funds’ is also quite topical in the broader
+financial markets arena given the current low global interest rate environment,
+regular bouts of heightened market volatility and various challenges facing the
+industry. Such circumstances indeed require innovation and creative thinking. One
+such challenge, undeniably, is the issue of a potential sovereign credit rating
+downgrade to non-investment grade and its implications for South Africa - an issue
+clearly on everybody’s mind, and quite topical given reviews by some agencies in the
+last few weeks.
+Fortunately, the recent opinions from rating agencies were somewhat positive. On
+6 May, Moody’s affirmed the country’s foreign-currency credit rating at Baa2 with a
+negative outlook. This came after Moody’s put South Africa on review for a possible
+1
+Compiled by Alta Joubert and Aadila Hoosain, Financial Markets Department, South African Reserve Bank.
+1
+downgrade. Moody's affirmation of the rating, despite having put the country on
+review, was a very positive development and surprised financial markets as a rating
+review usually leads to a ratings action. South Africa also has a negative outlook
+from Standard and Poor’s (S&P), mainly as a result of a significant downward
+revision to its growth forecast for the country.2 Following its most recent review, S&P
+affirmed South Africa’s BBB-rating though they have maintained the negative
+outlook. As neither of these agencies downgraded South Africa, it indicates that they
+are waiting to see the effect of the recent measures introduced by the authorities and
+the private sector. However, as both Moody’s and S&P have maintained the negative
+outlook, we are not out of the woods yet and there is no room for complacency.
+The evolution of South Africa’s credit rating
+Perhaps it is best to start with a brief review of the history of South Africa’s credit
+ratings. South Africa attained its first formal credit assessment in 1994, and today,
+despite recent downgrades, we still enjoy an investment-grade foreign currency debt
+rating from four ratings agencies. S&P and Fitch’s rating are one notch above
+noninvestment grade (BBB-), Moody’s rates South Africa at Baa2, two notches
+above non-investment grade, while we have a rating of BBB+ from Rating and
+Investment (R&I), three notches above non-investment grade. The initial upward
+trajectory of these ratings started soon after the first democratic elections in South
+Africa. From the bottom of the investment-grade band by Moody’s (Baa3) and non-
+investment grades from S&P and Fitch (BB), the country’s sovereign rating by
+Moody’s improved to A3 in July 2009, which, at current ratings, is similar to countries
+such as Ireland, Malaysia and Peru. The peak in the ratings from S&P and Fitch was
+achieved in 2005 at BBB+, and one notch higher at A- by R&I in 2006. These ratings
+were respectively four (Moody’s and R&I) and three notches (S&P and Fitch) above
+non-investment grade.
+The improved creditworthiness of South Africa reflected a sound economic
+landscape. This included the narrowing of the current-account deficit since the mid-
+1990s to a small surplus in 2002, while economic growth improved from a small
+2 S&P halved its GDP forecasts for 2016 in the December review from 1,6 per cent to 0,8 pent cent and from 2,1 per cent for
+2017 to 1,8 per cent.
+2
+contraction in 1998 to an annualised growth rate of slightly more than 7,0 per cent in
+the second quarter of 2005. The country’s ratio of government debt to gross
+domestic product (GDP) improved from around 50 per cent in 1995 to almost
+25 per cent prior to the global financial crisis (GFC). The favourable economic
+backdrop and concomitant improved credit ratings lured foreign investors to South
+Africa’s domestic financial markets. In the ten years prior to the GFC, non-residents
+bought a cumulative amount of almost R400 billion worth of domestic equities and
+just over R100 billion worth of bonds. The equity market rallied by almost
+500 per cent over the same period while the ten-year government bond yield
+declined by about 800 basis points to around 7,0 per cent in 2005 and 2006.
+While this gives us some history of the evolution in South Africa’s credit rating, I will
+now elaborate on the more recent changes in our credit ratings, the impact on
+financial markets, and the contribution that the South African Reserve Bank (the
+Bank) can make to the overall credit worthiness of the country.
+Key factors influencing sovereign ratings
+As a starting point, it will be useful to make some cursory remarks around how rating
+agencies form their opinions and how this is applied to South Africa.
+The Moody's analytical framework, which at a high level uses four key factors, is a
+useful reference point to understand the factors that drive credit ratings. The first
+factor is economic strength, which reflects a country’s intrinsic ability to honour its
+debt obligations and deal with various exogenous shocks. Some of the key drivers of
+the economic assessment are the expected economic growth trajectory, potential
+economic growth and the diversification of the economy. For South Africa, economic
+growth metrics are a concern not only for authorities but for the rating agencies as
+well. As stated at the May meeting of the Monetary Policy Committee (MPC), the
+domestic economic growth outlook remains weak, with the Bank’s GDP growth
+forecast for 2016 revised down from 0,8 per cent to 0,6 per cent. While a recovery is
+still expected in the next two years, the forecasts for both these years were revised
+down by 0,1 percentage points to 1,3 per cent in 2017 and 1,7 per cent in 2018, and
+the MPC assesses the risk to this forecast to be to the downside. This slow growth
+has led to real GDP per capita remaining largely unchanged in the three years from
+3
+2013 to 2015 at around fifty six thousand rand. According to the International
+Monetary Fund’s April 2016 World Economic Outlook, the per capita income has
+declined from its peak of US dollar 8 090 in 2011 to and estimated US dollar 4 768 in
+2016.
+Shock absorption ability as measured by economic diversification remains a crucial
+factor for South Africa. While the country has a diversified economic base, a
+combination of bottlenecks arising from domestic electricity shortages and labour
+market issues, faltering commodity prices, and persistent low global economic
+growth have added pressure to various industries. In addition, the agricultural sector
+is under pressure due to the recent drought. From a microeconomic perspective,
+income distribution tends to be highly skewed. South Africa, one of many countries
+to suffer from this phenomenon, has a Gini-coefficient of close to 0,69.3 Progress on
+improving income inequality has proved challenging over the years, with the Gini-
+coefficient registering 0,67 in the post 1994 era.
+The second aspect of ratings is institutional strength, which is a key consideration
+for foreign investors who are considering investing in a country, though this does
+also affect local investor confidence. Institutional strength is derived from a
+transparent, credible and consistent policy and regulatory framework as set by the
+government and central bank. Such an environment provides the foundation for
+business and consumer confidence. South Africa generally does quite well in this
+regard. For example, the national budget process is highly transparent and
+respected globally, and the judicial system is seen as strong and independent. South
+Africa also scores better than its BBB-rated peers in the World Bank's governance
+indicators, benefiting from strong fiscal and monetary institutions. However, in some
+other areas, such as perception of corruption, South Africa does not perform that
+well.
+The third factor is fiscal strength, which is primarily an assessment of the overall
+health of government finances. Governments which have a short debt maturity
+profile face significant refinancing risk. In South Africa’s case, however, the weighted
+term-to-maturity of total government debt is 12,7 years, and National Treasury
+actively manages various risks associated with its debt portfolio. National Treasury’s
+3
+South African Poverty and Inequality Assessment Discussion Note, Draft 2016.
+4
+borrowing programme is underpinned by strategic benchmarks for refinancing,
+interest rate structure, inflation and currency risks, and as indicated in the February
+2016 Budget Review, the structure of the debt portfolio remains well within its self-
+imposed risk limits. At the same time, South Africa’s government gross debt to GDP
+ratio is expected to remain between 50 and 51 per cent over the medium term. While
+in line with the emerging-market average,4 it is better than Brazil (76-81 per cent)
+and India (around 66 per cent). It is also noteworthy that only 10,0 per cent of South
+African government debt is denominated in foreign currency, reducing the exposure
+to exchange rate shocks. In addition, short-term debt is sufficiently covered by
+reserves. However, contingent liabilities in the form of government guarantees to
+state-owned enterprises (SOEs) such as Eskom and South African Airways are also
+factored in. Consequently, the health of our SOEs is important to our country’s credit
+rating.
+Lastly, susceptibility to event risk is also important for rating agencies. This
+criterion assesses whether sudden events or risks could materially increase the
+probability of default. These risks could emerge in the economic arena, the financial
+sector, from political instability, as well as natural disasters. I have already touched
+on South Africa’s economic landscape so I will not discuss that again, but our
+financial sector deserves a mention. It is a well-regulated industry and we have a
+well-capitalised banking sector with the total capital adequacy ratio well above the
+regulatory requirement of 10 per cent. Our financial markets are also highly
+advanced, have good liquidity and a strong domestic investor base. However, the
+country’s dependence on foreign portfolio financing to fund the current-account
+deficit makes it somewhat vulnerable to exogenous financial sector shocks.
+My discussion so far has hopefully provided a reasonable, albeit rather succinct,
+explanation of the rating agency framework of thinking around credit assessment
+within the South African context. Further, it provides some background why, since
+2012, South Africa has been downgraded by all four rating agencies. The common
+themes across the commentary from Moody's, S&P, and Fitch revolved around low
+GDP growth and structural weaknesses such as electricity generation capacity and
+labour market rigidities. In addition, a less friendly environment for investors and
+businesses also contributed to the downgrades and despite the initiatives stemming
+4 Fiscal Monitor, IMF, April 2016.
+5
+from the National Development Plan, according to Moody’s, many policies have
+weakened South Africa’s business confidence, leading to South Africa's decline in
+the World Bank’s ‘Ease of Doing Business’ index ranking to 73rd from its 69th
+position in 2015.
+The view from the financial markets
+While rating agencies are indicating their caution about the likely trajectory of South
+Africa's credit rating, financial markets also tend to anticipate the rating agency
+decisions ahead of time. One metric, namely the credit default swap (CDS) spread,
+has been pricing in an increased probability for a downgrade to non-investment
+grade since around September/October 2015. South Africa’s five-year CDS spread
+is trading at around similar levels to that of countries which have been downgraded
+to non-investment grade such as Brazil, Russia and Turkey. In fact, South Africa’s
+five-year CDS spread was trading at around 304 basis points (bps) on Friday, not
+much lower than the 343 bps where Brazil, a BB rated country, was trading. By
+comparison, Russia and Turkey, who's rating straddle investment and noninvestment
+grade ratings across different agencies, or so-called split ratings, were trading much
+lower around 260 bps. This is an indication that the CDS market has priced in a
+downgrade of South Africa’s sovereign rating to non-investment grade.
+Looking at other markets, a similar trend is observed. In the currency market, the
+rand underperformed against other emerging markets since August last year due to
+adverse domestic developments and a weaker commodity terms of trade. In brief,
+various indicators reflected a slowdown in economic activity as well as deterioration
+in business and consumer confidence, and, according to data from the
+Johannesburg Stock Exchange (JSE), external vulnerability as non-residents sold
+R45 billion worth of domestic equities and bonds in the fourth quarter of 2015. This
+selling continued in 2016 with a further R35bn of net outflows for the year to end
+May.
+The domestic bond market was also not spared. According to JP Morgan,5 South
+Africa’s yield, which has traded between 100 and 200 bps over the emerging-market
+economies (EMEs) average since 2010, broke out of this range in November and is
+5 According to the JP Morgan Government Bond Index-Emerging Market (local currency bond index).
+6
+currently 300 bps over its peers. The deterioration in perceived creditworthiness is
+also reflected by the widening of the spread between government bonds and interest
+rate swaps. For example, the spread between the thirty-two year R2048 government
+bond and comparable interest-rate swap increased from around 50 bps in late
+September 2015 to 110 bps last week. Similar to domestic bond yields, data also
+compiled by JPMorgan show that the yield on our foreign-currency denominated
+debt, which has never traded less than 35 bps below the average for emerging
+markets and averaged around 75 bps below in recent years, moved to par with
+emerging markets at the end of 2015 but has recovered somewhat to 25 bps below
+more recently. The most recent level is still 50 bps weaker than the previous
+average.
+These data indicate the importance of an investment grade status for a country. This
+is also confirmed by an IMF study showing that reaching investment grade lowers
+sovereign interest rate spreads by 36 per cent, over and above what is implied by
+macroeconomic fundamentals. This compares to a 5-10 per cent reduction in
+spreads following rating upgrades within the investment grade asset class, and no
+impact for movements within the speculative grade asset class. This study shows
+that an investment-grade rating reduces financing costs significantly, improves
+market sentiment, and encourages greater inflows from a more diversified investor
+base. This is of particular importance given South Africa’s reliance on foreign capital
+inflows. The market reaction to the possible downgrade of South Africa to non-
+investment grade supports the IMF findings and bears testament to the increased
+cost the country faces should its credit standing continue to deteriorate.
+Other impacts of non-investment grade status on South Africa
+While I have discussed the impact of non-investment grade status on the cost of
+financing in general, it is actually a more nuanced affair and we need to discern
+between the local- and foreign-currency ratings to better understand foreign investor
+behaviour. Typically, the public discussion will reference the foreign-currency rating
+as this rating is associated with foreign investors and tends to have more stringent
+criteria. And indeed, the foreign-currency rating does matter in that it sets a clear
+external reference point for investors, but foreign portfolio flows are also impacted by
+7
+the local-currency rating. Global benchmark indices for domestic debt markets will
+usually reference the local-currency rating as this applies to domestic debt issues.
+These indices will often have a minimum credit rating and when a country falls below
+this level it will be excluded from the index, resulting in investors needing to liquidate
+their bond holdings in order to replicate the benchmark, also referred to as ‘forced
+selling’. Out of seven indices6 in which South African bonds are included, there are
+two indices which apply to domestic bonds and which are based on the local-
+currency rating, namely the Citibank World Government Bond Index (WGBI) and the
+Barclays Global Aggregate Index. Exclusion from these indices would require sub-
+investment grade, and based on South Africa’s S&P local-currency rating of BBB+,
+South Africa will need to have another three downgrades to drop out of these
+indices.
+As discussed earlier, I would like to highlight that markets already may have priced in
+much of the possible impact of a downgrade to non-investment grade. While a
+single-notch downgrade would not trigger South Africa's exclusion from these
+indices, investors will require a measure of additional compensation for the
+perceived increase in credit risk. A recent study by the South African Reserve Bank7
+(based on a sample of 70 countries) concluded that a downgrade in sovereign
+ratings from BBB- (the lowest investment grade) to BB+ (highest speculative grade)
+has the tendency to increase the average short-term bond yield by 80 basis points,
+and the average long-term yield by around 104 basis points. The recent
+underperformance in South Africa's bond yields and the concomitant higher cost of
+debt financing, will therefore likely become entrenched in our markets should we
+eventually be downgraded.
+There are also important knock-on effects to other sectors which I will touch on later,
+but let me first make a few remarks with regard to economic consequences of a
+ratings downgrade to non-investment grade. According to a study by Standard Bank,
+countries that have gone through such an experience on average saw moderating
+economic growth in the period leading up to a downgrade, and ultimately ended up
+with even lower or negative growth rates after the downgrade. This was also
+6
+Citibank World Government Bond Index (WGBI), JPMorgan Government Bond Index-Emerging Markets (GBI-EM), JPM EMBI
+Global, JPM EMBI Global Diversified (EMBIGD), JPM EMBI Plus (EMBI+), Barclays Global Aggregate Index and the Vanguard
+International Bond Index.
+7 SARB Economic Note, Sovereign credit ratings and cost of funding, Shakill Hassan, January 2016.
+8
+associated with their currencies coming under pressure and concomitant higher
+inflation requiring tighter monetary policy, which in turn contributed to the slower
+economic growth.
+South Africa has already witnessed some of these effects. While the weak rand has
+been a reflection of concerns over the growth outlook for China, softer commodity
+prices, and increasing interest rates in the United States, it has also reflected
+concerns about South Africa and the outlook for its credit rating as the rand has
+underperformed its emerging-market peers. The rand has underperformed other
+emerging-market currencies since mid-September last year, depreciating by over
+15 per cent versus an only minor depreciation in the JPMorgan emerging-market
+foreign exchange index. This contributed to the MPC’s assessment that the risks to
+the inflation outlook are to the upside and the consequential increases in the policy
+rate.
+Although domestic headline consumer inflation moderated to 6,2 per cent in April
+2016 since the high of 7,0 per cent in February, the respite is expected to be
+temporary, as food and petrol price pressures continue to intensify. While the impact
+of the weaker exchange rate remains relatively low, there are indications of
+increased pass-through in some categories, particularly new motor vehicles and
+appliances. The most recent forecast of the Bank for headline consumer inflation
+shows that the breach of the upper end of the target range will be protracted and
+inflation is only expected to fall within the range during the third quarter of 2017.
+Inflation is expected to average 6,7 per cent in 2016 and in 2017 and 2018 inflation
+is expected to average 6,2 per cent and 5,4 per cent respectively, with the expected
+peak at 7,3 per cent in the fourth quarter of 2016. The MPC highlighted that the risks
+to this forecast are to the upside, amongst others, due to the exchange rate. While
+the future moves in the rand will be influenced by many factors, one cannot ignore
+the possible negative consequences of further rating downgrades. I have already
+discussed the Bank’s growth outlook so I will not repeat that here.
+Let me make one final point on the effects from a ratings downgrade on funding
+costs. Given that investors would require higher compensation for taking the higher
+risk associated with South African assets, in particular government bonds, yields will
+remain elevated. Since most other fixed-income securities are priced as a spread
+9
+over the benchmark government bonds, these higher yields will spill-over to the bond
+and loan rates in the banking and corporate sectors, thereby increasing their cost of
+funding. Given the prominent role of domestic currency debt financing relative to
+foreign currency financing, and, as discussed above, the larger reaction in domestic
+currency yields, this will increase the cost of doing business without monetary policy
+tightening.
+Of course, pension funds will also be affected by the spill-over from asset prices,
+especially bonds and equities, given their large exposure to these asset classes of
+35 and 54 per cent, respectively. To that, I would like to add, that the volatility in
+bond and equity prices that were observed since late 2014, serves as a reminder of
+how abruptly prices can change, with significant effects on the savings industry.
+Official data show that pension funds’ portion of total assets invested in cash is
+relatively low at only around four per cent, implying that price volatility will have a
+large impact on portfolio valuation. Therefore, anticipation of future ratings actions
+need to be considered in asset allocation decisions given the potential for re-pricing
+these assets.
+What can the South African Reserve Bank do?
+Having discussed the market reaction to credit ratings at length, let us turn to the role
+of the central bank. In this light, the most important contribution the Bank can make
+is to deliver on its constitutional mandate, which is ‘to maintain price stability in the
+interest of balanced and sustainable economic growth’. This is carried out within a
+flexible inflation-targeting framework. By ensuring price stability, the Bank plays a
+key role in providing an environment in which businesses and households can
+flourish. A vibrant private sector will help generate growth which in turn will support
+the country's credit rating.
+Secondly, the Bank plays a key role in protecting and enhancing financial stability in
+South Africa. This will be affirmed in the Financial Sector Regulation Bill (2015),
+which is expected to be promulgated later this year. However, the Bank recognises
+that it is not the sole custodian of financial system stability, but that it contributes
+significantly towards a larger effort involving government, other regulators,
+selfregulatory agencies, and financial market participants. By ensuring financial
+10
+stability, the Bank will directly contribute to the institutional strength of South Africa,
+thereby supporting the credit rating.
+As you will recall from my earlier discussion on the factors impacting on credit
+ratings, it entails various different segments of the economy and institutional
+framework. The South African Reserve Bank's role is to ensure that it has policies
+that are credible, transparent and reputable, and in the best interest of everybody in
+the country. Thus, the Bank, by ensuring that its mandate is implemented effectively,
+contributes to a positive assessment of South Africa by the rating agencies.
+Concluding remarks
+In conclusion, sovereign ratings are a reflection of a country’s macroeconomic,
+institutional and political fundamentals. We recognise the risks stemming from further
+rating downgrades, and while asset prices may have discounted rating actions
+ahead of time, all this means is that should a downgrade come, it will embed the
+higher costs for the economy. The recent pronouncements by Moody's and S&P
+have given us a window of opportunity to prevent more rating downgrades. However,
+the negative outlook indicates that we must remain focused and take appropriate
+and decisive action. Consequently, the Bank will continue to endeavor to provide an
+environment that supports a strong and robust economy through the pursuit of price
+and financial stability.
+11

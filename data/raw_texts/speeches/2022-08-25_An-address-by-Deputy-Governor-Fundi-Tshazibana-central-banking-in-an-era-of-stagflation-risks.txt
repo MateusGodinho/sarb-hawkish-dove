@@ -1,0 +1,233 @@
+Titulo: An address by Fundi Tshazibana Deputy Governor of the South African Reserve Bank at the Nedgroup Investments 11th Annual Treasurers’ Conference
+Data: 2022-08-25
+Palestrante (estimado): Fundi Tshazibana Deputy Governor
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2022/An-address-by-Deputy-Governor-Fundi-Tshazibana-central-banking-in-an-era-of-stagflation-risks
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2022/An%20address%20by%20Deputy%20Governor%20Fundi%20Tshazibana%20central%20banking%20in%20an%20era%20of%20stagflation%20risks.pdf)
+----------------------------------------------------------------------
+
+An address by Fundi Tshazibana,
+Deputy Governor of the South African Reserve Bank (SARB),
+at the Nedgroup Investments 11th Annual Treasurers’ Conference
+Central banking in an era of stagflation risk: a view from the MPC
+25 August 2022
+Introduction
+Good afternoon and thank you for the invitation to address you today. Nowadays it
+feels very strange to be in front of a live audience, instead of a screen. Three years
+ago, when I spoke at this conference, the world was a different place. When the
+COVID-19 crisis started, we all said that everything was different. Two years later,
+everything is different again. Trying to figure out these ‘new differents’ certainly feels
+like I’m lost in the multiverse or my daughter’s version of the ‘upside-down world’.
+In October 2021, Wordle took the world by storm as people tried to guess the letters
+that made up the 5-letter word of the day. The most popular game back in 2020 was
+also about letters… specifically which letter shape would describe the economic
+recovery.
+o Would it be a V-shape, with a quick downturn and equally quick rebound?
+o An L-shape, with a collapse to a persistently lower level of output?
+o Or a K-shape, with a recovery for the rich and an ongoing recession for the
+poor?
+Everyone had their favourite letter. Despite all the imagination that went into crafting
+these scenarios, I don’t recall anyone warning of global stagflation. But nowadays,
+everyone is worried about that toxic mix of high inflation and weak growth. I’m not
+sure what letter could have denoted this outcome.
+Page - 1 - of 8
+The journey since 2020
+So how did we get here? And where are we going? Advanced economies went into
+the COVID-19 crisis on the back of a decade of subdued growth and below-target
+inflation.
+Central bankers invested heavily in strategies to deal with the zero lower bound on
+interest rates to avoid getting stuck in Japan-style ‘lowflation’. Worries about high
+inflation were often considered as dated and alarmist. This was particularly the case
+in the United States. New fiscal thinking also emphasised taking advantage of
+interest rates that were low relative to growth rates. All of this suggested that
+macroeconomic stability was secure and there was ample scope for aggressive
+policy action to manage the COVID-19 crisis.
+In emerging markets, the situation looked very different.
+Few of us had to worry about too low inflation. We read the new fiscal literature with
+interest. For emerging market countries, including South Africa, interest rates were
+clearly above our growth rates. But none of us were complacent about
+macroeconomic stability.
+Many emerging markets also confronted low-trend growth rates, well below those
+achieved a decade before. As a result, we had started diverging from advanced-
+economy-living standards, after a prolonged period of convergence. These
+circumstances called for stability-oriented macroeconomic policies, coupled with
+growth-boosting structural reforms.
+The South African perspective
+Let’s move closer to home. At first sight, the COVID shock changed everything. It
+was often said it would be better to do too much rather than too little. Indeed, South
+Africa joined in the global response with aggressive fiscal and monetary policy
+action.
+Page - 2 - of 8
+Given strong monetary policy credibility, our policy rate cuts were particularly large
+relative to peer countries. Despite our large monetary response, the SARB fielded
+many questions about the possibility of much lower inflation, or even deflation.
+We also heard various calls for more extreme SARB action, extending beyond rate
+cuts to policies such as Quantitative Easing. As policymakers, we agreed that there
+was high uncertainty, but as the SARB, we also explained that much lower inflation
+was unlikely. We further communicated that South Africa probably would not need
+unconventional tools such as QE, given both minimal deflation risk and the fact that
+we still had ample firepower with our regular repo rate tool, which was nowhere near
+the zero lower bound. While we agreed on the need for strong policy support to
+manage the impact of COVID-19, we saw the distinction between boldness and
+recklessness.
+Well, were we on the right track? Inflation for 2020 ended up averaging 3.3%,
+vindicating the SARB’s assessment about a prolonged target undershoot or even
+deflation. The actual outcome was close to our April 2020 emergency MPC meeting
+forecast, where we projected 3.4% inflation for the year. From that point, inflation
+largely played out as expected. Inflation also normalised at a fast pace in the next
+year, averaging 4.5% for 2021 as a whole, precisely in the middle of our target
+range.
+As for growth, South Africa’s recovery was slow relative to our peers’, with progress
+repeatedly interrupted by shocks such as flooding, riots and load-shedding. That
+said, growth outcomes in 2021 and early 2022 generally surpassed expectations.
+Revisions to our MPC growth forecasts were therefore consistently to the upside – in
+contrast with the pre-COVID period, where we were generally revising growth
+downward. For instance, at that unscheduled April 2020 MPC meeting, we
+envisioned growth of 2.2% in 2021, a number we eventually marked up to 4.9%. Our
+estimates of slack in the economy also narrowed over time, mainly because of
+better-than-expected growth.
+Page - 3 - of 8
+In these circumstances, the view of the MPC was that we had provided about the
+right amount of policy support. Our assessment was also that it would be appropriate
+to start moving away from emergency-level interest rates during the course of 2021.
+By the fourth quarter of 2021, we had a whole new different. Fortunately, unlike
+some of the advanced economy central banks, we had not committed to forward
+guidance on interest rates. Nor had we changed our framework in ways that made it
+more backward looking, for instance through average inflation targeting. We also did
+not have to worry about the sequencing of balance sheet policies, a factor which
+appears to have complicated timely policy adjustments elsewhere.
+The path to policy normalisation
+We started the normalisation cycle with a relatively modest 25 basis point increase at
+the November 2021 MPC. This was, incidentally, only a few days before Fed Chair
+Powell said he was retiring the term ‘transitory’ for inflation.
+The SARB’s gradual pace of normalisation continued with interest rate increases in
+January and March of this year. From May, we started seeing evidence of inflation
+persistence. Thus, we accelerated the pace of tightening, to 50 basis points, and
+then stepped it up further in July, hiking by 75 basis points. Those decisions were
+shaped by a deteriorating inflation forecast, with a strong likelihood of a sustained
+target breach, starting with the unexpectedly high May print, at 6.5%, as well as the
+June outcome of 7.4%. The rand had also begun weakening after a period of
+resilience. Furthermore, inflation expectations were clearly rising, both in survey
+results and as implied in financial market variables.
+Now that we have got rates back up from 2020’s record lows, the question we face is
+how quickly we need to get to positive real rates, and ultimately a more neutral
+stance. In turn, this depends on just how persistent higher inflation will be. Here’s
+how I assess the main factors. Upside risk from higher price passthroughs, higher
+wage settlements, currency corrections driven by interest rate differentials. But also
+moderating such as lower oil prices, moderating food prices and the large gap
+between headline and core inflation. We don’t see much demand pressure in this
+economy. At the same time, it seems firms can put through price increases and have
+Page - 4 - of 8
+them accepted. This is consistent with a small or zero output gap – an economy that
+does not have a lot of slack but also isn’t overheating. We appear to have moved
+past the phase when we were getting disinflationary pressure from spare capacity in
+the economy, to a space where this factor is broadly neutral.
+On the labour market, South Africa’s high unemployment rate is clearly not an
+important determinant of inflation. If it was, we would’ve been in deflation by now,
+given the massive downward pressure on wages from labour market slack. Instead,
+what we have seen between the first quarter of 2021 and the first quarter of 2022 is
+average compensation growth in the region of 5%. This is reasonable given the
+underlying inflation rate and productivity growth. The risk, however, is that this
+number could accelerate.
+The structure of our labour market is such that some parts of the workforce are
+privileged. They are protected either by labour laws that favour insiders, or by skills
+shortages that confer market power. These segments of the workforce tend to
+demand full cost-of-living adjustments, over and above any productivity growth they
+achieve. This tends to drive up inflation for everyone else. We are alert to this threat.
+On the exchange rate, the rand had been resilient through much of the first half of
+this year, despite the stronger dollar. We saw a range of advanced economy
+currencies depreciate, including the Japanese yen and the euro, but a group of
+emerging market currencies, including the South African rand, seemed to be immune
+to the strong dollar. However, this trend suffered a breakdown in June. We are no
+longer in the space where we can have low policy rates without currency weakness.
+There are too many other countries offering higher policy rates, and we are getting
+less support from export commodity prices than we did previously. Although
+exchange rate dynamics are always unpredictable, the SARB’s baseline forecast is
+that we are seeing some exchange rate pressure to inflation, but timely rate
+increases keep this from being a major source of pressure.
+Set against these considerations, the good news is that oil prices seem to be easing
+again, and there is also some tentative progress on the food price front. We have a
+large gap currently between our headline and core inflation measures – 3
+Page - 5 - of 8
+percentage points, with core at 4.4% and headline at 7.4%. If headline starts to move
+back towards core, we won’t have low inflation, but we will at least be closer to the
+midpoint of our target. Even taking into account these moderating factors, we would
+still want to get back to ‘normal’ interest rates, but there would be less urgency to get
+there fast.
+On the whole, our policy stance remains accommodative. The 75 basis-point hike in
+July might have been the largest hike since 2002, but our starting point was very low,
+and the repo is still below the inflation rate. Indeed, if you apply a simple Taylor rule
+to the data, where the policy rate is a function of normal or neutral rates adjusted for
+deviations from the inflation target and full output, you will certainly get an outcome
+above 5.5%. This applies even when you are looking at next year’s inflation, past the
+12-month impact of the Ukraine war price shock.
+Let me conclude, by stepping back a bit to see the bigger picture. I’d like to offer two
+comparisons.
+The first has to do with South Africa’s performance relative to other countries. It is
+still early days, and I don’t want to signal complacency, but given the size of the
+global shock underway, it is fortunate that South Africa has a good chance of getting
+through this without particularly high inflation or high interest rates.
+Our July QPM projection, which is a reasonable baseline, shows inflation peaking
+during the current quarter and then moving back towards our midpoint target during
+the rest of the forecast period. Meanwhile, the QPM’s endogenous policy rate moves
+moderately higher, but the stance is never tight. For instance, the average repo rate
+is about the same as it was in the pre-COVID period, when it was between 6% and
+7%; the QPM has repo averaging 6.5% next year and 6.75% in 2024. This compares
+well with what has happened in many other countries.
+I hope you have all taken time to appreciate the fact that South Africa’s inflation has
+been below the inflation rates of the United States, the United Kingdom and even
+Germany, in recent months. Perhaps more relevant, we have not seen target misses
+of the scale experienced by many of our peers, and unlike those countries, we have
+Page - 6 - of 8
+not had to raise rates well into restrictive territory. The SARB is not happy about our
+target breach, but given what is happening to the world, neither our inflation rate nor
+our interest rates look especially onerous. It’s actually a reasonable outlook, given
+the worst global inflation shock in a generation.
+My second observation is an historical comparison. A decade ago, during the global
+taper tantrum, South Africa was one of the most-affected countries. For instance, we
+were included in the grouping known as the ‘Fragile Five’. In 2020, during the onset
+of the COVID-19 shock, South Africa was once again identified as a vulnerable
+country. For example, Adam Tooze published a widely read essay in Foreign Policy
+describing the coronavirus as the ‘biggest emerging market crisis ever’, which
+included the claim that, and I quote, “At the head of the list of vulnerable countries is
+South Africa”. This year’s financial market storm has hurt a wide range of countries.
+The experiences of the worst hit, like Sri Lanka, have reminded us once again that
+macroeconomic stability is precious. It’s striking, however, that of the Fragile Five
+from 2013, only one country, Turkey, is in danger of an acute macroeconomic
+dislocation today.
+Yes, South Africa remains vulnerable to external shocks, and this keeps us awake at
+night. But South Africa’s resilience during this stress episode is very welcome. We
+have benefitted from some good luck, mainly from higher commodity prices. In large
+part, the macroeconomic choices of the past few years have also reduced fragility.
+This reflects necessary fiscal policy decisions, especially around the public sector
+wage bill, as well as a prudent monetary policy.
+There are many accounts being written now of what central banks got wrong, that
+made the ongoing inflation surge possible. Reading them, I realise that despite the
+criticisms – we at the SARB are sometimes attacked for not being adventurous – it is
+clear that when central banks do become adventurous the consequences can be
+even more unpopular.
+Page - 7 - of 8
+Conclusion
+To conclude, looking back over the past – very exciting – three years, the SARB
+probably did about the right amount of stimulus in 2020, and we probably started
+withdrawing stimulus at about the right time, in late 2021. Obviously, the war in
+Ukraine was an unexpected shock. But South Africa’s inflation profile was not too
+problematic prior to that shock.
+Looking ahead, and all else being equal, we have a reasonable chance of getting
+through this current ‘different’ without high interest rates. But life is never
+straightforward in central banking. Conditions remain highly uncertain, so we cannot
+be precise about where interest rates are going. Before this crisis, there was a strong
+preference, globally, for forward guidance, but recent events are really testing central
+bank communication. We’ve all been reminded that forecasts are flawed and that
+circumstances change fast. Plans that looked measured and reasonable at one point
+can look wholly inappropriate at another.
+As the MPC, we’ve not made any promises about future policy rates. Our approach
+remains risk-based and data-dependent. Our objective is to get inflation back to
+target over the medium term, and we will continue to do what it takes to achieve that,
+adjusting our plans as we get new information.
+We have been urging structural reforms for many years, but this year it feels like we
+may finally be nearing a tipping point. We need to lift our potential growth.
+Fortunately, we have the base of macroeconomic resilience and the private-sector
+balance sheet strength, and with the right reforms, we really could have balanced
+and sustainable growth again.
+Thank you.
+Page - 8 - of 8

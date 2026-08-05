@@ -1,0 +1,337 @@
+Titulo: An address by Francois Groepe, Deputy Governor of the South African Reserve Bank, at the RMB Morgan Stanley Investor Conference
+Data: 2018-09-25
+Palestrante (estimado): Francois Groepe
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2018/535
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2018/535/SARB-Deputy-Governor-RMB-JP-Morgan-Speech-25-September-2018.pdf)
+----------------------------------------------------------------------
+
+An address by Francois Groepe,
+Deputy Governor of the South African Reserve Bank,
+at the RMB Morgan Stanley Investor Conference
+The Vineyard Hotel, Cape Town
+25 September 2018
+Distinguished guests, ladies and gentlemen.
+It is a pleasure to be with you today and to share the stage with such an illustrious
+group of speakers.
+Today, I would like to discuss what has been a recurring theme in our economic
+discourse for the past decade – the pursuit of structural reforms in the interest of
+inclusive growth. It is top of mind for investors, businesses, labour unions, academics
+and policymakers alike, including the Monetary Policy Committee (MPC). It has also
+attracted a wide range of research and analysis, most prominently the National
+Planning Commission’s diagnostic report, and has been central to the proposed
+government policy interventions as captured within the National Development Plan
+(NDP).
+First, I will share my thoughts on this critical topic, and second, I will touch on the role
+of the South African Reserve Bank (SARB) in relation to structural reforms.
+Introduction
+Structural reforms are policies mainly undertaken to improve the supply side of the
+economy by reducing constraints on the production of goods and services. These may
+include policies to reduce ‘red tape’, curtail monopoly power, raise the efficiency of key
+public services, and even amend taxes and public spending programmes with the
+intention of ensuring fiscal sustainability. Underlying these reforms is often an attempt
+Page 1 of 12
+to strengthen the institutional fabric of the economy by ensuring that ‘the rules of the
+game’ incentivise individual behaviour that contributes to the common good.
+The need to lift productivity and growth through structural and institutional reforms has
+received a significant amount of attention – not just domestically, but internationally.
+Indeed, it is a challenge faced by economies of all income levels in many different
+parts of the world. For example, in its latest Global Economic Prospects report, the
+World Bank notes that both advanced and emerging market economies have
+experienced a decline in their growth potential over the past decade. In a reference to
+the global economy, the report emphasises ‘an urgent need to press ahead with
+growth-enhancing policy adjustments – including reforming product and labor markets,
+raising investment in human capital, and building the policy buffers needed to allow an
+appropriate countercyclical response to shocks when they materialize’.1 This policy
+recommendation for the global economy applies equally to South Africa. Our growth
+challenges are thus not unique, but they are certainly a cause for concern.
+Similarly, the pressure to enhance the inclusiveness of economic growth in South
+Africa is also being felt in many other parts of the world. While income inequality
+between countries has fallen over the past 20 years, amid a rising middle class in
+many emerging market economies,2 within-country inequality has increased in many
+countries.3
+The recent rise in populist rhetoric internationally appears to be, at least in part, a
+reflection of rising inequality and a sense that economic gains are neither equally nor
+widely shared. This perception was exacerbated by the global financial crisis which,
+like many large crises, affected the poorest in society the worst.
+The power of inequality and perceived economic injustice as contributing factors
+towards political outcomes is being demonstrated in advanced and emerging
+1 World Bank. 2018. India – Systematic country diagnostic: realizing the promise of prosperity: Global
+Economic Prospects: the turning of the tide? Washington, DC: World Bank.
+2 Milanovic, B. 2012. ‘Global income inequality by the numbers: in history and now’. World Bank
+Policy Research Working Paper 6259. Washington, DC: World Bank.
+3 Atkinson, A, Piketty, T and Saez, E. 2011. ‘Top incomes in the long run of history’. Journal of
+Economic Literature 49(1): 3–71.
+Page 2 of 12
+economies alike. The consequences of these outcomes have been profound. In
+particular, decades of global economic integration, so widely held to be beneficial, are
+now at risk of being reversed. A key implication of this reaction is that the policies
+targeted at increasing gross domestic product (GDP) growth must also aim to be
+inclusive if they are to be sustainable in the long term.
+Considering South Africa’s challenges in moving to a more equitable economy, it is
+disconcerting to observe the notable moderation in the potential rate of growth over
+the past decade. Part of this moderation can be attributed to the legacy of the global
+financial crisis and a lower level of growth in some of South Africa’s export-partner
+economies. However, a significant share is self-inflicted, reflecting slow gains in
+productivity, policy uncertainty and a lack of investment in key sectors.
+At the current level of potential GDP growth – which the SARB estimates to be
+between 1.0% and 1.4% over the next three years – the economy is not able to
+generate real per capita income gains on a sustained basis. This is because
+population growth is currently at about 1.6% per year.4 Achieving a more equitable
+distribution of income is particularly challenging if it is not possible to grow the
+economy faster than the rate of population growth. In such an environment, difficult
+conversations about redistribution are unavoidable. However, if we could meaningfully
+lift the GDP growth rate, redistribution could take place more easily through the sharing
+of the additional gains.
+Reforming the economy has therefore become imperative, particularly if the standard
+of living is to be improved for all South Africans.
+Government has put substantial effort into the development of the NDP, which
+provides a clear and holistic structural reform framework. This plan has received
+support from across the political spectrum. However, implementation has been
+disappointingly slow.
+4 https://www.statssa.gov.za/publications/P0302/P03022017.pdf
+Page 3 of 12
+The recent change in political leadership gave rise to a renewed sense of optimism
+around the structural transformation agenda – not least because the President was
+the Deputy Chair when the National Planning Commission drafted the NDP.
+Encouragingly, the new administration has started to implement a number of reforms
+aimed at improving governance, tackling corruption and reducing pressure on the
+fiscus.
+Despite the improvements in business and consumer confidence earlier this year, the
+short-term economic outlook has remained subdued. Some analysts have noted that
+the reform progress has not been sufficiently rapid to ignite economic activity. With the
+economy now in a technical recession, following two consecutive quarters of
+contracting economic activity, concerns about the implications of low growth for
+employment creation, government finances and poverty alleviation have intensified.
+The governance and fiscal reforms currently being implemented are better thought of
+as improving institutional strength and the resilience of the economy. While they may
+not meaningfully lift short-term growth, they are important in reducing downside risks
+over the medium term and providing a degree of confidence to the private sector.
+Embedding a sound institutional environment is essential for creating the virtuous
+cycle in which iterative structural improvements are self-perpetuating.
+To raise the growth potential of the South African economy, additional reforms are
+required, specifically aimed at lifting productivity and increasing the efficiency of
+product and labour markets. Structural reforms, even when small, have in the past
+brought tangible benefits to our economy. The licensing of mobile phone operators in
+the 1990s brought down the costs of land lines and moved South Africans to near
+universal access to a telephone – over 90% of adults have had access to a land line
+or mobile phone since 2016.5 In addition, allowing for private sector participation in the
+electricity sector since 2010 has enabled the connection of 3776MW6 to the electricity
+grid and increased private sector investment, and minimised the negative impact of
+5 Independent Communications Authority of South Africa (ICASA). 2018. Third Report on the State of
+the ICT Sector in South Africa. Pretoria, ICASA.
+6 Department of Energy. 2018. Opinion piece by Minister Jeff Radebe, ‘Renewable energy
+independent power producer agreements will benefit South Africa in the transition to an
+environmentally sustainable economic future’, 27 July.
+Page 4 of 12
+power shortages in 2015/16. There is room for more reforms which, as articulated in
+the NDP, can lower the cost of living and improve the competitiveness of our exports.
+Indeed, National Treasury has recently estimated that the potential growth rate of the
+economy could be doubled by, among other things, releasing broadband spectrum,
+increasing the skill levels in the economy, and addressing anti-competitive practices.7
+Other analyses show that there is a positive correlation between the employment of
+skilled workers and unskilled workers. In this regard, measures to increase the number
+of workers with critical skills, including higher university throughput, the training of
+artisans and easing visa regulations for individuals with critical skills, could be
+beneficial.
+While some of these reforms will take time to show in the growth numbers,8 more
+immediate gains can be achieved by addressing the policy uncertainty that has
+constrained private investment for some time now. In fact, providing a clear and
+consistent message about the reform agenda will be as important as the agenda itself.
+Former United States (US) Treasury Secretary Larry Summers has often been quoted
+as saying that ‘confidence is the cheapest form of stimulus’.9 However, in an
+environment of rising inflation and fiscal constraints, it is also likely to be the most
+effective stimulus currently available. In this regard, further clarity on the modalities of
+the recovery package recently announced by the President will be important.
+Over the medium term, it is important to emphasise that while the rate of growth in the
+economy is set to rise only gradually, with a faster uptick contingent upon further
+reforms, South Africa’s macroeconomic framework and strong set of institutions
+continue to display remarkable resilience under challenging conditions.
+This is no accident. South Africa’s Constitution was carefully drafted to provide for an
+independent judiciary, free media and democratic accountability – all of which are
+underpinned by an active civil society. Meanwhile, the macroeconomic framework has
+7 http://www.treasury.gov.za/documents/national%20budget/2018/review/FullBR.pdf
+8 Rodrik, D. 2016. ‘The elusive promise of structural reform’. The Milken Institute Review 2: 26–35.
+9 https://www.washingtonpost.com/news/wonk/wp/2015/11/02/larry-summers-where-paul-krugman-
+and-i-differ-on-secular-stagnation/?noredirect=on&utm_term=.68d0b3a3e284
+Page 5 of 12
+been designed to ensure, among other things, that the exchange rate can effectively
+absorb shocks from abroad without transmitting instability, alongside other automatic
+stabilisers.
+I would now like to discuss the role of the SARB in South Africa’s institutional
+landscape and what we are doing to contribute to the country’s macroeconomic
+resilience and growth.
+The South African Reserve Bank’s role in South Africa’s institutional landscape
+The primary role and the independence of the SARB are clearly articulated in South
+Africa’s Constitution. It calls for the central bank to ‘protect the value of the currency
+in the interest of balanced and sustainable economic growth’, and states that the
+SARB ‘must perform its functions independently and without fear, favour or
+prejudice’.10
+Central bank independence in the context of the SARB refers, at the minimum, to
+instrument independence, that is, the SARB has the flexibility to use any and all of the
+tools at its disposal to achieve the set inflation target range.
+The SARB communicates regularly with the public, trade unions, civil society,
+parliament and representatives of government to explain and discuss economic
+developments, as well as what informs the monetary policy stance. Through this
+process, the SARB remains accountable to the South African public. The SARB’s
+independence, however, allows it to avoid the trap whereby monetary policy is being
+constrained by short-term political motives.
+I wish to emphasise that the current shareholding structure of the SARB has no
+bearing on its policymaking. Furthermore, the independence that the central bank
+enjoys is unrelated to its shareholding structure as policymaking is the responsibility
+of the four governors that are appointed by the President. Thus, the recent discussions
+about government potentially changing the shareholding structure of the SARB are
+10 http://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng.pdf
+Page 6 of 12
+largely inconsequential to the way in which the central bank operates. Nevertheless,
+should the independence of the SARB come under threat for any reason, we will make
+full use of all the legal avenues available to protect the independence of the SARB as
+it is a very important pillar for monetary policy credibility.
+To illustrate this point, allow me to briefly outline a temptation which is described in the
+literature as a key reason for central bank independence. The temptation is known as
+‘time inconsistency’. It simply means that there is always an incentive for a central
+bank to surprise the market with a more lax policy than is implied by its historical
+behaviour. The incentive exists because unexpected stimulus will initially give rise to
+an uptick in the economy. This is because prices are fixed in the short run, so the
+stimulus will translate directly into higher output.
+However, the economy will soon run into a capacity constraint, meaning that the higher
+demand caused by a lax monetary policy will result in businesses marking up their
+prices and unions raising their wage demands. As this occurs, the growth boost will
+give way to higher inflation and job losses. The unexpected monetary policy shock will
+dent the credibility of the central bank, as economic agents will be forced to reassess
+the central bank’s reaction function. This, in turn, will result in higher inflation
+expectations, while the medium-term growth prospects will, at best, be no better than
+they were before.
+It is easy to see why this type of behaviour could be attractive to a government in
+search of short-term growth. However, if repeated, it can lead to escalating inflation
+and a loss of confidence in the currency. One only needs to glance at the recent news
+headlines to observe that such calamities are not confined to the history books.
+The adoption of the inflation targeting framework was a significant structural shift for
+South Africa following periods of persistently high inflation. Since the introduction of
+inflation targeting in 2000, the SARB has worked hard to anchor inflation expectations
+and to embed the inflation target range in the minds of South African citizens. We have
+achieved hard-won credibility by avoiding the time inconsistency problem.
+Page 7 of 12
+Nevertheless, we believe that it is possible to do better. In particular, we are aware
+that inflation expectations have been anchored towards the upper end of the 3–6%
+inflation target range rather than at the midpoint. This, in turn, has resulted in headline
+inflation outcomes that have been uncomfortably close to 6% in recent years.
+When inflation settles near the 6% mark, exogenous shocks, such as exchange rate
+depreciation, can easily push inflation outside of the target range. The SARB operates
+a flexible inflation-targeting regime. The MPC therefore looks through the initial impact
+of supply-side shocks, with the aim of reacting to any second-round effects that these
+shocks may cause. However, the flexibility of the SARB to do this is constrained when
+such shocks quickly push inflation outside of the target range. Therefore, we are, as
+part of an ongoing effort, attempting to steer inflation expectations towards the
+midpoint of the inflation target range.
+To increase transparency, the MPC has begun to publish a more detailed list of
+forecasts as well as the endogenous repurchase rate path that is generated by our
+macroeconomic model. Over time, the policy actions and communiqués of the SARB
+are expected to anchor inflation expectations (and inflation itself) closer to the
+4.5% level. The benefits of such an outcome include increased policy flexibility, a lower
+inflation differential between South Africa and its major trading partners (implying less
+pressure on the exchange rate), lower long-term interest rates and, of course, a
+smaller annual erosion of purchasing power, which is particularly beneficial to the poor.
+We are aware that, in the short term, there will be a trade-off between inflation and
+growth, which implies that the transition to a lower inflation path will not be without
+costs. To minimise these costs, the MPC will gradually guide expectations lower
+through clear communication and appropriate policy-rate adjustments, as deemed
+necessary. As with many important policy transitions, the long-term benefits will
+significantly outweigh any short-term costs.
+An expanded mandate
+Over and above the primary mandate of price stability, the SARB has also recently
+been given an explicit mandate to oversee financial stability. This mandate is provided
+Page 8 of 12
+for in the Financial Sector Regulation Act 9 of 2017 (FSR Act), which was signed into
+law last year. The FSR Act is the most fundamental reform of the South African
+financial sector regulatory architecture in more than three decades.
+The mandate for financial stability calls for the SARB to take steps to prevent systemic
+events from occurring and to mitigate the adverse effects of a systemic event if and
+when one does occur. The tools necessary for addressing system-wide risks are
+commonly known as macroprudential tools.
+Since the global financial crisis, it has become apparent that even if individual financial
+institutions appear sound, there may still be a risk of broader financial instability due
+to either excess leverage across the system or a high degree of common exposures
+to a particular risk. Thus, the microprudential tools that have commonly been used to
+safeguard individual banks, such as minimum capital and liquidity ratios, need to be
+supplemented with a macroprudential approach to regulation. The SARB is currently
+researching a variety of potential macroprudential tools and financial stability risk
+indicators to improve the resilience of the broader financial system.
+The SARB’s Financial Stability Committee has been set up to protect and enhance
+financial stability. It is tasked with considering qualitative assessments of the
+conjunctural assessments of risks to, and imbalances in, the broad financial system
+and formulating policy action to mitigate identified threats, as well as considering the
+appropriateness and adequacy of resolution policies and measures for crisis
+management. The SARB’s toolkit is continually being refined and includes the ability
+to deploy a countercyclical capital buffer for banks. This provides the SARB with the
+means to raise aggregate bank capital buffers during upswings in the financial cycle,
+and allows for the release of these buffers during downswings. Currently, given the
+modest level of credit growth, the countercyclical capital buffer is set at zero.
+The FSR Act has also established a Twin Peaks approach to financial regulation,
+which means that prudential and market conduct regulation are now managed by two
+separate entities. The SARB, as the prudential regulator, has received expanded
+oversight responsibilities extending beyond banks, to include insurers and financial
+market infrastructures. Meanwhile, a new entity, called the Financial Sector Conduct
+Page 9 of 12
+Authority, has been established as the market conduct regulator.
+The FSR Act meaningfully builds on South Africa’s institutional strength within the
+financial sector by ensuring that the regulatory architecture is in line with best practices
+globally. In particular, establishing a clear separation between prudential and conduct
+regulation is an important reform because it ensures that there is adequate oversight
+of both the soundness of financial institutions and the fair treatment of clients. Over
+the longer term, we believe that centralising financial regulation within the SARB will
+generate economies of scale and improve our ability to monitor risks across South
+Africa’s highly interconnected financial sector.11
+As I mentioned earlier, some important structural reforms do not show in the GDP
+data. The financial sector reforms that I have been describing are an example.
+Avoiding systemic crises does not necessarily result in a higher growth trajectory, and
+hence its benefits are less apparent. One would need to consider counterfactuals to
+determine the value of a stable financial sector. While this type of analysis is difficult,
+we need only to observe the persistent effects of the global financial crisis to
+appreciate the importance of a stable financial system. Certainly, the benefits extend
+beyond the avoidance of economic losses and include a more stable social and
+political environment. The fact that South Africa has not had a large-scale banking
+crisis since attaining democracy serves to demonstrate the resilience of our financial
+sector.12
+Other structural reforms that have been critical for South Africa’s economic expansion
+include the significant liberalisation of the capital account and the development of the
+domestic bond market, which have deepened our financial markets. I provide these
+examples to highlight that structural reforms can be varied but all have an important
+role to play.
+11 Kemp, E. 2017. ‘Measuring shadow-banking activities and exploring their interconnectedness with
+banks in South Africa’. South African Reserve Bank Occasional Paper 17/01. Pretoria: South African
+Reserve Bank.
+12 Reinhart, C and Rogoff, K. 2012. ‘Banking crises: an equal opportunity menace’. NBER Working
+Paper 14587. Cambridge, MA: National Bureau of Economic Research.
+Page 10 of 12
+At the SARB, we believe that price and financial stability are complementary goals,
+which together contribute towards creating an enabling environment for economic
+growth. These goals reinforce each other because neither one is possible without the
+other. And while we are working hard in both areas, we also recognise that our
+contributions provide the necessary, but not sufficient, conditions for achieving
+sustained, higher levels of growth.
+A final point that I would like to touch upon is the work currently underway at the SARB
+in the area of financial technology (fintech). Fintech is a key regulatory priority, but
+also a potential area of growth for the economy – we do not have to look further than
+Estonia and Singapore to realise the growth and transformational potential that the
+use of technology may hold. As such, we have set up a unit focused solely on
+understanding and utilising emergent fintech developments. Despite being in its
+infancy, this unit reached a remarkable milestone recently by collaborating with various
+banks to demonstrate that the domestic real-time gross settlement of interbank
+payments can be decentralised and executed through distributed ledger technology.
+We are anticipating many exciting developments in the fintech space over the coming
+years, and will attempt to remain as close to the frontier in this domain as possible.
+Concluding remarks
+South Africa’s economy is expected to stage a gradual recovery over the next two
+years, as both domestic investment and export growth are forecast to rise. However,
+a modest cyclical rebound of this nature is insufficient to address the high levels of
+unemployment and inequality in our country. In order to reach more transformative
+growth rates, as envisioned in the NDP, government will need to act decisively on the
+recent reforms.
+The SARB will remain focused on achieving its price stability and financial stability
+mandates and, in concert with other regulators, it will continue to work towards further
+improvements in the soundness and efficiency of the financial sector. Our efforts to
+enhance what we do form part of a broader thrust towards an even stronger and even
+more resilient institutional architecture in South Africa.
+Page 11 of 12
+Thank you.
+Page 12 of 12

@@ -1,0 +1,253 @@
+Titulo: An address by Fundi Tshazibana Deputy governor of the South African Reserve Bank at the Central Bank of Eswatini
+Data: 2023-11-17
+Palestrante (estimado): Fundi Tshazibana Deputy
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2023/An-address-by-Fundi-Tshazibana-Deputy-governor-of-the-SARB-at-the-Central-Bank-of-Eswatini
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2023/dg-fundi/An%20address%20by%20Fundi%20Tshazibana%20Deputy%20governor%20of%20the%20South%20African%20Reserve%20Bank%20at%20the%20Central%20Bank%20of%20Eswatini.pdf)
+----------------------------------------------------------------------
+
+An address by Fundi Tshazibana,
+Deputy governor of the South African Reserve Bank,
+at the Central Bank of Eswatini,
+Mbabane, 17 November 2023
+Global shifts and regional spillovers – how are we performing?
+Introduction
+Ladies and gentlemen, thank you for the opportunity to address you today at this event
+hosted by our colleagues at the Central Bank of Eswatini. The relationships between
+our respective central banks go back a long way – after all, the Common Monetary
+Area (CMA) of Southern Africa is the oldest existing currency union in the world, dating
+back to the beginning of the 20th century. The deep economic ties between the
+economies in the CMA, and our pegged exchange rates, underscore a high
+synchronisation in our economic cycles, especially in responding to the impact from
+global shocks, trends and spillovers to the African region – a central theme of my talk
+today.
+The past three to four years have seen many global shocks, and their ramifications
+continue to reverberate. In fact, we are still uncertain about the long-term effects these
+shocks will have on the world economy, trade and capital flows. While the COVID-19
+pandemic may no longer be a major health concern, we still face a world of relative
+price shifts, high inflation, re-organisation of supply chains and increasing geopolitical
+risks. Encouragingly, both the global economy and our regional context have shown
+some resilience to these shocks. But some effects might come with a lag and
+complicate the task we, as central banks, face in maintaining price stability and
+financial stability. These are some of the issues I will try to address today.
+1
+Some encouraging global developments
+We are all well aware of the inflation surge experienced globally in 2021 and 2022,
+driven by supply and demand mismatches that emerged as economies reopened in a
+staggered manner after the COVID-19-related lockdowns. During this period,
+advanced economies experienced inflation levels not seen since the early 1980s. To
+limit the permanent release of the inflation genie out of the bottle, advanced economy
+central banks had to act decisively by raising rates to levels last seen before the 2008
+Global Financial Crisis.1 In emerging market and developing countries, most central
+banks had to tighten too, though the degree of the policy response varied considerably
+based on idiosyncratic factors.
+The good news is that in the past year or so, inflation rates have declined around the
+world. However, core inflation has remained rather sticky. This is the case with labour-
+intensive services in advanced economies, against a background of still-tight labour
+markets. Nonetheless, services inflation is now falling in most countries. Favourable
+base effects in energy, food and the unwinding of supply chain bottlenecks have also
+tempered price increases in other consumer price index (CPI) components.
+Furthermore, longer-term inflation expectations, at least in major advanced
+economies, have remained reasonably well anchored, a testimony to central banks
+retaining their credibility.
+As a result, the monetary policy tightening episode appears largely complete. While
+central banks maintain vigilance against persistently high inflation, they demonstrate
+rising evidence of the transmission of earlier rate hikes to financial conditions and
+credit demand. Consequently, financial markets now see no probability of an additional
+hike in the United States (US) or eurozone. In the emerging economies, some of those
+central banks which had acted early and proactively to deal with inflation now have the
+flexibility to consider rate cuts.
+Another encouraging development is that disinflation is occurring alongside the
+surprising resilience of the global economy. The IMF’s October World Economic
+Outlook estimates that global growth will only slow to 3.0% this year, from 3.5% in
+2022. In addition, Bloomberg consensus of economists now also expects world growth
+1 See ‘Inflation: A look under the hood’, Bank of International Settlements, Annual Economic Report 2022.
+2
+of 2.8% in 2023, up from only 2.1% projected at the beginning of the year. In advanced
+economies, most private sector balance sheets were solid at the time when monetary
+policy was tightened. Cash buffers supported private spending, while in the US,
+corporate borrowers had ‘locked in’ low-cost medium-term financing when interest
+rates were at historic lows. This delayed the impact of higher rates on demand.
+Cross-border capital flows, while weak by historical standards over the past few
+quarters, have nonetheless displayed equal resilience in 2022‒23, considering the
+size of the repricing in advanced economies’ bond markets, usually a “bellwether” for
+global investor risk appetite. Over the past 12 months, portfolio flows to emerging
+markets over the past 12 months are only a 0.3 standard deviation below their average
+of the past 10 years.2 This is good news, considering that the 10-year US Treasury
+yields have risen by about 300 basis points since the beginning of 2022.
+Some of this better-than-expected news appears to have spilled over to the sub-
+Saharan Africa (SSA) region. In its October 2023 Regional Economic Outlook, the
+International Monetary Fund (IMF) projected a rebound in regional growth from 3.3%
+this year to 4.0% next year. Similarly, the IMF noted that median inflation for the region
+fell by 3 percentage points between March and July, and that most governments have
+started to consolidate fiscal policies, thus helping to stabilise debt-to-GDP ratios. In
+response to this improved environment, most SSA central banks have also paused
+their tightening cycles.
+We have also observed moderating inflation rates, as well as some resilience in
+economic activity, in CMA counties. In South Africa, inflation stood at 5.4% year on
+year in September, down from a peak of 7.9% in July last year. A similar pattern has
+been observed in other CMA countries, and indeed, my colleagues at the Central Bank
+of Eswatini recently revised down their 2023 inflation forecast from 5.55% to 4.93%.3
+Inflation also fell faster than expected in Lesotho, and in Namibia, with expectations of
+a further decline in 2024.
+2 The portfolio tracker data from the Institute of International Finance is used.
+3 See Monetary Policy Statement, Central Bank of Eswatini, 22 September 2023.
+3
+At the same time, the South African economy performed better than expected in the
+first half of the year, leading the South African Reserve Bank (SARB) to revise its 2023
+growth forecast upwards to 0.7%, from a low of 0.2% in March.
+Risks of negative spillovers remain elevated
+Despite these recent improvements, the global environment remains challenging. In
+the shorter term, higher advanced economy bond yields can still undermine, with a
+lag, cross-border capital flows. These are key to the funding of countries with external
+and public deficits, like most of us in the SSA region. History suggests that capital
+flows are more vulnerable, not only when nominal yields but also real yields are rising
+– as the latter typically reflect a re-pricing of the future path for policy rates, or higher
+term premiums for longer-dated maturities.4 This has been the case in the US these
+past two years, where the real 10-year yield rose from -1.0% at the beginning of 2022
+to a peak of 2.5% by the end of October.
+Bloomberg columnist John Authers recently drew a parallel between 2023 and 1987,
+a year when rising real yields in the US co-existed with resilience in ‘riskier’ assets,
+especially equities, until the stock market crashed in October of that year.5 We do not
+want to be ‘prophets of doom’ and predict market corrections that may or may not
+happen, but in recent months, we have already seen declines in equity prices, as well
+as emerging market currencies and bond markets. Higher yields may still translate,
+with a lag, into a further correction in riskier assets, especially if economic activity in
+the US eventually slows, as most economists expect.
+The tragic events unfolding at present in the Middle East, less than two years after the
+start of the conflict in Ukraine which shows no sign of an immediate resolution,
+highlight the importance of geo-political risks. These can negatively affect the global
+economy via trade, commodity prices – especially oil – and higher asset price volatility.
+Beyond geo-political issues, climate change, and the potential it has to generate
+greater volatility in agricultural commodities and changes in resource allocation,
+4 The Federal Reserve Bank of New York, using the Adrian, Crump and Moench (2013) model, calculates that
+the term premium on the 10-year US Treasury yield has risen from -0.74% at the end of April 2023 to +0.42%
+at the end of October (https://www.newyorkfed.org/research/data_indicators/term-premia-tabs#/overview).
+5 J Authers, “No one wants to remember 1987. Then there’s 1916.”, Bloomberg, 4 October 2023.
+4
+presents another risk to global inflation. In fact, as Christine Lagarde recently
+remarked, the world may have entered a period where supply shocks will become
+durably larger, and more frequent than in the past.6
+These non-financial factors can have a direct impact on financial markets and capital
+flows, as investors may require a higher risk premium for holding riskier assets. They
+can also have an indirect impact, as more frequent and larger supply shocks have a
+larger probability of de-anchoring inflation expectations, forcing central banks to be
+more cautious and resulting in tighter policy over the economic cycle.
+This can enhance financial stability risk. Expectations that the era of low and stable
+interest rates would last influenced both the funding and investment models of many
+financial institutions, leading them to increase their exposure to interest risk. If higher
+yields for longer become the norm, many investment positions may be liquidated
+simultaneously, adding to asset price volatility.7
+Negative spillovers from the global environment to our regional economies are not
+limited to financial flows. Merchandise trade flows also pose a risk to emerging market
+and developing country growth. Global trade in merchandise goods – after the post-
+COVID-19 rebound – appears to be in a recession phase.8 China's shift away from
+infrastructure and property investment, towards more household consumption and
+away from infrastructure and property investment poses a challenge for commodity
+exporters. As a result, African exports have been contracting since the second quarter
+of 2023.
+Beyond the current weakness in global export and import flows, the international trade
+system could suffer from geo-economic fragmentation in the medium term if geo-
+political rivalries unravel the multilateral, rules-based system. Rival trade blocs that
+engage less which each other, be it with respect to trade, foreign direct investment or
+technology transfers. Recent research from the IMF suggests that the SSA region,
+6 See ‘Policymaking in an age of shifts and breaks’, speech by Christine Lagarde, President of the European
+Central Bank, at the annual Economic Policy Symposium ‘Structural Shifts in the Global Economy’ organised by
+the Federal Reserve Bank of Kansas City in Jackson Hole, 25 August 2023.
+7 International Monetary Fund, Global Financial Stability Report, October 2023.
+8 Data from the Netherlands Bureau for Economic Policy Analysis show that the volume of global trade
+contracted by 1.9% year on year, on average, in the first eight months of 2023.
+5
+with its broad spectrum of export destimations, could experience the most significant
+output losses from such fragmentation.9
+Regional vulnerabilities to global challenges
+Although the SSA region has displayed resilience to global shocks, these
+improvements are still fragile and insufficient to bolster the region’s attractiveness for
+external investment. First of all, inflation remains too high in many SSA economies.
+Among the 10 largest economies in the region, six still had double-digit year-on-year
+inflation rates as of September. Recent currency depreciation in many SSA countries
+(where a large part of the consumer goods basket is imported, and where inflation
+expectations are often poorly anchored) risks perpetuating high inflation, in terms
+triggering addition foreign exchange losses.
+Many countries in the SSA region tend to suffer from ‘twin deficits’ (fiscal and external)
+which raise the cost of debt servicing and refinancing at a time when global investors
+are more risk-averse, and more sensitive to deteriorating fiscal dynamics. According
+to the IMF, over half of the SSA countries are either at a high risk of debt distress or
+already in debt distress.10 No country in the region has been issuing Eurobonds since
+April 2022, suggesting that the refinancing of external debt could be particularly
+challenging in the next few years.
+Finally, economic performance in the SSA region remains uneven, and generally falls
+short of the performance seen two decades ago‒ a period when investment in the
+region increased steadily. South Africa is one of the laggards in the region – the SARB
+only expects growth to accelerate to 1.0% in 2024 amid continued constraints from
+insufficient electricity production and inefficient transport networks. Other CMA
+countries also look set to fall short of the regional average. More generally, the IMF
+notes a tendency for resource-intensive economies to underperform, highlighting the
+lingering problem of the SSA’s insufficient downstream integration into value chains.
+9 See International Monetary Fund, ‘Geoeconomic fragmentation: sub-Saharan Africa caught between the fault
+lines’, Regional Economic Outlook: sub-Saharan Africa Analytical Note, April 2023.
+10 International Monetary Fund, Regional Economic Outlook: sub-Saharan Africa, October 2023.
+6
+How policy can best respond
+In response to these global challenges and regional vulnerabilities I have described,
+policymakers in our region, including us central bankers, still have work to do.
+Here is a list of the issues we should consider:
+• Policy response is not for central banks alone
+• Structural reforms are unavoidable
+• Controlling inflation is not negotiable
+• Close supervision of banks and non-banks is a must
+• And a credibility fiscal path is not only a necessary for fiscal sustainability but
+to bolster confidence, ensure financial stability to give some breathing room to
+monetary authorities
+High and volatile inflation discourages external capital inflows. It also discourages
+domestic fixed investment, erodes the purchasing power of the more vulnerable in
+society, and generally leads to a sup-optimal allocation of resources. This makes it
+essential for central banks to ensure that inflation returns swiftly to target, even when
+the causes of deviation are due to external factors, domestic supply shocks or
+necessary exchange rate adjustments.
+Market-determined exchange rates support foreign investment and enhance the
+allocation of resources in the longer run. Within the CMA, the rand is able to play its
+role of ‘shock absorber’ in episodes of capital outflows, and this helps reduce the
+length and size of such episodes. In the near term though, currency realignment is
+typically associated with an inflationary shock, and it is a central bank’s task to ensure
+that the shock does not become permanent. Credible monetary policy frameworks are
+required to help facilitate the eventual return to lower inflation rates.
+Arguably, both the spillovers from global shocks and the policy response required to
+deal with the inflationary consequences can increase the vulnerability of a country’s
+financial institutions. To avoid conflict between price and financial stability goals,
+central banks should act pre-emptively by monitoring the evolution of financial
+institutions’ balance sheets and take appropriate action in the case of excess risk
+concentration or growing forex or duration mismatches. In the context of escalating
+public debt levels, heightened exposures of both banks and non-bank financial
+intermediaries to the sovereign require close supervision.
+7
+Fiscal policy can play a crucial role in limiting both price and financial stability risks,
+especially in those SSA countries which, like South Africa, have seen elevated deficits
+and rising debt ratios in recent years. A credible fiscal consolidation path can boost
+investor confidence, stabilise the currency and reduce the risk premia on government
+debt. Reforms that help in broadening the tax base, prioritising productive public
+investment and reducing wasteful expenditure, can all assist in fiscal consolidation,
+without causing significant real income losses.
+More generally, structural reforms that help foster stronger and more inclusive growth
+would facilitate the task of both monetary and fiscal policymakers. These can include
+the deepening of domestic capital markets to reduce reliance on external funding at a
+time when the cost and availability thereof have become more challenging. They can
+also entail steps that facilitate the diversification of African economies, the broadening
+of their export base, and their stronger integration into global supply chains. Reforming
+network industries, fostering skills development and training, and reducing barriers to
+entrepreneurships would all assist in that diversification.
+Concluding remarks
+As the year draws to a close, we can take comfort in the relative resilience of the global
+economy and financial systems. The global economy continued to expand in 2023,
+despite being buffeted by high inflation, rising interest rates and heightened geo-
+political tensions. Credit continued to flow, albeit at a more moderate pace, and any
+corrections in asset prices occurred in an orderly fashion. Closer to home, we are
+encouraged by signs of declining inflation and improving growth prospects.
+Nevertheless, the road back to price stability remains lengthy and one that is likely to
+be fraught with more uncertainties than we were accustomed to before the pandemic.
+Consequently, global interest rates may become structurally more volatile, at a time
+when cross-border trade and financial linkages potentially realign alongside
+geostrategic considerations. It is our task as central bankers to be ready to respond to
+how these patterns affect price formation. We remain committed to fulfilling our
+mandate of price stability.
+Thank you.
+8

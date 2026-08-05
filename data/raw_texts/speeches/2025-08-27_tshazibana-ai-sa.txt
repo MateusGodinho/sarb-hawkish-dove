@@ -1,0 +1,415 @@
+Titulo: Fundi Tshazibana | Leveraging AI from a South African perspective
+Data: 2025-08-27
+Palestrante (estimado): Fundi Tshazibana
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2025/tshazibana-ai-sa
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2025/tshazibana-ai-sa.pdf)
+----------------------------------------------------------------------
+
+Address by Fundi Tshazibana,
+Deputy Governor of the South African Reserve Bank
+and Chief Executive Officer of the Prudential Authority,
+at the Macroeconomic and Financial Management Institute of Eastern
+and Southern Africa (MEFMI) Region Virtual Governors Forum
+27 August 2025
+Topic for discussion: Leveraging artificial intelligence (AI) from a South African
+perspective
+Good morning. It is a privilege to be with you today to discuss a topic that is rapidly
+reshaping the contours of our financial ecosystem ‒ artificial intelligence (AI).
+Disclaimer:
+❖ Let me begin with a brief disclaimer: The views I share today are intended to
+stimulate dialogue and reflection. They do not represent official policy positions of
+the central bank, nor do they constitute regulatory guidance. As we explore the
+opportunities and risks of AI, it’s important to recognise that this is a rapidly evolving
+field, and our collective understanding ‒ and regulatory frameworks ‒ must evolve
+alongside it.
+General overview
+There has been rapid growth in the digital technology landscape over the past decade.
+Technologies such as AI have gained more traction. There are different types of AI
+systems, including machine learning. There are simple and complex forms of AI. For the
+purpose of this discussion today, I will not dwell too much on describing these
+technologies but rather on their use and impact.
+1
+When referencing AI in its broadest form, financial institutions and market infrastructures
+have been using AI for many years. More recently, AI has emerged as a transformative
+force, reshaping industries, revolutionising workflows and redefining human-machine
+interactions. Leading this AI revolution is generative (Gen)AI, a subset of AI that enables
+machines not just to perform tasks but also to create, innovate and imagine, among
+other capabilities.
+In this regard, the issues related to AI and its impact on financial stability were already
+considered by the Financial Stability Board (FSB) in 2017.1 Since then, the use cases
+in the financial system have broadened and AI continues to advance. This is highlighted
+in a number of reports, including the 2024 Annual Report of the Bank for International
+Settlements (BIS), the International Monetary Fund’s (IMF) October 2024 Global
+Financial Stability Report and the work of the Organisation for Economic Co-operation
+and Development (OECD).
+The convergence of AI and GenAI marks a pivotal moment in the evolution of
+technology, unlocking new opportunities across various domains. There are many
+applications of Gen AI, including its use in various business processes and assurance
+functions. Today, I’m going to take a narrow focus, looking at whether the transformative
+power of AI can be harnessed while safeguarding the safety and soundness of financial
+institutions to maintain the stability of the financial system.
+Shifts in the financial sector
+The adoption of GenAI within the financial services sector has increased substantially
+and this trend continues to accelerate globally, largely to improve operational efficiency
+and regulatory compliance. As highlighted in the 2025 World Economic Forum white
+paper titled ‘Artificial Intelligence in Financial Services’, banks, insurers and other
+market participants are projected to spend nearly US$97 billion by 2027 on AI
+technological advancements; that is almost triple the US$35 billion spent in 2023.2
+The use of GenAI by the South African financial sector is picking up. Financial
+institutions are exploring its use primarily to enhance productivity, improve processes
+and reduce risk through anomaly detection. The South African Reserve Bank (SARB)
+continues to gather data to strengthen its assessment of the prevalence of AI and its
+impact on the financial system.
+The largest four banks and the two largest insurers are leading the way in adopting AI
+and GenAI technologies.3 AI is significantly transforming the banking sector in South
+1 Financial Stability Board (November 2017). Artificial Intelligence and machine learning in financial
+services
+2 World Economic Forum (January 2025). Artificial Intelligence in Financial Services
+3 S Malinga, ITWeb (18 March 2024). Big-four banks take lead in SA’s GenAI, AI deployments
+2
+Africa, driving innovation, enhancing customer experiences and improving operational
+efficiency. Some notable use cases of AI in South African banks include the following:
+1. Customer service and support: AI-powered chatbots and virtual assistance enable
+the creation of personalised product offerings.
+2. Fraud detection and prevention: AI algorithms monitor transitions in real time to
+detect and mitigate fraud risks. Machine learning models analyse customer
+behaviour to identify anomalies that may indicate fraud.
+3. Credit scoring and risk management: AI assesses creditworthiness using non-
+traditional data sources such as social media activity, utility payments and mobile
+phone usage, making it easier to extend credit to underserved populations.
+4. Processing automation: Banks use robotic process automation to automate
+repetitive and time-consuming tasks such as data entry, account reconciliation and
+compliance reporting, thereby reducing operational costs and errors.
+5. Investment and wealth management: AI-driven robo-advisers provide investment
+advice and portfolio management services based on algorithms and customer
+preferences, making wealth management accessible to a broader audience.
+While the use of these technologies is increasing exponentially and the potential
+benefits and risks are recognised, alignment is crucial at both microprudential and
+macroprudential levels. The role of central banks and regulators is critical in shaping
+responsible AI governance at financial institutions to support the stability of the sector.
+Microprudential elements
+These are licensed and supervised institutions, so clearly there are microprudential
+elements to consider.
+Insurers have been using AI in data analysis and predictive modelling. And according to
+the July 2025 International Association of Insurance Supervisors (IAIS) Practice paper
+on the supervision of AI in insurance, insurers are now actively testing and deploying AI
+more broadly throughout the insurance value chain, including in:
+• policy administration and claims management;
+• tailored customer engagement; and
+• enhanced risk management and fraud detection.
+Similar trends are evident in the banking sector, where AI use cases include broad use
+in anti-money laundering and countering the financing of terrorism (AML/CFT)
+compliance, deeper understanding of client profiles and improved tailoring of client
+offerings and market segmentation. In currency markets, algorithmic trading continues
+3
+to evolve. A widely hailed benefit is that AI will free up talent to focus on high order
+thinking processes.
+Despite the benefits, there is also recognition that these technologies can introduce new
+risks from a microprudential perspective, including:
+• ethical biases where algorithms may unintentionally reinforce discrimination;
+• accountability challenges linked to the opaque and complex nature of some AI
+systems;
+• skills shortages and key person dependencies due to the demand for AI talent that
+is outpacing supply;
+• infrastructure challenges introduced by legacy systems, which often require
+significant upgrades to support AI;
+• vendor lock-in and high entry barriers, which may reduce competition and slow
+innovation; and
+• cybersecurity risks, which could also contribute to legal and other compliance risks.
+Looking at these elements, it is clear that central banks and financial supervisors should
+be looking more closely at the implications of wider AI adoption – how it can potentially
+mitigate risks as well as broader institutional governance elements. This is especially
+important in using GenAI because of the autonomous nature of AI models ‒ there may
+likely be deviations from the original intent and what these models end up focusing on.
+Macroprudential elements
+At a macroprudential level, the use of AI can help enhance analytics, improve risk
+aggregation, assist in the development of early warning indicators and improve the
+detection of detrimental lending practices that could undermine system stability. It also
+enables improved cross-sectoral analytics and deep dives into interconnectedness.
+However, the same AI that provides beneficial analytics can also present risks that may
+amplify existing vulnerabilities within the financial system. The 2024 FSB report on AI
+highlights how the widespread use of AI models by market participants could lead to
+increased market concentration and the emergence of new systemic risks, such as:
+• Privacy and cybersecurity risks which arise when AI systems, which rely on large
+volumes of data, unintentionally expose sensitive information or create new security
+vulnerabilities.
+• Market correlation and herding behaviour, with similar AI models making identical
+decisions that can amplify procyclicality. “Application of AI and machine learning
+4
+could result in new and unexpected forms of interconnectedness between financial
+markets and institutions,” the FSB noted in 2017.
+• Data concentration that introduces over-reliance on limited data sources introducing
+systemic bias.
+• Third-party dependency, inflating the dominance of cloud service providers and
+raising concentration and resilience concerns.
+• Regulatory non-compliance and unintended outcomes. AI may allow information
+sharing but a lack of coordination across different national authorities can contribute
+to non-compliance and reputation and legal risks for financial institutions, with
+unintended outcomes.
+South African financial institutions must comply with many regulations, which can be
+challenging when integrating AI. Regulations like the Protection of Personal Information
+Act 4 of 2013 (POPIA) may impose strict requirements on data usage and privacy. The
+regulatory landscape for AI is still evolving, leading to uncertainty about future
+requirements and potential compliance costs. Ensuring AI systems are auditable and
+that decisions can be explained are crucial for regulatory compliance. Black box AI
+models pose challenges in this regard.
+With all these identified risks, can we harness AI for financial stability? My preliminary
+answer is yes. But there are conditions.
+The first step is in the microprudential area. As supervised institutions embark on their
+AI journey, the usual regulatory principles will apply ‒ they need to be aware of both
+opportunities and risks, they need to manage risks to maintain the safety and soundness
+of the institution and they need to remember that the accountability remains with the
+humans.
+In the insurance sector, the International Association of Insurance Supervisors (IAIS)
+has provided guidance on a risk-based AI governance framework4 that is built on four
+pillars:
+• Governance and accountability
+• Robustness, safety and security
+• Transparency and explainability
+• Fairness, ethics and redress
+Data issues are critical to resolve – institutions that do not have the appropriate and
+sufficient data, as well as suitable data governance and skills, will have challenges with
+4 International Association of Insurance Supervisors ( July 2025). Application Paper on the supervision
+of artificial intelligence
+5
+the adoption of AI. There are potential risks related to the breadth of data on which AI is
+trained. As central banks, we have certain data standards that we have relied upon. We
+need to understand the implications of increasing use of big data from multiple sources.
+Clear mapping of areas in which AI is used, having clear accountability measures and
+matching these to risk appetite are essential. For financial institutions this means that
+multiple governance checks are required. AI committees are not a silver bullet – risk,
+ethics and other committees need to be actively involved.
+Identifying and managing operational risks are also vital. Financial institutions must
+understand model risk elements associated with AI, but most of them do not have the
+expertise to review their own models or undertake comprehensive assessments of
+model accuracy and quality.
+Assessing the impact of AI adoption on other policy imperatives, including
+environmental, social and governance (ESG) and other objectives. Using AI to enhance
+the depth of information provided, as well as providing more granular data to supervisors
+to assist them with tracking of financial stability risks would also be useful.
+As supervisors, we need to ensure that senior managers and boards of financial
+institutions understand and manage what their AI models are doing. If we use AI in the
+way we are currently using people, are we interviewing AI adequately? Do we perform
+ongoing assessments on whether they are performing as planned? Is there sufficient
+know-how within the organisation or are we placing sole reliance on third-party
+providers?
+The above issues reflect the in-country issues well. However, what happens when AI
+models are signed of and developed for use by a large insurance or banking group with
+cross-border operations? When these models are applied at the subsidiary level, are
+they matched to the business model or do they add complexity? Do the subsidiaries
+have sufficient know-how and understanding at management and board level? With
+third-party dependencies, how do we think about and manage potential regional
+spillovers for large regional banks and insurers?
+Under the G20 South African Presidency, coordinating with various international
+organisations, a report will be produced suggesting how central banks, regulators and
+supervisors can monitor AI adoption and the tools needed (e.g. big data analytics,
+advanced analytics) to supervise and monitor AI-related risks in the financial sector.
+Let me not get carried away with supervisory issues and turn to the role of central banks.
+The role of central banks
+In the rapidly changing AI landscape, the role of central banks is crucial. As highlighted
+in several BIS publications and ongoing work across various international organisations,
+6
+central banks are both directly and indirectly affected by the impact of AI, both in their
+role as stewards of monetary and financial stability and as users of the technology.
+I have already touched on the microprudential elements. As microprudential
+supervisors, central banks must ensure that individual institutions adopt AI responsibly
+and have adequate governance to manage risks presented by the adoption of AI, while
+taking advantage of opportunities. This is the first step to safeguard stability – by
+minimising risks and taking advantage of potential benefits.
+However, as stewards of financial stability, central banks should harness their own
+capabilities to take advantage of the granular data and analytics provided by individual
+institutions and consider how AI can help them improve their own supervisory
+capabilities. In this regard, it is important for central banks to view themselves as users
+of technology, including AI, to enhance their capabilities.
+I will limit my comments to regulatory and supervisory technologies (RegTech and
+SupTech respectively) and analytics that complement monitoring and decision-making
+in financial stability.
+In the realm of SupTech, AI empowers regulators with real-time monitoring, predictive
+analytics and automated reporting, enabling proactive and data-driven supervision.
+For RegTech, AI enhances compliance by automating checks, detecting fraud,
+processing regulatory documents and managing regulatory changes efficiently.
+Central banks and regulators can leverage AI to improve microprudential oversight,
+financial inclusion, cybersecurity and climate risk analysis. However, successful
+adoption requires addressing challenges such as data governance, model
+transparency, regulatory alignment and capacity building within the central bank.
+To ensure the safe, sound and responsible adoption of AI in the financial sector,
+regulators and central banks can implement several effective approaches. Core
+considerations for responsible AI use include:
+• Building AI expertise for financial stability: Central banks and regulators need to
+develop internal AI expertise at all levels, particularly within financial stability teams.
+The right staff must be in place and well-capacitated. This includes training staff to
+understand, supervise and leverage AI for monitoring risks and improving internal
+processes. AI specialists should be integrated into functions and committees to
+ensure that those responsible for financial stability at both micro and macro levels
+are equipped to deal with AI-related risks. In addition, central banks should consider
+developing their own AI platforms to keep pace with technological changes.
+• Establishing direct AI-to-AI communication links: Secure, real-time application
+programming interface (API) links should be established between the AI systems of
+central banks and those of regulated entities and other authorities. This will allow
+7
+continuous monitoring, benchmarking and scenario analysis, enabling authorities to
+detect and respond to systemic risks, feedback loops and coordination problems
+before they materialise. Such links also facilitate counterfactual analysis, allowing
+authorities to simulate market shocks and test crisis-response scenarios across the
+financial system.
+• Developing automatic, trigger-based crisis facilities: Traditional, discretionary
+crisis-response mechanisms may be too slow for AI-driven market events. Central
+banks and regulators should establish automatic, pre-committed liquidity facilities
+that activate when certain triggers are met. This reduces uncertainty, prevents
+destructive AI-driven fire sales and helps stabilise markets at the speed that AI crises
+require.
+• Enhancing monitoring and surveillance of the use of AI: Regularly assess the
+use of AI in systemically important institutions.
+• Prioritising cybersecurity and operational resilience: As the integration of AI
+increases the attack surface, central banks and regulators need to invest in strong
+cybersecurity and operational resilience. This includes protection against new
+threats such as rapid injection, data poisoning and model theft, as well as ensuring
+business continuity during disruptions.
+Addressing emerging financial stability risks from AI: Supervisors should prioritise
+monitoring and mitigating risks such as:
+• Herding and procyclicality, which is when AI models make similar decisions, they
+could exacerbate market swings and trigger systemic shocks.
+• Market concentration and third-party dependency, where excessive reliance on
+a few big tech or cloud providers could create single points of failure.
+• Climate and operational risks, highlighting the importance of managing the energy
+consumption of large AI models and the potential for operational disruptions.
+• Misuse and opacity, where the risks of malicious use, lack of transparency and
+unpredictable behaviour from AI systems require continuous monitoring and clear
+lines of accountability.
+By focusing on these priorities, central banks and regulators can harness AI to
+strengthen financial stability, while proactively managing new and increasing risks that
+AI introduces to the financial system.
+Central banks and AI governance
+Central banks are increasingly exploring AI to enhance their core functions, such as
+economic forecasting, payments, supervision and even banknote production. Yet, they
+8
+remain cautious, given their mandate for stability, transparency and public trust. The
+BIS recently published a comprehensive framework for AI governance in central banks.
+It outlines a holistic risk taxonomy covering strategic, operational, cybersecurity, third-
+party and reputational risks. Central banks are encouraged to adopt a low-risk appetite
+and ensure AI governance aligns with national laws and international standards. The
+BIS also recommends practical steps for responsible AI adoption, which includes:
+• forming interdisciplinary AI committees;
+• establishing guiding principles;
+• maintaining AI inventories; and
+• adapting the framework as needed.5
+There is an increasing need for collaboration among central banks. We operate in a
+world where risk moves at digital speed ‒ a single event in one jurisdiction can ripple
+across the globe within seconds. Traditional oversight tools were not built for this
+environment. To fully realise the benefits of AI while safeguarding financial stability,
+central banks and regulators must prioritise collaboration, caution and capacity-building.
+Caution is essential to ensure that AI deployment does not outpace regulatory
+preparedness or compromise ethical standards. Equally important is capacity-building.
+As AI technologies continue to rapidly evolve, regulatory institutions must invest in
+developing internal expertise across data science, machine learning, ethics and
+financial risk. This includes upskilling staff, recruiting multidisciplinary talent and
+fostering a culture of continuous learning.
+The South African experience
+At the SARB, we recognise this transformation and have taken bold steps to ensure we
+are not only adapting, but leading. In late 2024, the SARB launched its AI Strategy,
+which is built around a use-case approach that targets four key focus areas central to
+our mandate:
+1. Economic statistics
+2. Economic research
+3. Prudential supervision and regulation
+4. Financial stability
+5 Bank for International Settlements (January 2025). Governance of AI adoption in central banks
+9
+This strategy is being implemented through practical, high-impact use cases across
+departments. The strategic use cases driving transformation include the following:
+• Remote sensing for economic nowcasting, where the central bank is developing
+a satellite imagery processing pipeline to measure socioeconomic variables in real
+time. This supports monetary policy formulation by offering insights into inflation,
+growth risks and the informal sector ‒ enhancing policy efficacy and inclusivity.
+• Anomaly detection in financial surveillance, where AI is being used to detect
+contraventions of exchange control regulations, enabling data-led policy decisions,
+improving surveillance of cross-border transactions and supporting risk-based
+supervision.
+• Advanced fraud detection and screening, where AI models are being deployed
+to detect anomalies in payment transactions, integrate with crime reporting systems
+and prevent the outflow of fraudulent funds. This strengthens financial stability and
+supports South Africa’s efforts to address greylisting concerns.
+• AI web transformation maps are being leveraged to dynamically adapt content in
+response to user interactions.
+• Copilot for business productivity, where AI-powered Copilot tools are being
+implemented to boost operational efficiency across the SARB. These tools support
+collaboration, manage unstructured data and enhance research, analytics and
+knowledge management.
+As AI transforms industries, its deployment must be ethical, transparent and
+accountable. The Prudential Authority (PA) is planning to reshape its regulatory
+landscape to ensure responsible innovation while safeguarding the safety and
+soundness of our financial sector.
+Key governance concerns that are being addressed through supervision and regulation
+include:
+• fairness and anti-discrimination;
+• liability and accountability;
+• disclosure and explainability; and
+• data privacy and protection.
+The SARB continually advocates for principles such as fairness, transparency,
+accountability, consumer protection, continuous monitoring, ethical training,
+independent audits, whistleblower protection and sustainability. The SARB’s journey
+with AI is not just about technology ‒ it is about transforming how we govern, supervise
+10
+and serve. We are committed to ensuring that AI enhances financial stability, supports
+inclusive growth and upholds public trust.
+Recognising the urgency, the PA also launched a multipronged strategy to integrate AI
+into its regulatory and supervisory frameworks, which includes the following:
+• Development of SupTech by modernising our internal systems to support
+advanced analytics, enabling more agile and data-driven supervision.
+• Collaboration with the SARB’s Fintech Unit to engage with industry innovators to
+explore AI applications in fraud detection, credit risk modelling and operational
+resilience.
+• A sector-wide AI adoption survey to help understand how banks and insurers are
+adopting AI, identifying use cases, risks and governance gaps.
+• Interim guidelines for responsible AI use standards are being developed to guide
+financial institutions on transparency, explainability and ethical AI deployment.
+Collaboration and regional approaches
+International cooperation is essential. To further support resilient and effective financial
+systems in the age of AI, the following actions are recommended:
+• Strengthening international collaboration and capacity building: We should
+establish an international community of practice for sharing AI tools, models, data,
+best practices and regulatory approaches. This will help us reduce duplication of
+efforts and improve our collective resilience. By collaborating with other central
+banks, academia and the private sector, we can identify common vulnerabilities and
+address cross-border risks more effectively.
+• Practical recommendations for the Macroeconomic and Financial
+Management Institute of Eastern and Southern Africa (MEFMI) region: The
+SARB and MEFMI can strengthen regional financial resilience by jointly building
+capacity in macroeconomic and financial management. Through their cooperative
+framework, they can share expertise, align on key policy areas and support
+institutional development to foster a more stable macroeconomic environment
+across the region.
+Conclusion: The need for a balanced approach
+As we look to the future, the FSB gave some homework to national authorities and
+standard-setting bodies across three areas:
+• Explore ways to address data and information gaps in monitoring developments in
+AI use within the financial system and assessing their financial stability implications.
+11
+• Evaluate whether current regulatory and supervisory frameworks adequately
+address both domestic and international vulnerabilities.
+• Identify ways to enhance regulatory and supervisory capabilities for overseeing
+policy frameworks related to AI applications in finance.
+Achieving these goals will require engagement with regulated sectors, investment in
+people’s skills and collaboration at national, regional and international levels.
+• Capacity building: We should invest in education and training programmes to
+enhance the AI literacy and skills of our regulators and policymakers. We need to
+set clear objectives on how to use AI responsibly in our environments – AI should be
+used to assist higher order decision-making by humans, not just replace them. The
+BIS Innovations Hub continues to provide guidance in this regard.
+• Collaborative efforts: We must promote collaboration between regulators, financial
+institutions, AI technology providers and other key stakeholders, including academia.
+By sharing knowledge and best practices, we can facilitate a unified approach to
+managing AI risks and fostering innovation. For the SARB, our key priorities are
+clear.
+In closing, central banks should be at the forefront of discussions on AI adoption within
+the financial sector. In South Africa, the SARB and the PA aim not merely to adapt to
+change but to actively shape it. By leveraging AI responsibly and providing guidance to
+financial institutions, we can help build a more resilient, inclusive and future-fit financial
+system for South Africa. This journey will not be easy but it is one we must undertake
+with the financial sector, ensuring that we don’t get lost in the technology but rather
+focus on achieving policy objectives. We need financial institutions that are safe and
+financially sound – hence the governance elements are essential. We must also not
+lose sight of the importance of humans working alongside AI, with humans remaining
+accountable – including in the central bank.
+Thank you.
+12

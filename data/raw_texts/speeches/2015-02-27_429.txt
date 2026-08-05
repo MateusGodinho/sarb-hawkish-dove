@@ -1,0 +1,296 @@
+Titulo: Address by Mr Leon Myburgh, Head: Financial Markets Department, South African Reserve Bank, at the Africa Sovereign Funds Roundtable, Cape Town
+Data: 2015-02-27
+Palestrante (estimado): Leon Myburgh
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-senior-management/2015/429
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-senior-management/2015/429/Speech-SF-Roundtable-2015.pdf)
+----------------------------------------------------------------------
+
+Address by Mr Leon Myburgh
+Head: Financial Markets Department
+Africa Sovereign Funds Roundtable
+Cape Town, 27 February 2015
+Introduction
+Good morning. It is a pleasure for me to address this Annual Sovereign Funds
+Roundtable hosted by the Sovereign Investor Institute and Institutional Investor, and
+to continue where yesterday’s presentations and debates left off. Management of
+foreign exchange reserves and other sovereign funds have indeed become a highly
+challenging task in the past few years. It is an environment for which economics and
+finance textbooks did not prepare us, like negative interest rates, quantitative easing
+and long-term forward guidance on monetary policy. In my remarks today, I will first
+briefly allude to how these international developments have come to influence
+economic and policy developments, including reserves management, in South
+Africa. Before discussing how reserves managers can look for alternative
+investments, in particular in sub-Saharan African countries, I shall then dwell in
+somewhat more detail on how the SA Reserve Bank handles the issue of capital
+preservation in a world of ever-declining yields.
+Economic environment and challenges for South Africa
+The economic situation facing South Africa, as well as a large number of emerging
+economies, remains rather challenging. Six years after the “Great Recession”
+triggered by the global financial crisis, the domestic economy has yet to return to the
+pace of growth that prevailed in the middle of the previous decade. In the last five
+years, real GDP growth in South Africa has averaged only 2,4 per cent per annum,
+compared with 4,8 per cent over the 2002-07 period. Furthermore, the long-awaited
+1
+meaningful acceleration in activity remains elusive, and year after year, both official
+and private sector forecasters have kept scaling down their growth prospects for the
+year ahead. For example, at the beginning of 2013, the SA Reserve Bank
+anticipated 3,8 per cent growth in 2014 but recent estimates show the economy only
+grew by 1,5 per cent. Similarly, at the time of the January 2014 Monetary Policy
+Committee meeting, the Bank anticipated growth of 3,3 per cent in 2015; this
+projection has now been scaled down to 2,2 per cent. And the National Treasury’s
+2015 Budget, released two days ago, only foresees GDP growth of 2,0 per cent this
+year and 2,4 per cent next.
+Yet several developments would appear supportive of stronger growth. Both nominal
+and real policy rates are still near decades’ lows, even after the cumulative 75 basis-
+point increase in the repo rate in 2014. Admittedly, the recent decline in headline
+inflation has pushed the ex-post real repo rate back into positive territory. However,
+when compared to inflation expectations one-year ahead (5,9 per cent according to
+the Bloomberg consensus) or the Reserve Bank’s own forecast for 2016 inflation of
+5,4 per cent, the real policy rate remains near zero. Loose global financial conditions
+have pushed capital flows toward higher-yielding markets and thereby providing
+financing for our fiscal and current account deficits. Another consequence of this
+“search for yield” has been to boost prices of South African financial assets; thus,
+long-term bond yields and earnings yields on JSE-listed equities are unusually low,
+easing the cost of financing for both public and private sector. Finally, both actual
+and expected inflation have displayed more stability than in earlier cycles, despite a
+pronounced depreciation of the rand over the past three years.
+So then, why is South Africa still mired in what can only be described as subdued
+growth, compared to the type of expansion that would be needed to make a
+significant dent in domestic unemployment? Why is the economy failing to produce
+the pace of growth that would help reduce public debt ratios? According to the
+Budget, this ratio will only stabilize in 2017/18, despite a tightening in the fiscal
+stance worth about R52 billion, or 1,7 per cent of last year’s GDP, over the next two
+years. Part of the answer lies in global conditions, and the disappointing
+performance of the world economy in 2014. Just like domestic growth forecasts that
+were scaled down, so were forecasts for most of the world’s largest economies. But
+2
+domestic factors also played a key role, not least structural factors such as electricity
+shortages and insufficient skills development. The decline in prices of South Africa’s
+major commodity exports for most of 2013-14 also weighed on economic activity,
+dampening corporate sector earnings, undermining employment and fixed
+investment prospects, and keeping the current account deficit at an elevated level.
+Will the global environment be more supportive in 2015 and 2016? At first glance,
+several factors appear encouraging. International institutions project somewhat
+faster global growth, albeit with downside risks. For example, in its January update to
+the World Economic Outlook, the IMF expected world output to accelerate to 3,5 per
+cent in 2015 and 3,7 per cent next year, from 3,3 per cent in 2014. At the same time,
+the lower oil price will bring relief to consumers and producers alike.
+However, the global environment will continue to bring challenges. First of all, the
+global economic outlook remains both uncertain and uneven across major regions.
+For example, indications point to a continued moderation and re-balancing of the
+Chinese economy, which may further weigh on the outlook for industrial
+commodities, offsetting in part the benefits to South Africa from cheaper oil. At the
+same time, monetary policy divergences between the major economies may cause
+tensions within the global financial system, including significant currency shifts as
+witnessed by the marked appreciation in the US dollar since mid-2014.
+Such potential developments complicate the task of a central bank like the SA
+Reserve Bank, not only in its role as monetary policymaker but equally in its role as a
+manager of official reserves. How should a central bank address cross-currency
+volatility, and in particular deal with US dollar appreciation at a time when the trend
+has been towards a diversification to non-dollar currencies? How can a central bank
+improve its return on reserves in the current low-yield environment, without
+jeopardizing its prudential mandate? How should it protect itself against a possible
+rise in risk and term premiums across a broad range of assets? These are questions
+I will now attempt to answer, with reference to the Reserve Bank’s experience.
+Investment of central bank reserves and risk management
+3
+The solid growth in the SA Reserve Bank’s foreign currency reserves portfolio over
+the past decade, from what was initially a negative level when netted off with the
+oversold forward foreign exchange position, was primarily due to reserve
+accumulation during a phase of strong foreign capital inflows throughout the pre-
+crisis boom years. However, market conditions have changed considerably. With
+world economic growth still in the doldrums, capital inflows have become more
+volatile and public finances are more stretched. This means that not only is it more
+challenging to accumulate reserves due to the higher cost of holding reserves, but
+managing them has become complicated.
+In the past, capital preservation, which is the key objective of official foreign
+exchange reserves management, was achieved with relative ease by investing in
+fixed income securities and holding them to maturity or enjoying capital gains as
+yields fell in response to improving credit profiles. The opposite scenario has
+prevailed in recent years. Credit ratings for many government, government agencies
+and corporations have been downgraded, reflecting less certainty about timely
+receipt of principal and interest. Loss sharing between taxpayers and investors in the
+event of a bail-out of a failed bank, or even when governments are bailed out
+themselves, has become accepted practice. It is a world where the safe-haven
+status of bonds has become eroded, at least in perception, if not in practice.
+This leaves us with the key question of what should comprise a strategic asset
+allocation in order to achieve capital preservation, or indeed whether we need to
+redefine how we interpret and pursue capital preservation.
+Interpreted literally, capital preservation means ensuring that you do not incur a loss.
+By extension, it means reserve managers have very limited appetite to be exposed
+to risk. However, what is a central bank to do when it must take risk simply to
+prevent making a loss or to preserve capital, as is the case now with negative yields
+in the highly-rated countries such as Germany? In this case, a purchaser will get less
+money back than what it invested in the first place, and so, capital is lost.
+The most common response to lower and negative yields has been for reserves
+managers to lengthen the benchmark duration of the portfolio. By lengthening
+4
+duration, fund managers want to enjoy the benefit of the higher-yielding longer dated
+assets. In doing so, one can avoid the very low or even negative interest rates seen
+in the front part of the curve. Another common way to achieve the higher yield is to
+introduce more risky assets in the portfolio, either through investing in new asset
+classes like mortgage-backed securities, or to lower the minimum acceptable credit
+rating for issuers and deposit-taking counterparties. However, all of these actions
+introduce new forms of risk, ones which not too many years ago were seen as
+unpalatable. Very specifically, lengthening duration while yields are at historic lows
+introduces significant risk to the portfolio at a time when the debate is on the timing
+of normalization in US policy rates. And the same can be said of lowering the credit
+standards as credit spreads are tight by historical standard, for as the policy rates
+normalize, these spreads are at risk of widening.
+This is the nucleus of the paradox facing reserves managers. If we chase flat or
+positive returns at all cost, we introduce the very risks that we have tried to avoid for
+so many years. So the question becomes whether we should view capital
+preservation as an absolute or relative principle. If it is absolute, then the reserves
+manager must pursue non-negative returns at all cost. However, perhaps some
+consideration should be given to risk-adjusted returns, and if the risk is deemed too
+high, then one should simply accept negative returns in the short term and enjoy the
+benefit of the better risk profile. In such a paradigm, buying German bonds with
+negative yields could be seen as more prudent than searching for higher yielding
+bonds when there is a reasonable risk of a higher negative total return due to
+revaluation effects.
+Does this mean there is no room for riskier assets in a reserves portfolio, as we are
+now willing to hold negative yielding assets? The answer lies in the level of
+reserves, the income and capital appreciation needs, and the risk tolerance of the
+reserves manager. For a central bank with reserves lower than its ability to cover its
+short term known and contingent obligations (referred to here as the core reserve
+requirement), its efforts must be towards ensuring that it keeps it reserves liquid and
+freely available for meeting obligations. Central banks who find themselves in this
+position will have limited room to enhance returns through the diversification into
+riskier assets. The currency composition for this category of central bank should be
+derived from the currency of its potential and actual obligations and the typical
+5
+instrument would be bank deposits, Treasury bills, short-term government and
+agency bonds.
+A central bank that has reserves in excess of this core requirement can consider
+investing the extra portion in assets that offer higher yields, although these must still
+be liquid enough to liquidate should the need arise. The ideal overall return objective
+for reserves management is typically to ensure that the overall return covers the cost
+of holding the reserves. However, this objective should be pursued with due
+consideration to risk, as an all-out pursuit to recover this cost may require substantial
+risk taking for countries that have high domestic yields.
+As the overall size of reserves increases relative to the core requirement, the central
+bank may consider managing the portion of reserves that are well in excess of the
+core requirement under a different regime. At a general level, one can view this as
+the group of central banks who have enough reserves to cover capital outflows at a
+two or more standard deviation level. This is where the role of a sovereign wealth
+fund becomes relevant, or if the reserves are managed within the central bank, they
+are invested with a higher return objective. The important point is that for all central
+banks, we have now come to a point where the risk of capital loss due to negative
+yields is a reality, but the higher the level of reserves, the greater the freedom to
+apply stratified risk tolerances to negate the impact of negative yields.
+How then should we express capital preservation in this environment? With yields
+close to historic lows, the popular measure of Probability of Negative Returns has
+become less useful. Many reserves managers will target a Probability of Negative
+Returns below a certain level, based on an appropriate time horizon and confidence
+interval. However, the low yields naturally increase the probability of a loss, forcing
+the duration of a portfolio even shorter. Consequently, this metric has become
+problematic and many central banks and other official reserves managers have
+started using the conditional value-at-risk (CVaR) statistic to measure the maximum
+expected loss that the reserves may incur. Its advantage is that it gives a lower
+bound on the losses that may be incurred on the reserves. Therefore the CVaR
+provides more certainty in in case of a “black swan” event happening.
+6
+At the SA Reserve Bank, as is typically the case with other central banks, we
+perform risk-return simulations under different economic and stress scenarios to
+determine the most suitable asset class combination within our risk tolerance. This
+is commonly known as the Strategic Asset Allocation. The traditional investment
+universe has been fixed income, usually government bonds. But as per the previous
+discussion, central banks need to consider other asset classes that in portfolio
+context would improve the risk-return profile of reserves while at the same time being
+mindful of downside risks. Surveys conducted by various institutions indicate that
+while some reserves managers have shifted their reserves out of the traditional
+reserves currencies in search for yield, other investors are willing to keep funds in
+low yielding safe-haven currencies such as the Swiss franc.
+Indeed, the SA Reserve Bank recently began strategically investing in alternative
+asset classes such as mortgage backed securities, covered bonds and Chinese
+local-currency debt. This was done in a measured manner, through the adoption of
+new risks while still recognizing the need for capital preservation. The Bank has
+reviewed the separation of its reserves, which now comprise two tranches – the
+Liquidity Tranche and the Investment Tranche. The Liquidity Tranche is invested in
+gold, Special Drawing Rights, short-dated government bonds and cash of currencies
+that represent our potential obligations. This portfolio is constructed in a manner that
+allows for quick liquidation should the need arise. This tranche has a short
+investment horizon and is managed with a low risk tolerance. The Investment
+Tranche, while adhering to the core objective of capital preservation, is structured in
+a way to achieve a higher return, subject to risk tolerance constraints prescribed by
+the Bank, and has a longer investment horizon. In this Tranche, investments include
+longer term government bonds, mortgage and asset backed securities, covered
+bonds and corporate bonds, and allows for more diverse currency composition.
+While extending the investment horizon and the introduction of new instruments and
+currencies in the Investment Tranche brings new avenues to enhance the return on
+overall reserves, it also creates the risk of losses over short time horizons, thereby
+potentially being in conflict with the capital preservation tenet. Diversification is used
+to mitigate against this risk.
+7
+Central banks that have accrued significant excess reserves relative to the core
+requirement, have the opportunity to diversify into more risky but less correlated
+assets, such as equities or even listed property. For some, this diversification may
+include investing into the sub-Saharan region. However, as no African currency is
+currently classified as a reserve currency, this diversification is likely to be restricted
+to countries that have established sovereign wealth funds. In light of this, I would like
+to conclude my speech by briefly discussing the prospects for the Sub-Saharan
+African (SSA) region.
+Prospects for Sub-Saharan Africa
+For several years now, SSA has been the topic of many studies and analyses, and
+commentators have occasionally described it as the “new frontier” or the “continent
+on the move.” And there are genuine justifications for investors to look at
+opportunities on the continent. First, SSA has over the past decade grown faster
+than in any other decade since most African countries acceded to independence in
+the 1960s: According to the World Bank, average GDP growth in 2005-14 is
+estimated at 4,8 per cent, twice the average of 2,4 over the previous thirty years.
+Furthermore, unlike in earlier decades, this growth has not been mostly the result of
+demographic developments but, rather, of faster capital accumulation and stronger
+productivity growth. It has also been more diversified than in previous growth cycles,
+with faster expansion, among others, of sectors like retail, banking and mobile
+telephony.
+Second, growth in SSA has been relatively resilient to the Global Financial Crisis: In
+2009, when the majority of the world was mired in recession, it continued to expand
+by a relatively solid 2,0 per cent. Third, it has over the past ten years or so been
+more stable than in the past, in part a consequence of the diversification of
+economies and their reduced reliance on drought-prone agricultural production.
+Fourth, it is still expected to outpace overall growth in the emerging world, helped
+among others by continued strong public spending on infrastructure, as well as
+sustained growth in agriculture and services. In 2015 and 2016, the IMF projects
+SSA growth of 4,9 and 5,2 per cent, respectively, versus 4,3 and 4,7 per cent for
+emerging market and developing economies. Fifth and finally, these factors, coupled
+with the high relative returns offered by some SSA investments, have resulted in
+8
+recent years in frequent decoupling between these “frontier markets” and larger
+emerging markets, providing an additional opportunity for risk diversification.
+This improved growth performance has been matched by market returns. Generally,
+equity markets continued to gain in 2014, and yields on both local and dollar bonds
+have stayed low or continued to decline, though some African financial markets have
+sold off of late, undermined by their exposure to the falling oil price.
+Like in any investment, investors must be cognizant of the risks to the economic
+outlook. I will list a few. First, SSA remains sensitive to the global economic cycle,
+and in light of shifting international trade patterns over the last ten years or so – in
+increasing fashion – to the BRICS economies. Second, several relatively large and
+fast-growing economies will be affected by the lower oil price, although this negative
+impact on the region will be in part buffeted by the boost to oil importers. In fact, in
+recent years, African oil importers (excluding South Africa) had already provided a
+stronger contribution to regional growth than oil exporters.
+Third, some SSA countries have witnessed widening current account and budget
+deficits in the recent past, driven partly by broad infrastructure spending but also by
+looser public wage policies. Coupled with the region’s economies limited success in
+broadening their manufacturing base and therefore not diversifying their exports, at a
+time when the outlook for commodity prices remains uncertain, this exposes some of
+these economies to exchange rate and asset price correction in the event that global
+risk aversion suddenly adjusts higher. Finally, geo-politics and the risk of military
+conflict or spreading terrorist action remains a non-negligible risk factor. While these
+geo-political risks mostly affect countries within or near the Sahel region and the
+Horn of Africa, other nations could also become targets of hostile action, for instance
+as a result of involvement in joint peace-keeping operations.
+In conclusion, I would like to stress that the SSA region is likely to keep presenting
+opportunities for investors in coming years, linked to the demographic dynamics, the
+structural diversification of economies, and the “catch-up” of the production process
+towards the technological frontier. But such economic progress is not going to be
+without hiccups, and the performances of the region’s highly diverse countries are
+9
+likely to reflect facets of their own idiosyncratic factors, depending among others on
+policy choices, strengthening of institutions and ability to deal with a less favourable
+commodity price environment. Investor differentiation has already been the norm in
+the last couple of years for the more advanced emerging markets and hence, it is
+increasingly likely to be the same for Africa.
+Thank you.
+---oOo---
+10

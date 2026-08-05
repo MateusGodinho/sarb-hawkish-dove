@@ -1,0 +1,305 @@
+Titulo: An address by Lesetja Kganyago Governor of the SARB, at the 104th annual Ordinary General Meeting of the SARB shareholders
+Data: 2024-07-30
+Palestrante (estimado): Lesetja Kganyago Governor
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2024/agm-address-by-lesetja-kganyago
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2024/An%20address%20by%20Lesetja%20Kganyago%20Governor%20of%20the%20South%20African%20Reserve%20Bank%20(SARB)%20at%20the%20104th%20annual%20Ordinary%20General%20Meeting%20of%20the%20SARB%20shareholders.pdf)
+----------------------------------------------------------------------
+
+An address by Lesetja Kganyago,
+Governor of the South African Reserve Bank (SARB),
+at the 104th annual Ordinary General Meeting of the SARB shareholders
+South African Reserve Bank, Pretoria
+Tuesday, 30 July 2024
+Good morning, ladies and gentlemen.
+Introduction
+After another momentous year, today we convene the South African Reserve Bank’s
+(SARB) annual Ordinary General Meeting (AGM).
+In April, we marked 30 years of South Africa’s still-young democracy. It has been an
+extraordinary three decades, with a global financial crisis rivalling that of 1929,
+a catastrophic health pandemic, as well as our own ongoing struggle to develop a new
+democratic dispensation to better address our legacy of inequality and poverty.
+Despite these many challenges, the recent national and provincial elections have
+underscored our resilience as a society, and a new government of national unity has
+been ushered in.
+While the SARB has been in existence for over a century, it is our democratic
+Constitution that sets its current mandate: to protect the value of the local currency in
+the interest of balanced and sustainable economic growth – and to do so without fear,
+favour or prejudice.
+Page 1 of 11
+I am honoured to be part of a renewed leadership of the SARB, with Deputy Governors
+(DGs) Fundi Tshazibana and Rashad Cassim being reappointed, and Mampho Modise
+filling the vacant DG role. Our track record notwithstanding, we continue to face
+enormous challenges, but trust we will be supported by the dedicated staff of the SARB
+and its subsidiaries.
+With this in mind, I now turn to our economic outlook.
+A world economy in flux
+The global economy continues on a long recovery path from the pandemic. This path
+has been a troubled one, and despite better prospects in recent months, remains beset
+by risks and vulnerabilities built up during the pandemic. Inflation remains stubbornly
+high, and public debt levels globally are at record levels. Technological development
+carries both risks to cybersecurity and the hope of large and sustained boosts to global
+productivity. Meanwhile, 22 July appears to have been the hottest day on Earth in
+recent history.1
+In short: we are entering an era of new economic challenges, even as the recent ones
+have yet to be overcome. There is little fiscal or monetary policy space available to
+deal with the risks that could emerge to financial stability, renewed inflation pressures
+or even the growing challenge of climate change.
+Inflation remains a major policy concern for central banks globally. Although global
+inflation declined from 8.7% in 2022 to 6.8% in 2023 and continues to ease in 20242,
+it remains high relative to the 2–3% inflation targets that many countries are trying to
+achieve.
+Restrictive monetary policy, along with the recovery in supply chains and other
+pandemic-related bottlenecks, has helped inflation to recede from its 2022 highs.
+1 Recorded by the Copernicus Climate Change Service (C3S) data.
+2 Forecasts from the International Monetary Fund (IMF) World Economic Outlook (WEO) Updates,
+January 2024 and April 2024.
+Page 2 of 11
+However, global disinflation has slowed recently, as is well illustrated by consumer
+price inflation in the United States (US) still sitting at 3% relative to their 2% target.
+The slow pace of disinflation reflects a pattern of lower imported inflation but higher
+services inflation across most economies. In some, rising wages and sustained pent-
+up demand for services have been key factors.3 In emerging markets specifically,
+fiscal challenges and sustained currency depreciations have played more of a role.
+Policy commitment to reduce inflation back to targets has been strongly signalled
+around the globe, and central banks have generally been cautious in their approach
+to policy. Deepening geo-economic fragmentation, higher temperatures and other
+supply-related risks raise concerns about the long-term prospects for inflation, and
+considerable effort is going into reassessments of neutral real rate levels.
+While inflation remains higher than desired, global economic activity has proven to be
+more resilient than expected. Global growth surprised higher at 3.3% in 2023, despite
+considerable divergence in growth across individual economies. Generally, however,
+global growth rates are expected to remain below pre-pandemic trends. This reflects
+the impact of protectionist measures on global trade, relatively tight financial conditions
+as well as uncertainty of future policy trajectories.
+Greater stability in global affairs and more sustainable fiscal policy settings across the
+G20 countries would help to dampen uncertainty and enable longer-term horizons for
+policymakers, firms and households.
+While lowering debt levels weigh on growth in the short term, the longer-term effects
+of falling borrowing costs act to improve growth prospects, supporting private
+investment and freeing up fiscal space. Lower inflation would also open monetary
+policy space and support easier credit conditions, complementing the fiscal actions.
+3 Persistent services inflation, especially in the advanced economies, along with higher commodity
+prices, is expected to continue slowing the pace of disinflation in 2024 and 2025. See the July 2024
+IMF WEO Update: The global economy in a sticky spot.
+Page 3 of 11
+The SARB forecasts trading-partner growth to remain moderate in the medium term,
+hovering at around 3%.
+Domestic real economy developments
+Despite varied sectoral performances, output in the South African economy slowed to
+0.7% in 2023 from 1.9% in 2022, and remains well below growth in peer emerging
+markets.4 Load-shedding and logistical challenges have been weighing heavily on
+economic activity, depressing the credit appetite of businesses and the spending of
+households.
+Despite such weak growth in output, however, employment levels have recovered the
+2.2 million jobs lost during the height of the pandemic.5 As of the first quarter of this
+year, total employment surpassed its 2019 level. Nonetheless, job creation has been
+too slow and not enough to offset the growth in the labour force, leaving the
+unemployment rate elevated at 32.9% in the first quarter of this year.
+South Africa’s tailwind for growth coming from strong terms of trade continued to fade,
+despite still remaining at historically good levels. Exports also suffered over the past
+12 months from energy and logistics challenges as much as price factors. Imports
+were also muted by logistics. As energy and logistics constraints continue to ease, the
+growth outlook will also improve.6 The domestic economy is expected to grow by 1.1%
+this year, rising to 1.7% by 2026, as both household spending and investment start to
+strengthen.
+Domestic inflation dynamics
+4 IMF WEO Update, July 2024. Peer economies are expected to grow by 4%.
+5 The global average elasticity of employment is roughly 0.5%. Ours is about 0.6% to 0.7%. See
+V Morén and … [Insert his/her initial(s).] Wändal, 2019, ‘The employment elasticity of economic
+growth’, University of Gothenburg, and also H E Bhorat, K Naidoo, M Oosthuizen and P Pillay,
+‘Demographic, employment, and wage trends in SA’, WIDER Working Paper Series, 2015.
+6 Load-shedding is expected to detract less (0.2 percentage points) from growth in 2024, compared to
+1.5 percentage points in 2023.
+Page 4 of 11
+As with the global trend of moderating inflation, South Africa’s headline inflation
+decelerated over the past year, falling from 6.9% in 2022 to average 6% in 2023.
+These annual averages, however, hide the ongoing volatility in the underlying
+components of inflation, in turn demonstrating the risks and uncertainty marking the
+disinflation path. Since September of last year, headline inflation has been fluctuating
+between 5% and 6%, with frequent monthly setbacks coming from fuel, food and
+services prices.7 In February, core inflation rose by 0.4 percentage points to 5%,
+propelled sharply higher by medical insurance inflation. Encouragingly, as of June,
+core inflation has moved to 4.5%. The SARB sees core inflation averaging 4.6% this
+year, from 4.8% last year. Inflation expectations eased in the first half of this year, but
+still remain well above the midpoint of the target band.
+While headline inflation came out between 5% and 6% for much of the past year, our
+current forecast shows it easing to 4.9% this year, pulled lower mainly by softening
+food and fuel inflation, and resting at the midpoint in 2025 and 2026. Even with some
+quantitative and qualitative adjustments to risk perceptions over time, the Monetary
+Policy Committee (MPC) has felt it appropriate to maintain the repurchase (repo) rate
+at 8.25% – a level set in May of 2023.
+Financial stability
+Turning to financial stability, the SARB continued to ensure that the financial system
+remains resilient, without any systemic threats to its functioning materialising during
+the 2023/24 financial year.
+This is despite the risks to the outlook that include sustained geopolitical tensions,
+sticky inflation and government debt levels that remain uncomfortably elevated,
+globally. These risks have coincided with an unprecedented number of national
+elections around the world, leading to some uncertainty and heightened market
+volatility.
+7 Inflation moderated to 5.1% in December 2023, from 5.9% in October, before accelerating to 5.6% in
+February 2024. Headline inflation has moderated from February and remained unchanged at 5.2% in
+both April and May.
+Page 5 of 11
+South Africa is still confronted with its government’s growing debt levels and ever-
+higher debt-servicing costs, as well as domestic financial institutions’ high exposure to
+that debt. The SARB continues to monitor this sovereign-financial sector nexus
+closely.
+Although we are working hard to exit the Financial Action Task Force (FATF) grey list,
+the effects of being greylisted are being felt as foreign counterparties apply greater
+scrutiny to our domestic institutions.
+At the same time, the effects of climate change are becoming more frequent and more
+severe, as highlighted by the recent winter storms that lashed at least four provinces
+and necessitated the declaration of regional states of disaster.
+As part of its ongoing efforts to understand and mitigate the risks associated with
+climate change, the SARB conducted its first comprehensive stress test of South
+Africa’s major insurance companies during the 2023/24 period, which included a
+climate change component. Going forward, climate-related risk will increasingly
+feature as part of the SARB’s stress-testing scenarios.
+As of 1 July 2023, the SARB became a resolution authority, and is now obliged to
+develop resolution plans for systemically important banks and insurers, should they
+fail.
+Accompanying this was the launch of the Corporation for Deposit Insurance (CODI) –
+a new subsidiary of the SARB with its own Board of Directors and Investment
+Committee. CODI manages the country’s first deposit insurance scheme and cover
+qualifying depositors for up to R100 000 if their bank fails, is liquidated, or placed into
+resolution. These milestones will bolster trust and confidence in the financial system
+and strengthen its robustness.
+Prudential regulation
+Page 6 of 11
+The regulatory and supervisory work of the Prudential Authority (PA) goes hand in
+hand with our financial stability efforts. When it comes to the banking sector, elevated
+levels of inflation and rising interest rates have been eroding the disposable income of
+households and the profitability of businesses, resulting in a rise in impaired advances
+for banks. The PA will continue to monitor banks’ credit risk management practices
+and encourage banks to ensure that prudent financial and risk management practices
+are in place to weather any storm that may arise.
+In its work to safeguard the interests of depositors and policy holders, the PA placed
+two institutions under judicial management, while it continues to monitor several
+institutions that are in various stages of resolution, because of financial and
+governance-related matters.
+These challenges aside, the PA has supported efforts to grow a more diverse financial
+industry, having licensed one bank during the period under review, with five more in
+progress. Four new insurers, being three life and one non-life, were registered, with a
+further 11 applications in progress, six of which are life insurers. Two cooperative
+financial institutions were also registered, with a further two in progress.
+The PA and the Financial Surveillance Department are driving the SARB’s efforts to
+get South Africa off the FATF grey list. FATF has identified 22 action items that South
+Africa must address to improve its anti-money laundering and combating the financing
+of terrorism (AML/CFT) regime. Currently, eight of the 22 items have been addressed
+or largely addressed, and 14 remain in progress. South Africa is left with two reporting
+cycles, in September 2024 and January 2025, in terms of the action plan.
+Although foreign counterparties have been applying greater scrutiny to our domestic
+institutions as a result of the FATF greylisting, the PA has found no immediate negative
+impact on correspondent banking relationships. It is nevertheless imperative that the
+action items are addressed timeously to avoid long-term negative effects on the
+economy.
+Operational matters
+Page 7 of 11
+Moving to operational matters: during the year under review, the SARB saw the
+overhaul of its balance sheet with the introduction of new arrangements governing the
+Gold and Foreign Exchange Contingency Reserve Account (GFECRA). Announced in
+February 2024, the new GFECRA framework will allow government to access a
+portion of these funds to reduce debt issuance, while providing the SARB with a
+stronger capital position. In June, these arrangements were passed into law with the
+gazetting of the Gold and Foreign Exchange Contingency Reserve Account Defrayal
+Amendment Act. This was accompanied by the signing of the GFECRA settlement
+agreement between the SARB and the Minister of Finance. The agreement ensures
+that, among other conditions, the SARB’s solvency is not undermined by any GFECRA
+profits distribution. These distributions will be used to reduce government borrowing.
+There will be no sales of foreign exchange reserves if such reserves are below
+estimated adequacy levels.
+As of 1 July, R100 billion had been transferred to the SARB, and roughly three-
+quarters of the R100 billion due to National Treasury this year has already been paid
+out. We expect to complete the transfers by mid-August.
+The SARB is the custodian of South Africa’s national payment system. In the past,
+payment systems were often viewed as the ‘boring plumbing’ underpinning a central
+bank’s work. But with the rapid advancements in financial technology (fintech),
+payment systems globally are instead becoming central to innovation, enabling more
+digital transaction offerings, reducing the reliance on cash, and providing new ways to
+drive financial inclusion and economic development.
+The recently published Digital Payments Roadmap outlines the key interventions that
+the SARB, together with public and private stakeholders, will implement to advance
+efforts to improve digital payments adoption by consumers.
+The SARB’s payments ecosystem modernisation programme will further support
+efforts to make domestic payments cheaper, faster, more reliable and more accessible
+to underserved communities. The programme includes the establishment of a new
+centralised public payments utility, and the renewal of the domestic settlement system
+Page 8 of 11
+– being the South African Multiple Option Settlement (SAMOS) system. The SARB will
+also implement foundational enablers such as a digital financial identity for
+consumers.
+Alongside modernisation efforts, the SARB remains committed to ensuring that our
+existing payment and settlement services continue to serve the industry effectively and
+efficiently. To this end, in June, we successfully migrated the Southern African
+Development Community real-time gross settlement (SADC-RTGS) system to the
+ISO 20022 global financial messaging standard. ISO 20022 is an open standard for
+payments messaging that creates a common language and model for payments data
+across countries. The adoption of this new standard by the SADC-RTGS system and
+its participants comes well ahead of the global November 2025 deadline and will
+support payments innovation in the SADC region.
+In its day-to-day operations, the SARB procures a range of goods and services. Its
+procurement strategy is focused on fair, equitable, transparent, competitive and cost-
+effective purchasing. Although the SARB is exempt from the Preferential Procurement
+Policy Framework Act 5 of 2000, it nevertheless applies preferential procurement
+principles in its sourcing and procurement activities. This year has been the first of a
+three-year broad-based black economic empowerment (B-BBEE) strategy,
+demonstrating our commitment to maintaining and improving spend with qualifying
+suppliers. The bulk of the SARB’s R4.7 billion in spending – or a little over 91% – went
+to local suppliers. Using the Generic Codes of Good Practice scorecard, the SARB
+achieved 21.6 out of a possible 27 points in terms of recognised B-BBEE spend.
+Information and technology infrastructure is critical to the functioning of the SARB. The
+rapid changes in how we use and process information affect every facet of our work.
+The proactive management of the SARB’s networks and systems has ensured that
+mission-critical business applications have remained up and running 99.9% of the time
+over the past year. Our systems’ resilience has been enhanced by, among other
+initiatives, the redesign of our data centres and network modernisation. We are also
+working to build a workforce of the future, strengthening our cyber team to build local
+and regional resilience to cyber incidents.
+Page 9 of 11
+Our commitment to serving the economic well-being of all South Africans is also
+evidenced in our corporate social investment programme, which focuses primarily on
+education. At the heart of this work is our external bursary programme, which aims to
+develop human capital in the fields of monetary policy, financial stability, data science
+and economic journalism. In 2023, the SARB sponsored 110 students: 63 continuing
+bursars, 35 first-year bursars and 12 students studying towards their Master’s degree
+in data science. Eighty six percent are from previously disadvantaged backgrounds
+and 63% are female.
+Staff matters
+The importance of the SARB’s role in our economy demands the utmost from its staff
+members. Without their commitment and expertise, this central bank would not be able
+to achieve its strategic objectives or deliver on its mandate.
+To ensure that staff continue developing their professional skills, the SARB’s spend on
+training increased to almost 6% of total payroll in the 2023/24 financial year. More than
+half of the employees that received training (56%) were women.
+Diverse organisations which reflect the societies they operate in are typically more
+successful. Having rolled out the third phase of its Diversity and Inclusion (D&I)
+Programme, the SARB has incorporated a D&I accountability framework into its
+performance scorecard, ensuring it is embedding D&I into all that we do.
+At the same time, our staff experience is being steadily improved through the
+digitalisation of our people management systems.
+Conclusion
+The year ahead will throw new challenges the SARB’s way. Our international activities
+will receive particular focus as South Africa takes up the G20 Presidency. Together
+with National Treasury, the SARB is gearing up to co-chair the Finance Track from
+Page 10 of 11
+December 2024. It will focus on, among other issues, global macroeconomic matters,
+climate change, cross-border payments and capital flows, and the financial inclusion
+agenda.
+Over the past year, the SARB has worked to ensure a coherent G20 agenda which is
+relevant for the country, the G20 members and the African continent. South Africa is
+the fourth country in the Global South to lead the G20 Presidency before it moves back
+to an advanced economy.
+On the regional front, we have prioritised a stragey focused on the integration of SADC
+member countries, in our role as Chair and Secretariat of the SADC Committee of
+Central Bank Governors.
+The year 2025 will also mark the culmination of the SARB’s five-year strategy cycle.
+The formulation of our new Strategy 2030 is currently underway. Whatever the
+outcome of this process, I can assure you that the SARB will remain in service to the
+country.
+We will continue to ensure the cost-effective availability and integrity of our currency.
+We will continue to ensure that the financial sector safeguards depositors and policy
+holders. We will continue to enhance South Africa’s resilience to external shocks.
+But above all, we will hold fast to our price and financial stability mandates.
+Thank you.
+Page 11 of 11

@@ -1,0 +1,152 @@
+Titulo: Address by Lesetja Kganyago, Governor of the SARB, at the 105th annual Ordinary General Meeting
+Data: 2025-08-08
+Palestrante (estimado): Lesetja Kganyago
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2025/kganyago-address-agm-105
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2025/kganyago-agm-105.pdf)
+----------------------------------------------------------------------
+
+Address by Lesetja Kganyago,
+Governor of the South African Reserve Bank (SARB),
+at the 105th annual Ordinary General Meeting of the SARB shareholders
+South African Reserve Bank, Pretoria
+Friday, 8 August 2025
+Good morning, ladies and gentlemen.
+The global economy is experiencing a turbulent year. So far, it has proven resilient,
+despite the shocks from wars and tariffs. We should not overstate this. Late last year,
+the International Monetary Fund (IMF) still expected growth of 3.2% for 2025, which is
+now down to 3%. But in April, it was expecting 2.8%, so we have actually had some
+upward growth revisions. For all that has happened in the first half of the year, it is
+surprising that growth has held up this well, and that forecasts are moving up rather
+than down.
+That said, there are not many reasons to feel safe. In the United States (US),
+businesses have front-loaded imports, and many have been in wait-and-see mode as
+a way of dealing with tariff uncertainty. It is now increasingly clear that tariffs will settle
+at high rates. The Yale Budget Lab calculates the effective tariff as of August at 18.3%,
+the highest since 1934. This implies significant price pressures that will have to be
+absorbed somewhere in the system. In this context, it is unsurprising that the US
+Federal Reserve has been keeping policy rates on hold, with the stance still somewhat
+on the restrictive side.
+In other regions, it has been clearer that trade disruptions are not causing significant
+inflationary pressure. The main concern has been that supply chain disruptions would
+push up prices, seeing as most other countries have taken an enlightened approach
+1
+and refrained from raising their own tariffs to match US measures. As the year has
+developed, what we have seen is mostly modest disinflationary effects, stemming from
+weaker demand and excess capacity. A weaker dollar has also been supportive of
+other countries, especially emerging markets. This has given many central banks the
+scope to ease policy rates and adopt more neutral policy stances.
+In South Africa, our preliminary assessment is that tariffs and the other uncertainties
+in the global economy are causing modest damage to growth while leaving inflation
+broadly unchanged. The US is a large trading partner for South Africa, but it is not as
+important as Europe, China or the Southern African Development Community (SADC).
+Our exports to the US mostly consist of commodities − some of which are exempted
+− and manufactured products such as cars. Some parts of the agricultural sector are
+exposed, but total agricultural exports are only about 3% of our total exports to the US.
+For our latest forecast round, we factored in a higher tariff rate. This moved our growth
+projection lower for the year down by about 0.1 percentage points. This is a setback,
+but not catastrophic.
+Unfortunately, our growth rate for the year is still looking low, close to 1%. This
+continues a stagnation trend that has been in place for roughly a decade. The
+economy grew at about 4% a year during the 2000s, then slowed down steadily during
+the first half of the 2010s, and has hovered at growth rates of about 1% ever since. As
+we have said repeatedly in our monetary policy statements, the drivers of weak growth
+are mainly structural and require structural reforms. Put in plainer language, without
+economic jargon, we need the trains to run and the cities to function. Given the reform
+momentum underway – perhaps best illustrated by improved electricity availability –
+we see some scope for better growth in the coming years. We also believe National
+Treasury’s efforts to stabilise debt can bolster confidence. In addition, the economy is
+enjoying some support from lower interest rates, with the yield curve shifting lower
+over the past year or so, and our policy rate down by 125 basis points since September
+2024.
+Like almost all other economies, we suffered high inflation during the global inflation
+surge of 2022 and 2023. However, inflation decelerated sharply in 2024. We have had
+2
+space to ease rates because inflation has been well contained, with prices up 3% over
+the past 12 months. There have been notable risks to prices this year, such as the
+spike in oil prices after the bombing of Iran in June, and the sharp depreciation of the
+rand back in April. But these risks have been resolved quite rapidly, and inflation has
+remained moderate.
+Looking ahead, inflation is expected to rise over the next few months. Food inflation
+has picked up, mainly because of meat prices. Fuel prices are also falling more slowly
+now, compared to the recent past. However, we expect this uptick in headline inflation
+to be temporary, and we look forward to inflation coming back to around 3% over the
+medium term, which is at the bottom of our 3−6% target range.
+To the extent that inflation settles at 3%, and that inflation expectations continue their
+move lower, the Bank’s forecasting model shows lower interest rates if inflation
+remains contained at current levels. Given that this is the year of uncertainty, I do not
+want that projection to be mistaken for a promise. Events may not unfold exactly in
+line with our forecasts.
+Moving beyond monetary policy, we have started a new strategy cycle this year. One
+important change is that we have streamlined our strategic focus areas to just three:
+price stability, financial stability, and payments. These are the three integral functions
+of the SARB: our fundamental value to society is money that holds its value, and that
+can be used in a stable financial system to make payments efficiently. Elevating these
+three roles will help keep the organisation focused on its unique contribution to the
+well-being of South Africans.
+For financial stability, we conduct macroprudential policy led by our Financial Stability
+Department to protect the health of the overall system, and we undertake micro-
+prudential policy through our Prudential Authority to ensure the health of individual
+regulated institutions. We also have the Corporation for Deposit Insurance to make
+sure depositors’ money is safe, even in the event of a bank failure, up to a limit of
+R100 000, which covers most depositors in the country.
+3
+Our financial system has remained resilient over the years. We have, nonetheless,
+recently needed to take several enforcement actions regarding individual institutions.
+We are also paying special attention to new technologies, particularly artificial
+intelligence. These offer new efficiencies but also pose new threats, for instance,
+through sophisticated and more dangerous cyberattacks.
+For payments, it has been a year of exciting developments, given our Payments
+Ecosystem Modernisation project. In South Africa, we have long taken pride in our
+relatively sophisticated payments systems, but the truth is that we have fallen behind
+some of our peers. New digital technologies have emerged. In countries such as
+Brazil, digital retail payments have spread rapidly across society. Meanwhile, here in
+South Africa, cash – a technology that is literally centuries old – remains the single
+most popular form of payment.
+We are happy to provide notes and coin to the economy, and we want these offerings
+to be world class, too. But cheap, safe and fast digital payments would offer many
+benefits to South Africans, and we intend to see that the gains of technological
+advancement are shared and not reserved for the small fraction of consumers who
+carry the latest smartphones. To do this, the SARB has been proactively working with
+the private sector to scale up a fast payments system in the country that will be more
+accessible, efficient and affordable. We also expect these efforts will attract innovative
+firms to help South Africa regain its place at the forefront of the payments frontier,
+instead of lagging behind. In SADC, we continue our journey to modernise our
+payment ecosystem, and have been working with other central banks in the region to
+deliver more efficient and cost-effective cross-border payments.
+Apart from our three focus areas of price stability, financial stability and payments, the
+SARB also undertakes a range of other work that supports the apex objectives.
+For this year, our international engagements have been particularly important, given
+South Africa’s presidency of the Group of Twenty (G20). Clearly, this is not the easiest
+year to manage a forum like the G20, which is consensus-based, given the
+disagreements between member countries. Still, together with National Treasury, we
+have been able to host constructive meetings for the Finance Track. At Zimbali last
+4
+month, it was possible to agree on a communiqué for the first time since October 2024.
+The personal feedback I have received has also shown just how much our G20
+partners appreciate the warm welcome we have shown them as South Africans.
+We are also focused on maintaining a strong balance sheet. In this year’s accounts,
+you will see the results of significant reforms undertaken last year. A notable figure is
+our unusually large profits, of R118 billion after tax, and I can tell you we have received
+queries prior to this meeting from shareholders wanting to understand this number.
+Most of it reflects the R100 billion received from National Treasury as part of the new
+Gold and Foreign Exchange Contingency Reserve Account (GFECRA) settlement
+agreement. This strengthened our capital position so that we could also pay out a
+portion of the GFECRA funds to government, which is the legal owner of these
+balances, and we could do so without selling off foreign exchange reserves.
+On that subject, I can also report that foreign exchange reserves are now around
+US$68 billion, up by about US$20 billion over the past 10 years. We are a long way
+from having the strongest reserve position among emerging markets, but we are no
+longer the laggard we once were.
+The South African economy no doubt has its vulnerabilities, but it also has strengths,
+and I am proud to say the SARB is one of them.
+This SARB would not be the institution that it is without its people. The past five years
+have been one of intense change for the organisation, which for decades was largely
+office-based. We started our previous strategy journey with the onset of COVID-19
+and a hard lockdown. We quickly had to adapt our operations, first to remote work and
+later to a hybrid way of work due to renovations of our Head Office, which is nearing
+completion. It is perhaps fitting then that as we begin the next five-year strategy cycle,
+we do so from our refurbished Head Office.
+On Monday, 4 August, the first group of SARB staff began their full-time return to the
+office. We believe this will reinvigorate a culture of collaboration, helping us to continue
+serving the people of South Africa with excellence.
+5

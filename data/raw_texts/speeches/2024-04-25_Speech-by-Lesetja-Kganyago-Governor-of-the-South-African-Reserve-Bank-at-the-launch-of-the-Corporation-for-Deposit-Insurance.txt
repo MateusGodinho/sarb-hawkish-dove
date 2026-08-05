@@ -1,0 +1,105 @@
+Titulo: Speech by Lesetja Kganyago Governor of the South African Reserve Bank at the launch of the Corporation for Deposit Insurance
+Data: 2024-04-25
+Palestrante (estimado): Lesetja Kganyago Governor
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2024/Speech-by-Lesetja-Kganyago-Governor-of-the-South-African-Reserve-Bank-at-the-launch-of-the-Corporation-for-Deposit-Insurance
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2024/Speech%20by%20Lesetja%20Kganyago%20Governor%20of%20the%20South%20African%20Reserve%20Bank%20at%20the%20launch%20of%20the%20Corporation%20for%20Deposit%20Insurance%20(CODI).pdf)
+----------------------------------------------------------------------
+
+An address by Lesetja Kganyago,
+Governor of the South African Reserve Bank,
+at the launch of the Corporation for Deposit Insurance (CODI),
+Sandton, Johannesburg, 25 April 2024
+Introducing deposit insurance in South Africa
+Thank you for joining us today, to mark the launch of South Africa’s deposit insurance
+scheme.
+The big picture is that South Africa is joining a very common practice, globally, of offering
+deposit insurance. It is a universal business model of banks to fund their assets with
+borrowed money, and so depositors are actually investors in banks. Usually, we say investors
+must accept the risks of making investments. But deposits are special, and most
+governments protect them.
+One reason they are special is that hardly any depositors think of themselves as investors in
+banks. I’m sure more than a few people think their money goes into a vault, and is locked up
+there until they want it back. But this is not how banking works. And this is one of those rare
+cases where a naïve view is so widely held that policymakers have ended up shaping the
+world so that the naïve view is effectively true, and depositors are protected as if their
+money really were locked up in vaults.
+Another reason deposits are special is that they usually have zero maturity, meaning they
+can be called at any time, and they always retain their face value, meaning if you put R1,000
+in you expect to get R1,000 out.
+This is different from other investment products, like bonds or equities, which have longer
+maturities and prices that can go up or down.
+For example, if you own bonds, you lock your money in, and you expect the value of your
+bond to fluctuate, such that a R1,000 investment can easily be worth R900 on one day or
+R1,100 on another day. But this is not true of bank deposits. You get a predictable rate of
+1
+interest, but you don’t have the value of your checking account fluctuate depending on
+whether the bank in question is doing well or not.
+If you have any reason to think a bank won’t let you have access to your full deposit when
+you want it, it makes sense to withdraw it. And because banks usually don’t keep all their
+assets as liquid as their liabilities – especially the deposit liabilities – bank runs can bring
+down even healthy institutions.
+For central banks, it makes sense to protect depositors to remove the incentive to run. This
+is because bank runs offer what economists call a dual equilibrium problem. If a run starts, it
+becomes rational for all investors to try and get their cash out, and the affected bank will fail.
+Runs can also spread to other banks, severely disrupting the stability of the entire financial
+system.1 A bank run is one of the great nightmares of the central banker. However, by
+guaranteeing deposits, you can remove the incentive to run.
+If the guarantee is credible, depositors don’t have to worry about getting their money, and
+so the incentive to run is removed. Such guarantees can therefore create an alternative
+equilibrium which is much more benign, where bank runs don’t even get started.
+Unsurprisingly, most jurisdictions have introduced deposit insurance to try and ensure they
+get the benign equilibrium, not the nightmare one.
+Of course, the fact that we are only introducing deposit insurance in South Africa now, in the
+21st century, does not mean we have spent the past century ignoring the risks. The facts are
+that depositors have been well protected in South Africa. We have not had a ‘wild west’
+financial system – literally like the American wild west, up until the introduction of deposit
+insurance during the Great Depression2 – where banks failed routinely, amid repeated
+financial crises, and depositors lost their money. We have had a much more orderly system
+and even where banks have been in trouble, ordinary depositors have been protected. For
+example, when VBS went into curatorship, its regular depositors were provided with
+accounts at another bank which carried over their cash balances, for amounts up to
+R100,000.3
+1 For a fuller discussion, see https://www.econstor.eu/bitstream/10419/154144/1/ecbwp1711.pdf
+2 The US introduced deposit insurance in 1933. For details of this, and preceding waves of bank failures, see:
+https://www.fdic.gov/about/history/deposit-insurance/1930-
+1939.html#:~:text=The%20Banking%20Act%20of%201933%20is%20signed%20into%20law%20by,basic%20cov
+erage%20level%20of%20%242%2C500.
+3 For details, see https://www.resbank.co.za/content/dam/sarb/publications/media-releases/2021/vbs-
+guaranteed-retail-deposits-at-
+2
+What we are really gaining with a formal deposit insurance scheme is a more explicit and
+consistent set of arrangements. As with any insurance, insuring deposits entails costs. By
+building a scheme in advance of any particular crisis, we formalize how the costs will be
+apportioned. We also develop a clearer set of rules for how depositors will be treated, in a
+hypothetical future bank failure I therefore see CODI as a tying up loose ends, where we take
+a promise of insurance that was previously implicit, and formalize it, so you get the same
+benefits of protecting depositors which you always had, but you take away the impromptu
+element, and the inefficiencies it entails.
+Hopefully, one further benefit we might get is better competition for deposits. The interest
+rates on checking accounts are famously low. Right now, the policy rate is 8.25%. This is a
+rate determined by the SARB, and it is the rate we pay on most deposits banks keep with us.
+Benchmark rates are close to this rate. For example, our ZARONIA benchmark, which reflects
+overnight deposits by companies at banks, is currently at 8.12%. At the same time, according
+to the data compiled by our statistics team, checking accounts are paying an average of
+4.64%. That’s a gap of 3.61 percentage points, which is a big deal.
+Of course, these accounts are usually bundled with other services, like overdraft facilities
+and payment cards. And they pay more than physical cash – notes and coin – where the
+interest rate is zero. But still there is a comfortable spread between what banks pay on
+deposits and what they can earn, even just from leaving the cash at the SARB overnight. The
+relevance of this for deposit insurance is that if someone is eying a better rate at another
+bank, but they aren’t switching because they are worried about the safety of that bank, they
+no longer need to worry.
+Yes, a small new bank is probably not quite as safe as a big established bank. But with CODI,
+your R100,000 deposit is equally safe in any member bank. It would be good for South
+Africans if this caused a bit more competition for deposits, and we would be happy to see
+deposit rates move a bit closer to the policy rate.
+Ladies and gentlemen, to conclude, the Reserve Bank has a mandate for financial stability,
+and with the introduction of deposit insurance today we take a step forward to make the
+financial system even safer. It is not a giant leap, because it was never that dangerous to be a
+nedbank/VBS%20completes%20transfer%20of%20guaranteed%20retail%20deposits%20to%20Nedbank%201
+%20April%202021.pdf
+3
+South African depositor. But a formal system of deposit insurance is the global best practice,
+and in South Africa we aim to have a world-class financial system, nothing less.
+Thank you.
+4

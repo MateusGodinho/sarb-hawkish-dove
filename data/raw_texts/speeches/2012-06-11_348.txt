@@ -1,0 +1,140 @@
+Titulo: Remarks by Daniel Mminele, Deputy Governor of the South African Reserve Bank, at the launch of the Foundational Payment Systems Course, Johannesburg, 11 June 2012
+Data: 2012-06-11
+Palestrante (estimado): Daniel Mminele
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2012/348
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2012/348/Foundation-Payment-Sytems-Course_Address-by-Daniel-Mminele_11-June-2012.pdf)
+----------------------------------------------------------------------
+
+Remarks by Mr Daniel Mminele, Deputy Governor, South African Reserve Bank, at the
+launch of the Foundational Payment Systems Course, Johannesburg, 11 June 2012
+1. Introduction
+Good morning ladies and gentlemen, and thank you for making the time to attend the launch
+of the Foundational Payment Systems Course, which I am delighted to be celebrating with
+you today.
+As some of you will be aware, this course is the culmination of a two-year collaborative
+process, developed jointly by the Payments Association of South Africa (PASA),
+BANKSETA, Gijima and other participants in the South African payments industry. It is the
+first of its kind in South Africa and I believe it will be successful in opening doors for new and
+existing practitioners in the payments industry. The development of this course bears
+testimony to what can be achieved by working together as an industry.
+I would like to share some thoughts with you on the Payment System and what this course
+means to the South African Reserve Bank and our payments community.
+2. The National Payment System
+The national payment system (NPS) is one of the pillars of financial stability, and plays an
+important and enabling role within the South African economy, by linking participants in the
+domestic financial system with each other, and also by linking the domestic system to the
+global financial system. A properly designed and well functioning payment system is the
+lifeblood of any modern economy. Apart from general losses from the economy not
+operating smoothly, the failure of the payment system can have devastating effects, resulting
+in systemic risk and contagion effects. The failure of a system, or a key participant, can
+cause other participants to fail and thus transmit shocks within the financial infrastructure,
+and also threaten the stability of the currency and financial markets in general. For central
+2
+banks, in addition to being the custodians with overall responsibility for the oversight of the
+payment system, the payment system is also a necessary vehicle for the implementation of
+monetary policy, and therefore, it is essential that this element of the transmission channel
+functions effectively and efficiently, while being safe and robust given its systemic relevance.
+Most people are unaware of the systems and processes that are in place to enable payment
+instructions to be cleared and settled daily with minimal interference. As with other
+technologies, we have become accustomed to having payment services on demand. When
+we enter a shop or go to an ATM, we expect the service to be there every time and without
+any interruptions. Rarely do people consider the infrastructure required to accommodate the
+flow of payment instructions, they only expect that things must happen speedily, efficiently
+and safely. The only time we become aware of a problem is when the ATM is off-line, when
+we cannot pay with our card at a retailer or when our bank’s internet site is not available for
+us to effect electronic payments.
+It is fitting at this point to reflect on the structural capital that we have built over the years.
+Structural capital refers to the visions, systems, processes, rules, standards, legal and
+general payments knowledge utilised continuously to expand and enhance the NPS. These
+are certainly valuable assets that we have accumulated over time.
+From the mid-1990s, the NPS was guided by the National Payment System Framework and
+Strategy document, the so-called “Blue Book” or “Vision 2005”. The Blue Book was the
+culmination of the work and dreams of payment system visionaries. The 1995 Framework
+and Strategy document was updated by the Vision 2010 and, the third of the framework and
+strategy documents, Vision 2015, was published in December 2011.
+Other assets include the directives, policies and position papers issued by the National
+Payment System Department of the Reserve Bank. The clearing rules, service level
+agreements, business continuity and disaster recovery plans and Payment Clearing House
+agreements all form part of our structural capital and ensure that we can manage and
+interact with one another in the payment system with increased safety and security.
+Reflecting on developments and improvements to our structural capital, we can start at the
+core settlement domain. Here we have seen the continuous development of the Real-Time
+Gross Settlement System, namely, the South African Multiple Options Settlement system
+(SAMOS), of which the seventh version was recently implemented. At an international level,
+in December 2004, the South African rand was included as one of the currencies being
+3
+settled in the Continuous Linked Settlement (CLS) system, which helped to significantly
+reduce the foreign-exchange settlement risk. We have also witnessed the successful
+dematerialisation of the financial markets environment, with bonds, equities and money-
+market instruments having progressively shifted into the digital economy. We should be
+proud of what we have achieved over the past two decades. The tangible assets and the
+know-how have been fundamental to the success of the payments industry.
+The list of achievements as an industry is long and will no doubt continue to grow. When it
+comes to system availability, soundness, risk reduction practices and governance
+arrangements, the South African NPS compares very favorably with the best in the world.
+Over the years South Africa has also become a respected participant and an important voice
+in key international payment system fora, while major strides have been made in contributing
+to the development of our regional payment systems infrastructure.
+3. The importance of human capital
+One of the critical success factors to the NPS is that of adequate staff capacity. Human
+capital is the skills, knowledge and ability to innovate, develop and implement the systems
+and infrastructure required. Therefore, without the development of people in the NPS, no
+structural capital can be accumulated. The development of skilled people in the NPS is
+important and an essential forerunner to the development of structural capital. People with
+the right payment skills, abilities, experience and commitment are hard to come by in the
+NPS, due to a number of factors, which I will now elaborate on.
+To begin with, the payments environment is a complex one. It takes time to become familiar
+with the concepts, and the unique language that exists within the payments environment.
+Attracting talent to the NPS and then equipping the individuals with a firm grounding can
+sometimes involve a long and steep learning curve. This in itself can be problematic as in
+today’s “instant” society there is a demand for quicker personal returns, resulting in
+personnel being attracted to other environments.
+The second and more profound reason is that formal courses on payments have been very
+limited. This is not only confined to South Africa, but is a global problem. Simply stated, there
+are no formal tertiary qualifications that focus on the development of payments experts. This
+has been a serious challenge.
+4
+The third reason, closely linked to the second, is that without a properly structured approach
+to learning about payments, the growth path for many payments people is unclear. Human
+resources development is left to the individual to pursue a path that they engineer for
+themselves. After more advanced business training most people prefer to move off to other
+areas of interest within banking or move off to other industries.
+Finally, there is the tendency that the profile of payments within the industry is sometimes
+relegated to, or merely seen as an operational issue, where it is deemed to be more of an
+administrative office function. Payments are in some cases seen as secondary to the core
+business. It is only on careful analysis that executives realise that this is simply not true, and
+that payments are mission-critical and most strategic.
+I’m sure that you will agree with me when I say that most of the people in the payments
+industry have brought an eclectic mix of skills to the environment. Through the energy,
+synergy and “on-the-job” training provided by the more seasoned campaigners, the younger
+payments generation has developed their skills and expertise. This process, although very
+practical, is neither structured, optimal nor sustainable. Formalised training and the
+development of skills are therefore very important.
+For some time now, business leaders in the NPS have expressed concern about capacity
+building in this industry. It is for this reason that we included human resource capacity
+building as an important theme in the Vision 2015 document. The critical success factors of
+this theme include active industry participation, co-operation and investment; efficient and
+coordinated training and learning programmes; and effective communication regarding
+capacity building. This course is a great start towards realising this objective. Building human
+capital is a serious matter and is an important agenda item for the Reserve Bank.
+We have a big task ahead of us. Having a formal payments programme and being equipped
+with the right skills set should start the journey to addressing some of our challenges.
+Now let me move on to what this celebration is about – the creation of a foundational course
+in payments.
+I am therefore delighted to be a part of this launch of the foundational course in payments. It
+will form a means to initiate and equip new people into the NPS and may also provide those
+who have been in and adjacent to the payments environment with a broader view of the NPS
+and inspire people to make a career for themselves in the payments environment. The long-
+5
+term impact of bringing this complex topic into a structured programme could address the
+capacity constraints facing the payments environment. The intent is not to stop here – the
+journey has just begun.
+4. Conclusion
+In conclusion, allow me to convey my congratulations and appreciation to those of you, who
+have been part of this collaborative effort to create yet another important asset for the
+payments industry. I hope that the foundational payments course, and other future
+developments around the course, will inspire and educate a new generation of payment
+system practitioners who will ensure that our payments environment remains world-class
+and take it to even greater heights.
+Well done and I wish you every success with the course.
+Thank you

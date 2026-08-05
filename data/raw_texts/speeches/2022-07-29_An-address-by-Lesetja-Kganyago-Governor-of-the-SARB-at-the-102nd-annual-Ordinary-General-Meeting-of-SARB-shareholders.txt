@@ -1,0 +1,358 @@
+Titulo: An address by Lesetja Kganyago Governor of the South African Reserve Bank (SARB), at the 102nd annual Ordinary General Meeting of the SARB shareholders
+Data: 2022-07-29
+Palestrante (estimado): Lesetja Kganyago Governor
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2022/An-address-by-Lesetja-Kganyago-Governor-of-the-SARB-at-the-102nd-annual-Ordinary-General-Meeting-of-SARB-shareholders
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2022/An%20address%20by%20Lesetja%20Kganyago%20Governor%20of%20the%20South%20African%20Reserve%20Bank%20(SARB),%20at%20the%20102nd%20annual%20Ordinary%20General%20Meeting%20of%20the%20SARB%20shareholders.pdf)
+----------------------------------------------------------------------
+
+An address by Lesetja Kganyago,
+Governor of the South African Reserve Bank (SARB),
+at the 102nd annual Ordinary General Meeting of the SARB shareholders
+South African Reserve Bank, Pretoria
+29 July 2022
+Introduction
+Good morning, ladies and gentlemen.
+We convene our annual Ordinary General Meeting (AGM) virtually for the third time in
+a row – and hopefully for the last time in this format.
+We have managed our way through the severe and tragic global calamity of Covid19.
+Mobility and activity restrictions, public health, fiscal and monetary efforts, in South
+Africa and abroad, have been unprecedented. In the early days of the pandemic, the
+South African Reserve Bank (SARB) cut the repurchase (repo) rate to an all-time low
+of 3.5%, pulling the prime rate down to a 54-year low of 7.0%.
+The successful vaccine roll-out, the repeal of COVID-19 protocols and the opening of
+borders have propelled the economic recovery forward, recreating jobs, and raising
+output back to above pre-pandemic levels.
+Given the size of the pandemic shocks to our economies, with hindsight, it should not
+surprise us that the aftermath has been tumultuous. Recovery has not progressed in
+a neat, linear way, but rather has been slowed by unforeseen constraints. The
+reconnection of global supply chains has been halting and subject to shifting policies
+and priorities, contributing to high prices for many goods and commodities.
+Page - 1 - of 13
+Political surprises have also emerged in the form of heightened geopolitical risks that,
+together with the ever-present threat of new COVID-19 variants, casts a pall over the
+rosy recovery of much of the past year.
+During the year under review, even as our domestic recovery progressed, a range of
+setbacks occurred, contributing to economic and financial market volatility, weaker
+than expected growth outcomes and higher inflation.
+As we cross the mid-point of 2022, the International Monetary Fund warns of further
+downside expectations for economic growth. Fiscal authorities, having extended
+policy aggressively during the crisis to support their economies, face strictly limited
+policy space caused by high debt levels and rising debt service costs. And central
+banks around the world focus more intently on the need to return inflation to much
+lower rates.
+Our response to the inflation threat has been measured, taking into account the
+moderate inflation of the past year and the acceleration of inflation that we see now.
+The repo rate was raised gradually from November 2021. In the May and July
+meetings, larger repo rate steps were taken to ensure that we prevent inflation
+expectations from becoming unanchored, and generating much higher future inflation.
+South Africans must be protected from the threat to living standards and jobs that
+inflation causes. This is, after all, our constitutional mandate.
+Let me now reflect on recent economic developments.
+Global conditions: from recovery to stagflation
+The global economy largely weathered the COVID-19 pandemic, making a good
+recovery in 2021 and into 2022. The initial recovery phase was underpinned by
+supportive fiscal and monetary policies as well as widespread vaccination. Advanced
+economies experienced the strongest growth over the past year, while the recovery in
+emerging markets has been more mixed.
+Page - 2 - of 13
+At a global level, fully extended fiscal and monetary policies pushed recovery forward,
+with expansionary policies extended through 2021 and into this year. In tandem with
+a build-up of savings, aggregate demand expanded aggressively, eventually adding
+fuel to the fire of supply shortages, and giving fresh impetus to the inflation shock that
+currently besets the world economy.
+The fiscal expansions and accommodative monetary policies that underpinned the
+2021 recovery boosted demand for goods at a time when supply chains remained
+constrained due to COVID-19-related lockdowns. The pandemic-induced mobility
+restrictions meant that demand shifted from services to goods, exacerbating the
+demand-supply imbalance in the goods markets. Together with the strong recovery in
+oil and food prices, as well as tightening labour markets, this created a perfect storm
+for global inflation, which rose sharply during the second half of 2021 and into 2022.
+Inflationary pressures were spurred further by the renewed lockdowns in China as well
+as the Russia-Ukraine war, which not only heightened uncertainty, but also
+exacerbated supply bottlenecks and disrupted food and energy markets. Oil prices
+rose sharply in response to the invasion, touching above US$130 per barrel in early
+March before subsiding somewhat. As a result, inflation has risen to levels last seen
+in the 1980s in some of the advanced economies.
+The combination of these adverse shocks is expected to markedly slow global growth.
+Prospects are worsened by the expected high global interest rates as central banks
+respond to keep inflation expectations anchored. Although the International Monetary
+Fund’s (IMF) July 2022 World Economic Outlook (WEO) expects the global economy
+to have registered robust growth of 6.1% in 2021, the IMF has adjusted its forecasts
+for global growth lower: to 3.2% in 2022 and 2.9% in 2023. This is 0.4 and 0.7
+percentage points lower for 2022 and 2023 respectively than was projected in the
+April 2022 WEO.
+With inflation more persistent, the United States (US) Federal Reserve (Fed) has
+moved to tighten monetary policy. After raising rates by 25 basis points in March, the
+Fed ramped up the pace, increasing the Fed funds rate by 50 basis points in May and
+by 75 basis points in both June and July. It also began quantitative tightening in June.
+Page - 3 - of 13
+Fed communication points to further large rate hikes this year. The market now
+expects the Fed funds rate to peak around 3.4% early in 2023. The pace of monetary
+policy normalisation is much faster than was expected last year.
+Inflation dynamics have been somewhat different in the European Union (EU). Inflation
+in the EU has been largely supply-driven. The war in Ukraine and the resulting
+economic sanctions on Russia have led to an energy crisis in Europe, where gas
+prices have soared more than 400%. The European Central Bank (ECB) raised its
+policy rate by 50 basis points for the first time in over a decade at its July meeting as
+it works to contain inflation of 8.6% – well above its 2% target rate.
+Emerging economies, including sub-Saharan Africa (SSA) economies, will be
+impacted by these global developments on multiple fronts. First, higher food and oil
+prices pose risks to inflation and social stability. Second, slower global growth softens
+demand and the prices of export commodities from the region, and emerging markets
+(EM) in general, with adverse impacts on growth. Third, faster policy normalisation in
+the advanced economies influences capital flows and puts pressure on EM exchange
+rates, and thus inflation.
+Domestic conditions
+On the domestic front through 2021 and into 2022, South Africa’s economic recovery
+was underpinned by buoyant consumption spending, robust terms of trade gains
+from high global commodity prices and a return to positive private investment growth.
+The domestic economy grew by 4.9% in 2021 – its fastest pace of growth since 2007
+– after the sharp contraction of 6.4% in 2020.
+An even better growth outcome for the year might have been achieved however, had
+local shocks not obstructed growth in July of last year and through much of April,
+May and June of this year.
+Social and political unrest in July 2021 in Gauteng and KwaZulu Natal, as well as the
+subsequent catastrophic floods in KwaZulu-Natal this year, caused immeasurable
+damage and added to the plight of communities in the hardest-hit areas. These
+Page - 4 - of 13
+weather-related events also impacted on insurers and brought to the fore the
+challenges that the financial sector faces in relation to climate change. In recent
+months, loadshedding became more extensive and intensive, imposing high costs on
+economic activity levels.
+Fiscal and monetary policy throughout the year supported economic activity through
+positive real spending and rising credit demand. Spending by households also
+benefitted from a rebound in wages, a recovery in net wealth and increased social
+transfers.
+The sharp increase in private savings occasioned by the drop in consumption during
+the hard lockdown helped drive the current account into surplus, and together with
+revenue windfalls, provided relatively cheap financing to public spending. The
+country’s current account, which reached 3.7% of GDP in 2021, supported the rand,
+and contributed to less inflationary pressure than had been expected when the crisis
+first unfolded.
+Despite borrowing requirements remaining high, South Africa’s fiscal ratios improved
+markedly, underpinned by revenue overperformance. Commodity export prices and
+a strong terms of trade have played a critical role in the economy’s adjustment to the
+pandemic and recovery.
+As a result of these developments, domestic output has now recovered to pre-
+pandemic levels, surpassing the 2019 gross domestic product (GDP) level in the first
+quarter of 2022, on the back of strong growth during the quarter. Our economy grew
+by 1.9% of the quarter-on-quarter seasonally adjusted rate (sar) in the first quarter of
+2022. This followed an upwardly revised 1.4% growth (previously 1.2%) in the fourth
+quarter.
+The first-quarter growth was broad-based, underpinned by manufacturing, trade and
+the finance sector. The broad-based growth reflects the easing of lockdown
+restrictions during the period as well as improving domestic demand. Nonetheless,
+important sectors of the economy – construction, tourism, and hospitality – remain well
+below 2019 levels of output, with major consequences for employment levels. These
+Page - 5 - of 13
+sectors will recover, but it will take time, and some of their recovery depends on further
+weakening of the economic costs of the pandemic.
+Continuing with our sectoral view of the economy, we have also seen ongoing volatility
+in output in mining, construction, and manufacturing, reflecting loadshedding, logistical
+bottlenecks and blockages, and other shocks. From a production point of view, South
+Africa has struggled to capitalise on sharply higher export commodity prices.
+Unfortunately, the growth momentum from the first quarter is not expected to carry
+through to the second quarter. The flooding in KwaZulu-Natal in April heavily impeded
+economic activity and loadshedding has intensified.
+Additional headwinds to growth include a sharp correction in commodity prices, rising
+inflation and increased strike activity. South Africa’s commodity export price basket
+has moderated in recent weeks as metals prices have declined. Despite the implied
+weakening of the terms of trade, we still expect the current account surplus to extend
+into 2023 as import demand continues to recover slowly.
+A critical determinant of South Africa’s economic fortunes in recent years has been an
+ongoing weakening in investment spending, across the private and public sectors.
+Gross fixed capital formation in the past year reached 14% of GDP. For this reason,
+it is encouraging that private investment has strengthened by more than expected in
+the rebound from the pandemic. Increasing the potential growth rate of the economy,
+however, requires a sustained further improvement in all forms of investment. Recent
+moves to open the energy sector to investment by private firms are to be encouraged,
+accelerated, and hopefully replicated in other network industries.
+GDP is projected to contract by 1.1% in the second quarter but to expand again by
+0.7% in the third quarter. Though growth for 2022 has been revised higher to 2.0%,
+up from 1.7%, the Bank’s expectations for economic growth in 2023 and 2024 have
+been revised down to 1.3% and 1.5% respectively as these adverse supply side
+effects take their toll.
+Page - 6 - of 13
+Total employment has continued to recover, although at a slower pace than GDP. The
+official unemployment rate fell by nearly a full percentage point to 34.5% in the first
+quarter of 2022 as total employment increased (by 370 000) while unemployment
+declined (by 60 000). As noted earlier, some labour-intensive sectors have been slow
+to recover from the pandemic as they depend critically on high levels of human
+mobility, such as international travel, among other factors.
+Household spending has been a key driver of the recovery, growing by about 2.5% in
+real terms in 2021 on the back of rising disposable income. With rising inflation,
+however, consumption by households is likely to come under increasing pressure.
+Inflation breached the upper limit of the target range in May, accelerating to 6.5%.
+Early impetus came from food and fuel, but inflation pressures have since broadened.
+Goods inflation has risen sharply over the past few months, reflecting high global
+inflation, rising production and distribution costs, and a weaker rand exchange rate.
+Services price inflation still remains moderate, but has about doubled in recent months
+and poses a risk to the inflation outlook.
+After several years of subdued pass-through of intermediate costs to consumer prices,
+margin pressure appears to be reversing. Alongside stronger economic growth than
+expected, these developments raise the prospect that higher import prices feed
+through more directly to consumer prices. Wage settlements during the first half of this
+year have come in above inflation1, further squeezing margins of firms and raising the
+prospect of more entrenched wage inflation.
+The SARB’s Monetary Policy Committee (MPC) has moved to normalise rates, raising
+the repo rate by a cumulative 200 basis points since November 2021. The hiking cycle
+began gradually with a 25 basis point adjustment at the November MPC meeting, but
+has since accelerated to include a 50 basis point increase in May, and a 75 basis
+point increase in July, as inflationary pressures intensified. The path for the repo rate
+however remains supportive of credit demand in the near term, even as rates rise in
+1 The average level of settlement in Q1 was 6.3% for all sectors bar utilities in which no agreements
+had been reached by the end of Q1. Notable agreements concluded in Q2 included Eskom (7%),
+Implats (6.5%) and Sibanye Stillwater (5.1%).
+Page - 7 - of 13
+line with the current view of inflation risks. When adjusting for inflation, real interest
+rates relative to real productivity and income growth remain low.
+Monetary policy needs to be forward-looking to maximise its effectiveness. For that
+reason, policy needs to respond to future expectations of inflation held by economic
+agents and the inflation forecast served to the MPC by Bank staff. The MPC will
+continue to monitor inflation developments closely and will respond appropriately to
+ensure that inflation expectations remain anchored.
+Let me now focus on the SARB’s other mandate and operational matters.
+Securing financial stability
+Besides ensuring price stability, the SARB is also tasked with maintaining stability in
+the financial system. Despite the shock of the COVID-19 pandemic, South Africa’s
+financial sector remains resilient.
+During the year under review, a few financial stability risks and vulnerabilities
+emerged. These included the low growth environment, rising inflation, the cost
+implications of the July 2021 unrest for the financial sector, climate-related risks, and
+the geopolitical tensions between Russia and Ukraine.
+Work towards crisis preparedness and resolution is continuing. The Financial Sector
+Laws Amendment Act 23 of 2021 (FSL Amendment Act) was enacted earlier this year.
+The FSL Amendment Act gives the SARB the powers to act as a resolution authority
+and establishes the Corporation for Deposit Insurance (CODI). The establishment of
+a deposit insurance scheme will contribute to improving confidence in banking
+institutions. This will also put South Africa on par with its international peers and further
+align its financial sector to the principles of international standard-setting bodies.
+Operational matters
+The national payment system forms a core part of the financial intermediation
+infrastructure that enables financial institutions, businesses and consumers to make
+Page - 8 - of 13
+payments and settle their obligations seamlessly. The review of the applicable
+legislation and the modernisation of payment system infrastructure has been in the
+pipeline and forms part of the payment system’s Vision 2025.
+The evolution of payment technologies over the last few years has made the
+modernisation of both retail and wholesale system infrastructures a key priority.
+A number of initiatives are currently underway, including a review of the National
+Payment System Act 78 of 1998 and the payment system modernisation initiative.
+This initiative encompasses the payment settlement system renewal programme and
+the retail payment system reforms that include the rapid payments programme.
+The launch of the real-time gross settlement (RTGS) system renewal programme aims
+to reform and modernise both domestic and regional payment settlement services.
+The programme will facilitate wider access to the payments system, improve efficiency
+by leveraging new technology, and address the security risks posed by cyber-threats.
+It will also enhance payment services provision and address the challenges of access,
+speed, cost and transparency of payments for both payment service providers and
+consumers.
+Financial technology (fintech) has advanced significantly, and we are seeing a wave
+of innovation in the provision of financial services that in many instances falls outside
+of the purview of regulatory agencies. Responding to these developments is a fine
+balancing act. While continuing to focus on their monetary policy and financial
+stability mandates, central banks also need to respond to market developments that
+can potentially introduce risk into the broader financial system.
+In a quest to embrace innovation in the fintech space, the SARB is working on several
+collaborative efforts under the auspices of the Intergovernmental Fintech Working
+Group (IFWG). Initiatives include participation in exploratory work on ‘open finance’,
+collaboration with innovators in the ‘regulatory sandbox’, and work on multiple central
+bank digital currencies (CBDCs) for international settlement through Project Dunbar.
+The SARB is also committed to bringing crypto-assets into the regulatory ambit given
+the growth and proliferation of these assets and the resulting risks they pose in the
+Page - 9 - of 13
+form of illicit financial flows, among others. In June 2021 the IFWG released a position
+paper on the need to regulate crypto assets in a phased and structure manner. As a
+member of the Financial Stability Board, we have been participating in discussions for
+the need to coordinate these efforts globally.
+In April 2022, the Project Khokha 2 (PK2) report was released- the culmination of
+work involving experimentation with distributed ledger technology (DLT).
+It explores the impact of tokenisation of financial assets through the issuance of a
+SARB debenture – or debt security - on DLT, and highlights a number of legal,
+regulatory and policy implications when applying this technology in financial markets.
+Climate change
+Climate change has emerged as a key threat to economic and financial stability and a
+lived reality for millions of people, domestically and globally. The floods that wreaked
+havoc in KwaZulu-Natal in January of this year and again in April represent a tiny
+fraction of the climate-related destruction visited on the global economy in the year
+under review.2 Greater rainfall in the eastern parts of South Africa and less in the west
+are clear developments that our economy will need to adjust to. Catastrophic weather
+events occur more frequently, and with greater damage.
+Important projects on climate change are taking place within the SARB. These projects
+are being implemented through various policy and support areas. The Economic
+Research Department is assessing the implications of climate related shocks for
+monetary policy execution and implementation. Climate change and the transition to
+a greener economy have the potential to generate larger, longer and often more
+frequent economic and financial shocks, with disruptive effects for economic activity
+and high inflation.
+2 During 2021 extreme weather events including a deep winter freeze, floods, severe thunderstorms, and
+heatwaves, contributed to annual insured losses from natural catastrophes of an estimated US$105 billion, the
+fourth highest since 1970, according to global reinsurer Swiss Re. The World Economic Forum’s 2022 Global
+Risks Report has identified extreme weather and climate action failure among the risks that have worsened
+the most since the start of the COVID-19 crisis.
+Page - 10 - of 13
+Financial institutions play an important role in climate change adaptation and
+mitigation through the provision of funding. The work of the Prudential Authority and
+the Financial Stability Department is focussed on improving the resilience of the
+financial sector to climate related risks and on incorporating climate related information
+in funding and insurance decisions. Climate change indicators, disclosure and
+taxonomy rules will become part of the prudential framework.
+During 2021, an inaugural sensitivity stress test was conducted of the insurance
+sector. The results of the stress test were encouraging – an indication that large
+insurers would have sufficient financial resources in the event of an adverse scenario.
+Staff matters
+The hybrid way of working that the SARB initiated during the pandemic will stand us
+in good stead as we kick-start the renovation of the Head Office building in Pretoria.
+The renovations are necessary to overhaul ageing infrastructure and perform a much-
+needed upgrade of our facilities. With the planned addition of a museum, the expanded
+precinct is intended to enhance public accessibility and become a place of knowledge-
+sharing and a window onto our country’s economic and financial history.
+The Bank has started with these renovations, and has appointed a contractor for the
+redevelopment and secured temporary office space. It is envisaged that the temporary
+office space will be ready for occupation by 1 October 2022.
+A project of this nature does not come without hurdles. With key project and
+stakeholder management processes in place however, we anticipate project
+completion of the Head Office precinct by the end of 2024.
+Our vaccination programme has yielded some positive results, with a total of 61% of
+SARB Group staff (including the currency producing subsidiaries and three cash
+centres) having received the primary dose of the available vaccines. A total of 11% of
+staff are considered to be fully vaccinated under the new definition, which includes the
+primary dose and a booster shot.
+Page - 11 - of 13
+In a quest to create a workplace that is more representative of the public we serve, we
+embarked on a Diversity and Inclusion (D&I) journey in September 2020. Fostering a
+more inclusive workplace allows people from all walks of life to thrive, for diverse views
+to flourish and builds a more resilient organisation, founded on a richer set of skills
+and expertise.
+Conclusion
+Our staff are the ‘engine room’ of this institution, and employee well-being is of utmost
+importance. Since the pandemic, we have put in place interventions to assist those
+impacted by the disruption caused by the pandemic and working from home.
+I would like to express my sincere gratitude to all the staff members in the SARB
+Group. They have soldiered-on under difficult conditions, and their agility and resolve
+in continuing to deliver high-quality outputs through virtual platforms and supporting
+each other while discovering new ways to collaborate is testament to living the SARB
+values of integrity, accountability, open communication and excellence daily.
+Despite the challenges we have faced in the past year, the achievements have been
+heartening. We are now in year three of our strategy, and although we have achieved
+our strategic objectives for the year, we cannot rest on our laurels. Central banks are
+faced with new challenges which require us to be proactive and responsive.
+We remain committed to serving the economic well-being of South Africans by
+delivering on our mandates of price stability and financial stability. We have made
+great strides in engaging our stakeholders through investor sessions, monetary policy
+and financial stability forums, economic roundtables and publications.
+Our monetary policy stance is shifting to better confront the challenges of higher
+inflation and to guide inflation back to the mid-point of the target band. Monetary policy
+alone is not capable of solving the deep-seated constraints to economic growth, but it
+can create an enabling environment and the stability needed for other policies to have
+a greater impact.
+Page - 12 - of 13
+We remain acutely aware that our role in rebuilding this economy is but part of a
+broader agenda that is supported by other government institutions as well as the
+private sector. We remain resolute in delivering on our mandates without fear or favour
+in the interest of the citizens of South Africa.
+As we continue on our purposeful journey, it is incumbent on each one of us to remain
+hopeful. We have pulled through the most severe pandemic since the early 1900s. We
+will ultimately recover and rebuild from the current storm in which we find ourselves.
+Thank you.
+Page - 13 - of 13

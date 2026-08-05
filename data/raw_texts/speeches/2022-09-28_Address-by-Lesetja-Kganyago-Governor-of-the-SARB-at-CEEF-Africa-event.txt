@@ -1,0 +1,417 @@
+Titulo: An address by Lesetja Kganyago Governor of the SARB at CEEF Africa event 
+Data: 2022-09-28
+Palestrante (estimado): Lesetja Kganyago Governor
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2022/Address-by-Lesetja-Kganyago-Governor-of-the-SARB-at-CEEF-Africa-event
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2022/An%20address%20by%20Lesetja%20Kganyago%20Governor%20of%20the%20SARB%20at%20CEEF%20Africa%20event%2028%20September%202022.pdf)
+----------------------------------------------------------------------
+
+An address by Lesetja Kganyago,
+Governor of the South African Reserve Bank,
+at the Centre for Education in Economics (CEEF) Africa
+Johannesburg,
+28 September 2022
+Reflections of macroeconomic policy since 1995, from NICE to VICE – and
+back again?
+Good evening
+Thank you for inviting me to speak today.
+This is an unusually challenging moment for the global macroeconomy. Who would
+have believed, even a year or two back, that US inflation would be at 8.3%, that euro
+area inflation would be at 9.1%, or that UK inflation would be at 9.9%?1 Who would
+have thought that major central banks would be raising interest rates at the fastest
+pace in a generation? Or that the euro and the British pound would be at parity with
+the dollar?
+Just over a decade ago, it was common to talk about a Great Moderation in global
+macroeconomic conditions. Mervyn King, a former Bank of England Governor, called
+it the NICE period: an acronym for Non-Inflationary, Consistently Expansionary.
+Today it would be more appropriate to talk about VICE: a Volatile, Inflationary and
+Contractionary Economy.
+This regime change in global conditions was reflected at last month’s Jackson Hole
+Economic Policy Symposium, an annual gathering of central bankers hosted by the
+1 Data are all for August 2022, for consumer price inflation, year-on-year.
+1
+Kansas City Fed of the US Federal Reserve System. The theme of this year’s
+meeting was ‘Reassessing Constraints on the Economy and Policy’. Given the
+humbling economic developments of the past year or so, the tone of the discussion
+was very different to that of previous occasions.
+No longer were we talking about the challenges of low inflation, or how higher debt
+levels are sustainable if interest rates are low, or the social benefits of running
+economies hot. Instead, there was a broad appreciation that macro policy settings
+had been far too loose in 2021, contributing to high inflation rates and with them, a
+cost-of-living crisis.
+Everyone recognised that exogenous shocks, including Russia’s war in Ukraine and
+supply chain problems, had accelerated inflation.
+But expansionary policy settings had left the system highly exposed to these supply
+shocks. Just as with supply chains, running the economy hot to achieve slightly
+better short-term results came at a high price. The system then failed under stress.
+Fortunately, there has been pragmatic recognition of the problems, and a willingness
+to change course. At Jackson Hole, Chairman Jerome Powell invoked the legacy of
+Paul Volcker, who decisively stabilised inflation after the policy errors of the 1970s.
+His point was very clear: the Fed will do what it takes to bring inflation down, and to
+keep it down.2
+Nobody would choose to play the Paul Volcker role. It would have been much better
+if the Fed had not fallen behind the curve, letting inflation get out of control. But now
+the course has changed, the approach needs to be about disinflation.
+2 Jerome Powell. 26 August 2022. “Monetary policy and price stability” Available at:
+https://www.federalreserve.gov/newsevents/speech/powell20220826a.htm A relevant excerpt is, “we must
+keep at it until the job is done… The successful Volcker disinflation in the early 1980s followed multiple failed
+attempts to lower inflation over the previous 15 years. A lengthy period of very restrictive monetary policy was
+ultimately needed to stem the high inflation and start the process of getting inflation down to the low and
+stable levels that were the norm until the spring of last year”.
+2
+As the Fed well knows, the alternative is the route taken by Volcker’s predecessors,
+who did not want to hurt growth.3 Those policymakers made the great mistake, all
+too common in macroeconomics, of avoiding the pain of short-term adjustment in the
+hope that things would just come right.
+Unfortunately, with no one taking responsibility for inflation, firms and households
+learnt that they couldn’t rely on money to keep its value. So, they became more
+vigilant, quickly raising their own wage and price demands in response to new
+inflation pressures. As this inflationary psychology set in, the pain of getting back to
+low inflation kept rising. The result was a steadily worse trade-off between the
+objectives of full employment and stable prices. For this reason, history and public
+opinion have reflected poorly on Volcker’s predecessors.4 By contrast, Volcker is
+remembered as a dedicated public servant with a commitment to doing the right
+thing, even if it was unpopular.5
+Listening to Powell, as a South African I was impressed by the engagement with
+history as well as the determination to act on the lessons of historical experience.
+Of course, South Africa’s history is different. But as the saying goes, history doesn’t
+repeat itself, but it often rhymes. Our history too has a theme of macroeconomic
+failure, followed by difficult and ultimately successful reforms that built the foundation
+for a long boom, followed by decay and the return of the old challenges.
+The late 1980s and early 1990s was a period of macroeconomic excess and near
+collapse. We achieved stability and growth through reforms conducted from 1994
+through to 2009. We now once again find ourselves in profound social and economic
+trouble.
+3 Ben Bernanke. “Inflation Isn’t Going to Bring Back the 1970s” New York Times. 14 June 2022.
+https://www.nytimes.com/2022/06/14/opinion/inflation-stagflation-economy.html
+4 Ben Bernanke. Twenty-first century monetary policy. Chapter 2, ‘Burns and Volcker’. W W Norton &
+Company: New York. 2022
+5 Binyamin Applebaum and Robert D Hershey. “Paul A Volcker, Fed Chair Who Waged War on Inflation, Is Dead
+at 92” New York Times. Available at: https://www.nytimes.com/2019/12/09/business/paul-a-volcker-
+dead.html
+3
+Unfortunately, we are struggling to achieve consensus on the proper response to our
+current challenges. This weakens our ability to act decisively. Too many people are
+unfamiliar with the history of economic policy in South Africa. Worse, those who
+know their history cannot seem to agree if the reforms of the late-90s were helpful or
+not. In my speech today, I hope to contribute to a better consensus, by revisiting our
+own macroeconomic history and highlighting its lessons.
+Let me start with the big picture. In the nearly three decades since our transition to
+democracy, we have had one Non-Inflationary, Consistently Expansionary, or NICE,
+period sandwiched between two bad ones. We can see these phases most clearly in
+the growth of GDP per capita, which is the total amount of economic output divided
+by population. This measure was negative during the dying years of apartheid, which
+means living standards were falling. It turned positive in 1994 and mostly stayed
+positive for two decades, apart from the crisis years of 1998 and 2009. From 2014
+onwards it has mostly been negative again, with living standards once again in
+decline.6
+It is tempting to say that this just reflects trends in global growth. But even relative to
+the world economy, we have gone from lagging, to outperforming, to lagging once
+again. Obviously, world growth fluctuated over this period too. But when we were
+doing well, we were pulling ahead, not just keeping up with the world average. And
+when we did badly, we slipped behind, as we did before 1994 and as we have done
+again in our latest slump.7 Over the past two years our growth rate has been 2.4%
+below the global rate, the worst spread since the 1980s.
+There are many similarities between the economic conditions of the mid-1990s and
+conditions today. Apart from low growth, these also include high and rising
+government debt, elevated inflation, and growing unemployment and inequality. In
+the 1990s, the new democratic government faced considerable scepticism that it
+6 Using data from the Penn World Tables, GDP per capita grew by -2.2% for the five years ending 1990; -1.5%
+for the five years to 1995; 1.1% to 2000; 2.5% to 2005; 1.8% to 2010; 0.6% to 2015 and -2.0% to 2020.
+7 Again, using data from the Penn World Tables, and the same five-year buckets described in the previous
+footnote, SA GDP growth minus world GDP growth was -2.1% for the five years to 1990; -1.5% for the five
+years to 1995; -0.9% for the five years to 2000; 0.6% to 2005; 0.3% to 2010; -0.8% to 2015 and -2.4% to 2020.
+This last figure is the most negative spread to world growth on record.
+4
+could turn this around. Critical voices argued that higher debt and inflation were
+inevitable and would ultimately provoke a crisis.8 But they were wrong.
+To the lasting credit of the democratic government, these challenges did not trigger a
+downward spiral. Instead, they inspired a series of reforms that modernised South
+Africa’s macroeconomic framework. These reforms steered the country through the
+emerging market crises of 1998 and 2001. They then underpinned the longest period
+of unbroken growth in South Africa’s history. Finally, they created policy space for
+countering the Global Financial Crisis in 2008.
+There were three main building blocks to these reforms. One was fiscal restraint,
+which allowed debt to stabilise and helped create a virtuous cycle of lower interest
+payments, more social and physical investment, and lighter tax burdens. A second
+was a floating exchange rate, which liberated the country from costly and
+unsuccessful exchange rate interventions and created scope for a more competitive
+currency. A third was inflation targeting, which opened the way to lower and more
+stable prices and therefore also lower and less volatile interest rates.
+These reforms were implemented over a relatively short time span. Although
+nowadays South Africa has developed a reputation for being good at planning and
+bad at implementation, in this case the whole macro architecture was modernised
+within about five years. In turn, this renovation created space for the private sector to
+contribute to South Africa’s development.
+It also put the public sector in a position of strength, by shoring up the fiscal position
+and being realistic about capabilities. The result was that government could succeed
+at the tasks it attempted, rather than overextending itself. In other words, the reforms
+delivered an overarching framework for making economic policy choices.
+8 One example among many is as follows: “There is almost no power on earth which will prevent politicians
+(and certainly not ANC politicians) from taking large bags of money if their constituency is frantic for houses
+and jobs and the money is on offer. There will, in other words, be almost inexorably a debt-led boom, with
+money pouring into black housing, education, and welfare, into an increased public sector and, of course, into
+politicians‘ bank accounts.” RW Johnson, quoted in Princeton Lyman & Patricia Dorff. Beyond
+Humanitarianism. Council on Foreign Relations Press. New York. p. 51.
+5
+Unfortunately, many of these reforms divided people at the time, and despite their
+successes, they have remained unpopular in some quarters. For instance, I have
+frequently heard it claimed that these policies were undertaken with an ulterior
+motive, as a form of class warfare, a so-called ‘neoliberal’ attack on an alternative,
+allegedly progressive or social-democratic alternative.
+But these criticisms have never made sense to me.
+For a start, I have never understood why anyone confuses practical considerations
+with conspiracy theories.
+In 1994, the democratic government found a macroeconomy in shambles. A debt
+trap loomed, with debt recorded at 60% of GDP.9 The leadership did not want to see
+interest payments crowd out their spending goals, and a debt crisis would have
+caused serious economic hardship and a loss of policy sovereignty.10
+We further recognised the need to alleviate the balance-of-payments constraint. With
+low savings, we were in the position that stronger growth necessitated an
+unsustainable level of capital inflows. This led to rand weakness, higher interest
+rates and again, slower growth. As a result, the economy could not take off – it could
+only achieve short periods of growth, and then stall again.
+These were real constraints, and the challenge for macroeconomic strategy was to
+find ways to deal with them rather than fall into a debt trap, with zero fiscal space,
+and no growth. There was no way to deliver social progress without macroeconomic
+sustainability.
+9 Subsequent re-estimations of GDP lowered the peak debt ratio to about 50% - see the discussion in Philippe
+Burger et al. Fiscal sustainability and the fiscal reaction function for South Africa. IMF Working Paper. 11/69.
+2011. https://www.imf.org/external/pubs/ft/wp/2011/wp1169.pdf p. 4, footnote 4
+10 On the composition of reforms, see the analysis of Thabo Mbeki’s biographer, Mark Gevisser: “… the left
+might have accused Mbeki of selling out to the agendas of international capital, but the reason why he
+embraced the policy with such fervour in the first place was precisely because he was following his lodestar of
+self-reliance... Third World basket cases slide, as if programmed, into neo-colonial debt... [Mbeki] he was never
+entirely comfortable with the underpinnings of GEAR; this was evidenced by the way he did not pursue
+structural reform, such as privatisation, as vigorously as he might have. But – the son of struggling black
+traders – he was determined to survive independent of white creditors or paymasters. He would do anything
+to avoid hocking the shop”.
+6
+In addition, despite the language used by the critics, it is difficult to recognise some
+neo-liberal model in what South Africa actually did in the 1990s and 2000s. There
+was a degree of trade liberalisation, but it was relatively short-lived and not
+especially ambitious. Labour market reform was proposed but never implemented.
+Some state assets were sold, but privatisation was very limited, leaving a large
+portfolio of state-owned enterprises on the public balance sheet, including Eskom
+and South African Airways.
+The early to mid-1990s featured rapidly rising inflation and collapsing economic
+growth. So, for good reason, the South African Reserve Bank (SARB) aimed to lower
+inflation. The inflation targeting framework, in addition to providing more flexibility
+than other policy frameworks – a point lost on most critics of it – when implemented
+also featured a high and wide inflation target. Relative to most peers, this proved to
+be too flexible, too high and too wide. The result was a tripling of the price level since
+2000, the year we adopted inflation targeting. This hardly qualifies as an inflexible
+obsession with price stability, nor a framework inappropriate to our growth ambitions.
+As for fiscal policy, debt was reduced and there was even a small fiscal surplus in
+2006. But again, steering clear of a debt crisis, and later running a fiscal surplus
+during the biggest boom in modern history, seem like acts of sanity rather than
+ideological excesses. We should also recognise that this period saw significant
+increases in social spending. Total transfers to households rose from about 11% of
+total spending to 15% during the 2000s, and social benefits increased from under
+10% of total spending to 13%.11
+If we discard the ideological viewpoint, and look back at this reform period
+objectively, how should we assess it? At the time, there was a sense that we had
+done many good things, but with underwhelming results. In one of the International
+Growth Advisory Panel papers we commissioned back in 2008, for instance, Dani
+Rodrik wrote that,
+11 These figures are drawn from National Treasury, ‘Table 5: Consolidated funds expenditure’. These items
+grew through the 2000s and were stable in the 2010s. Transfers to households were 10.9% of total spending in
+2000/01; 15.2% of spending in 2009/10, and 15.6% in 2019/20. Social benefits were 9.4%, 13.1% and 14% of
+total spending for those same three fiscal years, respectively.
+7
+Economic policy has been conducted in an … exemplary manner, with
+South Africa turning itself into one of the emerging markets with the
+lowest risk spreads… If the world were fair, political restraint and
+economic rectitude of this magnitude would have produced a booming
+South African economy operating at or near full employment.
+Unfortunately, it has not turned out that way.12
+With the perspective of another decade, maybe that disappointment was overdone.
+Certainly, higher growth was desirable. But at least we were growing fast enough to
+raise living standards. We were creating jobs. The glass was at least half full.
+The main reason we did not get higher growth was probably the failure to match the
+macroeconomic progress with equally exemplary microeconomic policies. This point
+was made in repeated diagnoses of our economic problems, by a range of top local
+and international economists. Sadly, that advice did not translate into further reforms.
+Still, these disappointments are minor compared with those of the period since 2009.
+We went from having the glass half full to having it nearly empty.
+Understanding how this happened is an important first step towards fixing it.
+When South Africa’s slowdown commenced, shortly after the financial crisis, we did
+not at first understand the extent of the problem. Economists generally expected a
+rebound in GDP growth, and when it did not occur, the blame was often laid on
+temporary factors, such as droughts or strikes. But these explanations were not
+enough to explain a decade-long growth decline. As is often the case, it is only with
+hindsight that we have been able to put together a more comprehensive analysis.
+The most complete study to date is due to a Harvard team, led by Ricardo
+Hausmann and Federico Sturzenegger.13 They interrogate three accounts of the
+slowdown. One emphasizes global factors, and particularly weaker commodity
+12 Dani Rodrik. “Understanding South Africa’s Economic Puzzles” Economics of Transition. Vol. 16(4). 2008.
+Available at: https://scholar.harvard.edu/files/dani-rodrik/files/understanding-south-africa.pdf
+13 Ricardo Hausmann et al. “Macroeconomic risks after a decade of microeconomic turbulence: South Africa
+2007-2020” February 2022. Available at: https://sa-tied.wider.unu.edu/article/macroeconomic-risks-after-
+decade-microeconomic-turbulence-south-africa-2007-2020
+8
+prices. The second is about macroeconomic policy, and specifically the possibility
+that low growth was due to tight monetary and fiscal policies. The third focuses on
+microeconomic effects, chiefly the productivity damage of state capture.
+The paper is well worth reading. But let me give away the ending. They largely
+dismiss the first two arguments and embrace the third.
+Our problem was not the global environment. It was not about fiscal austerity or tight
+monetary policies – those were just scapegoat arguments, to deflect blame. It was
+about a fundamental deterioration in public sector management, such that the
+productive capacity of the country stagnated.
+Macroeconomics is often complex and difficult for non-experts to follow, but in this
+case the logic doesn’t require much explaining. If you borrow huge sums of money to
+invest in power stations, but much of the money is stolen so the stations do not work,
+and the economy keeps running out of power, then it is hard to grow.14 As the Zondo
+Commission of Inquiry into Allegations of State Capture reported, this was not
+something happening in the power sector only: it was across the government sector.
+And it had profound and lasting consequences.
+As everyone else in the economy realised what was going on, and 2015’s Nenegate
+was a catalyst here, people changed behavior. For businesses and households,
+confidence collapsed.15 Government and state-owned enterprises became
+smothered in debt and ran short of expertise – because state capture had prompted
+the departure of many skilled staff – the overall result was a sharp fall in investment.
+14 SARB economists have also written on this explanation for low growth. Their work shows that if South Africa
+had used its capital and labour as efficiently as it did previously, growth would have been around 3% – roughly
+double the actual outcome. See T Janse van Rensburg, D Fowkes and E Visser, ‘What happened to the cycle?
+Reflections on a perennial negative output gap’, SARB Occasional Bulletin of Economic Notes, Pretoria: SARB,
+July 2019. Available at: https://www.resbank.co.za/content/dam/sarb/publications/occasional-bulletin-of-
+economic-notes/2019/9345/Bulletin.pdf
+15 The RMB/BER Business Confidence Index shows an inflection point at the start of 2016, moving from roughly
+neutral levels to depressed levels and remaining weak through the rest of the decade. The FNB/BER Consumer
+Confidence is similarly lower following Nenegate, although it has a temporary rebound in 2018.
+9
+Indeed, in recent years investment has been so low that it has been fully funded from
+domestic savings, with spare savings left over to export, giving us a current account
+surplus. The balance-of-payments constraint which had shaped macro strategy in
+the reform era was no longer binding, simply because the economy stagnated. There
+was no confidence for even a temporary boom.
+However, if we can start growing again the old constraints will re-emerge. Like it or
+not, this means we will need to re-engage with the reform lessons of the 1990s and
+take a different approach to policy.
+First, we once again face a situation of rising debt and excessive tax burdens. In the
+2000s, we generally had revenue a little under 25% of GDP and spending slightly
+over 26% of GDP. Now we raise less than 24% of GDP in revenue, despite higher
+taxes, and then spend about 29% of GDP.16 This is an unsustainable situation, not
+least because the efficiency of government spending has been low.17 Much as I wish
+we had a strong state that could deliver high quality public goods at reasonable
+prices, the facts reflect otherwise. Relative to the 2000s, we have a weaker state,
+spending a larger share of GDP.
+The result is an economy barely capable of growth faster than 1%, with a shrinking
+tax base and a weak outlook. In these circumstances, trying to deal with social
+needs simply through more spending, more debt and higher tax doesn’t really cure
+the patient, but rather limits the pain while accepting continued decline. Living
+standards cannot rise materially without growth.
+The problem goes deeper. If investment did rebound, and government borrowing
+continues at around current levels, we would then hit a binding balance-of-payments
+constraint. We have had an investment rate of around 14% of GDP recently, against
+16 For 2001 to 2009, revenue averaged 24.8% of GDP and expenditure averaged 26.2% of GDP. For 2012 to
+2021, revenue averaged 23.9% of GDP and expenditure averaged 28.9% of GDP. These periods correspond to
+the most recent ten years as well as the preceding decade. Alternative samples yield comparable results.
+17 Theo Janse van Rensburg, Shaun de Jager and Konstantin Makrelov. “Fiscal multipliers in South Africa after
+the Global Financial Crisis” SARB Working Paper. No. 21/07. Available at:
+https://www.resbank.co.za/en/home/publications/publication-detail-pages/working-papers/2021/fiscal-
+multipliers-in-south-africa-after-the-global-financial-cr
+10
+a savings rate of 15% of GDP.18 A reasonable investment rate would be over 20% of
+GDP, and for fast growth probably 30%.19 But given savings levels, this implies
+borrowing between 5% and 15% of GDP from the world – very large sums. Current
+account deficits of those magnitudes would simply become too unsustainable, if not
+impossible, as in the UK currently.
+To achieve balanced growth, rather than just recover a boom-bust cycle, we
+therefore need better longer-term savings rates. As in the late 1990s, this is going to
+require fiscal restraint, as a necessary self-control measure to enable the financing
+of stronger and more efficient investment.
+The classic objection to this course is that fiscal consolidation slows growth, hurting
+revenues, which makes cut-backs self-defeating. However, there is good evidence
+that the composition of consolidation matters.20 Empirically, spending cuts tend to be
+more growth friendly than higher taxes. Furthermore, a fiscal consolidation that
+reduces fiscal and sovereign risk would also create more room to support demand
+with lower interest rates, including at the longer end of the yield curve, where South
+Africa’s risk premium is largest, and where long-term investment is often financed.21
+De-risking the economy, through fiscal consolidation, does not therefore need to be
+contractionary.22
+18 Both gross savings and investment have fluctuated in a range of 13-16% of GDP in recent years. IMF WEO
+data for the period 2019-2022 (which includes a forecast for 2022) show average savings at 15.1% of GDP and
+average investment at 14.1% of GDP. It is unusual for SA savings to be higher than investment; the 2010-2019
+averages are 17.3% of GDP for investment and 14.5% of GDP for savings.
+19 On the desirability of investment rates at 30% of GDP, see Enoch Godongwana. “Keynote address by
+Minister of Finance, Enoch Godongwana, at the GEPF annual leadership conference”. 15 September 2022.
+Available at:
+http://www.treasury.gov.za/comm_media/speeches/2022/2022091501%20SPEECH%20BY%20MINISTER%20E
+NOCH%20GODONGWANA%20AT%20THE%20ANNUAL%20GEPF%20CONFERENCE%202022.pdf
+20 Alberto Alesina, Carlo Favero and Francesco Giavazzi. Austerity. Princeton University Press: Princeton, New
+Jersey. 2019.
+21 Christopher Loewald, David Faulkner and Konstantin Makrelov. “Time consistency and economic growth: a
+case study of South African macroeconomic policy” SARB Working Paper. No. 20/12. 25 November 2020.
+Available at: https://www.resbank.co.za/content/dam/sarb/publications/working-
+papers/2020/10421/WP%202012.pdf
+22 Roy Havemann and Hylton Hollander. “Fiscal policy in times of fiscal stress” WIDER Working Paper. No.
+52/2022. Available at: https://www.wider.unu.edu/publication/fiscal-policy-times-fiscal-stress
+11
+Fiscal consolidation would also have important implications for our longer-run ability
+to protect the value of the rand, which is a central concern for us as the SARB. One
+of the papers discussed at Jackson Hole this year was about the relationship
+between fiscal and monetary policy, and it offered the following warning:
+When fiscal imbalances are large and fiscal credibility wanes, it may
+become increasingly harder for the monetary authority to stabilise
+inflation around its desired target. If the monetary authority increases
+rates in response to high inflation, the economy enters a recession,
+which increases the debt-to-GDP ratio. If the monetary tightening is
+not supported by the expectation of appropriate fiscal adjustments, the
+deterioration of fiscal imbalances leads to even higher inflationary
+pressure. As a result, a vicious circle of rising nominal interest rates,
+rising inflation, economic stagnation, and increasing debt would
+arise.23
+A central bank can do a great deal for price stability. It can nurture a reputation for
+controlling inflation. It can also accumulate foreign exchange reserves, to help
+protect the solvency of the country.24
+But central banks are not immune to fiscal outcomes. If we are to maintain moderate
+levels of inflation in South Africa, we will need a macro strategy that delivers fiscal
+sustainability. There have been some signs of progress lately, but we are still
+running fiscal deficits near 6% of GDP, despite record commodity prices. We have
+seen before, and we know high commodity prices do not last forever. At some stage,
+the commodity prices will correct, and we had better be prepared for it.
+For monetary policy, our immediate priority is to guide inflation back towards the
+middle of our target range. Our larger strategic goal, however, is to undo the error of
+23 Francesco Bianchi and Leonardo Melosi. “Inflation as a fiscal limit” 19 August 2022. Available at:
+https://www.kansascityfed.org/Jackson%20Hole/documents/9037/JH_Paper_Bianchi.pdf
+24 Agustin Samano. “International Reserves and Central Bank Independence.” Policy Research Working Paper.
+No. 9832. World Bank, Washington, DC. Available at:
+https://openknowledge.worldbank.org/handle/10986/36483
+12
+20 years ago, when we gave up on lowering the inflation target.25 A recent review of
+monetary policy conducted by Athanasios Orphanides and Patrick Honohan makes a
+compelling case for a lower inflation target of 3%.26 This target would be in line with
+our peers. It would allow for lower interest rates. It would also make inflation less of a
+concern in the everyday lives of South Africans.
+Low inflation is like reliable electricity: good policy means most people don’t have to
+worry about it. Unfortunately, just as we have load-shedding, so our high and wide
+inflation target means the currency suffers persistent value-shedding. We would like
+this to end.
+To conclude, globally the big macro news is a newfound focus on economic
+constraints. There are still a few people who embrace a naïve economic policy
+model, where growth is guaranteed so long as monetary and fiscal policy are
+aggressive enough. But this recipe creates serious vulnerabilities to shocks in even
+the strongest economies, such as the United States, and it is untenable in emerging
+markets like South Africa.
+For South Africans who are serious about development, the main effort should be
+doing the hard microeconomic work of raising productivity, which means nurturing
+expertise to solve problems, one by one, with the private and public sectors each
+contributing what they can.
+But this essentially microeconomic mission needs to be set in a macroeconomic
+framework that is resilient enough to sustain growth, without succumbing to balance-
+of-payments constraints, debt distress or high inflation. It is hardly a magic formula.
+There are no shortcuts to development. The real trick is to look the problems
+squarely in the face, figure out a strategy for dealing with them, and implement it. We
+have no shortage of plans. After nearly a decade of going backwards, I hope we can
+find the resolve to reform once again.
+25 For a fuller discussion of lowering the inflation target, see Lesetja Kganyago “Inflation targeting at 21 –
+Lessons for the future” 8 September 2021. Available at:
+https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2021/gov-
+kganyago/A%20public%20lecture%20by%20Lesetja%20Kganyago%20Governor%20of%20the%20South%20Afri
+can%20Reserve%20Bank%20at%20Stellenbosch%20University.pdf
+26 Patrick Honohan and Athanasios Orphanides. “Monetary policy in South Africa: 2007-21” SA-TIEd Working
+Paper. No. 208. Available at: https://sa-tied.wider.unu.edu/article/monetary-policy-south-africa-2007-21
+13
+Thank you.
+14

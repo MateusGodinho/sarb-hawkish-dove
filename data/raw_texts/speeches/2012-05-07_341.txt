@@ -1,0 +1,288 @@
+Titulo: Address by Gill Marcus, Governor of the South African Reserve Bank To the Swiss Chamber Southern Africa, Zurich, 7 May 2012
+Data: 2012-05-07
+Palestrante (estimado): Gill Marcus
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2012/341
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2012/341/Address-to-SwissCham-Zurich-May-2012.pdf)
+----------------------------------------------------------------------
+
+Challenges to South African Monetary Policy
+in a World of Volatile Capital Flows
+Address by Gill Marcus,
+Governor of the South African Reserve Bank
+To the Swiss Chamber Southern Africa,
+Zurich, 7 May 2012
+Good evening,
+Thank you for the invitation to address you in your beautiful city of Zurich, and it is a privilege to be
+with you this evening.
+We meet at a time of turbulent change and challenge, and it is crucial that we, all of us together,
+exercise reason and choice as we try to see through the noise and forge a path forward that rebuilds
+confidence and trust. What we must remember at all times is that behind these billions of
+dollars/euros/pounds/rands that roll off the tongue so easily these days are ordinary men and women
+whose very survival hangs in the balance.
+Eurozone unemployment now stands at 10,9 per cent, and is expected to continue rising. Spain,
+which is now formally in recession, has an unemployment rate at around 25 per cent and rising as it
+enters a severe austerity regime. So in essence we have a three-legged crisis that continues to
+mutate – a banking crisis, a sovereign debt crisis and a crisis of unemployment, particularly among
+the youth of the world.
+The crisis has also seen changes made to the explicit mandates of central banks, which are now
+expected to deliver both monetary policy and financial stability, with regulation of banks and other
+financial institutions part of these responsibilities. No doubt this will become an increasingly heated
+debate once the global economy has stabilised.
+The abnormally low interest rates and quantitative easing in the advanced economies bear testimony
+to the persistence of advanced economy fragility. In addition, the world economy came to the edge of
+a precipice last year when the crisis in the Eurozone intensified and the very survival of the fixed
+currency system was threatened, an outcome that would have had severe consequences for the
+global economy.
+2
+Fortunately, the steps taken by the member countries, in tandem with other global institutions such as
+the IMF, brought the world back from the brink. However we can be under no illusion that the crisis is
+over and that things are back to normal. The interventions helped to buy some time, and it is critical
+that appropriate measures be taken in the meantime to ensure that this space is used productively, to
+avoid a future recurrence.
+At the same time the problem of global imbalances has persisted, and although there are different
+views of the relationship between the global imbalances and the crisis, there is no doubt that the
+imbalances contributed to the low interest rate environment. More recently there have been some
+positive indications that these imbalances may be correcting, with both China and the US reducing
+their respective current account surpluses and deficits.
+However, we cannot assume that short term developments necessarily indicate a long term trend, but
+it is essential that some resolution of the global imbalances and the global financial crisis is found. We
+have seen too often that the will for co-ordinated action is there at the height of the crisis when the
+implications of inaction are very clear.
+Unfortunately the urgency often subsides when the worst of the crisis is over: the will to take difficult
+decisions dissipates, the focus on co-operative solutions diminishes, with countries giving greater
+emphasis to their own concerns, without much regard to the spillover effects of their actions.
+The low global interest rate environment sparked a search for yield that was given further impetus by
+quantitative easing which increased the quantity of global liquidity.
+Capital flows to emerging markets, which had dried up in the wake of the crisis, resumed, with
+implications for emerging economies financial and foreign exchange markets. It also complicated
+macroeconomic management in general and monetary policy in particular, a point I will return to later
+on.
+But as this audience is no doubt well aware, it is not only emerging markets that have been affected in
+this way. Switzerland, an advanced economy, has been a recipient of what are regarded as excessive
+capital inflows and consequent currency appreciation, resulting in a significant change in the
+exchange rate intervention strategy. However, the difference is that Switzerland is regarded as a safe
+haven country, and therefore attracts capital at times of global risk aversion, whereas the opposite is
+true in the case of South Africa.
+The nature of capital flows to emerging markets also changed. As shown in a 2011 IMF report1,
+portfolio flows began to predominate as more fund managers in advanced economies turned to
+emerging markets for higher yields, while cross-border bank lending declined, in part because of
+widespread deleveraging in the face of stricter regulatory requirements. This predominance of
+portfolio flows is not new to South Africa, but we have seen a change in their composition.
+In the years prior to the financial crisis, portfolio flows to South Africa were primarily into the equity
+market. During the period 2003 to mid-2008, non-residents purchased a cumulative net amount of
+3
+R216 bn of South African equities, indicative of a positive growth outlook and a well-developed and
+accessible equity and foreign exchange market. Although South Africa has a well-developed bond
+market, particularly by emerging market standards, net bond purchases were a more modest R28 bn.
+An important difference between these two forms of capital flows was that the former generally were
+unhedged and involved actual inflows, with implications for the exchange rate. Equity flows have also
+generally been of a long holding duration or time horizon.
+By contrast, bonds flows are often speculative, when a view is taken of future interest rate
+movements. Very often, and particularly in the pre-crisis period, these flows were funded
+domestically, and therefore involved no foreign exchange flows, but merely a change of ownership. In
+the wake of the crisis this pattern changed somewhat, as the global ‘real money’ investors, such as
+pension funds, turned to emerging market bond markets as a longer term investment destination. In
+the second half of 2008, South Africa experienced net sales of both bonds and equities by non-
+residents, but by early 2009 the inflows resumed. In 2010 and 2011 net purchases amounted to R205
+bn, of which R95 bn was in equities, and R110 bn in bonds. Year to date, non-residents have been
+net sellers of equities to the value of R4 bn, but net purchases of bonds have totaled R35bn.
+The domestic bond market has therefore become a source of longer-duration capital inflows, subject
+to less volatility, and represents an important structural shift. The cumulative ownership of all
+government bonds by non-residents increased to around 29 per cent, from 13 per cent in 2008.
+The domestic bond market was given a further boost in April 2012 when Citibank announced the
+potential inclusion of South Africa in the World Global Bond Index by October this year. Estimates
+vary with respect to the potential impact of this development. South Africa will have a weight of 0,44
+in the index, and some funds already hold South African government bonds. But analysts expect the
+increase in non-resident holdings of South African bonds to be in the region of around US$6 bn to
+US$8 bn. The announcement had a significant impact on the bond market and non-residents have
+since purchased around R19 bn worth of bonds. This is despite the fact that the three main ratings
+agencies have revised the outlook on South Africa’s sovereign risk rating from stable to negative.
+Notwithstanding the increased predominance of longer-duration flows, the rand remains one of the
+more volatile currencies and is regarded in the foreign exchange market as a high-beta currency i.e. it
+tends to react more (in either direction) than most other currencies to changes in sentiment. For
+example, in the early days of the crisis the rand depreciated precipitously, but soon recovered in
+response to the significant capital inflows. The rand traded at around R11.80 to the US dollar at its
+most recent weakest point in October 2008, recovered to levels of around R6.50 in mid-2010, but
+weakened to around R8,60 to the US dollar in November 2011, and this morning was trading at
+around R7,85 to the US dollar.
+Part of the underlying volatility arises from the fact that while in general capital flows to emerging
+markets have increased, these flows have not been unidirectional, and have followed changes in
+global market sentiment. The continued uncertainties in the global economy, and particularly
+4
+concerns about the Eurozone, have contributed to periodic bouts of risk aversion, often resulting in a
+flight to so-called safe havens, despite the fact that the underlying fundamentals in the emerging
+markets have not changed. The rand foreign exchange market, being relatively large, open and liquid
+is often used as a hedge for emerging market risk in general and therefore is highly sensitive to these
+changes in risk aversion, even if the source of the risk is not domestic.
+The high degree of volatility is clearly not helpful to the real economy, as it is not always possible to
+hedge against this, particularly over longer periods. But it is not only the volatility that is important. A
+number of countries that have been recipients of increased capital inflows have expressed concern
+about the consequent overvaluation of their exchange rates, adversely affecting the countries’ trade
+competitiveness both relative to the advanced economies and to third-country competitors such as
+China that are more able to resist these pressures. There is a concern that persistently high levels of
+capital inflows could cause prolonged periods of exchange rate misalignment which could damage
+export and import-competing sectors irreversibly.
+This raises the question of whether the current level of the exchange rate in South Africa is
+appropriate. Unfortunately, the equilibrium or ‘fair value’ real exchange rate is unobservable, and may
+be very different from what some may regard as a desirable exchange rate. There are various
+techniques, all with their own shortfalls, that can be used to determine this level, and the results can
+differ widely.
+One problem is that the equilibrium real exchange rate may not be constant and may change as the
+underlying fundamental determinants change. So any given nominal exchange rate could represent a
+different level of misalignment, depending on how the fundamentals have changed.
+To give an indication of these difficulties, the IMF in its 2009 Article IV report on South Africa, gave a
+range of overvaluation of the rand of between 6-8 per cent, 12 per cent, 16 per cent, or 25 per cent if
+the surge in public investment was included. This tells us that at that time the rand was either
+moderately overvalued or highly overvalued. So any estimation procedure should be treated with
+caution. A recent study undertaken at the SARB, and published on our website, indicates that the
+trade-weighted rand was more or less at its equilibrium value in the final quarter of 2011, but is
+currently overvalued by around 5 per cent. However, these estimates, as indicated, cannot be taken
+as hard and fast estimates, and do not necessarily represent the official view of the SARB. At this
+stage we do concur that the rand may be moderately overvalued, but we would not want to put a
+precise number to this. But given the high degree of nominal exchange rate volatility in the past, there
+have been times, particularly in 2010, when the rand appeared to be more significantly overvalued.
+From a monetary policy perspective, the exchange rate outlook is critical. Ideally we would like to
+have a stable and predictable exchange rate that does not pose a risk to the inflation outlook. The
+exchange rate is in fact one of the important determinants of inflation, with an estimated pass-through
+of around 0,2. However this number cannot be used mechanistically and is subject to a number of
+important qualifications. These include the fact that the impact of an exchange rate change on the CPI
+5
+is not necessarily linear, so small changes may have a relatively small impact, but larger changes
+induce proportionately larger responses. A lot also depends on whether the change is seen to be
+permanent or temporary. If the latter, the impact on inflation may be minimal. Furthermore, some
+prices are impacted quicker than others. For example, the petrol price is set monthly according to a
+given formula, on the basis of changes in the exchange rate and changes in US dollar product price,
+so the impact on CPI as well as on consumers will be felt very quickly. Finally, we often observe that
+the response to an exchange rate change is not symmetrical: prices often react quicker to a
+depreciation than to an appreciation.
+The volatility of the exchange rate and the uncertainties relating to the longer term outlook creates
+enormous challenges for monetary policy. The Bank’s forecasting model assumes a stable real
+effective exchange rate over the forecast period, which allows the nominal exchange rate to adjust to
+the inflation differential between South Africa and its main trading partners. The MPC has to decide
+whether the prevailing level of the real exchange rate is an appropriate assumption: whether to set it
+at a different level for the forecast period; or whether to leave it unchanged and communicate a
+change in the risk to the inflation forecast. This is particularly challenging when after a long period of
+relative stability, the exchange rate experiences a step change, and the MPC has to assess whether
+this is temporary or a new longer term level.
+Given that the exchange rate is buffeted by a multiplicity of volatile forces, ranging from changing
+global risk perceptions, commodity price changes, and domestic considerations to name a few,
+forecasting the exchange rate is subject to a high degree of uncertainty and changes in the real
+exchange rate assumption are at times the source of change in the inflation forecast of the Bank.
+There is an incorrect perception that the Reserve Bank attempts to keep the exchange rate strong in
+order to help with inflation. There is no doubt that an appreciating currency would have a moderating
+impact on inflation. But in order to sustain this moderating impact, the exchange rate would have to
+have a continuously appreciating trend, which is clearly undesirable and not feasible.
+On the other hand, there are those who argue for an undervalued exchange rate in order to increase
+the country’s international competitiveness. Such gains are likely to be short-lived because higher
+inflation would erode this advantage. More importantly, it is unclear how such an outcome would be
+achieved. This suggests that a more desirable outcome is relative stability of the exchange rate,
+which would then reduce the risk to the inflation outcome and at the same time provide a higher
+degree of certainty to the real sector of the economy.
+I should note that while we would like to see a reduction in exchange rate volatility, the advantages of
+exchange rate flexibility should not be forgotten. When faced with shocks, an economy has to adjust,
+and generally exchange rate adjustment can help with this process. We need only look at the current
+crisis in the Eurozone to observe the painful adjustment that countries such as Greece have to endure
+because of the absence of the exchange rate instrument.
+6
+So the question is, can something be done to reduce the level and volatility of the rand exchange
+rate? Unfortunately we have learned that there are no easy answers.
+One proposed solution is to lower interest rates further, on the assumption that this will cause the
+currency to depreciate. There are a number of problems with this. Firstly, capital flows and the
+exchange rate are not always ultimately determined by interest rate differentials. There have been
+times when lower rates, to the extent that they may have signaled higher future growth, resulted in
+significant equity inflows which dominated the negative incentive to interest-sensitive capital flows.
+There is therefore a degree of uncertainty as to how the exchange rate is likely to respond to changes
+in interest rate differentials.
+We also have to be concerned about the impact of lower interest rates on inflation. The current level
+of the repurchase rate is at its lowest in over 30 years, but of greater significance is the real level of
+the policy rate which, with inflation expectations hovering around the upper level of the inflation target
+range, is in fact slightly negative. Inflation is currently at the top end of the target range, but we
+expect it to return to within the 3-6 per cent range by the end of 2012 on a sustainable basis,
+whereafter the rate is expected to remain close to the upper end of the range for some time. The
+current monetary policy stance is accommodative because of the persistence of the negative output
+gap. However, the expected inflation trajectory suggests that there is limited, if any, room for further
+monetary accommodation at this stage. It is important to bear in mind, however, that this view is
+conditional on no significant adverse changes in the other factors that the MPC takes into
+consideration when determining the stance of monetary policy. These include the domestic growth
+outlook and the continuing global fragility.
+At the same time, long term interest rates, which are also important for capital flows, are not
+determined directly by monetary policy. These rates are affected indirectly through the impact of
+monetary policy on inflation expectations. A lower policy rate could in fact cause long term rates to
+increase. But other factors, in particular fiscal policy, are likely to have a more direct impact on long
+term interest rates.
+Another possible option is direct intervention. Although the Bank’s stated policy has been to allow
+exchange rate flexibility and not to attempt to achieve a predetermined exchange rate, activity in the
+foreign exchange market has been fairly sizable in line with our stated objective to increase the level
+of foreign exchange reserves. Since 2006 the gross gold and foreign exchange reserves increased
+from about US$20 bn in 2005 to over US$50 bn currently. Reserves are generally regarded as a
+form of insurance against capital reversals, and the process of accumulation is also seen to be a
+means to moderate the volatility of the exchange rate. However, despite a higher level of reserves,
+and at times substantial foreign exchange purchases, the rand has remained volatile, particularly
+during times of global turbulence. With average daily turnover in the domestic foreign exchange
+market of around US$16 bn, trying to lean against currency moves would require extremely large
+amounts of intervention.
+7
+The costs of sterilising these purchases are not trivial and place a burden on taxpayers. These costs
+arise because of the difference in the cost of absorbing the money market liquidity created by foreign
+exchange purchases, currently at around 5,5 per cent, and the negligible return we earn on the these
+reserves. Government has assisted by directly purchasing foreign exchange and placing those on
+deposit with the central bank. This avoids the sterilisation costs, but is at the expense of other
+expenditures.
+An option favoured by some countries, for example Brazil, is to impose controls on capital inflows.
+While the jury is still out on the effectiveness of these policies, it is difficult to generalise solutions for
+countries with different market structures and features. At different points in time the exchange rate is
+driven by different types of flows, and as the complexity of the foreign exchange market increases, the
+ability to stem gross flows effectively also declines. A complicating factor is that a significant
+proportion of trades take place externally. According to the 2010 BIS triennial survey, approximately
+60 per cent of foreign currency transactions involving the rand are conducted offshore.
+I should emphasise that capital is important for a savings-constrained country like South Africa, and
+there are enormous advantages to being part of the global community. Capital flows allow for
+consumption smoothing over time, it allows for the financing of inter-temporal current account deficits
+when large investment projects are undertaken, and certain types of flows, particularly direct
+investment, lead to skills or human capital transfers as well. The problem that many countries face is
+one of excessive and excessively volatile portfolio flows, which respond to the vagaries of global risk
+aversion. Managing these flows are difficult, particularly because interventions could have unintended
+consequences of providing disincentives to the desirable and much needed capital flows. Similarly,
+exchange rate flexibility has its advantages, but it is the extreme volatility, brought about by the
+excessive capital flows, that create problems for macroeconomic management.
+Resisting the impact of large-scale capital flows is not easy, given the size of these flows relative to
+the size of the domestic foreign exchange market. Small emerging markets are therefore innocent
+bystanders in the world of global imbalances, low interest rates and abundant liquidity. This is not to
+say that the policy choices of the advanced economies were inappropriate. The world would most
+likely have been a worse place now had it not been for these policies.
+However, the burden of the adjustment is not borne evenly. Allowing the exchange rate to adjust to
+global pressures provides some cushion in the event of capital flow volatility, but this is only partial.
+Smaller economies, particularly those with relatively well-developed and open financial markets, bear
+a disproportionate share of the burden of advanced economy spillovers.
+Some see the solution as tightened currency and trade controls. This can only lead to an
+intensification of trade and currency wars, which is not in the longer term interests of the global
+economy. Sound domestic policies can help to attract more longer-term capital, but that on its own is
+not enough. Too often the discussion relating to how the world returns to sustainable growth is only
+8
+about the large economies. Greater consideration must be given to the implications of policy choices
+on smaller economies.
+There are no easy or quick answers. The resolution of these issues is very much work in progress
+and is core to the deliberations of, among other bodies, the G20, the Financial Stability Board and the
+Bank for International Settlements. South Africa is an active participant in such policy discussions.
+The crisis has taught us that there no holy cows when it comes to policy choices, particularly given
+the expanded mandates of central banks which now includes financial stability, and the highly
+uncertain political and economic environment.
+I have focused this evening on the challenges arising from the impact of the volatile global
+environment on capital flows and the exchange rate. As for how South Africa is weathering the global
+storm more generally, without us being complacent, we should remember that since the start of the
+global financial crisis in 2007/8 South Africa has not had a systemic banking crisis and has not had to
+assist any bank, nor provide liquidity to the system. However the economy did suffer a short recession
+through the trade channel, at the cost of around one million jobs. The recovery has been relatively
+moderate but looks to be sustained. Economic growth was 3,1 per cent in 2011, and is expected to be
+at a similar level in 2012, but dependent to a significant degree on global developments. Inflation
+averaged 5,0 per cent in 2011, and is expected to be slightly above the upper band of 6 per cent for
+2012, returning to within the inflation target on a sustained basis by the end of this year. Government
+has embarked on a significant infrastructure programme that, as it is implemented, should improve
+electricity supplies, rail, port and road efficiencies and capacity, improve water supplies and generally
+support both employment and all round economic growth and efficiencies. But sustainable foreign
+capital will be required to supplement domestic financing sources. South Africa, an integral part of the
+African continent, has many challenges but is part of the emerging market story that is shaping the
+significant changes in world dynamics currently under way.
+Thank you for the opportunity to speak to you today, and for your attention.
+Footnote
+1 “Policy Responses to Capital Flows in Emerging Markets” IMF Staff Discussion Note, April 21, 2011.

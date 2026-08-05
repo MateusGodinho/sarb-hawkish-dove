@@ -1,0 +1,178 @@
+Titulo: Opening address by Governor Lesetja Kganyago Governor of the South African Reserve Bank at the 2024 Payments Conference
+Data: 2024-10-02
+Palestrante (estimado): Governor Lesetja Kganyago Governor
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2024/opening-address-sarb-governor-at-the-2024-payments-conference
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2024/Opening%20address%20by%20Governor%20Lesetja%20Kganyago%20Governor%20of%20the%20South%20African%20Reserve%20Bank%20at%20the%202024%20Payments%20Conference.pdf)
+----------------------------------------------------------------------
+
+Opening address by Governor Lesetja Kganyago,
+Governor of the South African Reserve Bank,
+at the 2024 Payments Conference,
+Johannesburg, 2 October 2024
+Paradigm shift: The future of payments in South Africa
+Good day and welcome to the 2024 Payments Conference.
+To set the stage for our discussion over the next two days, first, I will briefly reflect on
+the past to assess our progress in modernising payments. Then, I will turn to the
+present, where much of society still relies heavily on central bank money – or cash –
+even as peer countries adopt digital payments at scale. Finally, looking ahead, I will
+discuss our efforts to modernise the payments ecosystem and our strong preference,
+as the custodian of the national payment system, to reduce reliance on cash.
+I will start with the history.
+At one time, South Africa was a global leader in payments. For instance, we were early
+adopters of one of the world’s first fast-payment systems, real-time clearing, in 2006.
+The introduction of the DebiCheck system for verifying debit orders in 2019 was also
+a world first. But the frontier keeps shifting. As our Vision 2025 strategy document set
+out, structural changes in payment systems are underway, and it is therefore vital for
+South Africa’s competitiveness that we stay ahead of these trends. This is also an area
+where we can make real contributions to financial inclusion and growth.
+1
+Often, I am in the position of explaining that the South African Reserve Bank (SARB)
+makes its main contributions to supporting inclusive growth by providing price and
+financial stability, and that we need to keep doing what we’re doing rather than making
+radical changes.
+But this is not the case for payments.
+In wholesale payments – that is, large-value payments, typically between banks – you
+could probably say we need to keep doing what we’re doing, with incremental
+improvements such as adopting the ISO 20022 standards. But in the retail space,
+there is a paradigm shift underway, which is full of promise but also full of challenges
+– not least the danger of falling behind our peers.
+This brings me to the present, and the problem of cash.
+It is exciting that we can now make payments with our phones or even our smart
+watches. But as our payments survey reminded us, for most South Africans, cash is
+still king. People view it as easy to use and as the cheapest payment option available.1
+It is the most commonly used payment method in our survey. Cardless payments were
+further down the list.
+I am proud of our cash – after all, my signature is on our banknotes. It is a symbol of
+trust, giving members of the public access to central bank money − a liability on our
+balance sheet. But as we noted in our Digital Payments Roadmap, which was
+published a few months ago, South Africans are over-reliant on cash. Even though
+most South Africans now have bank accounts, many still withdraw all their money as
+soon as it is deposited in their account. This means missing out on the safety and
+convenience of transacting digitally.
+The fact is, cash is simply not as efficient. Whether it is finding an automated teller
+machine (ATM), providing correct change, dealing with transport logistics and security,
+1 SARB, Payments Study Report 2023, p. 18, figures 21 and 22.
+https://www.resbank.co.za/content/dam/sarb/publications/media-
+releases/2024/payments/SARB%20Payments%20Study%20Report%202023.pdf
+2
+or fostering payments innovation, cash is more limited than digital payments. There is
+also evidence that cash disempowers women by making it harder to manage the family
+finances, including child support grants.2 A strong reliance on cash is not optimal for
+society.
+That said, change is happening.
+For several years now we have seen little or no growth in the total demand for
+banknotes and coin. Last year, banknotes and coin contracted by 0.8%, the largest fall
+in records going back to 1960.3 Historically, cash growth has broadly followed growth
+in nominal gross domestic product (GDP), but this trend broke down after COVID-19.
+If cash were still growing as fast as it did last decade, we would have an extra
+R60 billion or so of banknotes and coins in circulation.4 This ‘missing money’ shows a
+changing payments landscape. Cash may still be king, but the crown is slipping.
+A major reason for this is the availability of better payment alternatives.
+I have already mentioned cardless payments, technologies which allow you to leave
+your wallet at home and pay with your device.
+Another interesting example is PayShap − the digital, retail payment system that
+launched last year.5 The adoption of PayShap has been quite fast. But it is not yet a
+revolution in retail payments.
+2 SARB, Digital Payments Roadmap, Annexure A: Benefits of digital payments, pp. 40-42.
+https://www.resbank.co.za/content/dam/sarb/publications/media-releases/2024/npsd---payments-
+report/Digital%20Payments%20Roadmap%20Report.pdf.
+3 Since 1960, year-on-year growth in banknotes and coin has been negative only three times, all of
+them recent: 2019, 2021 and 2023. Average growth in banknotes and coin since 1960 has been
+11.3%; the average for the past three years is 0.5%.
+4 Banknotes and coin held by the public grew at 8% annually from 2010 to 2019. At that growth rate,
+banknotes and coin would now be around R240 billion; they are instead likely to end 2024 close to
+R180 billion.
+5 SARB, National Payment System Regulatory and Oversight Report, 1 April 2023 – 31 March 2024,
+section 4.2, pp. 13-14. https://www.resbank.co.za/content/dam/sarb/what-we-do/payments-and-
+settlements/regulation-oversight-and-supervision/regulatory-and-oversight-
+reports/NPS%20Regulatory%20and%20Oversight%20Report%202023.pdf
+3
+Other countries are further ahead. Two famous examples are India’s Unified Payments
+Interface, or UPI, system and Brazil’s PIX. These allow instant, low-cost payments
+using simple tools such as a cellphone number or a QR code, instead of an expensive
+point-of-sale terminal. They have quickly become ubiquitous payment technologies in
+these economies. And they are inclusive: for example, you can use PIX to buy a drink
+from an informal vendor or to pay for a taxi ride. You even see beggars on the street
+asking for digital payments.6 In other words, these systems are doing what cash does,
+and doing it better. It is true that we also have these payment methods in South Africa,
+but they are less widespread.
+This brings me to the outlook. How do we transition from cash to digital payments?
+To drive this change, we have recently embarked on a Payments Ecosystem
+Modernisation Programme. This is the largest and most ambitious initiative by the
+SARB, in the payments space, since the launch of the South African Multiple Option
+Settlement system, or SAMOS, more than 30 years ago.
+At the heart of the programme is the development of a public payments utility that
+provides digital payments infrastructure.
+Any such programme must have security measures and fraud prevention at its core.
+As the recent scandal involving grants being stolen from Postbank accounts7 reminds
+us, safety is a non-negotiable for payments.
+We also intend to make inclusiveness a foundational principle. This will be a payment
+system for all South Africans − rural or urban, rich or poor − not a product for any
+particular niche.
+6 Michael Pooler, ‘Brazil counts success with PIX payments tool’, Financial Times, 18 September
+2023. https://on.ft.com/3LrrgVz; Shan Li and Rajesh Roy, ‘In India’s mobile-payments boom, even
+beggars get QR codes’, Wall Street Journal, 27 May 2022. https://www.wsj.com/articles/in-indias-
+mobile-payments-boom-even-beggars-get-qr-codes-11653653383
+7 Department of Communications and Digital Technologies, ‘Minister Solly Malatsi refers KPMG
+forensic report on the Postbank to the Hawks’, 3 September 2024. https://www.gov.za/news/media-
+statements/minster-solly-malatsi-refers-kpmg-forensic-report-postbank-hawks-03-sep-2024
+4
+Then we need to think about how we work with, and modernise, existing systems. We
+are not going to be rebuilding everything from scratch – after all, we already have good
+payments infrastructure in South Africa – but we are living through a paradigm shift in
+payments, and not every legacy system will be fit for purpose in the future. Creativity
+and design are as much about what you take away as what you add. We call this the
+‘maximise and rationalise’ principle.
+We also need to find the right balance between bringing everyone on board and
+moving forward. Our philosophy is to have a bias to action. If we consult everyone but
+do not deliver, and if South Africa is one of the last countries to get fast, cheap,
+inclusive retail digital payments, we will have failed.
+Make no mistake, we want creative collaboration, and we admire and value the talent
+of the many participants in this ecosystem. But what we care most about are the
+results, and we will work with ‘coalitions of the willing’ to get there.
+Ladies and gentlemen, to conclude:
+For centuries central banks have provided wholesale and retail payment services –
+wholesale for large values but lower volumes, and retail for smaller values and larger
+volumes.
+Sometimes central banks have used monopoly models, for instance with issuing
+banknotes and coin, or running wholesale payment systems. At other times, they have
+participated alongside other service providers, frequently playing an oversight or
+coordination role in a system where payment services are primarily provided by the
+private sector.
+It is always difficult to know exactly where to draw the line between what should be
+done privately and what should be done by central banks, which, of course have a
+public good mission. There are some natural monopolies, such as large-value
+settlement, where central bank accounts seem to be indispensable.8 There are also
+8 Bruce J. Summers, ‘Clearing and payment systems: The central bank’s role’ in Patrick Downes and
+Reza Vaez-Zadeh, eds. The Evolving Role of Central Banks, International Monetary Fund, 1991.
+https://www.elibrary.imf.org/display/book/9781557751850/ch004.xml
+5
+good reasons the private issuance of banknotes and coin collapsed, and countries
+tend to have a single national issuer of cash − the central bank − rather than having
+the banknotes of different institutions to compete, as often happened in previous
+centuries.
+That said, one of the big problems with monopolies is that they tend to be
+unimaginative. They do not invest much in innovation. Perhaps, for this reason,
+national payment ecosystems have often landed on a model where there is private
+participation in payments, to foster innovation, while central banks deliver stability and
+safety.9 That said, central banks also often play a role in catalysing change.10
+As the SARB, we are currently in an interesting situation in which we are solely
+responsible for producing banknotes and coin, the most popular retail payment format,
+but we want to innovate ourselves out of this profitable position. And we are not
+insistent that we monopolise the digital payments alternative. We are just insistent that
+we, as a country, move with the paradigm shift and reap its benefits.
+There has been a trend towards central bank digital currencies, or CBDCs, lately, but
+frankly, the most successful retail payment initiatives by central banks have involved
+new payment systems rather than new kinds of central bank liabilities. Brazil and India
+did not need CBDCs to develop the world’s two most-used retail digital systems. In
+these cases, central banks acted as catalysts for change, and this created many
+opportunities for the private sector to innovate, using the new platform.
+Fundamentally, I hope we will approach the new payments paradigm as a landmark
+opportunity to make payments in South Africa safer, faster, cheaper and more
+inclusive.
+Thank you.
+9 Bank for International Settlements, ‘The role of central bank money in payment systems’, August
+2003, pp.1-2. https://www.bis.org/cpmi/publ/d55.pdf
+10 Bank for International Settlements, ‘Central banks and payments in the digital era’, BIS Annual
+Economic Report, 24 June 2020. https://www.bis.org/publ/arpdf/ar2020e3.htm
+6

@@ -1,0 +1,200 @@
+Titulo: Keynote address by Rashad Cassim Deputy Governor of the South African Reserve Bank at the CFA Society South Africa and Investec Breakfast Conversation
+Data: 2023-05-10
+Palestrante (estimado): Rashad Cassim Deputy Governor
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2023/Keynote-address-by-Rashad-Cassim-Deputy-Governor-of-the-SARB-at-the-CFA-Society-South-Africa-and-Investec-Breakfast-Conversation
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2023/dg-cassim/An%20address%20by%20Rashad%20Cassim%20Deputy%20Governor%20of%20the%20South%20African%20Reserve%20Bank%20at%20the%20CFA%20Society%20South%20Africa%20and%20Investec%20Breakfast%20Conversation.pdf)
+----------------------------------------------------------------------
+
+Keynote address by Rashad Cassim,
+Deputy Governor of the South African Reserve Bank,
+at the CFA Society South Africa & Investec Breakfast Conversation,
+Pretoria, 10 May 2023
+South Africa’s new system for implementing monetary policy
+For most of my career at the SARB, as a member of the monetary policy committee, I have
+worked on interest rate decisions. But only recently have I taken on the financial markets
+portfolio, and with it oversight of how monetary policy is implemented, so that interest rates
+transmit to the economy.
+As it happens, this has been an interesting time to make that shift, because we have been
+making big changes to our monetary policy implementation framework.1
+I would therefore like to centre this speech on monetary policy implementation. Later we can
+discuss the outlook for the economy, and the challenges facing monetary policy. But I hope it
+will be interesting for all of you as I reflect on the underlying plumbing of monetary policy,
+including the role of our balance sheet, the monetary base and money creation, and the
+payments system.
+The main aim of monetary policy implementation in South Africa, as in many other economies,
+is to keep short-term market rates close to the policy rate chosen by the MPC. What we are
+really doing is setting the return on the safest and most liquid rand asset – the yield on money
+– which our relatively large and sophisticated financial markets then factor into other asset
+prices, taking into account their different risk and liquidity characteristics. In this way, our
+control of a relatively small asset class allows us to have significant effects on much larger
+financial markets, and ultimately influence the real economy.
+What exactly is this money we control? If you look at the Reserve Bank’s balance sheet, you
+will find two things that can be called money. One is notes and coin. These are Reserve Bank
+liabilities which are carried around by the general public. Their total value is about R170 billion
+currently. Everyone is familiar with these, but they are not very important for monetary policy
+implementation. We provide notes and coin in whatever amount is demanded by the public,
+and pay no interest on these, so they are not a lever we use for controlling interest rates.
+1 Detailed information on the new framework is available at: https://www.resbank.co.za/en/home/what-we-
+do/financial-markets/monetary-policy-implementation-framework
+The other is electronic money, which is known as bank reserves or settlement balances. This
+is a form of money held exclusively in SAMOS, the South African Multiple Option Settlement
+System, which is the backbone of the national payments system. It is managed by the SARB.
+SAMOS accounts are held mainly by banks, 28 currently, who transact directly with the
+Reserve Bank. They use these reserves to settle payments between each other. The total
+supply of bank reserves is around R220 billion, of which about R140 billion is required
+reserves. This is the form of money used to implement monetary policy.
+This R220 billion is only a fraction of the total amount of money in the economy. If you turn to
+our Quarterly Bulletin, where you will find comprehensive statistics on monetary aggregates
+or money supply, you will see that M3 – which is a broad measure of money, including all bank
+deposits and money market shares – was R4.72 trillion at the end of 2022. The total supply of
+SARB money was therefore only about 8% of total money in the economy.
+How is it that most money is not SARB money? Why can anyone else can create money? Isn’t
+that counterfeiting?
+In fact, money creation is a normal characteristic of a banking system. Banks routinely create
+money through the process of making loans. It works in a very simple way.2 A bank takes in a
+deposit and that deposit meets the definition of money – for example, this is the money you
+have in the bank. But then the bank makes a loan, for instance to someone who borrows for
+a car or a house. And that loan also appears as a deposit at a bank, which is also money. In
+this way, the act of credit creation expands the money supply.
+The constraint on banks is that every deposit is a promise to pay in bank reserves, which are
+the liabilities of the central bank.3 Banks have no power to create these and can instead only
+access them on terms worked out by the central bank, through its monetary policy
+implementation framework. This creates a powerful constraint on banks. Whenever they
+create money, they are obliged to ensure these rands are always valued at par with bank
+reserves. This obligation is tested many times daily: every time a payment goes from one bank
+to another, this settlement is conducted through the SAMOS system using bank reserves. So,
+if bank A creates money by extending a loan to a household, and that household then buys
+something from someone who banks with Bank B, Bank A will have to transfer bank reserves
+to Bank B. If they don’t have the bank reserves to settle, this bank will be in great trouble. For
+this reason, while the SARB only creates a small fraction of the money in the economy, it sets
+the standard for what that money is worth. This is the basis for modern monetary policy
+implementation.
+Let’s now consider how monetary policy was implemented before our recent reform.
+Between 1998 and 2022, monetary policy in South Africa worked through a shortage or
+classical cash reserve system. Essentially, we created fixed demand for bank reserves by
+levying a reserve requirement on banks. We then drained cash so the market was short: the
+amount of money needed for the reserve requirement was larger than the amount available.
+2 In John Kenneth Galbraith’s memorable phrase, “The process by which banks create money is so simple that
+the mind is repelled.”
+3 For an accessible discussion of this process, see Pontus Rendahl & Lukas B. Freund. “Banks do not create
+money out of thin air”14 December 2019. Available at: https://cepr.org/voxeu/columns/banks-do-not-create-
+money-out-thin-air
+This forced banks to come to the SARB to fund the missing balances, which we provided
+through weekly auctions where we charged the repo rate.
+In theory, and most often in practice too, the market ended up with exactly enough liquidity to
+satisfy reserve requirements, no more and no less. For excess reserves, which is any cash
+banks were not required to hold for regulatory purposes, the SARB would only pay a penalty
+deposit rate of repo minus 1%. This incentivized banks to minimise their holdings of banks
+reserves, lending out spare cash to other banks. With an efficient interbank market, at the end
+of each day banks would all be able to meet their reserve requirements precisely, with no
+surplus balances.
+This used to work quite smoothly and gave us reasonably effective monetary policy
+transmission. But the framework became increasingly difficult to operate over time, mainly due
+to the accumulation of foreign-exchange reserves, which were funded with the creation of new
+bank reserves. To maintain a shortage, we had to drain these, and we were worried that our
+draining tools wouldn’t be up to the task.
+In 2020 this risk manifested: we had a bond purchase programme to prevent severe market
+dysfunction; we opted to absorb the dollar flows from the IMF and other multilateral lenders
+into the foreign exchange reserves; we participated in the loan guarantee scheme. All these
+things increased SAMOS balances. We also faced a dilemma: in conditions of financial strain,
+our financial stability mandate inclined us to provide more liquidity, but our implementation
+framework still required us to create a shortage of liquidity.
+For the next two years, we muddled through. We tolerated a smaller shortage than before, in
+the region of R30 billion rather than R56 billion. To create this shortage, despite greater
+liquidity pressures, we had to use draining tools which were distortionary and expensive. For
+instance, we relied quite heavily on FX swaps, which contributed to high and volatile rates in
+the forward market, likely hampering investment by non-residents.4 The volumes of public
+sector funds we took into the SARB cost around 30 basis points over repo.5
+In addition, we were concerned that our toolkit could fail if the supply of bank reserves
+increased further, in which case the shortage might have disappeared. In particular, we knew
+National Treasury might need its deposits at the SARB, of which R26 billion had been drawn
+during COVID, leaving just over R40 billion – more than the existing shortage.
+At the same time, we were fortunate that leading central banks had accumulated a wealth of
+experience in dealing with surplus liquidity. This meant we could draw on their experiences to
+design a framework better suited to South African conditions, rather than trying to invent
+something from scratch.
+What we came up with was in many ways the mirror image of the old framework. Whereas the
+old system depended on a shortage of bank reserves, the new one relies on a surplus, and
+where once the borrowing facility was the locus of policy transmission, so now this is a deposit
+4 For further details, see Box 5 of the April 2021 Monetary Policy Review, available at:
+https://www.resbank.co.za/content/dam/sarb/publications/monetary-policy-
+review/2021/MPRApr21Internet.pdf
+5 This refers to the CPD deposits taken on call at the SARB, rather than being placed with the market
+facility. This meant we could stop draining liquidity, unwind those operations and let banks
+hold extra cash instead, on which they could earn the policy rate.
+The logic of this system is that abundant liquidity puts downward pressure on rates. But the
+deposit facility forms a floor: it is not attractive to lend to anyone else, or buy assets, with an
+inferior return to what the SARB offers. For this reason, these frameworks are often called
+floor systems.
+For our MPIF, we adopted a version of a floor system called a tiered floor, which had been
+pioneered in New Zealand and Norway. Tiered floors put limits on how much banks can leave
+with the central bank and still earn the policy rate; if you exceed your quota, you earn a lower
+rate. The motivation for adding this feature is to prevent banks from hoarding reserves,
+maintaining a functioning interbank market. Unlike countries with pure floor systems, we have
+not expanded our balances sheet so much that there is an enormous excess of bank reserves.
+We therefore wanted banks to lend some of their surplus to other banks, so the supply would
+be sufficient even without circulation of bank reserves through the interbank market. The idea
+is that the implementation framework isn’t, by itself, forcing the SARB to expand its balance
+sheet.6
+This new system was phased in between June and August last year. The transition to the new
+MPIF was generally smooth: we undertook extensive consultation with stakeholders before
+the transition, and we published a clear transition roadmap, which likely helped pre-empt
+problems and misunderstandings.
+Initially we moved to a surplus of around R50 billion. Recently National Treasury has drawn
+down those deposits I mentioned earlier, and this has shifted the surplus to around R80 billion.
+We have learnt from operating the system that it would likely function effectively with a surplus
+under R40 billion. Even when the surplus dipped to around those levels, on occasion, we did
+not see upward pressure on other market rates, and we did not see any more demand at our
+weekly repo auction.
+The reason for building a bigger surplus than this is simple: it is cheaper, simpler and less
+distortionary to pay repo on excess bank reserves, in quotas, than to manage this liquidity
+using other tools. The size of the surplus is therefore based first on what quantity is sufficient
+to keep rates near the floor, and second on what achieves efficient management of the SARB’s
+liability structure.
+At this point in time, it seems safe to say we have successfully implemented a floor or surplus
+system of monetary policy implementation in South Africa.
+This has a few interesting implications.
+One, to our knowledge, we are the first emerging market to implement a floor-type system.
+These structures are now widely used by advanced economies, but until now emerging
+markets have not joined the trend. During our reform, we faced many questions about whether
+floor systems are suitable for emerging markets. Now there is better evidence than before to
+6 A recent discussion of this principle is Claudio Borio. “Getting up from the floor” 10 March 2023. Available at:
+https://www.bis.org/speeches/sp230426.pdf
+say that they are: it is working in South Africa. This is useful information for peer countries who
+share our excess liquidity situation.
+Two, we have relaxed the trade-offs between our price and financial stability mandates. With
+floor systems, unlike scarce-reserve systems, you can operate the balance sheet as a
+separate tool to interest rates, something central bankers call the ‘decoupling principle’.7 For
+instance, you can inject liquidity during periods of financial stress, to stabilise that system,
+without compromising the freedom of the monetary policy committee to select an interest rate,
+which will be implemented using the interest-on-reserves tool.8 Next time we hit a crisis, we
+anticipate the financial system will start off more resilient, given a larger pre-existing liquidity
+supply. And if this proves inadequate, we have powerful tools to inject further liquidity.
+Three, we seem to be getting more complete monetary policy transmission. In the old system,
+we could see the interbank market was struggling to achieve an efficient allocation of reserves,
+from 2020 onwards, with increased use of our penalty rate standing facilities each day. For
+instance, large volumes of excess reserves, on average about R5 billion a day, were coming
+back to the SARB each night and earning repo less 1 percentage point, something the system
+was meant to discourage, and which hadn’t happened before the onset of COVID.
+Worse, rates were not transmitting smoothly from the interbank market into the financial
+system. I mentioned earlier the problem of high and volatile rates on FX swaps – rates which
+have now compressed much closer to the policy rate, with significantly lower volatility. Another
+example is the repo market, where firms raise cash using collateral such as government
+bonds. We used to observe borrowing costs that differed markedly for residents and non-
+residents, with rates well above the policy rate even for short-term loans. Now we have seen
+these rates much closer to each other, and closer to our policy rate.
+To conclude, monetary policy implementation is generally one of those things that works best
+when most people don’t have to worry about it, like plumbing or electricity. Nonetheless,
+interest rates play a crucial role in all modern economies9; monetary policy is an important
+driver of these rates; and the process of policy transmission affects how these decisions reach
+into the economy, ultimately affecting all of us. I hope, therefore, it has been interesting and
+useful to you to reflect on our reforms in this area.
+Thank you.
+7 Jaime Caruana. “Unconventional monetary policies in time of crisis” SUERF Annual Lecture. 16 November
+2009. Available at: https://www.bis.org/speeches/sp091118.htm
+8 Philip Turner. The New Monetary Policy Resolution: Advice and Dissent. NIESR Occasional Paper. No. LV. 2021.
+Available at: https://www.niesr.ac.uk/wp-content/uploads/2021/02/New-Monetary-Policy-Revolution.pdf
+9 A recent reiteration of this point is Jamie Dimon. “Chairman and CEO letter to shareholders” JP Morgan
+Chase and Co. Annual Report 2022. Available at: https://reports.jpmorganchase.com/investor-
+relations/2022/ar-ceo-letters.htm “Interest rates are extraordinarily important — they are the cosmological
+constant, or the mathematical certainty, that affect all things economic.”

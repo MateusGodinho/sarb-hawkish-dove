@@ -1,0 +1,320 @@
+Titulo: Lesetja Kganyago | From fragility to strength: The role of price stability
+Data: 2025-08-12
+Palestrante (estimado): Lesetja Kganyago
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2025/lesetja-kganyago-price-stability
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2025/kganyago-price-stability.pdf)
+----------------------------------------------------------------------
+
+Address by Lesetja Kganyago,
+Governor of the South African Reserve Bank,
+National School of Government
+12 August 2025
+From fragility to strength: The role of price stability
+Good evening.
+Let me start today’s address with two questions. First, if you compare South Africa to
+other countries, how do we rank in relation to growth? And second, how do we rank
+for inflation?1
+As you know, economic growth in South Africa has been weak, averaging a mere 0.8%
+annually over the past ten years. This growth performance is worse than that of 87%
+of other economies.2 The few countries doing worse than us are those that suffered
+major disasters, like war or macroeconomic collapse. Examples include Sudan,
+Lebanon and Ukraine. Given that we have had peace and basic macroeconomic
+stability, South Africa’s growth is extremely disappointing.
+What about inflation? Here again we underperform. Our average inflation rate over ten
+years is 5.1%.3 This is not a catastrophe. Venezuela and Zimbabwe have excessive
+inflation rates of 9 000% and 251% respectively.
+1 The statistics in this section are based on the full International Monetary Fund World Economic
+Outlook database for April 2025.
+2 Using just 2024, South Africa ranks in the 12th percentile, still worse than nearly nine of 10 other
+countries.
+3 The precise 10-year average is 4.995%.
+1
+However, our inflation performance is still mediocre. Our price level is more than 60%
+higher than it was in 2015. Something that cost R60 ten years ago now costs about
+R100.4
+In a nutshell, we are in the bottom 10% of the class for growth and the bottom 30% for
+inflation. This is not the kind of country report you want.
+How did we get here, and what can we do about it?
+Let us turn to macroeconomic policy.
+I’ll start with the path travelled by monetary policy and then discuss broader issues of
+macroeconomic policy interaction.
+Inflation targeting in South Africa got underway in the year 2000. Like many countries,
+we came to inflation targeting after other approaches were tested and failed. Also like
+many other countries, once we started inflation targeting, we found it worked, certainly
+better than previous frameworks. We stopped losing money on foreign exchange
+interventions, inflation moved lower and interest rates also shifted down.
+This was a period of serious macroeconomic reform in South Africa. In hindsight, it
+seems like a golden age – and inflation targeting, together with exchange rate flexibility
+and prudent fiscal policy that reduced debt, were the pillars of the new architecture.
+By the end of the decade, the central bank had consolidated its framework and built
+credibility, helping the country survive the Great Financial Crisis. Indeed, at the time,
+that crisis seemed primarily like a failure of the North Atlantic economies, and there
+was considerable excitement that emerging markets would decouple from advanced
+economies and lead the world in growth.5
+4 The consumer price index was at 61 points for 2014; by 2024 it was 99.3 points.
+5 See, for instance The Economist, ‘The Decoupling Debate’, March 2008, the blurb of which read:
+“As America’s economy struggles to stay aloft, the developing world is learning to spread its wings.”
+2
+Unfortunately, this theory did not pan out – not for South Africa, and not for other
+emerging market stars, like Brazil, either. In the 2000s, South Africa’s economic growth
+averaged 3.5% a year. Between 2010 and 2016, it slowed from 3% to 1.9% to less
+than 1%.6
+Initially, this was interpreted as a temporary setback. Given this diagnosis, monetary
+policy prescribed a low repurchase rate, generally below inflation, and the 3% to 6%
+target range was treated as an implicit target of 5.99%.7
+As the decade wore on, however, it became clear that growth was not improving. The
+problem was larger than weak demand, and inflation pressures were intensifying. In
+2013, South Africa stood out as one of the ‘fragile five’, the economies most vulnerable
+to tightening global financial conditions. Part of our weak growth problem was
+highlighted by the 2015 Nenegate incident, which showed the scale of waste and
+corruption involving state capture.
+With inflation higher at around 6% and weaker economic growth, the SARB changed
+course. Between 2014 and 2016 interest rates rose from 5.5% to 7%. We stopped
+treating the top of our 3% to 6% range as the implicit target and, in 2017,
+communicated our preference to target the 4.5% midpoint as our objective.
+A lower inflation rate would enable policy to ease and support the economy despite
+the various factors dragging growth down. It would also allow policy to be more flexible,
+even if inflationary shocks materialised. Improving the credibility of monetary policy
+could strategically offset the deteriorating fiscal position, slowing growth and the
+effects of weakened institutions.
+By the end of the decade, inflation had come down nicely and inflation expectations
+had largely adjusted to 4.5%. Other policy adjustments helped too, in particular the
+6 Using the International Monetary Fund World Economic Outlook data, South Africa’s growth was
+3.04% in 2010; 2.4% in 2012; 1.4% in 2014; and 0.67% in 2016.
+7 For a discussion, see L Kganyago, ‘Inflation targeting at 21 – lessons for the future’, 8 September
+2021. Available at: https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-
+governors/2021/gov-
+kganyago/A%20public%20lecture%20by%20Lesetja%20Kganyago%20Governor%20of%20the%20S
+outh%20African%20Reserve%20Bank%20at%20Stellenbosch%20University.pdf
+3
+emphasis on better capacitating the state and moving faster on reforms to the energy
+market.
+But just as the domestic situation was stabilising, the external environment was taking
+a turn for the worse. The COVID-19 pandemic hit just a few months into the new
+decade. It was followed by the worst global inflation surge in a generation, plus rising
+geopolitical risks, with wars in Ukraine and the Middle East. This year has added
+another crisis, that of global trade.
+Despite all this turbulence, prices today are very close to where they would have been
+since 2020, with inflation consistently at 4.5%. Inflation expectations have stayed
+within our target range and are currently close to the midpoint.8 This is a good
+illustration of the power of monetary policy to shape long-run inflation outcomes.
+If monetary policy is the main determinant of longer-run inflation, and if South Africa is
+a relatively bad inflation performer, then we must take responsibility for this. That was
+why the independent review of monetary policy, commissioned by National Treasury,
+concluded that policy was not ambitious enough. We were not realising the full benefits
+of inflation targeting.9
+We heard much the same message from a range of local and foreign experts at our
+research conference in Cape Town earlier this year. Most speakers argued that we
+should be aiming for 3% inflation. One even argued for 2%. We finished with a strong
+consensus that our inflation target should be lower.10
+This is no great surprise. After all, the original 3% to 6% target band was meant to be
+narrowed to 3% to 5% and then 2% to 4%. There was no plan to have 3% to 6% last
+for a quarter century. Our peers have all lowered their targets. We have just been
+8 The Bureau for Economic Research survey of inflation expectations for the second quarter of 2025
+showed average expectations at 4.3% for 2026, 4.5% for 2027 and 4.4% over the next five years.
+9 The third recommendation of the report reads as follows: “The current definition of the target – a 3-
+6% band – is not ambitious enough and significantly reduces the benefits that the inflation-targeting
+framework could otherwise provide.” See P Honohan and A Orphanides, ‘Monetary policy in South
+Africa, 2007-2021’, SA-TIED Working Paper: 208, 2022, pp 37. Available at: https://sa-
+tied.wider.unu.edu/sites/default/files/SA-TIED-WP208.pdf
+10 Conference materials, including videos of all the sessions, are available at:
+https://www.resbank.co.za/en/home/what-we-do/research/Biennial
+4
+laggards in this regard. This is why we show up as a comparatively high inflation
+country from a global perspective.11
+What can we do about this?
+As the International Monetary Fund has pointed out, the procedures for setting South
+Africa’s inflation target are not transparent.12 We can refer to precedents since 2000,
+when the 3% to 6% target was announced. In the 2000 Budget Speech former Finance
+Minister Trevor Manuel said: “The Governor of the Reserve Bank and I have agreed
+on a target band of 3% to 6%. The objective is to bring inflation within this band by
+2002.” However, this arrangement is not codified in law.
+It is clear that the South African Reserve Bank (SARB) has a constitutional obligation
+to protect the value of the currency, and so we cannot accept a target that is
+inconsistent with price stability. However, there are advantages to setting targets as
+agreed on between the SARB and National Treasury. We have been consulting on
+such an agreement for several years now and we would like to see the existing 3% to
+6% target reformed.
+As the saying goes, “opportunity knocks”, and over the past year that opportunity has
+come fast on the completion of the technical work on the optimal inflation target. Actual
+inflation has eased to 3%, presenting us with a chance to achieve permanenty lower
+inflation, at low cost – what economists call ‘opportunistic disinflation’. The question
+was how to respond.
+Given the strong case for moving to a lower target at some point, it did not make sense
+to ignore this. But we also did not have a new target. What we did have was an existing
+target range that stretched from 3% to 6% – or, as former SARB Governor Tito
+Mboweni liked to say, from 6% to 3%.
+11 C Loewald, R Steinbach and J Rakgalakane, ‘Less risk and more reward: revising South Africa’s
+inflation target’, SARB Working Paper 25/05, 2025, especially pp 7. Available at:
+https://www.resbank.co.za/content/dam/sarb/publications/working-papers/2025/less-risk-more-
+reward.pdf
+12 International Monetary Fund, ‘South Africa: Central Bank Transparency Code Review’, 2024. see
+for instance pp 24. Available at: https://www.imf.org/en/Publications/CR/Issues/2024/12/02/South-
+Africa-Central-Bank-Transparency-Code-Review-557776
+5
+Historically, as discussed earlier, we have aimed for different points of the range: at
+one point the 6% upper bound was the de facto target, and since 2017 we have
+focused on the 4.5% midpoint. These precedents set forth a way for the SARB’s
+Monetary Policy Committee (MPC) to express its preference for 3% within the existing
+target range.
+We laid the groundwork for the shift at our May MPC meeting by publishing a scenario
+with a 3% inflation objective. We also said in our statement that we considered this
+3% scenario more attractive than the 4.5% baseline.
+At our July meeting, we then formally announced our preference for inflation to settle
+at 3%, the bottom end of the target range, and we published a forecast to get there.
+At both these meetings, we also cut interest rates. And we showed that our forecasts
+for a 3% objective had lower rates going forward than the projections for the target
+midpoint.
+Indeed, for 4.5%, our model shows interest rates settling roughly where they are now,
+at 7%. A 3% objective, by contrast, delivers an over 100 basis point reduction in
+interest rates. After our July meeting and the communication about the 3% objective,
+markets started pricing in lower future interest rates.
+There is a lesson here, and that lesson is that lower inflation allows for lower rates.
+This logic is not always intuitive, and indeed many people think a lower target means
+higher rates. So let me unpack the reasoning.
+In our modelling framework, the normal or neutral policy rate is about 7.25%.13 Of this,
+4.5 percentage points is inflation compensation and 2.75 percentage points is
+attributed to global rates plus country risk.14
+13 This refers to the neutral rate estimate, defined as the interest rate which neither accelerates nor
+slows inflation and economic activity, and which would prevail in an economy in the absence of
+shocks, where inflation is at target and output growth is in line with the economy’s potential.
+14 For a chart of this disaggregation, see the presentation for the April 2025 Monetary Policy Review
+6
+How do we get that 7.25% down? If we lower inflation to 3%, then we can take 1.5
+percentage points of inflation out. But lowering inflation to 3% will also reduce inflation
+volatility and country risk, the latter, perhaps by half a percent. As country risk and
+inflation falls, we could aim for a neutral policy rate of something more like 5.25%.
+This is something we hope to deliver with our new preference for having inflation settle
+at the lower end of our 3% to 6% target range. This cannot be a promise, but it can be
+a serious aspiration.
+Hopefully this has got you excited about lower interest rates and the practical reforms
+we can implement to get there. I hope you will also have noticed that the second-
+biggest driver of interest rates is country risk – because doing something about that
+brings me to the other key topic of this speech: macroeconomic policy interaction.
+Much of our country risk problem is that we keep forecasting debt stabilisation and it
+does not happen. Relative to gross domestic product (GDP), debt has risen in every
+year since 2008. As National Treasury points out, we have experienced one of the
+fastest debt increases of any country. We also have one of the highest debt levels in
+comparison to our peer group.15
+To address this, it sometimes seems that there are only painful choices: spending cuts
+or tax increases. But to my mind, the bigger picture is not so bad. The fiscal position
+may be strained but we have independent and credible monetary policy. This means
+we can still achieve a reasonably attractive macroeconomic mix.
+release, slide 9, available at: https://www.resbank.co.za/content/dam/sarb/publications/monetary-
+policy-review/2025/MPF%20presentation%20April%202025.pdf. The 4.5% inflation compensation is
+equivalent to the inflation target midpoint.
+15 See for instance Figure 1.3 of National Treasury’s Medium Term Budget Policy Statement for 2024,
+available at:
+https://www.treasury.gov.za/documents/mtbps/2024/mtbps/FullMTBPS.pdf?utm_source=chatgpt.com
+7
+Specifically, if there were widespread confidence that debt levels were heading lower,
+this would create space for monetary policy to support growth through lower interest
+rates.16
+All the drivers point in the same direction: credible fiscal consolidation would lower
+country risk. Improved investor confidence would also help the rand, which eases
+inflation. Tight fiscal policy might reduce demand but that would also be
+disinflationary.17
+Imagine sitting for an Economics exam and getting the following question: “What is the
+correct monetary policy response for a small open economy where growth is weak,
+inflation is low and the fiscal authority is tightening policy?” Your professor is going to
+expect you to say, “looser monetary policy”.
+Incidentally, I have heard that students nowadays use artificial intelligence (AI) for their
+homework, so I posed this exact question to DeepSeek and ChatGPT. Both suggest
+more accommodative monetary policy.18 I am not saying we should be using AI to set
+macroeconomic policy. But it is a reminder that there is a textbook solution that can be
+applied to our macroeconomic problems. And yet it is largely missing from our public
+macroeconomic conversation.
+Unfortunately, rather than considering the macroeconomic mix, we sometimes get
+stuck debating consolidation versus growth. It is sometimes asserted that South Africa
+does not have a debt problem, it has a growth problem. No doubt, sustained, high
+16 For a discussion, see in particular section 9 of C Loewald, D Faulkner and K Makrelov, ‘Time
+consistency and economic growth: a case study of South African macroeconomic policy’, SARB
+Working Paper: 20/12, 25 November 2020. Available at:
+https://www.resbank.co.za/content/dam/sarb/publications/working-
+papers/2020/10421/WP%202012.pdf
+17 In a standard Taylor rule, like the one used in the MPC’s Quarterly Projection Model, weaker
+demand would also make the output gap more negative, putting downward pressure on interest rates.
+18 ChatGPT: “In a small open economy facing weak growth, low inflation, and simultaneous fiscal
+tightening, the appropriate monetary‑policy response is to pursue a more accommodative stance in
+order to stabilize aggregate demand and anchor inflation expectations.” DeepSeek: “For a small open
+economy facing weak growth, low inflation, and fiscal tightening, the optimal monetary policy
+response should aim to stimulate demand without triggering capital flight or currency instability.”
+8
+growth could solve our debt problem. But it does not follow that the economy is capable
+of flourishing in the context of fiscal fragility.19
+Instead, we need to appreciate how our growth problem is endogenous to our fiscal
+situation. It is growth negative to have a high and rising tax burden – especially where
+the quality of spending is low. It hurts to have high long-term borrowing costs and a
+sub-investment grade credit rating. These factors help explain why fiscal multipliers in
+South Africa are so small. Extra government spending does little or nothing for total
+output.20
+This shows why growth on its own will not solve our fiscal problems without fiscal
+adjustment. It is also the reason we absolutely cannot attempt an expansionary
+strategy that aims for growth at the expense of macroeconomic stability, with the
+justification that growth will itself be stabilising in the end. The best thing we could do
+for growth, on top of structural reforms, is to deal decisively with the country risk
+premium. It is not growth or stabilisation; it is growth through stabilisation. And that is
+because de-risking the economy, in addition to boosting confidence, would open up
+monetary policy space.
+This way of thinking also raises new funding opportunities for government. Our recent
+fiscal debates have mostly focused on growth, revenue and spending: how fast can
+the economy grow, how much more tax can be extracted and what should happen to
+spending? But there is a fourth consideration, which is how debt is financed. All these
+are the preserve of National Treasury.
+19 On the austerity-stimulus debate, see J Bianchi et al, ‘Fiscal stimulus under sovereign risk’, 2023,
+and references therein. Available at:
+https://www.nber.org/system/files/working_papers/w26307/w26307.pdf
+20 T Janse van Rensburg, S de Jager and K Makrelov. ‘Fiscal multipliers in South Africa after the
+Global Financial Crisis’, SARB Working Paper: 21/07, 2021. Available at:
+https://www.resbank.co.za/en/home/publications/publication-detail-pages/working-papers/2021/fiscal-
+multipliers-in-south-africa-after-the-global-financial-cr
+9
+We all know debt financing is a huge spending item, 5% of GDP, more than spending
+on health, policy and basic education.21 This reflects a large stock of debt. But it also
+reflects the interest rates on that debt.22
+I have already covered what keeps the short-term policy rate high. But long-term rates
+are even higher: the 10-year bond yield is just below 10%, about 300 basis points
+above the short-term rate. Our 2048 bond is higher still. As economists say, our yield
+curve is very steep. This reflects risks that are not present in the overnight cash rate,
+mainly credit risk. You are asking investors to lock in exposure for decades, and
+endure losses if debt does not stabilise and rates rise further. They are willing to bear
+that risk – but at a high price.
+With nominal GDP growing at about 5%, paying 10% interest to borrow long term,
+eventually crowds out private investment and other government spending priorities. If
+we borrow to pay only interest on existing debt, we open ourselves up to a debt spiral.
+There are some unwise responses to this fact, like urging the SARB to monetise
+government debt. But there are also some constructive responses.
+If we can reduce interest rates through permanently lower inflation, and by de-risking,
+we can finance debt at lower costs. This would make a big difference. Just to put some
+indicative numbers on this, for a debt stock of R5 trillion, every percentage point you
+save in interest is worth R50 billion. By contrast, a one percentage point increase in
+value-added tax raises about R30 billion.23 And we could realistically save on debt
+costs.
+It is not my role to set the issuance strategy. That is the work of National Treasury. But
+good monetary policy can help create opportunities for fiscal policy, which a nimble
+debt manager could seize. The objective should be unlocking a virtuous circle, where
+lower interest rates improve fiscal dynamics, and better fiscal dynamics in turn lower
+21 See E Godongwana, Budget Speech, 12 March 2025. Available at:
+https://www.treasury.gov.za/documents/national%20budget/2025/speech/speech.pdf, p. 3
+22 This helps explain why South Africa’s debt-service costs are significantly higher than those of peers,
+as demonstrated in National Treasury, 2025 Budget Review, 12 March 2024, pp 1–2 Available at:
+https://www.treasury.gov.za/documents/national%20budget/2025/review/FullBR.pdf
+23 Based on Table 4.3 of the March 2025 Budget Review, available at:
+https://www.treasury.gov.za/documents/National%20Budget/2025/review/FullBR.pdf
+10
+rates. Doing this requires a macroeconomic set up where the SARB and National
+Treasury play complementary roles.
+Ladies and gentlemen, to conclude, there are clear microeconomic problems behind
+our unfavourable growth performance. The proper response to this is structural and
+governance reforms, which are ongoing. It is vital that these continue at pace. There
+is no chance we can develop a flourishing economy without reliable infrastructure and
+functional municipalities.
+In addition to these microeconomic reforms, there is a significant opportunity to
+achieve a better macroeconomic mix. With a lower inflation target and fiscal policy that
+firmly prioritises debt stabilisation, we could achieve sustainably lower interest rates.
+This would give monetary policy more space to support growth, and it would give fiscal
+policy respite from high debt costs.
+South Africa is a macroeconomic underperformer. But with the right reforms we could
+do much better.
+Thank you.
+11

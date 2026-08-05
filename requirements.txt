@@ -1,0 +1,22 @@
+# --- Scraping (resbank.co.za: HTML + PDF statements/speeches) ---
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+pdfplumber>=0.11
+
+# --- Sentiment scoring, topic modelling (LDA), LOWESS smoothing ---
+numpy>=1.26
+scikit-learn>=1.3
+statsmodels>=0.14
+
+# --- Static charts (topic evolution / top-words panels) ---
+matplotlib>=3.8
+
+# --- Reproducible notebook ---
+jupyter>=1.0
+ipykernel>=6.29
+
+# --- Optional: only needed for scripts/score_llm.py, a scaffolded but
+# not-yet-run second scoring method (see README "Roadmap"). Requires
+# ANTHROPIC_API_KEY to be set.
+anthropic>=0.117

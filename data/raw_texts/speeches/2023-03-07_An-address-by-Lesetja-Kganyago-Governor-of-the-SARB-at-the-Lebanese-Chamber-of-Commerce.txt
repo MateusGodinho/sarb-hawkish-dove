@@ -1,0 +1,184 @@
+Titulo: An address by Lesetja Kganyago Governor of the South African Reserve Bank (SARB),  at the Lebanese Chamber of Commerce
+Data: 2023-03-07
+Palestrante (estimado): Lesetja Kganyago Governor
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2023/An-address-by-Lesetja-Kganyago-Governor-of-the-SARB-at-the-Lebanese-Chamber-of-Commerce
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2023/gov-kganyago/An%20address%20by%20Lesetja%20Kganyago%20Governor%20of%20the%20South%20African%20Reserve%20Bank,%20%20at%20the%20Lebanese%20Chamber%20of%20Commerce.pdf)
+----------------------------------------------------------------------
+
+An address by Lesetja Kganyago,
+Governor of the South African Reserve Bank,
+at the Southern African Lebanese Chamber of Commerce,
+Pretoria, 7 March 2023
+How the new global environment is influencing
+the state of South Africa’s economy
+Introduction
+Ladies and gentlemen, it is my pleasure to address you today at this event hosted by
+the Southern African Lebanese Chamber of Commerce. I commend the efforts of the
+Chamber to deepen economic ties between Lebanon and Southern Africa, especially
+the long-established and thriving Lebanese community in South Africa. Last year,
+trade between South Africa and Lebanon amounted to over R170 million. As we look
+into the future, I believe there is room to strengthen ties even more.
+The topic chosen for my address – how the global environment is influencing the state
+of South Africa’s economy – could not be more topical. Since the spread of the
+COVID-19 pandemic across the globe three years ago, the world economy has faced
+numerous shocks, which have compounded the domestic challenges faced by South
+Africa and complicated the task of central bankers, both here and in the rest of the
+world.
+COVID-19 and other macroeconomic shocks
+The major disruptions since the onset of the pandemic in early 2020 challenged the
+belief of many that the world had entered a long phase of low and stable inflation. We
+now know that the ‘closing and reopening’ of economies due to the pandemic would
+not occur without major supply and demand mismatches in most markets. Supply
+chains, stretched by the staggered reopening of economies, only proved as resilient
+as their weakest link, resulting in major delivery lags and higher costs in key industries.
+Labour supply did not adjust automatically when firms began to hire again, resulting in
+tight labour markets and, in some jurisdictions such as the United States or the United
+Kingdom, an unusually high level of unfilled vacancies relative to unemployment.
+There was no precedent in recent history that we could learn from relating to the policy
+responses required to manage the pandemic shock. Even after economies had re-
+opened, fears of long-term scarring, including bankruptcies and permanent job losses,
+prompted coordinated responses from governments and central banks to uphold
+highly stimulative policies. In retrospect, we now know that such stimulus provided
+excess support to demand at a time when supply was struggling to adjust, which
+compounded inflation.
+The war in Ukraine, which exacerbated the shock to prices of oil, gas and some inputs
+into food production, such as fertilisers, added to the global inflation problem. Even a
+country like South Africa, where supply constraints did not originate, faced price
+pressures from more expensive imports, shortages of key inputs, elevated shipping
+costs and the depreciation of the rand as financial markets repriced the outlook for
+global interest rates. Worldwide inflation pressures have forced broad-based and, in
+many cases, unusually fast monetary policy normalisation.
+Where do we stand now?
+Thankfully, some of the shocks that caused the global inflation surge have begun to
+abate, albeit at a slow pace. Energy and agricultural commodity prices have fallen.
+Shipping costs have largely normalised; other input prices have slowed significantly
+too. Yet, in many countries, inflation remains far above target and is showing signs of
+persistence in several sectors. This is particularly the case in non-housing services,
+where prices are highly dependent on wage growth, but also in some consumer goods.
+In South Africa, headline inflation also remains above the upper end of the target band,
+though it has been gradually moderating since the latter part of 2022 – primarily driven
+by a decline in fuel prices from the peaks observed mid-2022. However, we are not
+completely out of the woods yet. Domestic fuel prices have been rising, albeit
+moderately, and there is a risk that we could see further increases in the coming
+months, largely as a result of exchange rate volatility. This shows that the domestic
+inflation outlook is still susceptible to global factors, exacerbated by domestic
+conditions, of course.
+In South Africa, food price inflation has yet to peak, despite the decelerating trend
+observed in global agricultural commodities. Domestic meat prices are still
+accelerating, reflective of lingering supply constraints in the beef market following last
+year’s outbreak of foot and mouth disease. While these constraints are expected to
+gradually unwind over the near term, persisting electricity supply issues ‒ and the need
+for costly energy alternatives ‒ will keep raising input costs for food producers in
+industries such as poultry and dairy farming. These may be passed through to
+consumers.
+Although core inflation has come in lower than our expectations over the past two
+months, we still caution that it remains above the midpoint of the South African
+Reserve Bank’s (SARB) target of 3‒6%. In fact, our baseline view is that core inflation
+‒ particularly core goods ‒ is likely to remain sticky over the next few months, before
+starting to ease over the medium term. For now though, prices of exchange rate-
+sensitive goods continue to accelerate. In the services sector, while some components
+have surprised on the downside over recent months, we may start to see the margins
+in some of these sectors, such as insurance and housing, also starting to pick up pace
+and, as such, exert upside pressure on overall inflation.
+As we have communicated before, the SARB will continue to monitor price
+developments and act to guide inflation back to the midpoint of the target band over
+the medium term. Elsewhere in the world, major central banks have repeatedly
+indicated that they have not yet completed their policy normalisation. They may need
+to keep policy in restrictive territory for an extended period until clear signs emerge
+that inflation is returning sustainably to target.
+Implications for growth
+The number and pace of rate hikes needed to fight global inflation suggests we are
+likely to see weaker world growth in 2023, even ashousehold cash buffers and
+corporate profitability have limited the downside risk, so far. The International
+Monetary Fund (IMF) forecasts global growth of 2.9% this year, after growth of 3.4%
+in 2022, and this means weaker demand for the exports of small, open economies
+such as South Africa.
+Implications for the domestic economy are twofold: first, directly through weaker
+growth, and second, through a possible deterioration in our external accounts. Amid
+weaker exports volumes, combined with South Africa’s persistent and more intensive
+load-shedding as well as a deterioration of its ports and railway infrastructure, the
+SARB’s gross domestic product (GDP) growth forecast for this year currently sits at
+0.3%. Stats SA published the Q4 GDP report this morning and the outcome was much
+weaker than what we thought it would be. It seems like the adverse impact of these
+factors has already started materialising, placing further downside risk to our current
+forecast. 2022Q4 GDP came in at -1.3%, bringing growth for the year 2022 to 2.0% –
+below our estimate of 2.5% at the January MPC meeting. A deep dive into these
+numbers shows that the decline was broad-based over the quarter, with 7 out of the
+10 sectors detracting from GDP growth.
+From the expenditure side, we note the pressures faced by households, where
+elevated inflation has necessitated higher interest rates. While the domestic labour
+market also continues to recover gradually, an environment of weak growth implies
+that we may start seeing renewed job losses. Furthermore, while nominal wages have
+shown a recovery, real incomes, however, remain constrained. Nonetheless, we do
+expect household spending to remain supportive of the little growth that is projected
+for the year. This view is also corroborated by today’s GDP report, which continued to
+show positive growth in household consumption. Furthermore, although having
+moderated over recent quarters, growth in fixed investment showed some recovery in
+Q4 and is also expected to contribute positively going into 2023.
+From this it is clear that the outlook for even the relatively low growth rates we project
+over the medium term, remains highly uncertain – in light of our own domestic
+constraints. The outlook also hinges on how quickly South Africa’s structural
+constraints can be addressed over the medium term.
+From an external accounts’ perspective, South Africa has benefitted from the generally
+high commodity prices that have prevailed over the past two years. These, however,
+have been moderating since the second half of 2022, in line with the slowdown in
+global growth, with further declines in South Africa’s commodity export prices expected
+in 2023. While the reopening of the Chinese economy led to renewed strength for key
+commodities such as iron ore, platinum, copper and steel at the beginning of the year,
+this may not be sustained. The recovery in China’s economy should mostly be led by
+services, while the commodity-intensive construction sector is unlikely to rebound at a
+fast pace.
+At the same time, the persistence of domestic electricity supply constraints implies that
+more businesses and households may be investing in alternative energy solutions,
+thereby driving up imports. This, balanced against projections of lower export volumes,
+equates to a deteriorated current account balance over the short to medium term.
+The role of the financial channel
+Financial markets are another channel through which global conditions affect South
+Africa. Global growth, inflation and the pace of policy normalisation in advanced
+economies affect investor risk appetite, cross-border capital flows and, hence, the
+availability and cost of external funding. So far, considering the pace of policy
+normalisation in major economies and the extent to which ‘safe assets’ have re-priced,
+the shock has not been strong by historical standards. Capital outflows from emerging
+markets were moderate for most of 2022 and recovered in the fourth quarter as global
+conditions improved. Throughout 2022, the rand weakened by a mere 6.5% against
+the US dollar, initially helped by supportive terms of trade and South Africa’s current
+account surplus.
+But 2023 may still hold challenges on the financial front. If, as developments in
+February suggest, investors become more worried about global rates having to stay
+higher for longer, they may again shun riskier assets, and that includes South African
+bonds and equities. A similar outcome may occur if the consequence of policy
+normalisation is a deeper economic contraction than what markets currently discount.
+In both cases, South Africa may face renewed capital outflows, and the deterioration
+in the current account over the past year means this could trigger new volatility in our
+asset prices.
+Furthermore, if global investors become more selective in their choice of assets, South
+Africa may suffer from its own idiosyncratic issues and various fiscal risks such as
+rising public sector wage costs and an increasing need for fiscal support for some of
+our state-owned companies. Following the outbreak of COVID-19, unprecedented
+fiscal support in many economies has once again put sovereign debt sustainability at
+the forefront of investors’ concerns. Many emerging countries face a mix of elevated
+public debt from the pandemic as well as low growth. This, combined with the higher
+borrowing costs that currently prevail, means that attracting foreign capital can
+become more challenging.
+Concluding remarks
+It has been quite a journey since the outbreak of the pandemic. Lockdowns were
+instituted almost universally to stem the spread of the virus, while fiscal and monetary
+authorities around the world implemented unprecedented policy support for their
+economies. And as we navigated through those risk shocks and their inflationary
+impacts, the start of the war in Ukraine in early 2022 presented a new set of challenges
+for economic policy around the globe.
+The impacts of both these shocks continue to linger and present a conundrum, for
+monetary policy especially. The global economy appears to be experiencing
+stagflationary conditions – with high inflation and low growth. These conditions create
+some tension between anti-inflation policies and pro-growth policies. That
+notwithstanding, global central banks have communicated their resolve to bring
+inflation back to target, as low and stable inflation is a prerequisite for high and
+sustainable growth.
+Similarly, in South Africa, we are also faced with high inflation and weak growth, and
+face similar policy challenges. However, weak growth in our domestic context is
+aggravated by structural constraints such as inadequate electricity supply, making this
+an even more challenging task. The encouraging news is that we have started to see
+a disinflationary trend. Inflation remains quite elevated, and like our peers around the
+world, as the SARB, we remain committed to seeing inflation sustainably returning to
+target.
+Thank you.

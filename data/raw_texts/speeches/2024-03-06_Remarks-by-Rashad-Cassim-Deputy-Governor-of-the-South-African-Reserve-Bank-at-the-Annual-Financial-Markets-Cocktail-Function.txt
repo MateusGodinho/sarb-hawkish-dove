@@ -1,0 +1,155 @@
+Titulo: Remarks by Rashad Cassim Deputy Governor of the South African Reserve Bank at the Annual Financial Markets Cocktail Function
+Data: 2024-03-06
+Palestrante (estimado): Rashad Cassim Deputy Governor
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2024/Remarks-by-Rashad-Cassim-Deputy-Governor-of-the-South-African-Reserve-Bank-at-the-Annual-Financial-Markets-Cocktail-Function
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2024/Remarks%20by%20Rashad%20Cassim%20Deputy%20Governor%20of%20the%20SARB%20at%20the%20Annual%20Financial%20Markets%20Cocktail%20Function.pdf)
+----------------------------------------------------------------------
+
+Remarks by Rashad Cassim,
+Deputy Governor of the South African Reserve Bank,
+at the Annual Financial Markets Cocktail Function,
+Sandton, Johannesburg
+6 March 2024
+It is my pleasure to welcome you to this Financial Markets Department (FMD) cocktail
+function. We last hosted this function in May 2019 – just a day before the national
+elections. As COVID would have it, it has taken five years to meet again –
+coincidentally, just before another national election. Hopefully we will not have to wait
+until 2029 for our next engagement.
+This event serves a couple of important purposes. One is to acknowledge the
+important relationship we have with you, as practitioners. When I became responsible
+for financial markets, one of the things that most impressed me was the level of trust,
+expertise and commitment people were bringing to our engagements. It is really a
+model for a flourishing industry. Many of those people are here tonight. Thank you.
+The other goal of this function is to update you on what the Financial Markets
+Department has been up to. The role of a financial markets department in a central
+bank is often not well understood, in part because we perform such a complex variety
+of functions. Some are business as usual, such as managing foreign reserves or
+facilitating government bond auctions. Others are more strategic, and so we undertake
+a variety of projects and initiatives to innovate and improve, within the limits of what a
+central bank can do in the greater financial markets landscape. This cocktail is our
+opportunity to share some of our perspectives and work.
+A few of our projects are well known to you all. I won’t dwell on the benchmark
+reference rate reform, for example, which is well advanced. The main takeaway from
+the Market Practitioners Group conference held last year was that the market is
+gearing up for a new benchmark interest rate. From our perspective, we are making
+good progress, and we look forward to the market saying goodbye to Jibar
+[Johannesburg Interbank Average Rate] and switching to ZARONIA [South African
+Rand Overnight Index Average]. This will go a long way in further enhancing trust in
+the financial sector.
+1
+Similarly, we are making progress with our ongoing triparty collateral management
+initiative. We look forward to a proof of concept this year, and hopefully this system
+will be up and running in 2026.
+Another project we have worked hard on over the past year, which has had much less
+of a public profile, is the gradual refinement of our market dysfunction framework.
+Central banks have served as lenders of last resort to banks for centuries. What is
+newer is an emphasis on markets, in addition to banks, as the institutions that can fail,
+and in which central banks can achieve better equilibria by timely and well-judged
+interventions. Many of our peer central banks refer to this as market maker of last
+resort. The emphasis is on last resort.
+One of the reasons we have been developing this framework is because the market
+is deeply complex. It requires a great deal of thinking to work out what tools you need
+for what markets.
+For a start, what we have done with our new framework is identify core markets,
+defined as those which are big, connected and for which there are no ready
+substitutes. We see three such markets: the government bond market, the foreign
+exchange market, and the money market. There are obviously many other markets for
+financial products out there, but our assessment is that these are the three markets
+which the South African Reserve Bank (SARB) must keep going.
+Of course, we do not want to get trigger-happy, blundering into these markets at the
+first sign of trouble, generating moral hazard problems and wasting precious
+resources.
+Accordingly, we have invested considerable effort working out intervention strategies
+and indicators that will help us to be effective and minimise risks.
+Just because a market is showing a price you do not like, it does not mean there is
+dysfunction.
+Market dysfunction is more properly understood as the inability of markets to form
+prices. If trading is breaking down, if bid-offer spreads blow out, if small trades move
+markets by large amounts, very likely there is dysfunction – especially in markets that
+are normally deep and liquid, such as the core markets I cited.
+In these contexts, there is no contradiction between the central bank being committed
+to a market-determined price and the central bank intervening to restore market
+functioning.
+2
+A good example of this is our new FIMA1 on-lending facility, which allows us to provide
+dollar liquidity directly from the New York Federal Reserve (Fed) to local banks. Simply
+put, the US Fed is willing to lend us dollars, as South Africa’s central bank, through
+their FIMA window. We can then make these dollars available to local banks, through
+our on-lending facility. This is not an everyday source of dollar financing, because the
+rate is set above normal market rates. But it allows us to provide emergency liquidity
+in dollars, the most widely accepted foreign currency, and it will be immune to market
+dysfunction because our counterparty is the Fed. The ultimate aim is to make sure that
+the foreign exchange market remains liquid and functional, even during stress
+episodes.
+This FIMA system is a good example of a tool that works through secured lending. We
+like these tools because they are less risky, and we can set pricing and then let the
+market uptake tell us if the intervention demand is there. But we cannot always
+intervene by lending. Our most important market dysfunction operation in recent
+history was the 2020 bond market intervention, where we purchased bonds outright.
+We look back at that as a success. That said, we have also learnt some lessons from
+the episode, mostly about the indicators we rely on and the circumstances which
+warrant intervention.
+As you know, we have also consolidated our new monetary policy implementation
+framework (MPIF), which has replaced the old shortage system with a surplus system.
+To our knowledge, this is the first such system in an emerging market – although these
+kind of floor systems are common in advanced economies.
+The new framework gives us more flexibility than we used to have when we relied on
+rationing liquidity to transmit interest rate decisions. Hopefully, with more liquidity in
+the system, the chances of shortages and money market dysfunction are low. But if
+we have to intervene, we feel we can now provide whatever liquidity the system needs
+to stabilise. So this is also a powerful tool.
+This brings me to the hot topic of the day ‒ the GFECRA reform.
+There has been a great deal of discussion in the public domain in the past few weeks
+on the Gold and Foreign Exchange Contingency Reserve Account (GFECRA). I do
+not want to venture into a long discussion here on its features, as well as the details
+of the current transfer to the government as seen in the 2024 Budget Review. Instead,
+I would like to make a few comments on what the operational aspects of a distribution
+means for financial markets, as that is my main focus this evening.
+1 FIMA is an acronym for Foreign and International Monetary Authority. It is distinct from swap lines
+mainly because the collateral is US Treasury securities instead of local currency.
+3
+From time to time, a central bank must implement policy that puts strain on its balance
+sheet. This happens, for example, if it has to accumulate foreign exchange
+reserves, buy sovereign bonds in response to market dysfunction or when it has to
+make transfers to government. The strains come from the need to sterilise the effects
+of purchases on the asset side of our balance sheet to neutralise the effect of monetary
+expansion. To remain solvent, central banks then need adequate capital buffers. This
+is an important underlying principle of our agreement with government.
+What the recent discussion of GFECRA has done is put renewed focus on how finance
+experts, accountants and auditors need to work rigorously together to determine
+our capital or equity needs that arise from a particular policy decision. Failure to do
+so would have implications for financial markets and the ability of the SARB to pursue
+its mandates in future.
+That is why the settlement of unrealised GFECRA balances will follow a waterfall
+approach, which requires that we first build sufficient buffers to absorb large exchange
+rate shocks and sterilisation costs associated with the remuneration of excess
+reserves, before distributing any funds to the government.
+By moving a portion of GFECRA into our contingency reserve, we end up looking more
+like other central banks, where valuation effects are reflected in central bank equity,
+and foreign exchange reserves are funded more by central bank debt and equity –
+instead of large amounts of government equity, which has become the case in South
+Africa. The implication for government can reduce its borrowing.
+The new framework also implies that we will be expanding the money market surplus.
+We have committed to being transparent about this and sharing the transition plan so
+that banks can plan for the change. The expansions of liquidity during the 2022 MPIF
+transition and the 2023 NTSDA2 drawdown both went smoothly. I think part of that was
+our good planning, but a lot of it was skillful liquidity management by banks. We want
+to see this completed without market disruptions and without material changes to
+financial conditions. I look forward to close cooperation with you to achieve these
+goals.
+In future, I expect GFECRA distributions to be smaller, because they will reflect
+balances accumulated over one year rather than two decades. However, consistent
+with our goal of avoiding any distortions of financial conditions, National Treasury and
+the SARB have committed to stagger any disbursements of funds if the quantities are
+large enough to create disturbances. Again, we are committed to maintaining effective
+monetary policy transmission.
+2 The National Treasury Sterilisation Deposit Account contained balances deposited by the government,
+at the SARB, to drain liquidity created by the SARB to purchase foreign exchange reserves. It amounted
+to a National Treasury investment in South Africa’s foreign exchange reserves. The account became
+inactive following a R41 billion withdrawal by National Treasury in early 2023.
+4
+Let me conclude by thanking you all again for joining us this evening, and for our
+productive relationship. I will spare you the standard joke about enjoying the liquidity
+on offer.
+Thank you.
+5

@@ -1,0 +1,195 @@
+Titulo: Statement of the Monetary Policy Committee March 2023
+Data da reuniao: 2023-03-30
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/statements/monetary-policy-statements/2023/Statement-of-the-Monetary-Policy-Committee-March-2023
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/statements/monetary-policy-statements/2023/march-/Statement%20of%20the%20monetary%20policy%20committee%20March%202023.pdf)
+----------------------------------------------------------------------
+
+PRESS STATEMENT
+30 March 2023
+STATEMENT OF THE MONETARY POLICY COMMITTEE
+Issued by Lesetja Kganyago, Governor of the South African Reserve Bank
+As we enter the second quarter of the year, sticky inflation, sluggish growth and now
+elevated financial stability risks mark the global economy. Despite somewhat better
+growth outcomes in the first months of the year, we see no material easing of difficult
+global economic conditions.
+Russia’s ongoing war in the Ukraine weighs heavily on European growth prospects,
+while financial conditions in the United States continue to tighten. The growth outlook
+for China has improved but is likely to remain modest by historical standards. Many
+economies in the developing world face weaker economic growth and prolonged
+adverse financing conditions.1 With inflation and policy rates remaining higher for
+1 According to the IMF’s October 2022 Global Financial Stability Report, eight low-income countries are in debt
+distress and 30 are at high risk of distress (out of 69 countries considered low-income countries—among
+which, there are some frontier markets).
+MPC Statement 30 March 2023 Page 1
+longer, and new weaknesses emerging in financial institutions, we expect global
+financial markets to remain volatile.
+Taking these and other factors into account, the SARB’s forecast for global growth in
+2023 is revised higher to 2.0% (from 1.6%).2 Growth in 2024 is revised slightly lower
+to 2.5% (from 2.6%). The International Monetary Fund’s (IMF) January update
+forecast global growth at 2.9% in 2023 and 3.1% in 2024. That forecast will be updated
+in April.
+The South African economy contracted by 1.3% in the fourth quarter of 2022,
+considerably worse than expected at the time of the January meeting. The contraction
+was broad-based, consistent with the extensive load-shedding experienced in the final
+three months of the year. For the whole of last year, GDP growth of 2.0% was
+achieved, compared to the 2.5% previously expected.
+For 2023, the Bank’s forecast for GDP growth is lowered slightly to 0.2% from the
+0.3% expected in January. As a result of extensive load-shedding and logistical
+constraints, the supply performance of the economy remains severely impaired. As
+previously noted, these constraints deduct 2 percentage points from growth this year.
+Over the forecast period, we expect household spending and investment to grow
+modestly, even as loadshedding and uncertainty continue to weigh heavily on
+consumption and investment decisions.3 Private sector investment is expected to
+remain positive, in large part reflecting efforts to overcome constraints in energy and
+2 Global growth in the QPM model is a trade-weighted average of South Africa’s trading partners.
+3 The number of days of expected load-shedding in 2023 remains unchanged at 250 days, 150 days and 100
+days, respectively in 2023, 2024, and 2025. Estimates of the average stages of load-shedding is multiplied by
+the number of days and then multiplied by the cost to GDP per stage-day. The cost per stage has been revised
+lower for stages 1 and 2. In nominal terms, these costs vary between R0-R1.2 million for stages 1 and 2 and up
+to R204-R899 million for stages 3 to 6, when continued on a 24 hour basis on weekdays.
+MPC Statement 30 March 2023 Page 2
+transport supply. The SARB’s commodity price index, which in historical terms still
+remains above its long-run average, is forecast to continue to ease.
+As a result of these factors, the economy is forecast to expand by 1.0% in 2024 ( up
+from 0.7%) and by 1.1% in 2025 (up from 1.0%).4
+Economic growth has been volatile for some time and prospects for growth appear
+even more uncertain than normal. An improvement in logistics and a sustained
+reduction in load-shedding or increased energy supply from alternative sources would
+significantly raise growth. Further upside risks to growth could emerge from a stronger
+recovery in China, if commodity export prices rise. Downside risks however emanate
+from more modest global growth rates and the lower terms of trade and trade volumes
+that would follow.
+Overall, the risks to the medium-term domestic growth outlook are assessed to be
+balanced. Nonetheless, the domestic and global outlook appears to be highly
+sensitive to new shocks. Core inflation remains high in much of the world and financial
+vulnerabilities have re-emerged to create new headwinds.
+Turning to inflation prospects, our current growth forecast leaves the output gap
+around zero, implying little positive or negative pressures on inflation from expected
+growth.5
+South Africa’s external financing needs however are expected to rise. With a sharply
+lower export commodity price index, stable oil prices, and somewhat weaker growth
+4 The growth forecast includes expected changes in the policy rate as given by the QPM.
+5 Potential growth for 2022 was revised higher to 0.7%, and lowered in 2023 to 0.0%. It is also revised lower to
+0.6% for 2024 (from 1.1%) and to 1.1% for 2025 (down from 1.6%).
+MPC Statement 30 March 2023 Page 3
+in export volumes, the current account balance is forecast to deteriorate to a deficit of
+2.7% of GDP for the next three years.6
+Weaker commodity prices and higher state-owned enterprise financing needs will put
+pressure on financing conditions for rand-denominated bonds. Ten-year bond yields
+currently trade at about 11.2%, despite the expected moderation of inflation over the
+forecast period.
+The rand has generally weakened over the past year. Recent weeks have seen further
+sharp depreciation and then some reversal as sentiment shifted abruptly in the wake
+of policy decisions in some major advanced economies. The implied starting point for
+the rand forecast is R18.06 (23q2) to the US dollar, compared with R17.32 at the time
+of the previous meeting. Currency markets are expected to remain volatile.
+While headline inflation eased in major economies (G3) in December, price pressures
+remain clearly evident in measures of core inflation, services and wages. In the G3
+economies, consumer prices rose by 7.5% in 2022. Our estimate for inflation in the
+G3 is higher at 4.2% in 2023 (up from 4.0%) and 2.1% in 2024 (up from 1.8%) and
+unchanged at 2.0% in 2025 (up from 1.9%).7
+The rise in South Africa’s headline inflation rate has been shaped primarily by fuel,
+electricity and food price inflation. Fuel price inflation last year averaged 34.4% and is
+6 In January, a current account balance of about -1.8% of GDP was expected for the forecast period. Exports
+are forecast to grow in real terms by only 1.8% this year and 2.3% in 2024. Commodity export prices rose by
+1.4% in 2022. South Africa’s commodity export index is forecast to decline by about 20% this year, and a
+further 11.7% in 2024, before stabilising somewhat in 2025. Our oil price forecast is also slightly lower than in
+January, averaging US$87 per barrel in 2023. The Brent crude oil assumptions are US$85 for 2024 and US$80
+for 2025 (unchanged).
+7 The G3 comprises the United States, the Eurozone, and Japan. The latest CPI inflation in the G3 sits at 6.0%,
+8.5% and 3.3%.
+MPC Statement 30 March 2023 Page 4
+expected to be -0.6% in 2023 (up from -2.7%). The electricity price forecast is
+unchanged at 12.9% in 2023, 14.5% in 2024, and 10.9% in 2025.
+Local food price inflation is revised up again despite global food prices falling in dollar
+terms, in part due to the lagged impact of the weaker exchange rate.8 Food price
+inflation is now expected to be 9.9% in 2023 (up from 7.3%) and 4.5% in 2024 (up
+from 4.4%).
+Our forecast for core inflation is largely unchanged at 5.1% in 2023 (previously 5.2%)
+and 4.8% and 4.5% in 2024 and 2025. Services price inflation in 2023 is forecast to
+be 4.9%, lower than previously expected. Core goods inflation, however, is forecast
+higher for this year at 5.9% (up from 5.5%).9 The forecast for average salary growth
+and unit labour costs is somewhat lower in 2023 and higher in 2024 and 2025.10
+With core goods and food higher in the near term, headline inflation for 2023 is revised
+significantly higher to 6.0% (up from 5.4%). Despite this, food and fuel inflation are
+expected to ease, resulting in a headline forecast of 4.9% for 2024 and 4.5% in 2025.
+Risks to the inflation outlook, however, are assessed to the upside. Despite some
+easing of producer price and food inflation, global price levels remain elevated.
+Russia’s war in the Ukraine and China’s economic rebound are expected to keep the
+global oil market relatively tight. Electricity prices and other administered prices
+8 Inflation in agricultural commodities decelerated to 0.1% in 2022Q4 (from 8.5% in 2022Q3) due to vegetable
+oils and cereals components. This year, global food inflation is expected to be in deflation (after registering
+14.2% in 2022) due to base effects and improving supply constraints.
+9 Core goods refers to total CPI goods excluding food and NAB, fuel and electricity, whereas services include all
+surveyed services within the CPI basket. Core goods inflation is expected to be 4.9% in 2024 and 4.5% in 2025.
+10 Average salaries were expected to be 6.9%, 5.5%, and 4.7% for 2023, 2024 and 2025 at the time of the
+January meeting. The March figures are 6.4%, 6.2%, and 5.1%, respectively. Unit labour costs are forecast to
+rise by 6.1%, 6.0% and 4.4%, respectively, in 2023, 2024 and 2025. Productivity per unit of labour is lower due
+to reduced expected output.
+MPC Statement 30 March 2023 Page 5
+continue to present clear short and medium-term risks. Domestic food price inflation
+surprised higher again in February, and risks of drier weather conditions have
+increased. Load-shedding may additionally have broader price effects on the cost of
+doing business and the cost of living, in particular as diesel consumption increases.
+Given sticky petrol and higher food price inflation, considerable risk still attaches to the
+forecast for average salaries.
+Interest rate levels in major economies are higher than were projected in January,
+averaging 3.8% in 2023 (up from 3.7%), 3.5% in 2024, and unchanged at 2.4% in
+2025. Tighter global financial conditions raise the risk profiles of economies needing
+foreign capital, leading generally to weaker currencies. South Africa’s risk premium is
+sharply higher and will likely remain elevated over the forecast period. Given load-
+shedding, upside inflation risks, and larger external financing needs, further currency
+weakness appears likely.
+Inflation expectations increased strongly over the past year. Average expectations of
+future inflation surveyed in the first quarter of this year increased further to 6.3% for
+2023 and 5.8% for 2024.11 Expectations for inflation in 2023 based on market surveys
+are 5.8%.12 Long-term inflation expectations derived from the 5-year break-even rates
+in the bond market sit at 5.27%.13
+Headline inflation breached the upper end of the target range in the second quarter of
+2022, and is forecast to remain above it until the third quarter of this year. Headline
+11 The BER Q4 2022 survey of inflation expectations indicated inflation at 6.1% in 2023 (up from 5.9% in Q3))
+and 5.6% for 2024 (up from 5.3% in Q3).
+12 At the median, market analysts (Reuters Econometer) in March expect inflation to be higher at 5.8% (from
+5.6% in February) in 2023, 4.7% in 2024 and 4.7% in 2025.
+13 Market-based rates are calculated from the break-even inflation rate, which is the yield differential between
+conventional and inflation-linked bonds. These now sit at about 5.27% for the 5-year and 6.25% on the 10-year
+breakeven. 15-year break-even inflation sits at 6.91%.
+MPC Statement 30 March 2023 Page 6
+inflation is only expected to sustainably revert to the mid-point of the target range by
+the fourth quarter of 2024. The forecast takes into account the policy rate trajectory
+indicated by the Bank’s Quarterly Projection Model (QPM). As usual, the repo rate
+projection from the QPM remains a broad policy guide, changing from meeting to
+meeting in response to new data and risks.
+Against this backdrop, the MPC decided to increase the repurchase rate by 50 basis
+points to 7.75% per year, with effect from the 31st of March 2023. Three members of
+the Committee preferred the announced increase. Two members preferred a 25 basis
+points increase.
+The revised repurchase rate is now less accommodative and is more consistent with
+the current view of risks to inflation. The aim of policy is to anchor inflation
+expectations more firmly around the mid-point of the target band and to increase
+confidence of attaining the inflation target sustainably over time.14
+Guiding inflation back towards the mid-point of the target band can reduce the
+economic costs of high inflation and enable lower interest rates in the future. Achieving
+a prudent public debt level, increasing the supply of energy, moderating administered
+price inflation and keeping wage growth in line with productivity gains would enhance
+the effectiveness of monetary policy and its transmission to the broader economy.
+Economic and financial conditions are expected to remain more volatile for the
+foreseeable future. In this uncertain environment, monetary policy decisions will
+continue to be data dependent and sensitive to the balance of risks to the outlook. The
+14 The forecasted trajectory for the repurchase rate implies a rise in the inflation-adjusted repo rate from -2.0%
+in 2022, to 1.6% for 2023, and 2.0% in 2024. The real repo level for 2025 is expected to be 2.4%. The real
+repurchase rates calculated here are based on the 1-quarter ahead inflation forecast and are annual average
+rates.
+MPC Statement 30 March 2023 Page 7
+MPC will seek to look through temporary price shocks and focus on potential second
+round effects and the risks of de-anchoring inflation expectations. The Bank will
+continue to closely monitor funding markets for stress.
+Lesetja Kganyago
+GOVERNOR
+The next statement of the Monetary Policy Committee will be released on 25 May
+2023.
+Contact person:
+Thoraya Pandy
+0824168416
+media@resbank.co.za
+MPC Statement 30 March 2023 Page 8

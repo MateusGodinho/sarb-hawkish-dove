@@ -1,0 +1,383 @@
+Titulo: Public lecture by South African Reserve Bank Governor Lesetja Kganyago at the University of the Free State
+Data: 2024-08-15
+Palestrante (estimado): South African Reserve Bank
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2024/governor-lesetja-kganyago-public-lecture-at-the-university-of-the-free-state
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2024/Public%20lecture%20by%20South%20African%20Reserve%20Bank%20Governor%20Lesetja%20Kganyago%20at%20the%20University%20of%20the%20Free%20State.pdf)
+----------------------------------------------------------------------
+
+Guest lecture by Lesetja Kganyago,
+Governor of the South African Reserve Bank,
+at the University of the Free State,
+Faculty of Economic and Management Sciences
+Bloemfontein, 15 August 2024
+Monetary policy and inequality: the post-pandemic experience
+Good afternoon, ladies and gentlemen.
+Introduction: an era of economic shocks and rising inequality
+We are just a few months away from marking a fifth full year since the first case of
+COVID-19 was reported. This is remarkable − in part, because we still live with the
+economic shocks that followed the pandemic. Labour, services and goods markets
+were subjected to severe dislocation and strain, prices have surged, and debt levels
+remain very high.
+The pandemic shocks impacted widely on economic growth, industrial sectors, job
+creation and household incomes. As they did so, they also affected the distribution of
+incomes, both within and between economies. China’s post-pandemic slower growth
+rate, for instance, will sharply slow the pace of global poverty reduction. Other effects
+were less direct. Comorbidities, for instance, mattered greatly for households,
+essential workers were more at risk, gender inequities were often reinforced, and
+children without resources experienced larger learning losses than others.
+The economic shocks of the pandemic were not a one-off. They were sequential and
+often overlapped, causing additional damage. In the post-pandemic inflation surge,
+food price shocks and supply constraints, made worse by trade restrictions and
+geopolitical tensions, spilled over into other prices. These seismic effects, mixed with
+strong policy responses, set off the worst bout of inflation since the 1980s. At the
+global level, consumer price inflation was 4.7% in 2021, 8.7% in 2022, and 6.7% in
+2023. The International Monetary Fund’s (IMF) forecast for global inflation for this year
+remains high, at 5.9%.
+1
+Inflation has complex effects on the distribution of income that can change over time.
+Generally, inflation worsens inequality as poorer households’ have less purchasing
+power, less access to credit markets, and have more chance of suffering income
+losses when jobs are shed or firms fail. If inflation is allowed to accelerate and spread,
+as was the case during the post-pandemic inflation surge, more households are
+affected negatively, and the whole economy is hit by rising interest costs, even as real
+income levels fall faster. Monetary policy needs to take into account the damage
+caused to lower income households by being robust enough to stop inflation from
+spiralling higher.
+Today, I want to explore more fully the inequality-raising effects of the pandemic and
+its aftershocks, before discussing the role of monetary policy in responding to these
+challenges.1
+A global pandemic, an inflation surge and stalled economic convergence
+COVID-19 was a massive shock, one that put at risk the remarkable reductions in
+global poverty and inequality achieved over the past three or four decades. Thomas
+Piketty, a French economist who specialises in inequality, famously argued that global
+inequality rose from about 60 Gini points in 1820 to 72 points by 1910. Several major
+subsequent events, including the two world wars and the Great Depression, somewhat
+narrowed inequality, but by 2000 the world had returned to that 72 Gini point peak.
+Since then, the world saw income inequality fall, reaching 67 Gini points by 2020.2
+The fall in global inequality primarily reflected convergence to the income levels of
+more developed economies, as poorer countries grew faster. Within countries,
+however, inequality has risen to levels last seen in the early 1900s − a process that
+seems to have accelerated in recent decades, at least measured by the income gap
+between the top 10% and the bottom 50% of the world’s population.
+The pandemic raised global inequality. One study by World Bank economists shows a
+1% rise between 2019 and 2020 − the largest one-year increase in global inequality
+since the Asian financial crisis.3 Although all households experienced a negative
+income shock during the pandemic, the top 20% fared better than those in the bottom
+80%, with the top 10% experiencing the smallest shocks.
+1 For an earlier lecture on the channels between monetary policy and inequality, see L Kganyago, ‘Monetary policy and
+inequality’, Public lecture by Lesetja Kganyago, Governor of the South African Reserve Bank, at the Nelson Mandela University,
+1 August 2018. https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2018/530/Nelson-
+Mandela-University-Public-Lecture-01-August-2018.pdf
+2 World Inequality Database, 2022. See also B Milanovic, ‘The great convergence: global equality and its discontents’, Foreign
+Affairs, July/August 2023. https://www.foreignaffairs.com/world/great-convergence-equality-branko-milanovic
+3 During that crisis, the Gini index rose from 69 in 1996 to 69.9 in 1999. See D Mahler, N Yonzan and C Lakner, ‘The impact of
+COVID-19 on global inequality and poverty’. World Bank Policy Research Working Paper No. WPS 10198; Washington D.C.,
+5 October 2022.
+http://documents.worldbank.org/curated/en/099250510052241154/IDU01d94e70603dc804f990b6130751d75dccb52
+2
+The impact on the poorest population was substantial. In 2020 alone, the number of
+people living below the extreme poverty line rose by over 70 million − the largest one-
+year increase since global poverty monitoring began in 1990. In percentage terms,
+the world’s poorest citizens lost twice as much income in that year compared to the
+wealthiest 20%, instead of the expected trend of income convergence by 0.8%.
+Between-country inequality widened by 4.4% in 2020 alone.4
+While the data is yet to catch up to give us a full picture, the aftermath of the pandemic,
+is likely to have further increased inequality. Some countries, like those in East Asia,
+recovered faster than others, as consumption of manufactured goods skyrocketed.
+However, despite the sharp recoveries in many regions, most countries’ income levels
+remain below their pre-COVID-19 trend. Using data from the IMF, we estimate that the
+growth gap for advanced economies, at -0.4%, is lower than the -5.8% gap seen in
+emerging markets.5
+The pandemic and its aftermath therefore widened inequality between countries, after
+several critical decades of income convergence. Within-country inequality, which had
+worsened as the return to skills and strong growth favoured the upper segments of the
+income distribution in most regions, saw less of a worsening in inequality during the
+pandemic, largely due to robust policy responses. The World Bank’s Poverty and
+Shared Prosperity report finds that the richest countries were able to deploy the largest
+emergency support, broadly pre-empting the rise in poverty. Upper middle-income
+economies spent less, offsetting only half of the poverty impact and lower middle-
+income economies only offset a quarter.6 Where countries had access to significant
+fiscal or monetary policy space, because of low debt levels and low inflation, they then
+could provide larger buffers when hit by large economic shocks. The bigger the space,
+the bigger the buffer that can be deployed.7 These instances, however, turned out to
+be fairly rare. Most economies faced the pandemic with little policy space. And so,
+while these policy responses were important to the recovery from the pandemic,
+especially in terms of jobs and incomes, their extended use – ultra-low interest rates
+and a massive increase in borrowing – also set off inflation and a persistent
+deterioration in incomes.
+With macroeconomic policy fully extended, and supply shocks constricting goods and
+services, inflation was bound to rise. Global consumer price inflation averaged 8.7%
+4 See D Mahler, N Yonzan and C Lakner, 2022. In particular, the Indian economy suffered very large losses, which were not
+offset by China’s relative stability in 2020. In any case, China is now too rich to be exclusively thought of as a poor economy.
+For more, see A Deaton, ‘COVID-19 and global income inequality’. NBER Working Paper 28392, DOI 10.3386/w28392,
+February 2021. https://www.nber.org/papers/w28392
+5 Using the IMF’s GDP forecasts from July 2024 relative to the forecasts published in the October 2019 World Economic
+Outlook.
+6 World Bank, Poverty and Shared Prosperity 2022: Correcting Course, Washington, DC: World Bank. doi:10.1596/978-1-4648-
+1893-6.
+7 See K Bergant and K Forbes, ‘Policy packages and policy space: Lessons from COVID-19’, European Economic Review 158,
+September 2023. https://doi.org/10.1016/j.euroecorev.2023.104499
+3
+in 2022 and emerging markets experienced higher rates of inflation than advanced
+economies.8 Real wages fell by 1.4% during the peak of the surge in 2022.9
+But inflation did not need to go up by as much as it did. Temporary fiscal and monetary
+measures were extended around the world in an effort to sustain recovery. Inflation
+was the unintended consequence and, in distributional terms, became the channel
+through which macroeconomic stimulus would be partly paid for.10
+South African inequality and monetary policy in the wake of the pandemic
+Turning to our experience here in South Africa, it is clear the country entered the
+pandemic in poor shape, with a decade of stagnant economic growth, declining real
+income per capita, and limited fiscal space.11
+Distributional patterns were also clearly unbalanced, with about two-thirds of the total
+income earned accruing to just 10% of the people. While the middle 40% earn just
+under 30% of the income generated, the bottom 50% of the population earns just 5%
+of the total income. More than 40% of our labour force earns no wage-based income
+at all, and about half of all South African households are grant recipients. The
+proportion of households reporting salaries and wages as their main source of income
+has risen from about 50% in 2020 to nearly 55% in 2023, but remains below the
+2010−18 average of about 60%. With a Gini coefficient of about 67, and about 60 after
+the adjustment for taxes and grants,12 South Africa retains a high level of inequality,
+primarily caused by a lack of income rooted in joblessness.13
+In such an environment, the appeal to low interest rates is not surprising. Lower
+interest rates, it is argued, would support job growth and distribute money from
+wealthier owners of capital to poorer, lower income households. But, as I will argue
+later on, low interest rates may not be the best response to addressing inequality, in
+part because interest rates have limited direct and indirect effects on the distribution
+of income.
+8 At the peak of the inflation surge, prices accelerated by 9.8% in emerging markets versus 7.3% in advanced economies. Once
+outliers are adjusted for, the difference in inflation rates between emerging market commodity exporters (15.8%) and importers
+(15.3%) is less discernible.
+9 Median real wage growth for 42 economies in 2022. See International Labour Organization, Global Wage Report, 2022-23,
+April 2024.
+10 See B English, K Forbes and Á Ubide, Monetary Policy Responses to the Post-Pandemic Inflation, Centre for Economic
+Policy Research, 2024. https://cepr.org/publications/books-and-reports/monetary-policy-responses-post-pandemic-inflation
+11 The terms of trade were relatively good and inflation easing, but fiscal policy was already extended and debt was rising.
+12 See V Sulla, P Zikhali and P Cuevas, ‘Inequality in Southern Africa: an assessment of the Southern African Customs Union’.
+Washington, D.C.: World Bank Group, 2022.
+http://documents.worldbank.org/curated/en/099125303072236903/P1649270c02a1f06b0a3ae02e57eadd7a82. South Africa
+nonetheless has a very progressive tax system and a grant payment system that supports 27.8 million people (or 48% of the
+total population). In fact, while the bottom 50% of South Africans earn 63 times less than the top 10% before taxes, this ratio
+falls to 24 times after income taxes are paid. The numbers also do not fully account for non-monetary support provided by the
+state, such as free basic education, water and electricity to low-income and indigent households.
+13 Here, income is measures after pension and unemployment payments and benefits received by individuals, but before other
+taxes paid and transfers received. Source: World Inequality Report.
+4
+As the pandemic spread in early 2020, the Monetary Policy Committee (MPC) lowered
+the policy rate to 3.5% − a multi-decade low. The cuts to achieve this were rapid and
+large.14
+The credit extension record over the period up to the end of 2021 tells us something
+about how monetary policy transmits. The post-lockdown surge in secured lending
+was aimed primarily at big ticket items: by the end of 2021, credit agreements larger
+than R400 000 were up by about 28%, while smaller agreements − those for R20 000
+or less − contracted by 17.5%. The biggest decrease in loans was observed for smaller
+amounts of R1 500 or less, which fell by 72%. In contrast, most lending − about 91%
+− was for the higher, top 25% of income households.15
+Poorer households typically borrow for short periods of time, and usually at very high
+interest rates. Despite the much lower policy rate, loans to this group decreased.
+Secured, less risky loans for mortgages and vehicles are less than 2% of low-income
+household debt. Informal debt or micro-loans comprise 64% of their borrowing, but
+because this credit is typically very expensive and short term, it is also much less
+sensitive to the interest rate cycle.16
+It is clear then, that the very large interest rate cuts during 2020 had a much smaller
+impact on alleviating the interest burden for lower income households, with much of
+the benefit accruing to higher income households.17
+The pandemic experience also reminded us that monetary conditions can drive up
+inequality through asset price inflation. Not surprisingly, equity prices plunged in the
+first year of the pandemic. Their recovery came in stages. First, they took off when it
+became clear that vaccines worked and companies could borrow at ultra-low rates.
+They entered a second stage of stabilisation when inflation started to rise, in part
+because input cost inflation could now be passed on to consumers. Finally, they
+rocketed higher when the inflation spike appeared to be easing, in anticipation of
+easier monetary conditions.18
+14 At one point, the MPC cut the repurchase rate by 2 percentage points within two weeks.
+15 These are individuals earning R15 000 or more. More detail is available in the National Credit Regulator’s Consumer Credit
+Market Report, which is published quarterly: https://www.ncr.org.za/index.php/publications/consumer-credit-market-report-ccmr
+16 See K Singh and D Fowkes, ‘Monetary policy and borrowing costs for different household income groups’, SARB Occasional
+Bulletin of Economic Notes OBEN20/01, June 2020. https://www.resbank.co.za/content/dam/sarb/publications/occasional-
+bulletin-of-economic-notes/2020/10006/OBEN-2001--Monetary-policy-and-borrowing-costs-for-different-household-income-
+groups----June-2020.pdf
+17 It is worthwhile remembering that these higher income individuals are typically employed in the formal sector and generally
+have more scope to cut spending in other areas to pay higher interest rates than poorer households.
+18 Although bond prices are supposed to offset this effect, they have been acting unusual lately (thanks in part to the demand
+for shorter maturities). See https://www.wsj.com/finance/investing/the-bond-regime-change-that-is-whacking-stocks-in-six-
+charts-8bae3ffb?mod=article_inline
+5
+Very low interest rates and the rise of paper wealth help to explain headlines showing
+that, globally, more billionaires were created during 2020 than the sum of billionaires
+created in the two previous decades, with a billionaire created every 30 hours.19
+Despite this attractive-looking rise in paper wealth, ultra-low interest rates typically end
+up undermining the short-run increase in growth that they cause. Such rates reduce
+saving and prop up low-productivity zombie firms − companies which are only viable
+with cheap debt. This, in turn, limits productivity growth and constrains more
+sustainable firms from expanding. The job creation effects of these misallocations of
+capital are far-reaching, not least because they imply an economy that will struggle to
+recover jobs lost during big shocks, like the pandemic.
+In our case, nearly 2.3 million jobs were lost, many affecting lower-income households,
+and pushing many of the poorest households, of which only 45% have one or more
+employed member, deeper into poverty.20 One in every four (or 250 000) domestic
+workers lost their jobs, alongside another half a million lower-skilled workers in other
+occupations.21 Individuals whose highest level of education is less than Grade 12
+(matric) or an equivalent accounted for more than 70% of the employment losses,
+despite representing only 45% of pre-pandemic employment.22
+The post-pandemic labour market recovery has been slow.23 The unemployment rate,
+while falling from the highs reached during the pandemic, is still 33.5%. The number
+of jobs lost during the pandemic have since been recovered, but the labour force grows
+all the time, meaning we need significantly more job creation.
+Unfortunately, major supply-side constraints, such as insufficient electricity and
+logistical constraints, have limited how much economic activity we can muster. The
+result is that output growth has averaged just 0.3% on a quarterly basis since 2021.
+While firms have slowly added back employees to the workforce, weak productivity
+places a cap on how much additional labour can be added.
+Monetary policy cannot do much in such conditions. In fact, the more we try to loosen
+policy and use money illusion to reduce real wages and stimulate employment growth,
+19 See Oxfam International, ‘Pandemic creates new billionaire every 30 hours − now a million people could fall into extreme
+poverty at same rate in 2022’, 23 May 2022. https://www.oxfam.org/en/press-releases/pandemic-creates-new-billionaire-every-
+30-hours-now-million-people-could-fall
+20 According to the National Income Dynamics Study 2017, Wave 5, available at: http://www.nids.uct.ac.za/. According to the
+National Income Dynamics Study, or NIDS, 7 million people account for the richest 20% of households. These households tend
+to be relatively small (1.93 people per home) and almost 80% of these households have at least one employed member. The
+annual General Household Survey shows that most of these individuals are considered highly skilled and are employed in the
+formal sector, whose earnings are primarily from employment (rather than grants).
+21 Stats SA’s Quarterly Labour Force Survey.
+22 Also see T Köhler et al., ‘COVID-19 and the labour market: estimating the effects of South Africa’s national lockdown’,
+Development Policy Research Unit, School of Economics, University of Cape Town, February 2021.
+23 According to the Quarterly Labour Force Survey, employment levels only reached their pre-pandemic level in mid-2023, and
+the labour absorption rate (which measures the proportion of the working-age population that is employed) remains below pre-
+COVID levels. Although the firmed-based Quarterly Employment Statistics shows a more rapid improvement in employment
+levels, technical adjustments related to the recent re-benchmarking exercise by Stats SA suggest that the employment
+improvement is less robust.
+6
+the more we run into an inflation problem. This pushes up interest rates and squeezes
+sectors, firms, and jobs created in the loosening period. Ironically, it is when inflation
+rates are low that we see much accelerated productivity and jobs growth, as was the
+case in the early 2000s.
+This brings me to the direct effects of inflation on households. Persistently high price
+inflation means that the overall consumer basket is about 26% higher than its pre-
+pandemic level. Some basic food items like rice, tomatoes, beans, eggs and
+toothpaste are as much as 70% more expensive. To put this into context, had prices
+for these staples continued to rise at our targeted 4.5% inflation rate, these prices
+would be more than 30% cheaper than they are today.24
+Households across the country have had to reprioritise their spending, made more
+difficult for families on or near the food poverty line.25 By May 2023, the food poverty
+line, which measures the food basket of a typical low-income household, had risen by
+35% compared to its pre-pandemic level. The fastest rising single component of
+inflation in 2023 was food, which accounts for around 50% of low-income households’
+budgets, compared to 10% for higher income households. Higher income households
+spend far more on lower inflation services. This implies a change in relative prices with
+big effects on inequality.26
+A final channel for inequality’s rise in the wake of the inflation surge comes through
+wages and salary income. Statistics South Africa (Stats SA) data shows that between
+2017 and 2022, the median monthly salary for high-skilled workers increased by about
+R1 000, while the increase was a more modest R500 for semi-skilled and unskilled
+labourers. But when you adjust for the inflation rates that would be typically faced by
+households in each income bracket, we find that real wages are either flat or
+negative.27 For most people, the rise in inflation is a straight deduction from their
+purchasing power.28
+Conclusion: post-pandemic lessons
+Finally, let me conclude by drawing on some high-level lessons from the pandemic.
+24 For the overall food and non-alcoholic prices category, prices would be 12% cheaper, and prices would be 3.2% cheaper for
+the overall headline CPI basket. According to our 4.5% target, prices should have increased by 21.9% between December 2019
+and June 2024. Food prices have increased by 38%, while the headline basket has risen by 26%.
+25 See C Loewald and K Makrelov, ‘The impact of inflation on the poor’, SARB Occasional Bulletin of Economic Notes,
+OBEN/20/01, June 2020. https://www.resbank.co.za/content/dam/sarb/publications/occasional-bulletin-of-economic-
+notes/2020/10005/OBEN-2001--The-impact-of-inflation-on-the-poor----June-2020.pdf
+26 See D Gros and F Shamsfakhr, ‘Inflation and Inequality’, European Parliament, PE 747.845, May 2023.
+https://www.europarl.europa.eu/RegData/etudes/IDAN/2023/747845/IPOL_IDA(2023)747845_EN.pdf
+27 For skilled workers, who typically fall under expenditure deciles 9-10, real wages have fallen by about 10.7% between 2019
+and 2022. For semi-skilled workers (expenditure deciles 5-8), real wages have fallen by 4.3%. For unskilled workers
+(expenditure deciles 1-4), real wages have risen by 1.5%. For this last group, deflating incomes with inflation experienced by
+deciles 1 and 2 incomes only yields -0.5% real wage growth. The income by skill level is based on the Quarterly Labour Force
+Survey. See Stats SA, ‘Monthly earnings in South Africa 2017-2022’, Report No. 02-11-20 (2017-2022), May 2024.
+https://www.statssa.gov.za/publications/02-11-20/02-11-202022.pdf.
+28 The solution here would not be to raise wages, which would undermine South Africa’s competitiveness. Rather, lower inflation
+would help maintain competitiveness and support household budgets.
+7
+First, while we live in a world characterised by large economic shocks that need to be
+offset with policy, we need to be more aware of the long-term consequences of them.
+There is no question that the pandemic needed large fiscal and monetary responses,
+but where there is little policy space, policy must be agile to avoid problems that
+emerge. In the wake of the pandemic, globally, debt is now too high, inflation has been
+high and persistent, and these have had further negative effects on economic growth
+and inequality. Not being agile with policy has cost us dearly, as very modest global
+economic growth forecasts suggest.
+If you do not build buffers before a crisis, you can deliver much less stimulus when the
+emergency arrives. The quality of stimulus is also more limited, because the benefits
+of policy support in a fragile macroeconomy are diluted by side-effects such as larger
+risk premiums and capital outflows. This means you need the discipline, in ordinary
+times, to strengthen your buffers, rather than doing everything you can get away with,
+and simply hoping nothing goes wrong. Something will go wrong. There are always
+crises.
+Second, inflation, which until recently, the world had seen less of, is a very serious
+problem. Over the past decade, both inflation rates and interest rates were low in
+many major economies. In this period, many people, including central bankers,
+stopped worrying much about inflation. They worried about deflation; they worried
+about other interesting subjects separate to their core missions.29 The post-pandemic
+surge in inflation came as a big surprise. But what we have learnt should be no
+surprise. People strongly dislike high inflation, and much prefer price stability.
+As I have argued, inflation is especially damaging to incomes and worsens inequality.
+In 2022, inflation-related protests occurred across every region of the world.30 The
+starkly negative effects of inflation tend to emerge suddenly, but as I have pointed out,
+the reality is that the effect of inflation on incomes, economic growth and inequality are
+not always obvious, nor direct. The channels through which it operates can be short
+and long term, with differential impacts across society. In South Africa’s own
+experience, we have seen them playing themselves out through the composition of
+the consumption basket, through credit responses and interest rates, and via the real
+exchange rate, among others.
+Third, macroeconomic policy responses to shocks need to be adjusted faster as
+unintended and long-term costs start to emerge. It should not have taken the global
+community two years to realise that a massive supply contraction, combined with
+sustained and even larger demand expansion through debt issuance, would be hugely
+inflationary and carry other negative economic and social costs. Part of the challenge
+29 R Rajan, ‘For central banks, less is more’, Finance and Development, March 2023.
+https://www.imf.org/en/Publications/fandd/issues/2023/03/Central-Banks-less-is-more-raghuram-rajan
+30 See T Carothers and B Feldman, ‘Economic anger dominated global protests in 2022’. Carnegie Endowment for International
+Peace. 8 December 2022. https://carnegieendowment.org/posts/2022/12/economic-anger-dominated-global-protests-in-
+2022?lang=en.
+8
+here is that we are wired to focus on the short term at the expense of the long term.
+We forget that keeping inflation low and stable supports growth in the medium to long
+run.
+Nonetheless, there have been examples of better policy. Many emerging markets
+managed the post-pandemic inflation surge more effectively than others and returned
+to growth more rapidly. In South Africa, improved policy credibility and communication
+allowed for effective inflation management with smaller policy rate increases
+compared to what was required in other countries.31
+Finally, central banks cannot be the only game in town. There is only so much that can
+be achieved with monetary policy. We cannot deliver all the social progress we all
+desire. We can create a base for it; we can help navigate the economy through crises;
+but not more. We are often encouraged to do more, but I think this fundamentally
+speaks to the limitations of our state capacity. Changing interest rates is certainly
+easier than improving education, managing urbanisation or ending load-shedding.
+Our inequality problem is really about chronic skill and geographical mismatches, and
+product market structures and labour market that are designed to protect insiders.32
+Tackling these issues will not be easy, but it is here where the real solutions lie, not
+with monetary policy.
+What really matters for inequality is economic growth, job creation and productivity
+growth. These outcomes occur when markets function effectively, when the costs of
+economic activity are clear and stable, and when essential public services and network
+industries work to reduce the cost of economic activity. Inefficiencies or failures in
+these areas can be likened to a negative supply shock, similar to the pandemic
+restrictions, but slower-moving, more insidious, and more damaging.
+In the wake of the pandemic, our homegrown supply constraints continue to drive up
+inflation. Our flexible inflation-targeting framework helps us to see through the
+temporary inflation effects, but not the permanent ones. The upshot is that if we want
+better growth and less inequality, significant improvements in our supply environment
+are necessary. This will create the space for monetary policy to play a more supportive,
+enabling and appropriate role in achieving economic progress.
+31 See S Merrino, ‘Wage inequality under inflation-targeting in South Africa’, SARB Working Paper Series No. WP/21/18,
+2 September 2021. https://www.resbank.co.za/en/home/publications/publication-detail-pages/working-
+papers/2021/WageinequalityunderinflationtargetinginSouthAfrica and K Miyajima, ‘Monetary policy, inflation, and distributional
+impact: South Africa’s case". IMF Working Paper No. 2021/078, 19 March 2021.
+https://www.imf.org/en/Publications/WP/Issues/2021/03/19/Monetary-Policy-Inflation-and-Distributional-Impact-South-Africas-
+Case-50282.
+32 See C Loewald, N Spearman and A Wörgötter, ‘Less sacrifice: from collective to competitive price coordination in the South
+African economy’, SARB Working Paper Series No. WP/23/06. https://www.resbank.co.za/en/home/publications/publication-
+detail-pages/working-papers/2023/less-sacrifice--from-collective-to-competitive-price-coordinatio
+Also see N Viegi and V Dadam (2023). ‘Investigating unemployment hysteresis in South Africa’, SARB Working Paper Series
+No. WP/23/04, 11 December 2023. https://www.resbank.co.za/en/home/publications/publication-detail-pages/working-
+papers/2023/investigating-unemployment-hysteresis-in-south-africa
+9
+Fortunately, as demonstrated by our country’s ability to tackle load-shedding, we can
+resolve complex problems with the right focus. I look forward to the same energy and
+intelligence being applied to our other major challenges.
+10

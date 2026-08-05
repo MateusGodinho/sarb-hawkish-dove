@@ -1,0 +1,236 @@
+Titulo: Keynote address by Dr Rashad Cassim, Deputy Governor of the South African Reserve Bank, at the 3rd Annual HSBC Africa Conference 30 November 2020 1. Introduction
+Data: 2020-11-30
+Palestrante (estimado): Rashad Cassim
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2020/5661
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2020/Lessons%20from%20the%20crisis%20and%20the%20post-COVID%20outlook%20for%20monetary%20policy%2030%20November%202020.pdf)
+----------------------------------------------------------------------
+
+‘Lessons from the crisis and the post-COVID-19 outlook for monetary policy’
+Keynote address by Dr Rashad Cassim, Deputy Governor of the South African
+Reserve Bank, at the 3rd Annual HSBC Africa Conference
+30 November 2020
+1. Introduction
+Good afternoon and thank you for inviting me to address you at your 3rd Annual HSBC
+Africa Conference on monetary policy as we, and the rest of the world, grapple with the
+devastating health and economic effects of the coronavirus disease 2019 (COVID-19)
+pandemic.
+I will start by briefly recapping how and why the South African Reserve Bank (SARB)
+responded at the onset of the COVID-19 crisis, and move on to discuss what challenges
+we may face in the next two years, or to stretch it a bit and say what a possible post-
+COVID world means for the SARB and monetary policy, in particular. I use the word
+‘possible’ because it may be ambitious or premature to talk about a post-COVID world
+at this stage, notwithstanding some encouraging recent successes in vaccine trials.
+2. The SARB’s response to the COVID-19 crisis
+South Africa entered the COVID-19 crisis on the back of a technical recession
+combined with mounting fiscal stress, growing public sector debt, and a downgrade to
+junk status in March 2020. Given this backdrop and the wide-ranging impact of the
+COVID-19 crisis on financial markets, commercial banks and economic activity, we, like
+many central banks, used the full arsenal of our tools to respond to the crisis. Our
+response was characterised by a simultaneous and swift implementation of policies
+consistent with our mandates of price and financial stability, and our responsibility for
+prudential regulation of the banking and insurance sector.
+I will not spend too much time on the details of these interventions, as much has been
+written about them,1 other than emphasise that our liquidity operations consisted of
+providing additional liquidity to commercial banks, and purchasing government bonds in
+the secondary market across the maturity spectrum of the yield curve to address
+stresses or dysfunction in this market.
+The aim of our liquidity operations was to ensure that our monetary policy transmission
+mechanism was not compromised by ensuring that the financial sector remained stable,
+and banks continued to have an ample and stable source of refinancing. As a prudential
+regulator of the banking sector, we went further by relaxing capital and liquidity
+requirements for banks so that their financial intermediation role, so critical to everyday
+economic activity, was not impaired. Lastly, we assisted National Treasury in setting up
+and administering government’s Loan Guarantee Scheme, aimed at providing lending
+support to qualifying businesses.
+As we reflect on South Africa’s response to the crisis, we should remember that we
+have an important conventional monetary policy tool, the overnight interest rate, at our
+disposal. This is in contrast to most advanced and a few emerging economies that
+operate largely at the zero lower bound of their policy interest rates and had to rely on
+large-scale quantitative easing (QE) – defined as central bank purchases of longer-term
+financial assets – as their main monetary policy tool to ease financial conditions and
+provide economic stimulus.2 However, QE is a second-best alternative to stimulating the
+economy, and less relevant for a country such as South Africa.
+We entered the COVID-19 crisis with our policy rate at 6.25% and were, as such, able
+to reduce it significantly by 275 basis points to 3.5% in a short pace of time. Even with
+this large reduction, we are still far from the zero lower bound and can still rely on
+interest rates before having to consider QE-type measures, should economic conditions
+1 SARB media release, ‘Changes to the money market liquidity management strategy of the South African Reserve
+Bank’, 20 March 2020, available here
+SARB media release, ‘Further amendments to the money market liquidity management strategy of the South African
+Reserve Bank and additions to the Monetary Policy Portfolio’, 25 March 2020, available here
+Prudential Authority media release, ‘Regulatory relief measures and guidance to the banking sector in response to
+COVID-19’, 6 April 2020, available here
+South African Reserve Bank, ‘Note on South Africa’s liquidity measures in response to the COVID-19 pandemic’,
+Quarterly Bulletin, June 2020, available here
+2 See B S Bernanke, ‘The new tools of monetary policy’, American Economic Association Presidential Address,
+Brookings Institution, 4 January 2020, available here
+2
+deteriorate and inflation moderate further down towards the lower end of the inflation
+target.
+3. Medium-term outlook for monetary policy
+While our policy response to the COVID-19 crisis has helped in stabilising financial
+markets and containing risks of a financial crisis, the near-term outlook for the economy
+remains very uncertain, even though we predict a strong recovery in third-quarter gross
+domestic product (GDP) from the second quarter’s low base. There is still some risk of
+resurgence in volatility and risk-aversion in global financial markets, depending on
+sentiments around the evolution of the pandemic and perceptions around the efficacy of
+policy interventions. This would have significant implications for capital flows to
+emerging markets, and in turn their currencies and inflation outlook.
+In our November Monetary Policy Committee (MPC) meeting, we assessed the overall
+risks to the growth outlook as balanced, but acknowledge this as a tentative
+assessment, which is open to adjustment given the wide range of shocks hitting the
+economy, uncertainties involving the effectiveness of policy, and the sensitivity of
+sentiment to news flow. We revised our 2020 growth forecast marginally upwards from
+a contraction of 8.2% projected at our September meeting to a contraction of 8% on the
+assumption of a stronger recovery in the third quarter of this year. We further expect the
+economy to grow by 3.5% and 2.4% in 2021 and 2022 respectively.
+Our Quarterly Projection Model (QPM) also points to a large output gap that will only
+narrow over the remainder of the forecast period but still remain negative in 2022. The
+main drag on medium-term growth is that we expect negative growth in investment this
+year and next year in both the public and the private sector. Admittedly, this is only a
+forecast, but if it holds, it will have profound implications for the future productive
+potential of our economy. Structural issues, such as electricity supply challenges and a
+constrained fiscal environment, also remain key obstacles to the economic recovery in
+the medium term.
+The overall risks to the inflation outlook at this time appear to be to the downside in the
+near term and balanced over the medium term. One of the key factors explaining the
+projected downward movement in core inflation is the lower increase in medical
+3
+insurance prices in 2021. However, we noted that evidence points to this reduction as
+temporary and likely to reverse in 2022. Some internal work done by our Economic
+Research Department shows that medical schemes built up significant cash surpluses
+under lockdown, as members were avoiding hospitals and other medical facilities
+except for emergency treatments. To reduce these surpluses, most medical schemes
+are implementing smaller price increases for 2021. Our engagements with medical
+schemes suggest larger increases will resume in 2022, once the excess reserves from
+the lockdown are depleted.
+Rentals and owner-occupied rentals have also been on a downward trend, although this
+has been factored into our forecast. Furthermore, our projections of unit labour costs,
+which in the past were an important contributory factor to why inflation was persistently
+at the upper end of our inflation target, are likely to remain below the midpoint of the
+inflation target. This means that underlying inflation will remain moderate, unless there
+are unforeseen supply shocks that spill over into core inflation. We also noted in our
+November meeting that electricity and other administered prices remain a concern.
+Moreover, while risks to inflation from currency depreciation are expected to stay muted
+as pass-through remains low, additional exchange rate pressures in the medium term,
+as a result of heightened fiscal risks, continue to be on our radar.
+This is perhaps an appropriate time to make one or two comments about how the MPC
+incorporates fiscal concerns into its reaction function. Having read various analysts’
+reports over the past two years, most rightly point out that the risks from the fiscus put
+some constraints on monetary easing. Many of you continue to ask for more clarity on
+how we incorporate fiscal concerns into our thinking. Fiscal developments matter for
+monetary policy in different ways.
+The most obvious channel through which fiscal policy affects monetary policy is the
+exchange rate. To what extent do growing fiscal deficits and public debt generate more
+uncertainty for foreign investors, and in the process create more volatility in the
+exchange rate? This is a question that preoccupies us all the time, bearing in mind that
+we do not target the exchange rate but monitor its impact on prices as well as
+second-round effects. What also concerns us is that, while pass-through is relatively
+low, there may well be non-linearities in pass-through coefficients. In other words, if we
+were to see significant downward movements in the exchange rate, the effects on
+4
+inflation could be a bit more serious. This is, however, a low probability scenario, but it
+could have a high impact. And if anything, COVID-19 has taught us to take low
+probability, high impact shocks seriously.
+Lastly, and linked to the above, is the impact of fiscal policy on the country’s risk
+premium. For a small open economy such as South Africa, with a strong dependence
+on external funding, the deterioration in fiscal metrics, such as a strong rise in the
+debt-to-GDP ratio, raises sustainability concerns and, in turn, the premium which
+investors require on government bonds. This is currently the case, as we are seeing
+elevated long-term government bond yields even after short-term rates were reduced.
+The result of this is that the natural rate of interest will rise, and this is something we
+cannot ignore when we set monetary policy.
+4. Post-COVID-19 outlook for monetary policy
+Let me now move on to a final discussion of the post-COVID-19 outlook for monetary
+policy. Once again, I would like to remind you that I am using the word ‘post’ with great
+caution as we are all acutely aware of the long-lasting health and economic effects of
+the pandemic.
+Over the past few years, the SARB has repeatedly reminded the public about how the
+blurring of what is considered cyclical and structural growth factors has made it more
+difficult to pin down precisely how effective monetary policy can be. This problem of the
+disentanglement of cyclical and structural factors may even become more serious in the
+next few years, given the effect of COVID-19 on the economy, particularly its possible
+impact on productivity and potential growth.
+Let me focus a bit on potential growth and output gaps. One of the main challenges the
+MPC will face now and in the next few years is whether we will have to reduce our
+potential growth estimates, as we were forced to do after the global financial crisis. Our
+revisions to both potential and output growth at the September 2020 MPC meeting were
+a surprise to several SARB watchers. From what I have gathered from our interactions
+with many of you, it was not the downward revisions that were a surprise, but the timing
+and approach that were of greater concern. In reaction to these concerns, the SARB’s
+October 2020 Monetary Policy Review devoted a box to the detailed explanation of
+5
+these revisions. The essence of our approach is characterised by significant
+movements in the output of the economy, and there is no predetermined date in
+deciding when to make these adjustments.
+We, however, know that the methodological treatment of these concepts is always
+fraught with difficulties. As such, while potential output and output gaps have always
+been important in guiding our monetary policy stance, they have been used with great
+caution by most central bankers, owing to their measurement uncertainty.
+The large-scale disruptions to the economy as a result of COVID-19 have pushed this
+measurement uncertainty to a new level. The impact of the lockdown means that
+response rates to surveys have been lower than usual, and more uncertainty in data,
+from which potential output is derived, just adds a further layer of uncertainty. In
+addition, there are still businesses that are temporarily closed or operating at much
+lower capacity as a result of the crisis, and it is still unclear if and when they will return
+to their normal operations, for example those in the hospitality and tourism sectors. It
+will likely take some time before we are able to fully determine, with great certainty, how
+many permanent business closures will result from the crisis, which makes it difficult to
+accurately measure the supply-side of the economy.
+Notwithstanding these uncertainties, several views are emerging globally that may be of
+relevance to South Africa. The nature of the pandemic is expected to bring about
+various changes to the economy, including much slower capital accumulation than in
+the past and a change in tastes and preferences that will lead to reallocation effects in
+the economy.3 Some argue that, given the nature of the crisis, some capital will become
+obsolete very quickly and this has significant implications for the long-term productivity
+of the economy.4
+Expectations of the potential long-term impact of the COVID-19 crisis on economic
+growth, along with rising levels of public debt, are also particularly concerning for a
+country such as South Africa, given our large dependence on external financing as a
+result of our structural current account deficit. These unfavourable growth/debt
+dynamics could result in a change in global investor sentiment towards South Africa,
+3 See, International Monetary Fund, World Economic Outlook, October 2020; Bank of Canada, Monetary Policy
+Report, October 2020; and Bank of England, Monetary Policy Report, November 2020.
+4 See J Kozlowski, L Veldkamp and V Venkateswaran, ‘Scarring body and mind: the long-term belief-scarring effects
+of COVID-19’, 2 September 2020.
+6
+even as investors turn towards riskier assets such as emerging markets in search of
+higher returns. This may, in turn, affect capital flows to South Africa and/or increase the
+risk premium investors require, particularly given that they already held an overweight
+investment position in South Africa going into the crisis. A key consideration in this
+regard is whether we will see investor differentiation between emerging markets, with
+preference for those with strong growth and fiscal metrics.
+4. Conclusion and key lessons from the COVID-19 crisis
+Let me end with a few concluding remarks and some key lessons from the crisis. Many
+central banks, particularly in advanced economies, had to largely resort to QE with
+speed and vigour to stimulate their economies. At this stage, we are able to rely on
+conventional monetary policy, which implies that we still have room to provide further
+accommodation before having to consider QE-type measures, should economic
+conditions deteriorate and inflation moderate further down towards the lower end of the
+inflation target. The SARB, like many central banks that are not at the zero lower bound
+of their policy interest rates, used its balance sheet not to stimulate the economy but as
+a crisis management tool, in line with its financial stability mandate. We will continue to
+use these tools in the future in the same spirit if need be.
+Another lesson from the COVID-19 crisis is that, unlike the great financial crisis in 2008
+where inflation was high, which required interest rate hikes even as the crisis was
+unfolding, we entered the COVID-19 crisis with stable and low inflation rates, and
+moderate inflation expectations. This allowed us room to respond to the crisis quickly
+with significant interest rate cuts. Despite our cuts, inflation still seems to be moderating
+further below the midpoint of the target.
+Needless to say, the most important post-COVID challenge is that when the economy
+starts recovering and inflation begins to drift upwards, we have to make sure that we are
+able to find the right balance in our monetary stance that, at one level, would not result
+in a premature tightening of monetary policy while also guarding against a delayed
+response that would reverse a sustained downward trend in inflation expectations.
+An additional challenge is to ensure that we are able to come to grips with the role of
+monetary policy relative to what we think potential growth is. This will serve as an
+7
+important backdrop to opportunities or constraints that will exist for monetary policy in
+the future. However, as noted earlier, our medium-term projection for real potential and
+real GDP growth suggests that the output gap will remain negative throughout our
+forecast period. This should allow us to keep interest rates relatively accommodative
+over our forecast horizon and only normalise rates as the output gap closes. I should,
+however, emphasise that, given the high uncertainties about the current crisis, the
+SARB will continue to remain data-dependent in its policy decision-making.
+Thank you.
+8

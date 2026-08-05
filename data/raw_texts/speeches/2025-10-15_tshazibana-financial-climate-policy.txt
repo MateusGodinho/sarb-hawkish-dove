@@ -1,0 +1,470 @@
+Titulo: Fundi Tshazibana | Financial policy in the era of the climate crisis: An African perspective
+Data: 2025-10-15
+Palestrante (estimado): Fundi Tshazibana
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2025/tshazibana-financial-climate-policy
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2025/tshazibana-financial-climate-policy.pdf)
+----------------------------------------------------------------------
+
+Address by Fundi Tshazibana,
+Deputy Governor of the South African Reserve Bank,
+at the School of Oriental and African Studies, University of London,
+15 October 2025
+Financial policy in the era of the climate crisis: An African perspective
+Good evening.
+It is a great pleasure to be here at the School of Oriental and African Studies (SOAS).
+I would like to thank Vice-Chancellor Adam Habib and Provost Joanna Newman for
+their kind invitation.
+Throughout its history, SOAS has nurtured leaders who are committed to tackling the
+systemic causes of social injustice and economic underdevelopment. This legacy is
+particularly visible in South Africa, where distinguished alumni include both our serving
+Minister of Finance and the Governor of the South African Reserve Bank (SARB).
+Today, the call for such leadership is especially urgent as we confront the challenges
+of climate change.
+While my main focus will be on the issues we face in South Africa, it is important to
+note that climate change creates similar challenges across other African countries.
+This year, under our Group of Twenty (G20) Presidency, we have prioritised scaling
+up sustainable finance to address Africa's key development challenges. The
+Sustainable Finance Working Group is actively developing recommendations to
+strengthen the global financial architecture, boost financing for climate adaptation, and
+unlock the potential of carbon credit markets. This focus has also been mirrored in
+other G20 groups.
+South Africa is leveraging its leadership role to forge the global partnerships necessary
+to dismantle financial barriers to climate action. In this regard, we have partnered with
+institutions such as the African Development Bank, the Network for Greening the
+Financial System (NGFS), the International Association for Insurance Supervisors, the
+1
+World Bank, and the Organisation for Economic Co-operation and Development,
+among others.
+Climate change is a global problem, yet the ways in which climate-related risks
+materialise are diverse. The scenarios developed by the NGFS highlight that climate-
+related risks are likely to be larger in many emerging market and developing countries.
+In the G20 work we did with the African Development Bank, it was clear that Africa is
+especially vulnerable, not only due to its geography and reliance on climate-sensitive
+sectors such as agriculture, but also due to historical underinvestment in resilience-
+building and structural inequalities. Several systemic barriers, such as financial system
+vulnerability and the high cost of capital, amplify Africa's vulnerability to the impacts of
+climate change. One might argue that, while there may be homogenous regional
+elements, each country on the continent has its own unique vulnerabilities and
+different capacities to respond. This means that, to be effective, policy responses must
+be tailored to the specific circumstances of each nation. With that in mind, please note
+that many of the points I make today will be applicable to some countries, but not all.
+Much of my focus will be on highlighting Africa’s diversity as a region.
+At the SARB, we take great pride in our steadfast commitment to advancing our
+country’s green agenda. Many other central banks have taken similar positions, as
+demonstrated by the establishment of the Network for Greening the Financial System
+in 2017.1
+This central bank focus on climate, however, raises a crucial question: Does this
+expanded focus align with their primary mandate of maintaining price stability, as well
+as with their clearly defined legislative responsibilities?
+After all, in recent times, central banks’ objectives have given the greatest weight to
+controlling inflation and financial stability. Their widespread adoption of inflation-
+targeting frameworks has led to significant successes – so why divert their focus from
+this main task? There have also been arguments that the current inflation-
+management toolbox was not designed to address climate-related objectives, and
+these new goals are likely to clash with anti-inflation measures or, at the very least,
+muddy the waters.
+1 NGFS, ‘Joint statement by the Founding Members of the Central Banks and Supervisors Network for Greening
+the Financial System', 12 December 2017, https://www.ngfs.net/en/press-release/joint-statement-founding-
+members-central-banks-and-supervisors-network-greening-financial-system
+2
+In this regard, while most central banks now implement climate-related strategies and
+actions, there are also informed voices2,3 arguing that central banks should play little
+or no role in their countries’ climate change strategies.4,5
+So, what is the right approach? More importantly, which side is right for central banks
+in Africa?
+That is the question I will be looking at this evening, drawing on my experience as an
+African central banker.
+Let me simplify things by providing my conclusions upfront. Both sides are right.
+Central banks have important roles to play in a country’s climate strategy, but they are
+indirect roles aimed at strengthening the long-term financial resilience of the economy,
+instead of modifying central banks’ direct short-term inflation targeting measures.
+The logic is straightforward:
+If climate risks – both physical and transition risks – contribute to price and
+financial instability, they become the concern of central banks.
+An economy with high inflation and financial instability cripples investment.
+Historically, we have observed that these conditions drive up borrowing costs, halt
+long-term funding, and trigger capital flight – all of which affect structural foundations
+of any economy. A stable economy is the foundation of development finance. Yet as
+climate change and the responses to it change price formation, reshape markets and
+affect investor confidence, central banks have no choice but to address these risks –
+both to safeguard financial stability and steer the transition towards a more resilient
+economy.
+Understanding the impact of climate-related risks on livelihoods, infrastructure and
+public policy is particularly crucial in an African context. In just these past three years,
+we have experienced on our continent how drought not only affects agricultural output
+and exports, but also has significant inflationary effects, impacts electricity production
+across sectors, and undermines the soundness of financial institutions and tax
+collection. All these issues, save one, are the business of central banks.
+Understanding these country-specific differences implies that, in policy application, we
+cannot have a copy-and-paste approach. Financial policies for climate resilience in
+Africa will fail if they simply copy models from advanced economies. Success requires
+2 L P Hansen, ‘Central banking challenges posed by uncertain climate change and natural disasters’ Journal of
+Monetary Economics, 125(C), 2022, pp 1–15. DOI: 10.1016/j.jmoneco.2021.09.010
+3 H Davies, ‘Central Bankers’ Green Lines’, Project Syndicate, 19 January 2023, https://www.project-
+syndicate.org/commentary/central-banks-increasingly-divided-over-climate-change-by-howard-davies-2023-
+01
+4 Ibid
+5 O Issing, ‘Central banks aren’t responsible for fighting climate change – governments are’, World Economic
+Forum Stories, 5 December 2019, https://www.weforum.org/stories/2019/12/this-is-the-problem-with-
+central-banks-fighting-climate-change/
+3
+simultaneously addressing the continent's broader barriers to finance and economic
+growth.
+By positioning things in this way, I am not suggesting that central banks should take
+over the role of other public institutions in climate policy. Rather, I am saying they must
+be in a position to manage risks, as these risks will affect their mandates – both directly
+and indirectly.
+To support these policy conclusions, let me set the context.
+Rising risks and the cost of inaction
+The world is facing rapidly deteriorating climate and weather conditions. Global efforts
+to mitigate emissions are faltering, while the frequency and severity of extreme events
+are growing at an alarming rate. What is particularly concerning is that, every year
+estimates are made about the frequency and severity of extreme weather events over
+the next 30 years, only for us to realise a year later that the actual impacts have been
+underestimated.
+Meanwhile, the cost of inaction is rising. Between 1997 and 2006, the average annual
+economic cost of global extreme weather events was US$45.1 billion.6 In 2024, the
+economic cost of extreme climate events reached US$417 billion.7
+Less mitigation requires more adaptation, yet the funding gaps for adaptation
+measures such as flood prevention are extremely large. In its 2023 Adaptation Gap
+Report, UNEP estimates the financing needs of developing countries to be
+US$387 billion per year in this decade, which is significantly higher than earlier
+estimates.8 Africa alone requires at least US$70 billion annually for climate adaptation,
+but currently, tracked financing covers less than a quarter of this need.9
+Africa’s disproportionate burden
+Although Africa contributes only about 4% of global emissions, it is experiencing a
+disproportionately rapid rise in temperatures and faster-than-average sea level
+increases. In 2024, 11 million people across the continent were impacted by abnormal
+6 Pielke, Jr., R.A et al. 2007. Catastrophe losses in the context of demographics, climate, and policies.
+Conference paper: Managing the changing landscape of catastrophe risk. Available here:
+https://sciencepolicy.colorado.edu/admin/publication_files/resource-2591-2008.06.pdf
+7 Oxera 2004. The economic cost of extreme weather. Available here: https://iccwbo.org/wp-
+content/uploads/sites/3/2024/11/2024-ICC-Oxera-The-economic-cost-of-extreme-weather-events.pdf
+8 United Nations Environment Programme (UNEP), Adaptation Gap Report 2023, 2 November 2023,
+https://www.unep.org/resources/adaptation-gap-report-2023
+9 Climate Policy Initiative (CPI) and Global Centre on Adaptation (GCA), Technical brief: Adaptation Finance
+Flows to Africa – State and Future Trends, 2025, https://gca.org/wp-content/uploads/2025/09/CPI-Report-
+Adaptation-Finance-Flows-to-Africa.pdf
+4
+rainfall,10 while the 2023/24 Southern African drought left 27 million people food
+insecure.11
+Without ambitious and coordinated action, such crises are likely to intensify.
+There are several geographic, social and economic factors that contribute to Africa’s
+heightened vulnerability to climate change. The continent’s heavy dependence on
+rain-fed agriculture makes food security and livelihoods highly susceptible to shifts in
+rainfall patterns.
+Poverty, combined with a lack of access to financial services, makes it difficult for
+people to recover from climate-related shocks. When a flood destroys a home or a
+drought ruins a harvest, families often lack the savings or the insurance coverage to
+rebuild their homes and their livelihoods. At around 3%, Africa’s insurance penetration
+is far below global averages, leaving households, businesses and governments
+dangerously exposed.12 This is made worse by governance challenges that can
+prevent effective climate solutions before they even begin.
+Finally, all of this is compounded by a low capacity to adapt, given that states often
+lack the technology, infrastructure, funding and skills to manage all these challenges.
+In many African countries, the financial sector is underdeveloped, which makes the
+cost of finance high for climate-related investment projects. The average weighted cost
+of capital projections for energy infrastructure in Africa is 15.6%, whereas in developed
+regions such as Western Europe and the United States, the cost is approximately
+5%.13
+With limited fiscal space, public finance alone cannot shoulder the climate financing
+burden. In this context, calls for central banks to promote climate-related financing are
+justified.
+But should they? Or even, can they?
+Central bank direct measures
+In this context, as is often the case when states are weak and resources are limited,
+we see proposals for central bank intervention.
+10 Africa Center for Strategic Studies, ‘Record Levels of Flooding in Africa Compounds Stress on Fragile
+Countries’ 10 December 2024, https://africacenter.org/spotlight/record-levels-of-flooding-in-africa-
+compounds-stress-on-fragile-countries/
+11 World Food Programme, ‘Emergency: Southern Africa Drought’, 2025,
+https://www.wfp.org/emergencies/southern-africa-drought
+12 African Development Bank and OECD, ‘Scaling finance and investment for climate adaptation: Input paper
+for the G20 Sustainable Finance Working Group’, 2025, https://g20sfwg.org/wp-
+content/uploads/2025/07/Financing-climate-adaptation-ENG.PDFO_.pdf
+13 Ibid
+5
+One such proposal is to modify inflation targeting by adding climate objectives to
+central banks’ rate-setting decisions. This would be expected to lower rates in the near
+term, thereby reducing the cost of finance for climate-related investment. Another
+proposal is to implement ‘Green QE’, which essentially involves funding climate
+projects directly off the central bank’s balance sheet and issuing own debt to do so.
+In my experience, these proposals are non-starters. If you set rates too low, over time
+you get inflation. If you do not deal with that inflation, people begin to doubt your
+commitment to inflation targets and they start to set prices with higher inflation in mind.
+If you tell everyone that you are deliberately setting rates low to finance green
+interventions, that process of dismantling credibility just spirals faster. Ultimately, you
+end up levying an inflation tax to fund sustainability initiatives, and that tax is both
+inefficient and regressive. It is pretty much the worst option in the toolkit.
+Central bank credibility has been hard won and remains potentially fragile, even in my
+country where inflation targeting has been successful. In many other African countries,
+this fragility is even more pronounced. Compromising it by adding climate objectives
+to those of interest rate policy would effectively mean abandoning the main tool that
+African central banks have to fight inflation.
+And it could worsen, rather than ease, the cost of finance for climate-related
+investments. How so? Because such investments are long term, and their cost of
+capital is affected by long-term interest rates, not short-term instruments of monetary
+policy. If a central bank keeps short-term rates too low to achieve climate goals, it risks
+losing its credibility in managing inflation expectations. This would prompt people to
+expect higher inflation in the future, causing an immediate rise in long-term interest
+rates as lenders demand compensation.
+But this does not mean central banks must be bystanders. There are choices between
+the two extremes of radical, irresponsible action and turning a blind eye. Central banks
+are deeply embedded in financial markets, have more financial expertise than most
+parts of government, and have financial stability mandates. There is plenty of material
+here for an effective climate strategy, built around three core elements: developing
+capital markets, addressing insurance gaps, and increasing the resilience of the
+financial sector.
+Developing capital markets and carbon markets
+Deep and liquid capital markets are essential for mobilising climate finance.
+Unfortunately, many African capital markets are still in their infancy. Two of the most
+important drivers of capital market development are macroeconomic stability and
+effective regulation. Here, central banks can play a strong and critical role.
+Often, the best financial sector policy is simply to get monetary and fiscal policy right.
+A stable price environment protects savings, drives investment, lowers interest rates,
+and enhances international competitiveness. It also provides the necessary flexibility
+for a central bank to counter financial and economic shocks, and ensures that capital
+markets can allocate funding to its most productive uses.
+6
+An equally important determinant of macroeconomic stability is fiscal sustainability,
+which ultimately means avoiding levels of sovereign borrowing that would lead to debt
+crises.
+The International Monetary Fund classifies seven countries in Africa as being in debt
+distress as of March this year.14 A couple of countries have also applied for debt
+restructuring under the G20 Common Framework. If we want more developed capital
+markets in Africa, we need to improve fiscal policymaking. We also need faster debt
+restructuring processes that enable countries to rebuild their finances and their
+economies quickly if a debt crisis occurs. Despite significant progress being made over
+the past couple of years, the restructuring process remains slow.15
+Turning to the regulatory environment, we need clear and consistent rules for how
+companies report their climate risks and plans.
+This means all companies – financial or otherwise – must disclose their climate
+vulnerabilities and their strategies to manage them using a standardised format. This
+will create comparable data, allowing investors to see which firms are truly prepared
+for climate change and to fund them accordingly.
+Without reliable information, markets cannot price risk, regulators cannot anticipate
+vulnerabilities, and investors cannot channel financing towards the sectors most
+critical for both mitigating carbon emissions and adapting to the effects of physical
+risks.
+In its recent input paper to the G20 Sustainable Finance Working Group, the Network
+for Greening the Financial System identifies the following five pillars for integrating
+adaptation considerations into transition plans16:
+1. Setting up appropriate governance mechanisms to track progress against
+adaptation targets.
+2. Setting objectives and assessing physical risks and opportunities.
+3. Responding to the identified risks and opportunities by managing actions and
+adjusting business strategies.
+4. Developing appropriate engagement strategies.
+5. Developing appropriate measures and targets and continually improving them.
+Central banks and regulators are responsible for embedding these pillars in the
+decision-making and operational models of financial firms. However, these will only be
+14 International Monetary Fund (IMF), ‘List of LIC DSAs for PRGT-Eligible Countries as of March 31, 2025’,
+https://www.imf.org/external/Pubs/ft/dsa/DSAlist.pdf
+15 World Bank Group, ‘The Global Sovereign Debt Roundtable (GSDR)’, 14 February 2025,
+https://www.worldbank.org/en/topic/debt/brief/the-global-sovereign-debt-roundtable-gsdr
+16 Network for Greening the Financial System, ‘Integrating adaptation and resilience into transition plans’,
+July 2025, https://g20sfwg.org/wp-content/uploads/2025/07/SFWG-P2a_Adaptation-and-Transition-Plans-
+2.pdf
+7
+effective if governments ensure that non-financial firms also report on physical risks,
+again highlighting the importance of policy coordination.
+Carbon markets
+Developing carbon markets is another crucial part of advancing Africa's capital
+markets. They markets offer significant value to a country's green agenda and can
+provide governments with new revenue through the regulated sale of carbon permits.
+Carbon markets are being established worldwide. While the largest systems are in the
+European Union and China, we are also seeing the development of smaller regional
+markets. At present, the African continent accounts for just 16% of the global carbon
+market.17
+Developing effective carbon markets depends on international cooperation to ensure
+both environmental and financial integrity. Global bodies such as the International
+Organization of Securities Commissions are supporting this by establishing best
+practices. Building on this momentum, through South Africa's G20 Presidency, we are
+leading efforts to improve carbon credit data – a crucial step towards building
+transparent and trustworthy markets.
+For Africa's carbon market to grow, the major economies must allow their largest
+emitters to buy more carbon credits from the continent. This demand would not only
+build the market itself, but also generate crucial funding for development projects on
+the continent.
+Given their central role in financial markets, central banks are well positioned to help
+develop carbon credit markets.
+Insurance markets
+Another important focus area for financial sector policy should be improving insurance
+coverage in Africa. Insurance penetration rates on the continent are far below the
+global average, leaving the continent more exposed to climate risk losses.18 Insurance
+is also important for investment, as lenders often make insurance coverage a
+prerequisite for funding.
+Unfortunately – and this is another priority area for our G20 Presidency – insurance
+gaps are widening.
+It is becoming increasingly difficult globally to insure against natural disasters, with the
+problem being especially severe in developing markets. Rising risks make insurance
+17 United Nations University Institute for Natural Resources in Africa (UNU INRA), Carbon Market Economics:
+Crafting a New Narrative of Opportunity and Sustainable Growth for Climate Action in Africa, 2024,
+https://collections.unu.edu/eserv/UNU:10036/Carbon_Market_Economies_____Nov_2024__Web_.pdf
+18 Deloitte Africa Insurance Outlook 2024/25. Available here:
+https://www.deloitte.com/za/en/Industries/insurance/perspectives/africa-insurance-outlook-2024-2025.html
+8
+more expensive, which further widens the coverage gap. People in developing
+economies often do not buy insurance due to low incomes, limited access, a lack of
+risk awareness, and mistrust in financial products. Local insurance companies are
+often held back by underdeveloped markets, limited technical skills, and a lack of
+quality data needed to accurately price their products.19
+Yet, there are already practical examples of how insurance gaps can be addressed,
+despite these constraints. For instance, in Senegal, the government has established
+an agricultural insurance company that is 45% government owned and 55% privately
+owned. This insurance company offers various insurance products to farmers,
+including parametric insurance against drought – a simple system that pays out when
+certain conditions are met, such as soil moisture levels being above or below a specific
+threshold. Policies taken by farmers through the insurance company are subsided by
+the government. This is a powerful example of how shared responsibility and policy
+coordination can strengthen resilience.20 Of course, it relies on the fiscal strength I
+mentioned previously.
+Just as with capital markets, developing new and affordable insurance products and
+markets depends on effective collaboration between a wide range of partners. These
+groups – including the public sector, insurers, consumer groups, and international
+development institutions – all have distinct but complementary roles. Their
+collaboration is crucial for assessing gaps in insurance coverage, improving the quality
+of risk data, building consumer confidence, and strengthening financial literacy and
+risk awareness.
+Increasing the resilience of the financial system to climate risks
+Lastly, let me reflect on how we can increase the resilience of the financial system to
+climate risks. It will be impossible to develop capital markets and address insurance
+protection gaps unless the financial system is resilient to climate change shocks.
+Although I have mainly highlighted the unique challenges Africa faces, building a
+resilient financial system also requires us to adopt best practices from other central
+banks and financial regulators. This includes establishing appropriate disclosure
+requirements, carrying out stress tests, and integrating climate considerations into the
+operational and governance frameworks of financial institutions. But there are some
+caveats to consider.
+19 African Development Bank and OECD, ‘Scaling finance and investment for climate adaptation: Input paper
+for the G20 Sustainable Finance Working Group’ 2025, https://g20sfwg.org/wp- /uploads/2025/07/Financing-
+climate-adaptation-ENG.PDFO_.pdf
+20 Network for Greening the Financial System, ‘Integrating adaptation and resilience into transition plans’, July
+2025, https://g20sfwg.org/wp-content/uploads/2025/07/SFWG-P2a_Adaptation-and-Transition-Plans-2.pdf
+9
+For example, African countries have unique constraints that must be addressed in the
+formulation of disclosure policy. Voluntary disclosures should come first to allow
+corporations to understand their data and capacity requirements and address these
+during the voluntary disclosure phase. Once data and capacity have been addressed,
+these climate-related disclosures should become mandatory and form part of our
+financial system’s resilience infrastructure.
+A one-size-fits-all approach to climate stress testing will not work for Africa. Standard
+tests focus on corporate loans, but our banks' main risk is in the retail sector. These
+tests also fail to capture our unique vulnerabilities, including:
+• greater physical risks – we are more exposed to events such as droughts and
+floods; and
+• different transition risks: – we are often impacted by capital flight caused by
+policy shifts in advanced economies.
+As supervisors, we must design stress tests that are tailored to the challenges we face.
+An area that is often not associated with the resilience of the financial system is
+financial inclusion. It is however essential to how African countries manage climate-
+related risks. Access to finance and insurance, as well as financial sector access,
+assist households and businesses with more risk management tools and allows
+governments and donors to provide assistance in the face of catastrophic events.
+Finally, strengthening financial resilience in Africa through regional coordination is
+essential to mitigate shared vulnerabilities and amplify collective strengths. By
+harmonising regulatory frameworks, pooling resources for climate and debt-related
+shocks, and enhancing cross-border financial surveillance, African countries can build
+a more robust and integrated financial system.
+Conclusion
+So, should African central banks take on the challenges of climate change?
+The answer is yes, but with limited and clearly defined parameters.
+I hope I have persuaded you that proposals for central banks to finance the fight
+against climate change – by weakening their commitment to low inflation and setting
+rates low to make climate finance cheap – are misguided and sure to fail in their
+objective. That is a big no.
+What we need is to improve our modelling to inform the calibration of monetary policy
+decisions.
+There is also a compelling case for a strong affirmative when it comes to financial
+sector stability and development. We can help develop markets to better finance
+10
+climate-related investment, facilitate carbon trading, and improve insurance coverage.
+And we can help protect overall financial stability from the climate shocks that are
+coming our way. None of this requires sacrificing core mandates or stepping outside
+our area of comparative advantage. Indeed, it is closely connected to our pre-existing
+work and mandates.
+The core challenge for African economies is managing high exposure to climate-
+related risks while having limited resources. While central banks may not be at the
+forefront of the battle against climate change, our involvement remains essential.
+If you take away one thing that I have said tonight, it is that we are not flying blind as
+central banks. We know that there is much we do not know, and we are committed to
+learning. We recognise the plausible danger of mission creep, or even mission
+compromise. Where these efforts go awry and lead to inflation or financial losses, or
+the crowding out of other climate responders, they set central banks up for a blame
+game they cannot win.
+Our core mandates remain clear and essential: safeguarding the public against
+inflation is paramount. Losing sight of this priority would not only harm our citizens, but
+also erode the effectiveness and independence of central banks. Therefore, we must
+avoid diverging from this focus. At the same time, our active roles in promoting
+financial stability and fostering market development present meaningful opportunities
+for positive impact. It is in these areas – where our expertise is strongest – that we
+should concentrate our efforts.
+11
+References
+Africa Center for Strategic Studies. 2024. ‘Record Levels of Flooding in Africa
+Compounds Stress on Fragile Countries’. https://africacenter.org/spotlight/record-
+levels-of-flooding-in-africa-compounds-stress-on-fragile-countries/
+African Development Bank and OECD. 2025. ‘Scaling finance and investment for
+climate adaptation: Input paper for the G20 Sustainable Finance Working Group’.
+https://g20sfwg.org/wp-content/uploads/2025/07/Financing-climate-adaptation-
+ENG.PDFO_.pdf
+Climate Policy Initiative (CPI) and Global Centre on Adaptation (GCA). 2025.
+‘Technical brief: Adaptation Finance Flows to Africa – State and Future Trends’.
+https://gca.org/wp-content/uploads/2025/09/CPI-Report-Adaptation-Finance-Flows-
+to-Africa.pdf
+Davies, H. 2023. ‘Central Bankers’ Green Lines’. Project Syndicate.
+https://www.project-syndicate.org/commentary/central-banks-increasingly-divided-
+over-climate-change-by-howard-davies-2023-01
+Deloitte Africa Insurance Outlook 2024/25. Available here:
+https://www.deloitte.com/za/en/Industries/insurance/perspectives/africa-insurance-
+outlook-2024-2025.html
+Forster, P et al. 2025. ‘Indicators of Global Climate Change 2024: Annual update of
+key indicators of the state of the climate system and human influence’. Earth Syst. Sci.
+Data, 17: 2641–2680, 2025. https://doi.org/10.5194/essd-17-2641-2025
+Hansen, L P. 2022. ‘Central banking challenges posed by uncertain climate change
+and natural disasters’. Journal of Monetary Economics, 125(C): 1–15.
+https://www.sciencedirect.com/science/article/pii/S0304393221001033
+International Association of Insurance Supervisors (IAIS) and World Bank Group.
+2025. ‘Identify and address insurance protection gaps’. An input paper to the G20
+Sustainable Finance Working Group. https://g20sfwg.org/wp-
+content/uploads/2025/07/SFWG-P2b_Insurance-Protection-Gap.pdf
+International Monetary Fund (IMF). 2025. ‘List of LIC DSAs for PRGT-Eligible
+Countries as of March 31, 2025’. https://www.imf.org/external/Pubs/ft/dsa/DSAlist.pdf
+Issing, O. 2019. ‘Central banks aren’t responsible for fighting climate change –
+governments are’. World Economic Forum Stories.
+https://www.weforum.org/stories/2019/12/this-is-the-problem-with-central-banks-
+fighting-climate-change/
+Koudalo, Y M A and Toure, M. 2023. ‘Does financial inclusion promote financial
+stability? Evidence from Africa’. Cogent Economics & Finance, 11(2).
+https://doi.org/10.1080/23322039.2023.2225327
+12
+Network for Greening the Financial System (NGFS) 2025, ‘Integrating adaptation and
+resilience into transition plans’. An input paper to the G20 Sustainable Finance
+Working Group. https://g20sfwg.org/wp-content/uploads/2025/07/SFWG-P2a_
+Adaptation-and-Transition-Plans-2.pdf
+NGFS 2017, Joint statement by the Founding Members of the Central Banks and
+Supervisors Network for Greening the Financial System”. Available at
+https://www.ngfs.net/en/press-release/joint-statement-founding-members-central-
+banks-and-supervisors-network-greening-financial-system
+NGFS 2024, NGFS long-term scenarios for central banks and supervisors. Available
+here: https://www.ngfs.net/ngfs-scenarios-portal/
+Oxera. 2004. ‘The economic cost of extreme weather’. https://iccwbo.org/wp-
+content/uploads/sites/3/2024/11/2024-ICC-Oxera-The-economic-cost-of-extreme-
+weather-events.pdf
+Pielke, Jr., R.A et al. 2007. ‘Catastrophe losses in the context of demographics,
+climate, and policies’. Conference paper: Managing the changing landscape of
+catastrophe risk. https://sciencepolicy.colorado.edu/admin/publication_files/resource-
+2591-2008.06.pdf
+United Nations Environment Programme (UNEP). 2023. The Adaptation Gap Report.
+https://www.unep.org/resources/adaptation-gap-report-2023
+United Nations University Institute for Natural Resources in Africa. 2024. ‘Carbon
+Market Economics: Crafting a New Narrative of Opportunity and Sustainable Growth
+for Climate Action in Africa’.
+https://collections.unu.edu/eserv/UNU:10036/Carbon_Market_Economies_____Nov_
+2024__Web_.pdf
+World Bank Group. 2025. ‘The Global Sovereign Debt Roundtable’.
+https://www.worldbank.org/en/topic/debt/brief/the-global-sovereign-debt-roundtable-
+gsdr
+World Food Programme. 2025. ‘Emergency: Southern Africa Drought’.
+https://www.wfp.org/emergencies/southern-africa-drought
+13

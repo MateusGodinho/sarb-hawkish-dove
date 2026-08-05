@@ -1,0 +1,246 @@
+Titulo: An address by Fundi Tshazibana Deputy Governor of the South African Reserve Bank, at the South Africa Year Ahead Conference 2023 Bank of America Securities
+Data: 2023-12-01
+Palestrante (estimado): Fundi Tshazibana Deputy Governor
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2023/An-address-by-Fundi-Tshazibana-Deputy-Governor-of-the-South-African-Reserve-Bank-at-the-South-Africa-Year-Ahead-Conference-2023-Bank-of-America-Securities
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2023/dg-fundi/An%20address%20by%20Fundi%20Tshazibana%20Deputy%20Governor%20of%20the%20South%20African%20Reserve%20Bank,%20at%20the%20South%20Africa%20Year%20Ahead%20Conference%202023%20Bank%20of%20America%20Securities,%201%20December%202023%20.pdf)
+----------------------------------------------------------------------
+
+An address by Fundi Tshazibana
+Deputy Governor of the South African Reserve Bank,
+at the South Africa Year Ahead Conference 2023
+Bank of America Securities, 1 December 2023
+Higher for longer
+Good morning
+Thank you for the invitation to speak at your annual Year Ahead conference.
+We live in very interesting and uncertain times. These past four years, we have learnt
+that what we may think the year ahead could look like, often does not hold true, often
+in the most surprising ways.
+The nature of the shocks we have experienced in recent years has resulted in an
+unusually high degree of convergence of global monetary policies in recent years.
+In other words, central banks have been running together in a pack.
+During the onset of the COVID-19 pandemic, most of us lowered rates sharply. Then,
+as inflation took off afterwards, we all raised them again. Nowadays, one could argue
+on the back of our communication, that central banks are in a third phase, which
+everyone is calling ‘higher for longer’.
+1
+I thought it would be useful today to discuss this concept of higher for longer – what it
+means, why so many central banks are using it, and how it applies to South Africa.
+There are two main reasons ‘higher for longer’ have been getting so much airtime,
+globally.
+The first is that markets, especially in the United States (US), placed increased focus
+on interest rate cuts. Even as the US Federal Reserve (Fed) raised rates steeply,
+starting in 2022, markets kept anticipating that this would trigger a recession and that
+the Fed would start cutting rates again.
+This was contrary to the Fed’s own expectations for rates, as demonstrated, for
+instance, in the famous dot plot.
+And it was a problem because it meant financial conditions did not tighten as much as
+the Fed wanted: very short-term rates, which the Fed largely controls, were going up,
+but long-term rates were not rising nearly as much.
+This was weakening monetary policy transmission.
+Only in early 2023, did markets start accepting that rates would be higher for longer.
+The collapse of Silicon Valley Bank (SVB) triggered a last round of hopes for large,
+near-term cuts. But the financial stress from that episode was contained, and the US
+economy kept on growing.
+By mid-2023, the market had converged to the Fed’s messaging, and ‘higher for
+longer’ became the new consensus. In these circumstances, we have seen the two-
+year Treasury bill rate rise to around 5% – it was just 3.8% after SVB collapsed, and
+3% at the start of 2022.
+Similarly, the 10-year US Treasury rate, which is a crucial benchmark for the US
+economy and the world, briefly hit 5% in late October, and is now around 4.6%, up
+from just 3% at the start of 2022.
+2
+Of course, long-term rates are not just determined by monetary policy expectations.
+Many explanations have been offered for the rise in the 10-year rate, but there is no
+expert consensus yet.
+However, for monetary policy, it is clear that there has been a broad tightening of
+financial conditions. And this has given the Fed space to leave rates unchanged at its
+past two meetings, after previously hiking for 11 meetings in a row.
+This brings us to the second reason central bankers have been emphasising ‘higher
+for longer’.
+I should at this point highlight that although ‘higher for longer’ might sound like bad
+news, this is meant to be a reassuring message about why central banks could pause
+their hiking cycles.
+At the South African Reserve Bank’s (SARB) 2023 Biennial Conference, held in late
+August, the Bank of England’s Chief Economist, Huw Pill, captured this with a brilliant
+metaphor. He distinguished two monetary policy strategies – one that looks like the
+Matterhorn and one that looks like Table Mountain.
+The Matterhorn is a very steep mountain in the Alps, nearly 4.5 km high, and it looks
+like a pyramid. A Matterhorn monetary policy is one where you raise rates sky high,
+then quickly start cutting again.
+Table Mountain, of course, is not as high. It has an elevation of just over 1 km. But it
+stays that high for about 3 km. For monetary policy, a Table Mountain strategy means
+you do not hike as far, but rates remain elevated for an extended period.
+At our conference, Pill made three arguments in favour of the Table Mountain option.
+Let us see if you agree with him:
+Firstly, he suggested a less volatile rate cycle could mitigate financial stability risks.
+3
+Secondly, he argued ‘higher for longer’ could also control underlying inflation
+pressures more effectively, for instance by better influencing slow-moving prices like
+wages.
+Thirdly, he also pointed out that in the United Kingdom (UK), many borrowing costs,
+such as mortgage rates, reset after a couple of years. This would put a lag on monetary
+policy transmission, meaning the Bank of England’s Monetary Policy Committee would
+be able to pause rates and still expect the effects of past monetary tightening to
+intensify in the economy.
+Of course, different countries have different conditions. Accordingly, it is not clear that
+Matterhorn strategies are always better or worse than Table Mountain strategies.
+For example, there are several Latin American central banks that have been praised
+for their proactive responses to the recent global inflation surge. Their interest rate
+paths resemble the Matterhorn much more than Table Mountain.
+In Brazil, for instance, the policy rate went from 2% in 2021 to a peak of 13.75% by
+August 2022. It has since fallen by 150 basis points to 12.25%.
+Similarly, in Chile the policy rate was just half a percent in 2021. It peaked at 11.25%
+by mid-2022. It has so far fallen back by 225 basis points to 9%.
+But these are countries with worse inflation experiences, historically.
+They also experienced very severe inflation surges, with double-digit price growth
+during 2022. You can make a strong argument that Matterhorn strategies were
+appropriate in these contexts.
+South African conditions are different.
+Our policy stance has so far looked much more like Table Mountain: we climbed from
+3.5% to 8.25%, and policy rates have been unchanged at 8.25% since May this year.
+4
+Rates have clearly risen significantly, but much less than we saw in the Latin American
+cases.
+Relatedly, while we have seen cuts already in those countries, markets and analysts
+only anticipate shallow cuts in our repurchase (repo) rate, sometime around the
+second half of 2024.
+Barring any upside surprises, this has the appearance of a Table Mountain path.
+Is this the right strategy for South Africa?
+Firstly, it is important to note that we have not had the experience of the US or the UK
+where financial conditions have been slow to tighten.
+The South African private sector, especially households, mostly carries floating rate
+debt.
+When the SARB adjusts the repo rate, borrowing costs reset rapidly, typically within
+one month.
+We therefore see quick and clear monetary policy transmission, which carries over as
+expected to variables such as credit extension and core inflation.
+Therefore, the ‘higher for longer’ story for South Africa is not about delayed
+transmission or markets misreading our intentions.
+Secondly, the financial stability consideration has not played a big part in our thinking.
+No doubt, if there was a way to achieve our target that involves less stress on the
+system – households, firms and government – we would prefer that.
+But we have a resilient financial sector. Liquidations and insolvencies have been
+limited.
+5
+There are some pockets of stress, and households are certainly feeling the squeeze,
+but we are not like advanced economies where rates are suddenly radically higher
+than they used to be.
+We are 200 basis point above where we were before COVID-19 struck – by contrast,
+both the US and the euro area have seen changes that are double that, about
+400 basis points.
+Furthermore, having not had zero interest rates in South Africa, no one got used to
+treating debt like it was nearly free.
+Importantly, we also have a range of tools, beyond interest rates, to look after financial
+stability.
+Overall, we feel we can be resolute in using interest rates to stabilise inflation, without
+feeling hobbled by trade-offs between our mandates.
+Nonetheless, even if you cannot copy and paste the rationales from other economies
+to South Africa, there still seems to be a good case for keeping rates ‘higher for longer’
+domestically.
+To anchor that claim with a number, in the 2010s, the repo rate averaged just over 6%.
+It seems unlikely we will be going back to those kinds of average rates over the next
+few years.
+Let me address the why.
+The starting point is the global story.
+As discussed, the era of ultra-low inflation rates and ultra-loose monetary policies in
+the advanced economies seems to be over. Where once global financial conditions
+were loose and it was relatively easy to attract foreign money, nowadays even the very
+safe and liquid assets generate attractive real returns.
+6
+This means investors are no longer searching the world for a bit of extra yield; instead,
+it is the borrowers who must put in extra effort.
+South Africa is one of those borrowers.
+On top of that, our domestic policy settings are also calibrated to push up rates. This
+is not a statement about monetary policy; it is a statement about the environment in
+which we make monetary policy.
+Consider the following.
+Firstly, fundamentally, interest rates reconcile saving and investment.
+South African savings, as a share of gross domestic product (GDP), are at historic
+lows, under 14% of GDP.
+We have the lowest saving rate in the BRICS countries, and also the BRICS+, which
+includes the six new members joining next year.
+If you posed an exam question that asked: what would happen to interest rates in a
+country where savings decline while everything else stayed unchanged, the answer
+would be clear. Interest rates would be higher.
+Well, here we are, competing for a shrinking pool of resources.
+Where does this come from?
+As a country, we have long had a culture of low saving. What is new is the scale of our
+fiscal deficits. The average fiscal deficit from 2000 to 2020 was 2.5% of GDP.
+By contrast, Nation Treasury expects 4.9% for this financial year and 4.6% for the year
+after that.
+7
+The International Monetary Fund (IMF) numbers suggest that we could do a lot worse,
+reaching a fiscal deficit of over 6% of GDP.
+What this tells us is that the biggest economic actor in the country decided to save
+less, or more precisely, to dissave more heavily – which means to borrow more. That
+reduced the pool of saving available for the rest of the economy. The result is upward
+pressure on interest rates.
+Of course, in a global economy you can draw on foreign savings to supplement local
+stocks. But as noted, global rates are higher and we are now perceived as a riskier
+borrower.
+The sovereign lost its last investment-grade credit rating in 2020. That affected the
+creditworthiness of all South African borrowers.
+We have a bigger risk premium to deal with than we used to, and we deal with it by
+paying up.
+In other words, the underlying drivers of interest rates are going up. To maintain the
+value of the currency – that is, to stabilise inflation – actual rates must rise too.
+The SARB is the messenger that conveys this information. It is the way of the world
+that the carriers of bad news get shot at. It is therefore no surprise that our rate
+increases have drawn some fire.
+Questions are often asked whether the SARB is helping this economy or not – with
+the emphasis on not.
+Our answer is clearly yes, we are helping.
+In the counterfactual where we tried to lower rates significantly in the face of these
+headwinds, the outcomes would be unsustainable and inflationary.
+8
+This is not some hypothetical speculation; there are very visible examples of countries
+that did not get monetary policy tight enough and are paying a high price.
+Our mandate is clear: we have a duty to step in and ensure price stability.
+This equates to protecting the purchasing power of households, preserving the value
+of savings and the global competitiveness of South African businesses.
+And where this requires higher interest rates, plainly we need to deliver them – as we
+have done.
+But the more material question to ask is, does this economy not need lower rates?
+And the answer to that is, yes.
+We are in a suboptimal macroeconomic space, and if we could coordinate our way to
+a better set of macro settings, we could be better off.
+I would love to see rates being lower for longer, not higher for longer. And there are
+things we can do, as a country, to make that possible.
+It is not hard to imagine reforms that bring down the country risk premium. It is also
+not hard to imagine reforms that lower inflation.
+Reduced country risk would help the exchange rate. Lower administered price
+increases would directly reduce inflation.
+It is also helpful to think about a lower inflation target, like those of other well-run
+emerging markets. But I will leave this topic for another day.
+All these changes would give the SARB space for lower rates. And to the extent that
+some of these reforms temporarily weakened demand, that would bolster the case for
+lower rates.
+9
+So, that is one problem with ‘higher for longer’ – it is the second-best outcome, not the
+first. It is what we must do in a situation where the SARB carries more of the burden
+of stabilising the macroeconomy. The first-best solution entails broader burden-sharing
+and therefore lower interest rates.
+The other problem with ‘higher for longer’ is that it sounds too much like a commitment.
+Over the past few years, central banks have experimented more widely with what is
+called ‘forward guidance’, and the results have not been pretty.
+The problem is, when you say something about the outlook for interest rates and then
+add all your caveats, people just hear the first part. They then get hurt when they act
+on the projections and do something else.
+Worse still, central banks can feel obliged to stick with their initial commitments, even
+in situations where the world changes for which different tactics are required.
+If we have learnt anything from the past four years, it is to expect surprises. We
+therefore need to retain optionality.
+The only hard promise we can make is that we will do what is needed to deliver on our
+mandate; we cannot pre-commit to a specific policy path.
+I therefore hope, when I say ‘higher for longer’, that I’m heard correctly.
+It is not a SARB promise.
+It is not even our preferred outcome.
+Instead, it is a useful way of describing the stresses in this economy – some of them
+from outside and some of them from within.
+It also conveys a viable strategy for controlling inflation despite those stresses.
+10
+But higher for longer is not inevitable. We have to control inflation, but if we have
+different macro arrangements, that could be done more cheaply.
+Lower for longer is also possible, and I hope we get there.
+Thank you.
+11

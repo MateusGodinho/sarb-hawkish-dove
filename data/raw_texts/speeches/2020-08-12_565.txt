@@ -1,0 +1,346 @@
+Titulo: An address by Lesetja Kganyago, Governor of the South African Reserve Bank University of Pretoria, Pretoria 12 August 2020
+Data: 2020-08-12
+Palestrante (estimado): Lesetja Kganyago
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2020/565
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2020/565/UP-Address_In-the-Shadow-of-COVId-19-Twenty-years-of-inflation-targeting_Governor-Lesetja-Kganyago_12082020.pdf)
+----------------------------------------------------------------------
+
+An address by Lesetja Kganyago,
+Governor of the South African Reserve Bank
+University of Pretoria, Pretoria
+12 August 2020
+In the shadow of COVID:
+lessons from 20 years of inflation targeting
+Good afternoon, ladies and gentlemen.
+This speech is about 20 years of inflation targeting.
+For two decades, we have been part of a great international experiment in getting
+monetary policy right. Inflation targeting has delivered a long period of price stability,
+comparable to the best years of the post-War Bretton Woods system, and should be
+considered a success for South Africa and for many other countries.
+To understand how we got to where we are now, looking back at 20 years of inflation
+targeting, we can start further back: with a speech from 1979, titled ‘The anguish of
+central banking’, by Arthur Burns, who was Chair of the US Federal Reserve for most
+of the 1970s.
+This was a period of high inflation, in the US and globally. Burns asked why inflation
+was ‘proving so stubborn’, and why central bankers were failing to stop it. He offered
+a remarkable confession: that the Fed could have stopped this inflation at any time,
+but didn’t because it lacked the will to do so.1 To quote from the speech directly:
+1 This text paraphrases the following: “Viewed in the abstract, the Federal Reserve System had the
+power to abort the inflation at its incipient stage fifteen years ago or at any later point, and it has the
+power to end it today. At any time within that period, it could have restricted the money supply and
+created sufficient strains in financial and industrial markets to terminate inflation with little delay.”
+Inflation came to be widely viewed as a temporary phenomenon – or, provided it remained mild,
+as an acceptable condition. ‘Maximum’ or ‘full’ employment, after all, had become the nation’s
+major economic goal – not stability of the price level. That inflation ultimately brings on
+recession and otherwise nullifies many of the benefits sought through social legislation was
+largely ignored.2
+During Burns’ tenure at the Fed, inflation averaged nearly 7% in the US, well above
+the 2% levels of the preceding two decades.3 Indeed, the decade ended in tears, with
+high inflation giving way to falling investment and growth, and eventually a sharp and
+persistent increase in unemployment, which took years to resolve.
+How easily could we have made the same mistakes! We could have said that – with
+high unemployment, and such great economic demands after apartheid – it was just
+not possible to control inflation. And then we would have ended up with no social
+benefits – no more growth, no extra jobs – but with high and stubborn inflation instead,
+just as it did for Burns.
+But the story of South African central banking, in the democratic era, is not one of
+regret. The 1980s and early 1990s made it very clear that high inflation creates
+uncertainty, destroys savings, and undermines growth. The growth/inflation trade-off
+doesn’t work. We realised that inflation targeting, as a transparent and accountable
+policy framework, provided our best shot at price stability with growth.
+In fact, the inflation-targeting era has been one of lower inflation and lower interest
+rates than prevailed previously. Following our mandate, inflation has been kept under
+control.4 Even now, at this very difficult time for the economy, we can see the inflation-
+Please see Arthur Burns, 30 September 1979, ‘The anguish of central banking’, available at
+http://www.perjacobsson.org/lectures/1979.pdf, p. 15.
+2 Ibid, p. 13.
+3 Precisely, CPI inflation averaged 6.5% during Burns’ tenure as Fed Chair (February 1970 –
+March 1978). For the 1970s as a whole, inflation averaged 7.1%. For the 1960s, it was 2.3%. For
+the 1950s, it was 2.1%. (Data from the St Louis Fed FRED database.)
+4 For this period, inflation has averaged 5.9%. The volatility of growth, inflation and interest rates has
+also been lower. Specifically, for the periods 1970-2000 and 2000-2020, the standard deviation of
+growth has declined from 4.3 to 2.6, the standard deviation of inflation has fallen from 3.9 to 2.4, and
+the standard deviation of interest rates (the lowest SARB lending rate) has gone from 4.9 to 2.5. The
+pattern of lower volatility following the introduction of inflation targeting also holds when contrasting
+1980-2000 with 2000-2020 (i.e. two 20-year windows).
+targeting framework functioning properly, delivering historically low interest rates in
+the context of low inflation.
+What are the chances, 20 years from now, that we will still have price stability and low
+interest rates? Will we be agonising, 20 years from now, over how we lost control of
+inflation?
+Today, there is a new generation coming of age, in very difficult circumstances. They
+have many questions – about the economy in general, and about how monetary policy
+fits into the picture. Some of the questions are asked in a fiery tone, and I think that
+young people are right to be angry. Not only have they been unlucky, reaching
+adulthood during one of the worst economic disasters in modern history. They are also
+now discovering that, over the past 10 years, South Africa has been accumulating debt
+at a rapid pace, faster than any big emerging market except Argentina. So, while the
+economy struggles to grow, and job creation remains elusive despite the spending,
+there is a heavy burden of debt for future generations to carry.
+Justified though this anger is, we need to channel that energy into positive action. We
+also need to guard against making policy mistakes that could sink us into deeper
+trouble.
+Perhaps, in the audience here today, there are future macroeconomic policymakers,
+future reserve bank governors and finance ministers. There are surely many people
+who will be leaders in this country, in one role or another. This speech is primarily for
+you. You will decide much of our economic future, through your choices and the ideas
+behind them. We are giving you many problems, but at least we have achieved price
+stability. It will be up to you to keep it. Here are some lessons we have learned to help
+you do that.
+The first lesson has to do with Arthur Burns’ problem, which is about losing track of
+your mission and living to regret it. Perhaps the most common criticism of inflation
+targeting, over the past two decades, has been that South Africa needs a more growth-
+friendly monetary policy. Burns, however, learned the hard way that there is no
+permanent gain to growth from short-run increases in inflation.
+While we would all like South Africa to reach permanently high growth, this is beyond
+the powers of a central bank. As we have often communicated, most of our growth
+problems should be addressed through structural reforms and confidence-boosting
+measures. To give just one example, the central bank cannot stop electricity load-
+shedding with interest rates.
+The South African Reserve Bank (SARB) can be held accountable for achieving low
+and stable inflation. But economic growth requires collaborative effort. It is simply not
+within the power of one institution to deliver. It is a team sport. It needs contributions
+from education, from the development finance institutions, from the private sector, and
+from many other players.
+Our emphasis on growth as a team sport, however, does not crowd out our concern
+for the specific growth problem we can address, which is weak demand. Right now,
+demand has been badly damaged by the coronavirus lockdowns. In technical terms,
+we think the output gap is deeply negative. This feeds into our policy stance: we have
+slashed interest rates to support aggregate demand and the spending power of South
+Africans. In doing this, we are supporting that part of growth in the near term which we
+can influence.
+We have become clearer about this in recent years, as part of adopting the Quarterly
+Projection Model (QPM) as the main forecasting tool for the Monetary Policy
+Committee (MPC) back in 2017. The QPM sets out a proposed path for interest rates,
+which it gets from a so-called ‘Taylor rule’. That rule responds to the output gap as
+well as inflation. Indeed, because the output gap also affects the inflation rate, the rule
+responds to weak growth twice. The output gap gives us a measure of slack – and
+that gap, in turn, has an impact on inflation.
+Would it make sense to add growth or employment to the mandate of the SARB,
+alongside the price stability mandate?5 I doubt this would change policy much. After
+5 See also Lesetja Kganyago, 25 April 2017, ‘Monetary policy: why we target inflation’, available at
+https://www.resbank.co.za/Lists/Speeches/Attachments/492/Address%20by%20Governor%20Kganya
+all, we already include growth in our models and decision making – through the output
+gap, a comprehensive measure of economic slack.6 The problem is that formally
+adding an extra mandate, in the context of our propensity to stagflation, could
+encourage policy mistakes and weaken credibility.
+South Africa’s growth and employment problems are bigger than monetary policy.7
+For instance, even when the economy was booming, unemployment stayed above
+20%. As with growth, the bedrock of this problem is structural, not cyclical. In this case,
+it’s the legacy of Bantustans, apartheid education, and the failure to fix those problems.
+Our labour markets have also historically raised the cost of hiring people even when
+the economy is weak and people are losing jobs. This cost inflation has further
+undermined job creation even when growth picks up.
+For these kinds of structural reasons, an employment mandate is unlikely to be
+effective. More likely, we would find ourselves in Arthur Burns’ shoes: we would not
+get unemployment permanently lower, but we would be stuck with higher inflation,
+making our growth and jobs challenges even worse.
+We want to be crystal-clear that we won’t make that mistake. With inflation well
+anchored, moves to lower interest rates should get us more real growth than inflation.
+And this is exactly where we are now.
+But doesn’t everyone have low inflation now? Isn’t this due to the coronavirus, not
+monetary policy? This brings me to the second common argument we have heard,
+which is that lower inflation has been a global phenomenon, not an accomplishment
+of inflation targeting.
+go%20at%20UKZN%20Graduate%20School%20of%20Business%20and%20Leadership.pdf,
+especially pp. 7-9.
+6 Employment could be used in place of an output gap, but this would be a less comprehensive
+assessment of how strong or weak the economy is, and the data are even more difficult to use than
+output gap estimates.
+7 For a detailed discussion of this subject, see Lesetja Kganyago, 24 August 2016, ‘Inflation, but no
+jobs or growth’, available at
+https://www.resbank.co.za/Lists/Speeches/Attachments/478/Address%20by%20Governor%20Kganya
+go%20at%20the%20Labour%20Law%20Conference%20-%2024%20August%202016.pdf.
+There’s no doubt that global factors affect inflation. Globalisation and low-cost
+manufacturing have made many goods cheaper. The recent collapse in oil prices has
+been a big disinflationary shock.
+But we also have good evidence that countries with independent, inflation-targeting
+central banks have lower and less volatile inflation.8 And we can see that there are
+still countries with high inflation rates, despite low global inflation. The easy examples
+of this are the hyperinflation cases, like Venezuela and Zimbabwe.
+But there are less extreme cases that show the value of sensible monetary policy.
+Consider Turkey, a middle-income country like South Africa. In June this year, Turkish
+inflation was 12.6%. In South Africa, it was 2.2%. Both these economies had low
+growth, of less than 1%, before COVID-19 hit. Both countries have experienced big
+currency depreciations this year. Both are major importers of oil, and have benefitted
+from its price collapse. So why are their inflation rates so different?
+The point here is that the independence of the central bank matters, with the
+experience of other emerging and developing economies bearing testimony to this.9
+Since 2015, Turkey’s inflation rate has averaged 11.6% against a target of 5%. For
+the same period, South African inflation has been within our 3-6% target range,
+averaging 5%.
+Examples like this make it crystal-clear that low inflation is not just a worldwide fact
+that countries can have ‘for free’. If individual countries don’t make an effort, they can
+easily get stuck with high inflation.
+The third argument is that inflation targeting is a rich-country policy, inappropriate for
+an emerging market like South Africa. In fact, inflation targeting has been adopted
+8 Jongrim Ha, Ayhan Kose and Franziska Ohnsorge, eds., 2020, Inflation in emerging and developing
+economies, available at https://www.worldbank.org/en/research/publication/inflation-in-emerging-and-
+developing-economies, p. i13.
+9 See, for instance, ‘Turkey’s president removes head of central bank’, available at
+https://www.nytimes.com/2019/07/06/business/erdogan-removes-turkey-governor-central-bank.html,
+published in the New York Times on 6 July 2019.
+widely by emerging markets. This makes sense, as many of us have learned from
+bitter experience that tolerating inflation isn’t developmental – it just creates instability.
+It is worth noting that there are more developing-country inflation targetters, about
+25, compared to 11 among the advanced economies.10 And while New Zealand gets
+the credit for being first to implement inflation targeting, the second country was an
+emerging market: Chile.11 Differences between advanced and emerging economies
+tend to be reflected in target designs that are not ‘one size fits all’. Most rich countries
+have found they like a 2% target, but emerging markets have used other sizes, often
+3% or 4%.
+More recently, critics of monetary policy here in South Africa have flipped by
+180 degrees. The SARB was originally accused of wrongly importing a first-world
+policy to South Africa. But now we are told to follow major advanced economies and
+launch a big Quantitative Easing (QE) programme. So much for the claim that rich-
+country policies don’t work in developing countries!
+This brings me to the next part of my speech, which is about new challenges to inflation
+targeting.
+In South Africa, there is a surprising amount of interest in QE. From being arcane
+jargon, many people have suddenly developed passionate views about it, and it gets
+lots of media interest. Given all this, let me summarise where we are in this
+conversation.
+As I explained in a recent speech at Wits University, QE will become appropriate when
+interest rates are at the zero lower bound and there is deflation risk. While inflation
+has eased and created space for lower rates, I am not aware of any professional
+analyst who projects deflation in South Africa. Our own SARB forecasts are in line with
+this consensus.
+10 Klaus Schmidt-Hebbel and Martín Carrasco, 2016, ‘The past and future of inflation targeting:
+implications for emerging-market and developing economies’, Monetary Policy in India.
+11 Klaus Schmidt-Hebbel and Matías Tapia, 2002, ‘Inflation targeting in Chile’, North American Journal
+of Economics and Finance, 13, p. 125.
+Nonetheless, should deflation take root, we would be prepared to deploy the tools at
+our disposal, as appropriate, to achieve our mandate. Our inflation-targeting
+framework would help us make that decision, and would underpin the credibility of any
+steps we might need to take.
+In the current circumstances, however, we think that a QE programme doesn’t make
+much sense for South Africa. Some advocates of QE argue that it is a free way of
+financing government deficits. This is not true. The funds created to buy bonds would
+flow into the interbank money market, lowering the cost of funding. This cost of funding
+is in fact the repurchase rate (repo rate), which is our main monetary policy tool. To
+ensure that the repo rate stays where the MPC wants it, despite the extra funds in the
+system, we would have to borrow those funds back ourselves, which could be costly.
+To repeat: QE would not be ‘free money’.
+Nonetheless, there are still claims that QE could work because the SARB could buy
+long-term bonds at a high interest rate, in the region of 9%, and then pay sterilisation
+costs equal to the repo rate, at 3.5% currently, and profit from the spread. Borrow at
+3.5% and lend at 9% – what a great business model! Fortunately, the SARB is driven
+by public interest and not by profit. And, clearly, there are some risks embedded in
+this pricing, or private buyers who do look for profits would have eaten this ‘free lunch’
+already. In fact, if we intervened to bring down long yields, we would be transferring
+risk back to the public balance sheet, while also removing incentives for new lending
+to the public sector.
+One of South Africa’s fiscal advantages is that the average maturity of government
+debt is unusually long relative to its peers. At the start of this year, it was a bit over
+12 years. The whole point of borrowing long-term like this, even though it costs a bit
+more, is to share risk with investors. This means that when things like the coronavirus
+and credit rating downgrades happen, bond prices fall and borrowing costs go up –
+but this debt need not be rolled over at higher interest rates, because government has
+already received the funds, long-term, at the old interest rates. The risk is shared.
+Should the SARB start doing QE, however, by buying bonds on the secondary market,
+then investors could shift risk back onto the public sector’s balance sheet, at a higher
+price. In other words, it would be a private sector bailout, arranged by the SARB.
+Worse, QE would reduce the incentives for new investors to come and buy long-term
+sovereign debt, because there would not be enough yield or compensation for the
+longer-term risks now visible.
+What happens with QE, instead, is that public borrowing switches to the short-end of
+the curve. As the central bank buys longer-term bonds, it also sells, to the private
+sector, short-term instruments in their place, with the net result that the only new debt
+the private sector ends up with is that short-term debt. Given that our short-term
+instruments, like SARB debentures, are much like Treasury bills, it turns out that QE
+is much less exciting than it looks. Not only can National Treasury effectively make its
+own QE by funding itself through Treasury bills, but it is actually doing so.12 Its pre-
+crisis borrowing strategy was astute: it left room in the short-end of the yield curve to
+borrow in an emergency. Lower inflation and a lower repo rate have made that
+borrowing cheaper than it otherwise would have been. In these circumstances, it’s not
+at all clear what a SARB QE programme would add.
+Rather than trying to supplant private investors or taking away the risk of investing, we
+have focused on liquidity. Specifically, we have been buying bonds in the secondary
+market, at different maturities, in the context of a sudden stop in global capital flows.
+As the central bank, we have unique powers to provide liquidity, and we have used
+them to restore market functioning. These interventions have been helpful so far.
+Yields have fallen. We didn’t set out to lower yields, specifically, but it turns out that
+market dysfunction was part of the reason why yields were so high.
+Putting all the pieces together, this monetary-fiscal mix allows more spending in the
+context of a major emergency. We are helping by setting low interest rates, and by
+ensuring that the government bond market remains liquid. National Treasury is able
+12 As two economists at the Bank for International Settlements have put it, ‘almost any balance sheet
+policy that the central bank carries out can, or could be, replicated by the government’. See Claudio
+Borio and Piti Disyatat, November 2009, ‘Unconventional monetary policies: an appraisal’, available at
+https://www.bis.org/publ/work292.pdf, p. 2.
+to sell its debt to investors. This approach is going to deliver a historically high level of
+government spending this year, even adjusting for population growth and inflation, and
+excluding interest costs.13 National Treasury is not cutting spending in the middle of a
+crisis; they are raising it, to the highest levels on record.
+However, we also need to think about the next few years. National Treasury is already
+planning to run deficits of 14.6% of gross domestic product (GDP) this year, 9.3% of
+GDP next year, and 7.7% the year after that.14 In this context, high long-term interest
+rates are a critically important signal about what savings are available. We should be
+listening to this message, not trying to temporarily suppress it through SARB
+interventions, which really just switch long-term debt for short-term debt.
+We are in very difficult circumstances, but QE isn’t the answer. We need to focus on
+real solutions.
+Our discussion of QE takes me to the final part of my speech, which is about new
+challenges to the inflation-targeting paradigm.
+As Mervyn King has noted, all previous monetary policy paradigms have fallen, sooner
+or later.15 The current one will also be replaced, eventually, by one that works better
+for future circumstances. What might change?
+In many of the advanced economies, inflation targeting is facing large challenges.
+Inflation has been below their inflation targets for many years now. Policy rates have
+been stuck at zero. And instruments like QE and forward guidance have not been
+powerful enough to solve this problem. It is now hard to explain why the Bank of Japan,
+or the European Central Bank, has been unable to push inflation to targeted levels of
+around 2% despite aggressive monetary policies.
+13 The data underpinning this claim go back to 2002.
+14 These numbers are drawn from National Treasury, 24 June 2020, Supplementary Budget,
+specifically Table 4.1 on p. 35, available at
+http://www.treasury.gov.za/documents/National%20Budget/2020S/review/FullSBR.pdf.
+15 Mervyn King, 2016, The end of alchemy: money, banking and the future of the global economy,
+Chapter 2.
+At this stage, there is little consensus on the answers, and even less on policy
+solutions.
+There are two basic sets of explanations for why inflation has stayed so low in
+advanced economies, and why central banks have been unable to lift it.
+One set emphasises factors beyond the control of central banks, such as changes in
+labour markets or demographics. For instance, in an aging society, people want to
+save, and they don’t want to take risks, so demand is limited and interest rates are
+low.16 This explanation works well for places like Japan.
+Another kind of explanation puts the emphasis on debt. Where borrowers have too
+much debt, even small interest rate increases have large effects on demand, while
+large rate cuts do little to boost it further. As one paper in this literature puts it, the
+‘black hole’ of debt is inescapable, pulling down inflation and interest rates
+permanently.17 An alternative version is that low interest rates encourage financial
+risk-taking, which leads to crisis, depressing the economy, lowering inflation, and
+generating even lower interest rates.18
+In these cases, too loose monetary policy eventually causes very high debt levels that
+smother economic growth, or it ends up causing financial crises.
+I don’t think South Africa has these problems yet. Right now, we don’t have the high
+inflation and high interest rates of the past, but we also don’t have the zero rates and
+close-to-zero inflation of the rich countries. The inflation-targeting paradigm is working
+pretty well.
+Given all the challenges facing South Africa, we should recognise that monetary policy
+is the last place where we should consider risky changes. We have a well-established
+16 Joseph Kopecky and Alan M. Taylor, April 2020, ‘The murder-suicide of the rentier: population
+aging and the risk premium’, available at https://www.nber.org/papers/w26943.pdf.
+17 Atif Mian, Ludwig Straub and Amir Sufi, 26 March 2020, ‘Indebted demand’, available at
+https://scholar.harvard.edu/files/straub/files/mss_indebteddemand.pdf, especially p. 4.
+18 For instance, see Paul Volcker with Christine Harper, 2018, Keeping at it, p. 227.
+inflation-targeting framework, which is delivering low interest rates and low inflation.
+This is the most functional part of the macroeconomic framework.
+Unfortunately, getting monetary policy right isn’t going to be enough. South Africa’s
+debt situation is critical. And our rebound from lockdown is looking weak compared
+with other countries.19 As a country, we need to find a path back to fiscal sustainability
+and growth. We can borrow from new creditors; we can shift our debt towards short-
+term borrowing; we can move things around different balance sheets – but this is not
+a recovery strategy; it is just a way to buy time. If public sector borrowing were the way
+to achieve sustained growth, the last 10 years of debt accumulation should have been
+enough. The real task now is restoring our fiscal credibility and implementing structural
+reforms so the economy has a way to become more efficient and grow.
+In many ways, as a country, we seem to be depressed, unable to get out of bed. Yes,
+it’s winter, and it’s cold. But we can’t live like this. Spring is coming, and inflation and
+interest rates are low. We need to focus on the opportunities, get up, and get to work.
+Thank you.
+19 Based on consensus forecasts, three-quarters of countries will have output back to 2019 levels by
+2022. This includes 12.9 pp expected to have net positive growth this year, 18.3 pp which will be
+above 2019 levels in 2021, and 44.1 pp expected to get there in 2022. South Africa is in the remaining
+quarter of countries expected to recover to 2019 levels of output only after 2022.

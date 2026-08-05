@@ -1,0 +1,331 @@
+Titulo: Speech by Lesetja Kganyago Governor of the South African Reserve Bank  at the Nelson Mandela University
+Data: 2023-10-19
+Palestrante (estimado): Lesetja Kganyago Governor
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2023/Speech-by-Lesetja-Kganyago-Governor-of-the-South-African-Reserve-Bank-at-the-Nelson-Mandela-University
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2023/gov-kganyago/Speech%20by%20Governor%20Lesetja%20Kganyago%20at%20the%20Nelson%20Mandela%20University.pdf)
+----------------------------------------------------------------------
+
+Climate change and policy coordination: What can central banks do?
+A public lecture by Lesetja Kganyago,
+Governor of the South African Reserve Bank,
+at the Nelson Mandela University,
+Gqeberha, 19 October 2023
+Introduction
+Last year’s floods in KwaZulu-Natal (KZN) reminded us yet again that climate change
+is real and can devastate households, businesses and property. Close to 500 people
+lost their lives and over 4 000 houses were destroyed.1 At the same time, we saw
+dams running dry in the Nelson Mandela Bay area, limiting water supply to firms and
+households. The frequency and severity of extreme events is increasing across the
+world. Just last month, powerful winds and severe rainfall damaged houses and roads
+in the Western Cape. Most recently elsewhere, Storm Daniel caused extreme flooding
+across countries in the Balkans and Mediterranean with over 10 000 people reported
+missing in Libya, and the city of Derna completely destroyed when the walls of its
+dams burst.2 We are rapidly approaching what is being referred to as global climate
+tipping points, which, once crossed, lead to greater disruptive effects of climate change
+on our livelihoods. 3
+1 See Institute for Security Studies (2022) “Is climate change to blame for KwaZulu-Natal’s flood damage?”
+available at https://issafrica.org/iss-today/is-climate-change-to-blame-for-kwazulu-natals-flood-damage
+2 World Meteorological Organisation (2023), Storm Daniel leads to extreme rain and floods in Mediterranean,
+heavy loss of life in Libya, published 12 September 2023, available at
+https://public.wmo.int/en/media/news/storm-daniel-leads-extreme-rain-and-floods-mediterranean-heavy-
+loss-of-life-libya
+3 See Lenton T M et al. (2019). Climate tipping points – too risky to bet against, Nature Publishing Group.
+1
+The bottom line is that we need decisive action to slow rising temperatures. The United
+Nations Intergovernmental Panel on Climate Change says that achieving the goal of
+limiting temperature increases to 1.5 degree celsius (°C) requires global greenhouse
+gas emissions to peak before 2025 and then decline by 43% by 2030.4 A goal that
+appears increasingly difficult to achieve.
+While the combination of urgency and complexity is daunting, it is important that we
+think carefully about policy coordination. We should think about the roles and
+responsibilities of the public regulatory system and how their actions impact the
+behaviour of economic agents, firms and households.
+Central banks globally have been drawn into these policy debates and while we
+certainly have a role to play, when it comes to broader society and economy-wide
+systems, it is best to think of central banks as just one important node in a neural
+network.
+In neural networks, the power of a network comes from how the different nodes are
+interconnected.5 A central bank’s effectiveness in addressing policy challenges will
+depend on how our actions impact on and are integrated with other policy areas.
+Today, I am going to talk to you about what central banks can do to strengthen climate
+policy coordination. I will also focus on how climate change affects our core mandate;
+how to reduce the risks of policy design and coordination failures; and how to avoid
+over-reach driven by these policy challenges. Let me discuss each one of these in
+turn.
+How climate change affects our core mandate
+Climate change refers to long-term shifts in temperatures and weather patterns.
+These will have profound economic effects. Think about experiencing the 2022 KZN
+floods every year, just twice as severe. Or having no rainfall in the citrus-producing
+regions of South Africa, destroying part of our agricultural sector.
+4 United Nations Framework Convention on Climate Change, (2022), Five Key Takeaways from COP27, available
+at https://unfccc.int/process-and-meetings/conferences/sharm-el-sheikh-climate-change-conference-
+november-2022/five-key-takeaways-from-cop27
+5 See Anderson, J A (1995). An introduction to neural networks, MIT press.
+2
+Climate change affects economies through multiple supply and demand channels.
+And, unlike other supply-side shocks, those from climate change are expected to be
+persistent, with frequently irreversible effects.6
+For example, climate change will impact labour supply, capital accumulation and
+productivity. Extreme heat is expected to increase mortality and morbidity, reducing
+the skills base. Human capital more generally is likely to be affected by mass
+migration, crime and social unrest.7 Some estimates suggest a 7% decline in GDP per
+capita by 2100 for every 0.04°C increase in temperatures globally.8
+It is because of these impacts that countries are moving to reduce greenhouse gas
+emissions while also trying to increase the resilience of their economies to the effects
+of climate change. However, our efforts to reduce emissions may also generate
+unintended negative consequences on firms and households. The economy will also
+be affected by the climate policy decisions of other countries and the changing
+preferences of investors and consumers. South Africa’s high carbon intensity of
+production has already exposed us to the European Union’s (EU) Carbon Border
+Adjustment Mechanism, which will see an increase in the cost of our exports.
+The combination of rising temperatures, more frequent and extreme events and policy
+actions to mitigate and adapt may increase macroeconomic volatility and put pressure
+on the balance sheets of some households and firms. Prices of products and services
+from weather-dependent sectors such as agriculture and carbon-intensive sectors will
+increase more rapidly. Banks may be faced with stranded assets as global demand
+for carbon-intensive goods declines. Price and financial stability will be affected
+simultaneously with impacts characterised by these so-called ‘tipping points’.9,10
+6 See Bolton, P et al. (2020). The green swan. Bank for International Settlements, Basel
+7 See Dell, M et al. (2014). "What do we learn from the weather? The new climate-economy literature." Journal
+of Economic Literature 52(3): 740–798.
+8 Kahn, M E et al. (2021) “Long-term macroeconomic effects of climate change: A cross-country analysis”
+Energy Economics 104: 1–13
+9 In climate science, tipping points are thresholds that, when crossed, lead to irreversible changes in the
+climate system. In the context of the financial system, these are thresholds when the financial and price
+impacts are suddenly much bigger than seen in the past.
+10 Bolton, P et al. (2020). The green swan. Bank for International Settlements, Basel
+3
+In the face of these challenges, central banks have started to consider the impact of
+climate change on the economy and the financial sector. Many are conducting
+financial sector climate stress tests, greening their portfolios, assessing the impact of
+extreme weather events and mitigation policies on inflation, and incorporating climate-
+related considerations in financial sector supervision.
+How to reduce the risks of policy design and coordination failures
+If our metaphor of neural networks is correct, then policy failure in areas that are
+outside our remit will impact on our performance, in particular where it impacts price
+and financial stability. For example, fiscal decisions are often a source of risk in
+emerging and developing economies. Climate change risks will amplify them. Major
+economic disruptions due to floods and droughts can increase spending pressures as
+governments need to rebuild destroyed infrastructure or compensate farmers for lost
+income. At the same time, tax revenue will decline as economic activity slows.
+The impact of fiscal decisions on monetary policy and financial stability are well
+illustrated in our case. Fiscal balances deteriorated significantly post the 2008 Global
+Financial Crisis. Strong real growth in government wages was funded by higher taxes,
+contraction in public investment and rapid debt accumulation. The outcome was high
+inflation and weaker growth. At the same time, financial stability risks increased as
+banks increased their holdings of government debt that has a higher probability of
+credit default.11
+Monetary policy in South Africa faced strong fiscal dominance effects, in particular in
+the post-GFC period as well as through the COVID-19 pandemic.12 We were reminded
+recently of this relationship by Francesco Bianchi and Leonardo Melosi during their
+presentation at Jackson Hole last year.
+“When fiscal imbalances are large and fiscal credibility wanes, it may become
+increasingly harder for the monetary authority to stabilise inflation around its desired
+target. If the monetary authority increases rates in response to high inflation, the
+11 South African Reserve Bank (2022) First Edition Financial Stability Review, Pretoria
+12 Soobyah, L et al. (2023) “Is South Africa falling into a fiscal-dominant regime?” SARB Working Paper Series,
+No WP/23/02
+4
+economy enters a recession, which increases the debt-to-GDP ratio. If the monetary
+tightening is not supported by the expectation of appropriate fiscal adjustments, the
+deterioration of fiscal imbalances leads to even higher inflationary pressure. As a
+result, a vicious circle of rising nominal interest rates, rising inflation, economic
+stagnation, and increasing debt would arise.”13
+By contrast, monetary and fiscal responses to the green transition of South Africa’s
+economy would be more effective if large fiscal buffers are built, spending is prioritised
+for investment in infrastructure and to develop new skills to drive economic growth.
+Equally important, the tax system needs to tackle the historically low costs of
+generating greenhouse gas emissions, for example through carbon taxation and
+providing tax incentives for firms and consumers to invest in cleaner technologies.
+These actions provide clear relative price signals to decarbonise the economy.
+This type of fiscal policy allows central banks to support the transition by maintaining
+price and financial stability.
+Let me emphasise, if government actions do not create the appropriate relative price
+signals, then our investment and consumption decisions will continue to support brown
+sectors; our exports will face carbon-border tax adjustments; and foreign funding will
+decline as investors become more considerate of climate-related issues. Under these
+conditions, there is limited potential for expansionary monetary policy to support
+economic activity.
+How to avoid over-reach driven by policy failures
+To understand the role of central banks in the green transition, we need to discuss its
+main drivers. These are relative price changes that provide a strong signal for
+households and firms to consume and invest in greener goods and services; new
+technologies that reduce the cost of adaptation and mitigation; and infrastructure that
+is more resilient to extreme weather events and supports the economic transition. The
+tools that we have as central bankers cannot impact these elements directly.
+13 Francesco Bianchi and Leonardo Melosi. “Inflation as a fiscal limit” 19 August 2022. Available at:
+https://www.kansascityfed.org/Jackson%20Hole/documents/9037/JH_Paper_Bianchi.pdf
+5
+Relative price changes
+There are many ways to change relative prices and returns in the economy. These
+drive structural changes and are always the mandate of government. Carbon pricing
+is considered the most effective and efficient instrument in changing the relative price
+of carbon-intensive good and services.14 Yet, carbon prices remain low, and
+governments try to achieve these relative price shifts using second-best options.
+One of these options is asking central banks to step outside their mandates and do
+‘more’. For example, while it may seem like a good idea to provide credit lines to
+commercial banks to extend green loans or to engage in green quantitative easing
+(QE), what is the market failure that we try to address?
+Credit lines will not address the funding problems associated with the development
+and adoption of new technologies. Commercial banks are not in the business of
+supporting technology development due to high monitoring costs and failure rates.15
+The activities that will receive funding are the ones that will have received funding
+anyway. Borrowing rates may be slightly lower but these will ultimately be determined
+by the credit profile of the borrower rather than its green status.
+The experience with QE programmes provides useful insights as to why green QE is
+not an effective relative price or funding instrument. QE programmes in the developed
+world have been effective in normalising financial conditions but not so effective at
+reducing funding rates.16 More importantly, they can generate significant unintended
+consequences, which can distort markets and undermine central bank
+independence.17 Claudio Borio and Anna Zabai remind us of these risks:
+“…. there are broader questions about the long-term effectiveness and desirability of
+these (QE) measures. Some have to do with the measures’ overall impact on the
+central bank goals; others with political economy considerations, which may ultimately
+14 IMF and OECD. (2022). Delivering Climate-Chnage Mitigation under Diverse National Policy Approaches: An
+independent IMF/OECD report to support the German 2022 G7 Presidency
+15 Philippe Aghion, L B Johannes Breckenfelder, Luc Laeven, Conny Olovsson, Alexander Popov, Elena Rancoita
+(2022). "Financial Markets and Green Innovation." ECB Working Paper Series No 2686.
+16 See Borio, C and Zabai, A (2018). Unconventional monetary policies: a re-appraisal. Research Handbook on
+Central Banking, Edward Elgar Publishing
+17 See CGFS (2019). Unconventional monetary policy tools: a cross-country analysis. C. o. t. G. F. System, Bank
+for International Settlements.
+6
+undermine the central bank’s perceived legitimacy and autonomy (or ‘independence’).
+Exit issues loom large.”18
+Another possible tool to change relative prices is changing microprudential
+requirements. For example, by penalising banks that have high exposure to carbon-
+intensive sectors through higher capital requirements.
+The main challenge is that physical and transition risks impact both carbon- and non-
+carbon-intensive sectors. Weather-dependent sectors such as agriculture and food
+processing are more exposed to physical risks. Other sectors such as mining are
+exposed to both. Prudential policy needs to consider climate-related risks but using
+prudential tools to artificially change relative prices to favour green sectors will
+undermine financial stability.
+The bottom line is that when central banks change relative prices, we violate the so-
+called central bank neutrality principle and take on the mandate of government, thus
+undermining our independence. Allocative decisions involving difficult choices are for
+elected officials to make and for technocrats that are the central bankers.
+Central bank actions must be consistent with achieving policy objectives that are
+forward-looking. The failed efforts of the 1970s to support growth at the cost of high
+inflation illustrate how political interference leads to time-inconsistent actions.
+Policymakers believed that by tolerating high inflation, central banks can generate
+permanently higher levels of employment. The outcome was both higher inflation and
+lower employment as economic agents simply factored in higher inflation expectations
+in their decisions. Giving central banks multiple objectives undermines the time
+consistency of their actions, reducing both accountability and credibility.
+Technology
+The second core element of the transition is the development of new technologies and
+their adoption. Renewable energy provides a good example of how new technologies
+18 See Borio, C and Zabai. A (2018). Unconventional monetary policies: a re-appraisal. Research Handbook on
+Central Banking, Edward Elgar Publishing.
+7
+and their evolution support the transition. Between 2010 and 2020, the cost of solar
+and wind generation has fallen by 85% and 56% respectively.19 At the same time
+adoption rates have grown exponentially.
+What role have central banks played in the development of renewable energy
+technology?
+The answer is not much. We have neither the skills nor the tools to assist. The major
+driving forces of green innovation are factors such as carbon taxation, research and
+development (R&D) investment and equity funding, often in the form of venture
+capital.20 These fall entirely within the mandate of governments, which are responsible
+for taxation and a variety of incentives to encourage R&D spending and equity funding.
+The best way for a central bank to support technology development and adoption is
+not by funding it but by being better at reducing the costs associated with inflation,
+hedging and financial instability. Lower and stable inflation reduces risk premiums and
+also translates into less-volatile exchange rates.
+Infrastructure
+The last element is infrastructure spending. Climate change will require significant
+investment in adaptation and mitigation infrastructure. We must make our roads and
+buildings climate resilient. We need to cope with increased flooding, droughts and
+fires. And we need charging stations for our new electric vehicles. The Blended
+Finance Taskforce, which was set up to mobilise private capital for the Sustainable
+Development Goals, estimates that we need to invest US$250 billion over the next
+three decades.21
+19IEA(2022), World Energy Outlook, International Energy Agency, Paris, available at
+https://iea.blob.core.windows.net/assets/830fe099-5530-48f2-a7c1-
+11f35d510983/WorldEnergyOutlook2022.pdf
+20 See Philippe Aghion, L B, Johannes Breckenfelder, Luc Laeven, Conny Olovsson, Alexander Popov, Elena
+Rancoita (2022). "Financial Markets and Green Innovation." ECB Working Paper Series No 2686.
+21 Blended Finance Taskforce (20 23). Making Climate Capital work: Unlocking $8.5bn for South Africa’s Just
+Energy Transition, available at
+https://static1.squarespace.com/static/5acdc066c258b4bd2d15050b/t/628e373f28dafe216b114042/1653487
+452874/Making+Climate+Capital+Work+-+FINAL+REPORT.pdf
+8
+We are not infrastructure financiers and we have seen that infrastructure budgets are
+often not spent. There is little we can do to improve the different phases of developing
+and executing a project, which are often listed as the main obstacles to infrastructure
+development in South Africa.
+What can central banks do?
+If funding is important, then our focus should be on ensuring macroeconomic stability.
+This has been identified as a major driver of green funding in emerging and developing
+economies by global pension funds.22 In a survey conducted by the Organisation for
+Economic Co-operation and Development (OECD), close to 90% of global pension
+funds state that corruption, political risk and macroeconomic stability are important
+considerations in their investment decisions. This compares to 59% that identify
+regulation related to environmental, social and corporate governance (ESG) issues as
+an important driver.
+Maintaining price stability
+When it comes to maintaining price stability, some economists have made the case
+for more inflationary approaches to monetary policy to help prevent large relative price
+shocks from reducing growth.
+It is argued that nominal GDP- and income-targeting would better protect economic
+activity, given expected price volatility associated with mitigation interventions and
+output gap uncertainty.23
+For many emerging and developing economies, however, low and stable inflation
+creates wide-ranging benefits that go far beyond any gains that might occur from
+tolerating higher inflation. These include having clear nominal anchors, lower inflation
+premiums and interest rates, better access to foreign savings and better protection
+from global shocks, among other benefits. In turn, these support green investment.
+22 See OECD (2021), Mobilising institutional investors for financing sustainable development in developing
+countries: Emerging evidence of opportunities and challenges, OECD Publishing, Paris.
+23 See McKibbin, W. J., et al. (2017). "Climate change and monetary policy: Dealing with disruption."
+9
+Financial stability
+When it comes to financial stability, we need to identify the short- to medium-term
+climate-related risks; think about how we can measure their effects; be clear about the
+limitations of our frameworks; and design effective interventions to increase the
+resilience of the financial system.
+The most immediate risks are not linked to rising temperatures. They are linked to
+more frequent floods and droughts; how technology evolves; the development of new
+financial instruments and funding models to support the transition; the introduction of
+carbon taxation and border tax adjustments; policy coordination failures; and the
+implications of an uneven global transition, among other factors.
+Our role is also to help financial markets have the right information to assess
+accurately the merits of transition projects. Here, the introduction of globally consistent
+taxonomy and disclosure rules are critical in improving market efficiency and ensuring
+financial stability.
+Our experience with the COVID-19 crisis shows that we can face new risks, adapt
+quickly and ensure that financial stability is maintained.
+Provide analytical work
+In addition to maintaining price and financial stability, we can support the transition by
+continuing to produce high-quality economic research. The work of the Network for
+Greening the Financial System (NGFS) and many central banks around climate
+change has grown exponentially over the last couple of years.
+One critical area for research is, of course, macro- and micro-policy coordination and
+design. This will inform our role in the transition and our understanding of the risks of
+mission creep. The multi-disciplinary nature of climate change requires that we
+develop new skills and partnerships to analyse the different impacts, develop new
+models and understand how technologies will evolve.
+10
+Developing good models and producing quality research requires data. We have an
+important role to play in developing new data sources and providing quality information
+to households and firms.
+Conclusion
+In conclusion, the contribution of central banks to climate change-related objectives
+and their contribution to the transition is conditional on government policy actions. The
+biggest levers of the transition sit with microeconomic policies. Well-designed and
+coordinated actions generate an orderly green transition while minimising any
+unintended consequences. For example, policy actions to help workers reskill and
+relocate to greener firms will maximise employment gains. Reducing the cost of new
+technologies through an appropriate mix of incentives and the removal of trade tariffs
+will lower transitions costs. This will also support the development of new industries.
+Transitioning the electricity sector more rapidly to green generation can be a major
+catalyst for investment in sectors across the economy.
+Central banks have an important role to play in the climate transition. It is to maintain
+financial and price stability, produce analytical work to support policy making and
+address financial market data gaps. These will enable an environment for financial
+institutions to provide green funding; for companies to invest in new technologies and
+productive capacity as well as for households to shift their consumption patterns. Our
+actions will be effective only if they fall within our mandate and as part of a bigger
+government response.
+11

@@ -1,0 +1,330 @@
+Titulo: An opening address by Lesetja Kganyago, Governor of the South African Reserve Bank, at the fourth Annual Distributed Sovereign Debt Research and Management Conference University of Pretoria, Pretoria 7 September 2020
+Data: 2020-09-09
+Palestrante (estimado): Lesetja Kganyago
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2020/566
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2020/566/Governors-Opening-Address-Fourth-Annual-Sovereign-Annual-Debt-Research-Conference.pdf)
+----------------------------------------------------------------------
+
+An opening address by Lesetja Kganyago,
+Governor of the South African Reserve Bank,
+at the fourth Annual Distributed Sovereign Debt
+Research and Management Conference
+University of Pretoria, Pretoria
+7 September 2020
+Good afternoon, ladies and gentlemen.
+All protocols observed.
+I would like to thank the International Development Law Unit at the Centre for Human
+Rights at the University of Pretoria for inviting me to deliver the opening address at
+this fourth Annual Distributed Sovereign Debt Research and Management
+Conference, or DebtCon.
+DebtCon was launched at Georgetown in January 2016, and its mission is to engage
+scholars and practitioners across geographical, disciplinary and institutional
+boundaries to help solve sovereign debt problems. I think this is a very opportune time
+to bring together the brightest minds to consider the African debt conundrum.
+Before I proceed, I should remind you that I am a central banker. Experience since the
+global financial crisis suggests that whenever central banks are called upon to discuss
+sovereign debt issues, countries are in real trouble. Today, I’ll be making some
+remarks on the sovereign debt situation from an African central bank perspective.
+But first, I should preface my remarks by highlighting that while debt has a very
+important role to play in economic development, one should also reflect on the
+challenges and pitfalls presented by debt to developing economies in sub-Saharan
+Africa (SSA). Experience has shown that unsustainable debt burdens and rising debt-
+Page 1 of 11
+service costs crowd out spending in key development areas such as education, health
+and infrastructure.
+These were exactly the lessons learnt during the African debt crisis of the 1980s and
+1990s, which justified debt relief. Consequently, badly managed debt can potentially
+reverse some of the developmental progress made over the past 20 years. The key is
+how the funds are utilised and how the debt is managed.
+Now for some context.
+The advent of the coronavirus disease 2019 (COVID-19) pandemic since the
+beginning of 2020 has underpinned a surge in sovereign indebtedness globally. The
+magnitude, pace and spread of the build-up in debt obligations has raised
+macroeconomic and financial stability concerns, especially for emerging and
+developing economies (EMDEs). Rising debt levels have increased the vulnerability
+of the global financial system to financial market stress. Since 2008, global debt has
+risen to 230% of gross domestic product (GDP), and EMDE debt rose to an historic
+high of 170% of GDP in 2019.1 In addition, more than 25% of corporate debt in EMDEs
+is denominated in foreign currency.
+There is also renewed concern about the sustainability of rising debt levels on the
+continent. The World Bank’s 2020 International Debt Statistics2 has designated SSA
+as the region with the fastest-growing debt levels in the world, the pace of increase
+raising concerns about debt sustainability on the continent. According to the
+International Monetary Fund (IMF), about 40% of countries on the continent are
+currently at distressed levels.
+A reflection on conjectural policy challenges
+At the global level, the COVID-19 pandemic forced a strong fiscal response by many
+countries in an effort to avert lasting structural damage to the economy. However, the
+1 World Bank, June 2020, Global Economic Prospects.
+2 World Bank, 2020, 2020 International Debt Statistics, available at
+https://datatopics.worldbank.org/debt/ids/region/SSA.
+Page 2 of 11
+recessionary conditions, coupled with the significant deterioration in the economic
+outlook in many countries, have refocused our attention on the record-breaking debt
+metrics.
+Global debt, both public and private, increased to US$253 trillion in the first quarter of
+20203, with the public sector accounting for around 60% of these issuances. By way
+of comparison, global debt amounted to US$291 trillion at the end of the fourth quarter
+of 2008.
+According to the age-old adage that ‘history serves as a mirror so that we can avoid
+past tragedies’, such is the didactic character of debt oscillations. With each wave of
+debt comes a composite reflection of causes, consequences and possible lessons for
+market participants and policymakers alike. A recent publication by the World Bank,
+titled Global Waves of Debt: Causes and Consequences4, is instructive in this regard.
+According to the World Bank, there have been four debt waves in the post-Bretton
+Woods period.
+The first wave was fuelled by a low-interest rate environment and rapid growth in
+syndicated loans, which induced governments to accumulate high levels of debt during
+the 1970s and 1980s. This had negative implications for the health of the banking
+sector in lending countries, mainly the United States (US), and culminated in a debt
+crisis, which was followed by a prolonged debt relief and debt restructuring episode.
+The second global debt wave emerged between 1990 and the early 2000s, and
+occurred against a backdrop of financial liberalisation and innovation that enabled
+banks and corporations in the East Asia and Pacific region, as well as governments in
+Europe and Central Asia, to borrow heavily in foreign currencies. Predictably, this debt
+wave also ended with a series of crises, between 1997 and 2001, when a change in
+investor sentiment sparked a widespread sell-off.
+3 Institute of International Finance, July 2020, Global Debt Monitor: Sharp Spike in Global Debt
+Ratios, available at https://www.iif.com/Publications/ID/4008/Global-Debt-Monitor-Sharp-Spike-In-
+Global-Debt-Ratios.
+4 Kose, M A, Nagle, P, Ohnsorge, F and Sugawara, N, 2020, Global Waves of Debt: Causes and
+Consequences, available at https://openknowledge.worldbank.org/handle/10986/32809.
+Page 3 of 11
+This was followed by a resumption of investor confidence, which set the stage for the
+third debt wave. The build-up of private sector borrowing lasted several years, until it
+culminated with the global financial crisis in 2007-09.
+Emerging from the global financial crisis, history was about to repeat itself.
+A fourth wave of a debt cycle followed, marked with similarities to the previous
+oscillations. It was fuelled by low global interest rates, a rise in regional banks,
+increased demand for local currency-denominated bonds, and increased demand for
+EMDE debt issued by an expanding non-bank financial sector.
+African countries have been, and continue to be, active participants in the new debt
+wave. According to the IMF’s Fiscal Monitor, the average general government debt
+ratio for low-income SSA countries increased from 22% of GDP in 2010 to 43% of
+GDP in 2019. Even before the shock of COVID-19, public debt ratios were on the rise
+in the region. However, the COVID-19 pandemic, the global growth shock, the plunge
+in commodity prices, reduced growth outcomes and lower revenue collections will
+further exacerbate the already increasing sovereign indebtedness across the
+continent.
+Economic theory can assist in framing the conjectural policy challenges and options
+to address the high and rising levels of sovereign debt in Africa.
+First, the ‘debt overhang’ theory postulates that future growth could be in jeopardy
+when a country’s debt-service costs exceed its ability to repay.5 In such cases, the
+absence of concessions by creditors exacerbates the fiscal constraint and adversely
+impacts on the growth potential, especially for poor and developing economies.6
+5 Krugman, P. 1988. Financing vs forgiving a debt overhang. Journal of development economics.
+P253-268.
+6 Ajayi, R, 1991, On the Simultaneous Interactions of External Debt, Exchange Rates, and Other
+Macroeconomic Variables: the Case of Nigeria, available at
+https://msuweb.montclair.edu/~lebelp/CERAFRM026Ajayi1991.pdf.
+Page 4 of 11
+Second, does the level of indebtedness matter for economic growth? Reinhart and
+Rogoff7 argue that growth rates decline significantly when public debt ratios exceed
+90% of GDP. This assertion set in motion the ‘threshold debate’, with some critics
+pointing out that Reinhart and Rogoff’s findings were modestly inflated8,9. A decade
+later, concerns about rising debt metrics have resuscitated the ‘threshold debate’. The
+IMF10 and later papers by Reinhart and Rogoff have concluded that increased debt
+does indeed lower the level of economic growth, albeit with a somewhat lower impact
+than was stated in earlier studies.11
+As Claessens et al. point out, large external debt and its associated service obligations
+can affect economic performance through the ‘crowding out’ effect, the impact on a
+country’s ability to access international financial markets, and its impact on confidence
+levels.12 It is worth pointing out that the ‘crowding out’ effect also applies to local-
+currency public debt, especially where banks end up recycling depositors’ money into
+government bonds rather than on-lending for productive investment purposes.
+Finally, it would be remiss of me not to highlight that high indebtedness also presents
+risks to the implementation of monetary policy and financial stability. A high level of
+public debt also raises the risk of fiscal dominance. This is where monetary policy is
+subordinated to keeping the debt servicing burden manageable, at the expense of
+price and financial stability.
+We are faced with a myriad of challenges that require a delicate balance between
+novel ideas and solutions on the one hand, and the prudence required for sustainability
+on the other hand.
+7 Reinhart, C M and Rogoff, K S, 2010, ‘Growth in a Time of Debt’, American Economic Review,
+100(2): 573–78.
+8 Wray, L R, 20 April 2013, ‘Why Reinhart and Rogoff Results are Crap’, EconoMonitor.
+9 Mencinger, J, Aristovnik, A and Verbič, M, 2014, ‘The Impact of Growing Public Debt on Economic
+Growth in the European Union’, Amfiteatru Economic 16(35): 403–414.
+10 International Monetary Fund, April 2013, World Economic and Financial Surveys, World Economic
+Outlook (WEO), ‘Hopes, Realities, and Risks’, available at
+http://www.imf.org/external/pubs/ft/weo/2013/01/index.htm.
+11 Reinhart, C M, Reinhart, V R and Rogoff, K S, 2012, ‘Public Debt Overhangs: Advanced-Economy
+Episodes since 1800’, Journal of Economic Perspectives, 26(3): 69–86.
+12 Claessens, S, 1996, Analytical aspects of the debt problems of heavily-indebted poor countries,
+available at https://trove.nla.gov.au/work/174652.
+Page 5 of 11
+The African story
+Allow me to elaborate on the most recent African experience with debt.
+At the turn of the 21st century, billions of dollars’ worth of debt was wiped clean across
+the SSA region. South Africa was instrumental in pushing for debt relief, and
+succeeded in the late 1990s when the Highly Indebted Poor Countries programme
+was agreed on through the IMF and the Development Committee of the World Bank.
+At the time, the solution appeared simple: wipe off the debt and allow countries space
+to get their affairs in order, and growth and stability will follow.
+For a time, significant improvements were observed, with many countries
+strengthening their macroeconomic frameworks and institutions. A number of
+countries also gained market access. With the advent of lower global interest rates,
+countries also had the opportunity to increase their debt issuance.
+By 2018, international bond issuances in the region reached a new high, totalling more
+than US$17 billion, with the average issuance rising to nearly US$3 billion.13 About
+16 SSA countries were at high risk of debt distress – more than double the 2013 levels.
+Average public debt across the region rose close to 56% of GDP at the end of 2018,
+with wide disparities in debt dynamics across countries. For example, in 2018, public
+debt to GDP stood at 72% in Zambia and 100% in Mozambique. Debt-service costs
+rose sharply, with the median interest payment burden doubling to about 10% of
+revenue between 2011 and 2018.
+By the end of 2019, economic growth in SSA was seen to be improving from the low
+base of the early 1990s. Real GDP was projected to increase by 3.7% in 2020. But
+this was still well below the averages of the 2000s.
+In mid-2019, however, there was a growing number of voices raising concerns about
+macroeconomic stability given the weakening of fiscal positions in a number of low-
+income developing countries. According to the IMF, the debt burdens and
+13 World Bank, April 2019, Africa Pulse.
+Page 6 of 11
+vulnerabilities of these countries had risen significantly since 2013, reflecting a mix of
+factors, including exogenous shocks and loose fiscal policies.
+The continent’s total external debt burden reached nearly US$500 billion in 2019, but
+governments have been pressured into further borrowing to counter the effects of the
+COVID-19 pandemic. In part, this has been due to the low returns on most financial
+assets worldwide triggering an appetite for frontier markets’ assets.
+Debt levels have been increasing considerably during 2020 with the interplay between
+various factors, most notably the need to manage the impact of the COVID-19
+pandemic.
+As mentioned earlier, various international bodies have indicated that SSA is the
+region with the fastest-growing debt levels in the world, the pace of increase raising
+concerns about debt sustainability on the continent.14
+… While in South Africa
+Let me use the case of South Africa to reflect on some of the costs of rising debt.
+National Treasury has pronounced on the trajectory for the South African fiscal
+position in the 2020 Budget Review that the outlook is bleak, which would be the main
+source of weakness for the domestic sovereign bond market.
+Well-developed local-currency bond markets allow governments to tap debt markets
+at potentially favourable terms to counter real economic shocks. South Africa’s local-
+currency bond market – which has undergone significant growth since the late 1970s
+in achieving its level of depth, liquidity and sophistication – has enjoyed these benefits.
+South Africa’s sophisticated level of the local-currency bond market was made
+possible through a concerted effort by National Treasury to implement a clear debt
+management strategy.
+14 World Bank, 2020, 2020 International Debt Statistics, available at
+https://datatopics.worldbank.org/debt/ids/region/SSA.
+Page 7 of 11
+The strategy entails reducing borrowing costs and risks through increasing liquidity,
+managing maturity profiles, diversifying funding instruments, increasing transparency
+and information flows, and building credibility among market players. National
+Treasury took specific actions to achieve these price and maturity benefits. One of the
+first steps was the consolidation of government bonds into benchmark bonds, as well
+as the development of the yield curve. There was also a deliberate focus on deepening
+the secondary market for government securities, where the South African Reserve
+Bank (SARB) played an important role by acting as a market maker and a funding
+agent in a number of benchmark government bonds. At its peak, the SARB’s
+participation in the secondary market accounted for an estimated 30% of total bond
+turnover. By the late 1990s, the secondary market was judged to be sufficiently mature
+for the SARB to reduce its involvement and to improve efficiency and transparency.
+When the global financial crisis hit in 2008/09, South Africa had been running small
+budget surpluses. The debt-to-GDP ratio was under 30%. This allowed for increased
+government spending, part of which was initially justified as countercyclical stimulus,
+but which was not subsequently reversed. Persistent fiscal deficits have since caused
+a dramatic increase in the debt-to-GDP ratio, which incidentally is larger than that of
+other emerging markets, except Argentina.
+Some attempts at fiscal consolidation were made over the decade. However, these
+were underpinned primarily by tax increases, while aggregate spending kept growing
+or at least failed to decline as a share of GDP. The main drivers were above-inflation
+growth in the public sector wage bill, rising interest costs, and bailouts for insolvent
+state-owned enterprises (SOEs). In short, the domestic fiscal position was already
+highly challenging before the COVID-19 crisis, with the 2019/20 fiscal deficit being
+6.7% of GDP and the debt-to-GDP ratio at 63.5%.
+The COVID-19 shock is now projected to result in a budget deficit of 14.6% of GDP,
+and is widely expected to increase the debt stock past 80% of GDP for the current
+fiscal year. As is pointed out in the revised Budget, there are significant risks of debt
+Page 8 of 11
+exceeding 100% of GDP in a passive scenario over the next few years – unless
+government implements strong corrective measures to stabilise the debt by 2023/24.
+South Africa has now lost its investment-grade credit rating from all the major ratings
+agencies. Government bond yields are unusually high, with inflation-adjusted yields in
+the region of 4-5%. With the steepening of the yield curve, National Treasury has had
+to shorten the maturity of its debt to limit borrowing costs. However, this raises risks,
+as redemptions are not spread out over as long a period as previously. In addition,
+capital inflows to South Africa have declined.
+With the government deficit approximating the supply of private domestic savings, the
+implications for private investment spending are bleak. While real, non-interest
+spending is budgeted to increase further this year, in large part to fund COVID-19 relief
+measures, South Africa needs a substantial fiscal adjustment, complemented by
+strong structural reform policies, to minimise the impact on medium-term growth.
+Some implications for policy
+Let me conclude by making a few remarks on the policy implications associated with
+the current debt dynamics on the continent.
+Interest payments constitute the highest expenditure item of the government budget
+for many SSA countries.15 Current estimates indicate that SSA faces a US$44 billion
+debt-servicing bill in 2020.16 This is due to a combination of interest rate and exchange
+rate effects.17 African countries face high borrowing costs. For example, their 10-year
+government bond yields range between 5% and 10% compared to near-zero or
+negative rates in some developed economies.
+15 Sallant, S, July 2020, ‘External debt complicates Africa’s COVID-19 recovery, debt relief needed’,
+Tralac, available at https://www.tralac.org/news/article/14827-external-debt-complicates-africa-s-
+covid-19-recovery-debt-relief-needed.htm.
+16 Jones, M and Arnold, T, May 2020, ‘Private creditors push back against blanket debt relief for
+Africa’, Reuters, available at https://af.reuters.com/article/topNews/idAFKBN22R20E-OZATP.
+17 For example, Sudan has 95% of its public debt denominated in foreign currency, and has the
+highest debt ratio in Africa at 207% of GDP. Mozambique follows closely, with public debt at 108%
+of GDP, 85% of it being issued in foreign currency. South Africa, on the other hand, has about 90% of
+its public debt denominated in its domestic currency, while 10% is held in foreign currency. However,
+a large proportion of this debt is held by foreigners.
+Page 9 of 11
+The increased reliance on non-traditional creditors has raised borrowers’ exposure to
+market risk, at the same time posing additional challenges to the sustainability of
+external debt in the region. For instance, where countries find themselves in debt
+distress, it may be more difficult to come to rescheduling agreements with a large
+number of private creditors than when you had, in the past, a relatively small number
+of public creditors (Paris Club) and/or commercial bank lenders (London Club).
+Challenges such as these highlight the need for countries to strengthen debt
+management practices and improve transparency, which is fundamental to
+sustainable financing. However, addressing these challenges would require countries
+to make tough fiscal choices to prevent debt burdens from becoming unsustainable.
+A prudent debt management strategy is thus key to tackling this challenge.
+There is wide consensus that countries need to raise more domestic revenue to make
+debt financing more sustainable. There also needs to be a greater focus on improving
+the efficiency of public spending in such a way that it helps to improve economic
+growth. While the primary responsibility for avoiding the build-up of unsustainable debt
+lies with the borrower, creditors also have a role to play in encouraging greater
+transparency. Irresponsible borrowing ultimately contributes to unsustainable debt
+burdens.
+More recently, the Debt Service Suspension Initiative (DSSI), which was endorsed by
+the Group of Twenty (G20) finance ministers and central bank governors on
+15 April 2020, has come under renewed focus as a means to addressing the debt
+burden on the continent.18 The DSSI seeks to grant debt-service suspension to the
+poorest countries to mitigate the impact of the COVID-19 pandemic. Its objective is to
+18 World Bank. Undated. Debt Service Suspension Initiative: Q&As. World Bank. Joint Statement
+World Bank Group and IMF Call to Action on Debt of IDA Countries states that : with immediate
+effect—and consistent with national laws of the creditor countries—the World Bank Group and the
+International Monetary Fund call on all official bilateral creditors to suspend debt payments from IDA
+countries that request forbearance. This will help with IDA countries’ immediate liquidity needs to
+tackle challenges posed by the coronavirus outbreak and allow time for an assessment of the crisis
+impact and financing needs for each country.
+Page 10 of 11
+create fiscal space for countries to increase their social, health and economic spending
+in response to the crisis. The suspension, and the resumption of repayments, will be
+over a period of three years, with a one-year grace period.
+Some see benefits associated with the DSSI, while others have indicated that an
+application for DSSI participation might send a negative signal about countries’
+creditworthiness.19 The three major credit rating agencies have indicated that private
+sector participation on G20-comparable terms could have negative rating implications
+for the participants (both the recipients and the providers of the relief).
+More recently, Moody’s placed four African countries on review for a downgrade for
+their participation in the DSSI, stating that this raised the risk of losses for investors in
+the countries’ bonds. This presents a dilemma. How can we ensure that debt-service
+relief does not lead to sovereign downgrades and thus does not compromise the
+attainment of debt sustainability over the medium term? This is an issue that is
+receiving increasing attention on the G20 agenda.
+Conclusion
+In closing, I would like to reiterate that public debt has an important role to play in
+financing development, particularly in augmenting government budgets. However, it
+should be clear that debt is not a replacement for domestic revenue mobilisation.
+Meanwhile, debt levels must remain sustainable so as not to undermine market
+confidence. To ensure that debt plays a meaningful role, it must be utilised for revenue-
+generating activities that increase the productive capacity of the economy.
+I’m looking forward to hearing some of the novel ideas that will be shared in the next
+session on how we can tackle the debt-related challenges confronting the continent.
+Thank you.
+19 World Bank. Undated. Debt Service Suspension Initiative: Q&As. World Bank.
+https://www.worldbank.org/en/topic/debt/brief/debt-service-suspension-initiative-qas
+Page 11 of 11

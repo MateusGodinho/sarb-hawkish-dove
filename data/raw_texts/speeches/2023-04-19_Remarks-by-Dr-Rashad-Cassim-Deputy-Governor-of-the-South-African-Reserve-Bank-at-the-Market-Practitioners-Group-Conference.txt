@@ -1,0 +1,356 @@
+Titulo: Remarks by Dr Rashad Cassim Deputy Governor of the South African Reserve Bank, at the Market Practitioners Group Conference
+Data: 2023-04-19
+Palestrante (estimado): Rashad Cassim Deputy Governor
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2023/Remarks-by-Dr-Rashad-Cassim-Deputy-Governor-of-the-South-African-Reserve-Bank-at-the-Market-Practitioners-Group-Conference
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2023/dg-cassim/Remarks%20by%20Dr%20Rashad%20Cassim%20Deputy%20Governor%20of%20the%20South%20African%20Reserve%20Bank,%20at%20the%20Market%20Practitioners%20Group%20Conference.pdf)
+----------------------------------------------------------------------
+
+Remarks by Dr Rashad Cassim
+Deputy Governor of the South African Reserve Bank,
+at the Market Practitioners Group Conference,
+The Galleria, Sandton
+19 April 2023
+1. Introduction
+Good morning, all, and welcome to the second Market Practitioners Group (MPG)
+conference. I joined this industry body just over a year ago, at a time when the MPG
+had already identified a successor rate to the Johannesburg Interbank Average Rate
+(Jibar), namely the South African Rand Overnight Index Average (ZARONIA). At the
+time, the MPG commenced the foundational work to ensure a smooth and effective
+transition away from the use of Jibar.
+Various milestones were reached over the past year, including the development of a
+mechanism to collect high-quality transaction data to calculate and distribute
+ZARONIA rates daily; refinement of the transition plan; publication of a white paper on
+market conventions for ZARONIA-based derivatives; and the inclusion of fallback rates
+in financial contracts. However, there is a still a great deal of work to do and the eight
+MPG workstreams are working full steam to take on board the issues that need to be
+resolved.
+The objective of this conference is to bring together all the pieces of work into a
+coherent strategy, and to give you a clear picture of what the MPG is aiming to achieve
+Page 1 of 12
+and the direction in which we are moving. We hope that at the end of this conference,
+you have a good grasp of what your organisations will require to successfully adopt
+ZARONIA and transition away from Jibar.
+At the risk of covering ground familiar to many of you today, I will provide some
+background and context to our reference rate reform initiative and move on to discuss
+transition challenges.
+2. Why bother with reference rate reform?
+The reform of key reference rates globally began in earnest after the Financial Stability
+Board’s (FSB) review of major interest rate benchmarks in 2013–2014, which was a
+response to concerns raised by a wide range of stakeholders regarding the reliability
+and robustness of certain interbank offered rates (IBORs)1. It had become clear that
+IBORs were susceptible to manipulation as their computation relied on indicative rates
+supplied by a panel of contributing banks. Furthermore, they had become irrelevant
+due to declining volumes of unsecured funding market activity. As many of you know,
+the relevant international standard setting bodies require a benchmark to be
+representative of the underlying interest rate that it seeks to measure.
+To illustrate, some analysts framed the weaknesses in the design of the London
+Interbank Offered Rate (Libor) as a case of ‘measurement error’2, pointing out that
+Libor tended to be less representative of actual interbank rates during times of stress
+as certain contributing banks, being weary of revealing information that might increase
+their borrowing costs, would submit biased quotes.
+Based on these findings, several jurisdictions convened national working groups to
+review their respective IBORs. There was widespread agreement that IBOR rates
+should be discontinued and replaced with more robust risk-free or near risk-free rates.
+Some regulatory authorities went a step further, such as the United Kingdom’s (UK)
+Financial Conduct Authority (FCA), which no longer compelled panel banks to
+1 FSB (2014), Reforming major interest rate benchmarks.
+2 Baba, Parker and Nagano (2008), The spillover of money market turbulence to FX swap and cross-currency
+swap markets – BIS Quarterly, March 2008
+Page 2 of 12
+continue their Libor submissions after December 2021, effectively heralding the end
+of Libor3.
+3. Is it necessary to do away with Jibar?
+Considering the global effort to reform key reference rates, the South African Reserve
+Bank (SARB) evaluated the design of Jibar against the recommendations of the
+International Organization of Securities Commissions (IOSCO) Principles of Financial
+Benchmarks. This was necessary because Jibar, in particular three-month Jibar, is a
+widely used reference rate in financial contracts. The latest Jibar-related exposures
+survey results estimated that the total value of outstanding contracts that reset against
+the three-month Jibar rate exceed R30.6 trillion4. Jibar is also a key input in the
+determination of the Short-Term Fixed-Interest (STeFI) Index, which is a non-tradable
+index used to benchmark the performance of money market portfolios.
+Through this evaluation, the SARB found, like many other countries, Jibar exhibits
+some of the weaknesses that were observed in the design of certain IBORs. The
+benchmark is based on indicative rates from only five contributing banks, making it
+vulnerable to manipulation. However, unlike Libor, the indicative rates are quoted on
+active screens, and hence they are tradable for all transactions whose nominal falls
+between R20 million and R500 million5. While this feature lends more credibility to
+Jibar, on its own it is unlikely to be effective in minimising the risk of manipulation.
+Furthermore, the issuance of negotiable certificates of deposits (NCDs), which
+underpins the calculation of Jibar, has declined considerably over the years, especially
+for the three-month tenor, compromising the representativeness of the benchmark.
+Consequently, the SARB determined that Jibar’s design weaknesses will become less
+defendable in the long term, and therefore it would be prudent to plan for the
+3 Refer to the FCA announcement on the future cessation and loss of representativeness of the Libor
+benchmarks – 5 March 2021
+4 The amount relates to exposures as at 31 December 2022.
+5 The Jibar Code of Conduct and Operating Rules (Code) initially stipulated that screen prices must be good for
+a range of transactions that fell between R20 million to R100 million. The upper limit of the range was
+subsequently increased to R500 million following a revision of the Code, which was prompted by the
+recommendations of the MPG’s Unsecured Reference Rate Workstream aimed at enhancing the credibility of
+Jibar.
+Page 3 of 12
+discontinuation of the benchmark and for financial markets to transition away from it.
+In the interim, the SARB implemented the MPG’s proposed measures to strengthen
+Jibar by enhancing the transparency of market activity that underpins the benchmark
+and by introducing various provisions in the Jibar Code of Conduct and Operating
+Rules (Code). The SARB appointed Strate (Pty) Limited to be the publishing agent for
+all Jibar-related post-trade disclosures6. The revisions to the Code have been
+completed and adopted and continue to undergo regular reviews.
+4. The alternative near risk-free rate, ZARONIA
+It may be comforting to know that ZARONIA has been in the making for about five
+years. The name of the benchmark was initially coined in the feedback to a 2018
+consultation paper in which market participants suggested that the South African
+Benchmark Overnight Rate (Sabor) Money Market, a proposed reformed version of
+Sabor, be named ZONIA, supposedly given its likeness to the Sterling Overnight Index
+Average (SONIA), the UK’s near risk-free rate. Nonetheless, we settled on ZARonia,
+where the emphasis was placed on ZAR (i.e. the South African rand)7.
+The MPG selected ZARONIA following an in-depth assessment of several
+alternatives8, most of which were deemed insufficient against the criteria of reliability,
+robustness, frequency, availability and representativeness.9 Prior to making its final
+decision, the MPG assessed the suitability of ZARONIA as an alternative near risk-
+free rate based on three requirements, which I will now discuss.
+The first requirement is rather deceivingly simple. It demands that a selected near risk-
+free rate should be very close to being risk-free – meaning that the transactions
+underlying the ZARONIA rates should, to a large extent, not reflect the credit risk of
+6 https://www.resbank.co.za/en/home/what-we-do/statistics/johannesburg-interbank-average-
+rate#:~:text=The%20post%2Dtrade%20disclosures%20consist,of%20the%20transactions%20traded%20daily.
+7 Refer to the summary of market participants’ comments on the Consultation Paper (2018) contained in the
+Report on the stakeholder feedback on the reform of interest rate benchmarks in South Africa
+(recommendation 4).
+8 The position paper of the Risk-Free Reference Rates Workstream (2020) summarises the considerations and
+conclusions made on the foreign exchange-(FX) implied overnight (O/N) rate Sabor, Sabor MM (the reformed
+version of Sabor), SAFEX O/N rate, ZARIBOR and SASFR (referred to as ZASFR in the draft statement of
+methodology and policies governing the SARB-administered benchmarks)
+9 BIS (2013) – Towards better reference rate practices: a central bank perspective
+Page 4 of 12
+the counterparties to the transaction. ZARONIA is a near risk-free rate, as it is the
+commercial banks’ cost of borrowing overnight, where credit, liquidity and other risks
+are minimal.
+A more appropriate way to assess whether the risk premium is minimal would require
+a comparison of ZARONIA with a secured overnight rate or an extrapolated curve of
+risk-free instruments. However, the most available secured overnight rate, the
+overnight repurchase (repo) rate, is fraught with difficulties due to thin trading activity
+and a high concentration of market players that cause the rate to be wider than
+expected. It is also difficult to extrapolate a reliable credit curve from the spread
+between Jibar and Treasury bills, as the latter tend to be relatively illiquid due to their
+use as high-quality liquid assets (HQLA).
+Nonetheless, a crude measure for the risk premium would be to look at the spread
+between ZARONIA and the SARB’s policy repo rate. It would be reasonable to expect
+that ZARONIA, as an unsecured rate, would be above the repo rate (secured rate) but
+remain very close to it. On average, the ZARONIA repo rate spread is about -15.5
+basis points10, meaning that not only is ZARONIA close to the policy repo rate, but it
+is usually priced below the secured policy rate.
+The second requirement relates to the depth of the market underlying ZARONIA. The
+IOSCO Principles of Financial Benchmarks recommend that a benchmark rate should
+be anchored in actual transactions that reflect the activity of a deep and liquid market,
+including in periods of adverse market conditions. This would make the benchmark
+more robust to manipulation.11 ZARONIA is supported by a significant amount of
+unsecured overnight transactions, which average circa R350.4 billion daily.
+The last requirement is whether ZARONIA is ‘fit for purpose’. Two distinguished
+American academics, Darrell Duffie and Jeremy Stein (2015) highlight that reliable
+benchmarks should reduce search costs in over-the-counter markets and ensure that
+10 The average is based on published ZARONIA rates for the period between 1 November 2022 and 11 April
+2023.
+11 FSB (2021), Interest rate benchmark reform
+Page 5 of 12
+information asymmetry is largely eliminated.12 Remarkably, this postulation has held
+true for ZARONIA. Based on the back-testing exercise results, market participants had
+cautioned that ZARONIA may not be suitable for derivatives as the calculated rates
+exhibited high volatility, which would limit the predictability of the benchmark and
+impede its adoption. The SARB argued that the volatility was largely due to the
+opaqueness of the market for deposits. And hence it was expected that the volatility
+would decline considerably once the SARB started publishing the rate and market
+participants began referring to it in their pricing considerations. Certainly, the volatility
+of ZARONIA has been low since the SARB started publishing the rate on
+2 November 2022.
+5. On the Jibar transition
+The transition from Jibar to ZARONIA will require market participants to deal with the
+inherent differences in the make-up of each rate explicitly. Naturally, as an unsecured
+forward-looking term rate, Jibar contains a premium to compensate lenders for the
+risks they assume over an alternative overnight risk-free rate. The risk premium could
+be decomposed into elements pertaining to the borrowing banks’ characteristics, such
+as credit risk and funding risk, and elements that reflect market-wide conditions,
+including the term premium, market liquidity and factors related to the fixing process
+and the microstructure of the market.13 Finding the appropriate measure of this risk
+premium that could be added to ZARONIA will be important for financial contracts that
+will require a Jibar equivalent after it has been discontinued.
+Globally, many jurisdictions have adopted the International Swaps and Derivatives
+Association’s (ISDA) methodology for determining the risk premiums, commonly
+referred to as ‘adjustment spreads’, that should be added to the risk-free replacement
+rates for the IBORs. These adjustment spreads are calculated as the median over a
+five-year period of the historical differences between the IBOR in the relevant tenor
+and the relevant risk-free rate compounded over each corresponding period.14
+12 Duffie and Stein (2015), Reforming Libor and other financial market benchmarks
+13 BIS (2008), What drives interbank rates? Evidence from the Libor panel
+14 Bloomberg Index Service Limited (BISL) calculates and distributes the official fallback rates, including the
+compounded RFR and adjustment spreads, for several currency IBORs in accordance with the ISDA
+methodology. BISL (2023) published the methodology in the IBOR Fallback Rate Adjustment Rule Book.
+Page 6 of 12
+We have not yet finalised the issue of adjustment spreads in our jurisdiction. The MPG
+will examine whether ISDA’s approach is appropriate for the domestic cash and
+derivatives markets and consider whether the methodology needs to be adjusted to
+account for the recent change in the SARB’s monetary policy implementation
+framework (MPIF). This should only matter to the extent that the change in the new
+MPIF had a significant effect on the residual risk factors contained in the risk premium.
+Nonetheless, the MPG will make a determination on this in due course, as the adjusted
+ZARONIA rate will only be used as a replacement or fallback rate after the cessation
+of Jibar. Market participants should in the meantime aim to actively transition out of
+Jibar referencing contracts to minimise the stock of legacy contracts that will need to
+rely on the adjusted ZARONIA as a fallback rate.
+Market participants have become accustomed to using forward-looking term rates,
+where the interest rate is known in advance.15 While forward-looking term rates are
+helpful in ascertaining future cash flows and, in so doing, assist firms and investment
+funds to plan better, they also expose the investor to unanticipated changes to the
+short-term rates. As such, investors tend to require a term premium to account for this
+interest rate risk, which often results in volatility in times of greater uncertainty
+regarding the path of monetary policy. An overnight rate is advantageous in this regard
+as it should not contain much of this risk. Instead, it should change as the central bank
+changes its policy rate. Market participants who still require a term rate should
+consider using an average rate based on ZARONIA compounded in arrears. This
+requires a shift in the market’s convention from determining interest at the beginning
+of the accrual period to determining it at the end of the accrual period.
+As many of you know, we have set up various workstreams in gearing up for the
+transition. It is not possible here to do justice, to reflect on the rich work of all the
+workstreams, but I will give you a flavour of what is being discussed at least in one or
+two them.
+15 This has been enforced by some regulations, such as section 8(4) of Board Notice 90, which is currently
+under review, which prevents money market portfolios from investing in securities whereby the interest
+amount is not known at the commencement of the contract.
+Page 7 of 12
+The Derivatives Workstream has proposed market conventions for interest rate swaps,
+whose floating leg will use compounded ZARONIA period average rates that will be
+determined in accordance with the ISDA methodology. While the use of compounded
+risk-free rates is fairly common in global markets, it does present a significant change
+in our market. Firstly, the nature of ZARONIA as an overnight rate will enable the
+introduction of Overnight Index Swaps (OIS). In this regard, the Derivatives
+Workstream has proposed market conventions that largely align with international best
+practice. Secondly, as ZARONIA will track the evolution of actual interest rates, the
+need for hedging risk using Forward Rate Agreements (FRAs) will largely diminish.
+As a matter of interest, the decline of FRA trading was remarkable in the Libor
+transition, where the daily turnover of FRAs decreased from USD1.9 trillion in 2019 to
+USD0.5 trillion in 2022, a 19% decline in total over-the-counter (OTC) derivatives
+turnover. Much of the residual reflects exposure to USD-denominated turnover and
+other currencies that have not fully transitioned to risk-free rates. FRAs that are
+denominated in sterling, the Japanese yen and Swiss franc have virtually ceased
+trading, with their turnover having declined by more than 90%.16 Therefore, it is likely
+that we will see the domestic FRA market decline, and those that wish to speculate on
+future short rate movements will likely have to use forward-starting OISs as a
+replacement for FRAs.17
+Given the progress made by the Derivatives Workstream we expect that the market
+should be able to start trading ZARONIA-based derivatives products soon after the
+end of the ZARONIA observation period. Nonetheless, we do not discount the amount
+of work that needs to finalised between now and then to enable this.
+The Cash Market Workstream has begun the work to determine how the loan and
+bond markets could adopt ZARONIA. The mandate for the workstream is twofold: (i)
+determine the segments of the market that will ‘need’ a forward-looking term rate; and
+(ii) propose market conventions for the loan and bond markets.
+16 Huang and Todorov (2022), The post-Libor world: a global view from the BIS derivatives statistics – BIS
+Review, December 2022
+17 MPG (2023), Market conventions for ZARONIA-based derivatives
+Page 8 of 12
+6. Do we really need a forward-looking term rate?
+Given the work done for the Libor transition, it was determined that risk-free rates
+compounded in arrears were appropriate and operationally achievable for most cash
+market segments. In the UK, overnight SONIA compounded in arrears was quickly
+adopted in floating rate bonds and securitisations. However, loan markets were slower
+to progress and they estimated that about 10% of the sterling Libor loan market by
+value would require alternative rates. The 10% largely comprised low-value loans
+made to a wide range of smaller borrowers, who could benefit from simplicity and
+payment certainty. The policy rate, and in some instances a forward-looking term rate,
+would be preferred for them. Otherwise, larger and more sophisticated corporates and
+specialist lending sectors tended to use SONIA compounded in arrears.
+The Working Group on Sterling Risk-Free Reference Rates identified certain barriers
+to the widespread adoption of the overnight SONIA compounded in arrears, which are
+instructive for the work programme of the MPG. The barriers included:
+• loan IT and treasury management systems that required reconfiguration to make
+them compatible with overnight rates that are compounded in arrears;
+• standardised legal documentation that facilitate syndicated lending and other
+loans;
+• the development of market conventions referencing the overnight risk-free rate;
+and
+• the development of new loan products that reference the policy rate or an
+alternative forward-looking term rate.18
+It is essential to note that the work on finding a forward-looking term rate, or, in keeping
+with the reference rate reform parlance, a ZARONIA term rate, is still at an infant stage.
+Previous attempts at constructing a new term rate based on deposit transactions, as
+detailed in the SARB’s Consultation Paper (2018) and Technical Specification Paper
+(2020), failed due to design flaws and data insufficiency. Developing a ZARONIA term
+rate is dependent on the derivatives market building sufficient liquidity to underpin the
+18 Working Group on Sterling Risk-Free Rates (2020), Use cases of benchmark rates: compounded in arrears,
+terms rate and further alternatives
+Page 9 of 12
+term rate. Consequently, we would encourage the market to adopt ZARONIA
+compounded in arrears as a primary vehicle for the Jibar transition and not wait for a
+ZARONIA term rate, unless necessary.
+7. On the next steps
+We are almost halfway through the ZARONIA observation period, which will end on
+31 October 2023. Market participants should use the remaining time to assess the
+implications of using the rate in financial contracts and issues that could potentially
+hinder their transition away from Jibar. The MPG structures provide a good platform
+for raising such issues, such as the industry task forces that are managed by the
+Transition Planning Workstream and the MPG Communications Workstream’s regular
+virtual forums, which provide updates on its work programme.19
+The SARB would prefer a relatively short Jibar transition period. Therefore, market
+participants are encouraged to actively transition as soon as possible to avoid what
+was witnessed during the Libor transition. Despite repeated advice from regulators
+and national working groups, most market participants did not take any action to
+reduce their exposure until the ‘endgame’ for Libor was in sight.20 To illustrate, in 2018
+the Alternative Reference Rates Committee21 (ARRC) estimated that there were about
+USD200 trillion financial contracts that referenced USD Libor outstanding and that
+80% of those contracts would mature in the same year. Instead of the value of the
+outstanding contracts decreasing over the ensuing years, the contracts increased to
+approximately USD223 trillion.22 The stock of legacy Libor contracts would have been
+significantly less had market participants taken steps to actively transition from Libor
+and not wait for the FCA and Intercontinental Exchange (ICE) Benchmark
+Administration to make more definitive statements about the cessation of all Libor
+tenors.
+19 The MPG Communications Workstream’s action plan for year included indicative dates for the industry
+forums. The workstream partners with industry associations such as ACTSA, ASISA, and BASA to set an agenda
+that caters for the needs of their constituents.
+20 Refer to ISDA (2021), The Libor End Game
+21 ARRC is a group of private market participants convened by the Federal Reserve Board and New York Fed to
+ensure a successful transition from USD LIBOR to the alternative Secured Overnight Financing Rate or SOFR.
+22 Randal K. Quarles (2021), Keynote remarks at the SOFR Symposium: the final year
+Page 10 of 12
+The exact date for the discontinuation of Jibar will be determined and communicated
+soon after ZARONIA becomes available for use; however, the SARB’s preference is
+for the transition period to be less than the five years it took for the Libor transition.
+This is premised on progress achieved thus far and our ability to leverage off the work
+that has been completed in other jurisdictions. It would be unwise to re-invent the
+wheel and develop unique solutions that do not conform to international best practice.
+It is essential that each firm plans properly and ensures that sub-business units and
+business functions are ready to action the plan accordingly. The checklist for the
+implementation of the Jibar transition and ZARONIA adoption23 should include:
+• establishing an enterprise-wide Jibar transition programme across functions and
+businesses to manage the transition risks associated with Jibar-related
+exposures;
+• quantifying and monitoring Jibar-related exposures throughout the transition;
+• developing a product strategy that includes creating ZARONIA-based products;
+• developing a plan to address the required changes to technological infrastructure,
+processes and people skills required for the Jibar transition and the use of
+ZARONIA-based products;
+• determining the financial accounting, taxation and regulation considerations;
+• determining the financial, customer and legal implications that will result from the
+transition and plan for the inclusion of fallbacks in financial contracts;
+• developing a communications strategy to proactively engage and educate internal
+and external stakeholders; and
+• establishing a governance framework with senior executives to oversee an
+enterprise-wide Jibar transition programme.
+8. Conclusion
+The success of this transition is contingent on our attempt to consult as widely as
+possible with all market participants and other stakeholders to ensure that all potential
+risks are addressed. This conference is a reflection of how serious we are about the
+23 The checklist is adapted from the ARRC (2019 ), Practical Implementation Checklist for SOFR Adoption
+Page 11 of 12
+responsibility of ensuring that the process of ultimately moving to ZARONIA is as
+seamless as can be. After all, this transition marks a significant turning point in the
+history of South Africa’s financial markets, given its impact on a broader set of financial
+products in various market segments.
+Certainly, the MPG has established various workstreams that will provide industry-
+wide guidance and make recommendations on all the essential aspects of the Jibar
+transition and ZARONIA adoption, which will be made available on the MPG’s
+webpage.
+I thank you and wish you a productive conference further.
+--- End ---
+Page 12 of 12

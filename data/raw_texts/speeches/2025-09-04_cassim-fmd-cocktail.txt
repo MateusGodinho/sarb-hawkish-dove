@@ -1,0 +1,178 @@
+Titulo: Rashad Cassim | Annual Financial Markets Cocktail Engagement
+Data: 2025-09-04
+Palestrante (estimado): Rashad Cassim
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2025/cassim-fmd-cocktail
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2025/cassim-fmd-cocktail.pdf)
+----------------------------------------------------------------------
+
+Remarks by Rashad Cassim,
+Deputy Governor of the South African Reserve Bank,
+at the Annual Financial Markets Cocktail Engagement,
+Sandton, Johannesburg
+4 September 2025
+Good evening, esteemed guests. It is my pleasure to welcome you all to the Annual
+Financial Markets Cocktail Engagement. Tonight’s gathering reaffirms the strong and
+trusted relationship we share.
+As you all know, we are currently living and operating in an unsettled environment.
+Geopolitical and trade tensions, alongside climate-related risks, soaring government
+debt and rapid technological advances, continue to challenge financial markets
+worldwide. Policy uncertainty has reached levels that rival, and sometimes even
+exceed, crisis episodes like the bankruptcy of Lehman Brothers or the onset of the
+COVID pandemic.1
+Rather than focusing on the current domestic and global market developments, my
+intention this evening is to give you an overview on the progress made in the work by
+our Financial Markets Department. Key initiatives include ongoing enhancements to
+our monetary policy implementation framework (MPIF), the development of
+collateralised lending markets, the transition from the Johannesburg Interbank
+Average Rate (Jibar) to the South African Rand Overnight Index Average (ZARONIA),
+and an update on foreign exchange reserves.
+1 Bloomberg’s US Economic Policy Index readings: current (as of 27 August 2025) 753.8;
+March 2020, 516.6; and September 2008, 626.0.
+Page 1 of 6
+Monetary policy implementation: Improving short-term funding market rates
+and resilience
+Let me begin with the MPIF, which has been operational as a surplus system for nearly
+three years. Recently, our Financial Markets Department conducted in-depth
+discussions with several commercial banks and non-bank financial institutions to
+assess its performance. The consensus is that the MPIF reform has enhanced policy
+transmission and financial stability, making the system more robust and operationally
+streamlined than its predecessor.
+A prominent change is increased market liquidity. By remunerating reserves at the
+policy rate, we have removed the incentive for banks to minimise cash balances – a
+marked improvement compared to the previous shortage system, where excess
+reserves incurred penalty rates. During times of crisis, this setup offers us more
+flexibility to provide additional liquidity as needed, without distorting monetary policy
+transmission. Our ability to pay interest on reserves means we can anchor interest
+rates at different levels of surplus liquidity. This supports financial stability.
+Of course, if you make it easier for banks to hold on to excess reserves, they have
+less incentive to offload them. This is why pure floor systems, globally, have led to
+much lower interbank activity. South Africa’s system is a tiered floor, deliberately
+designed so that reserve balances above quotas earn a lower rate, encouraging
+ongoing interbank market activity and preventing liquidity from pooling up in only one
+or two banks. While the interbank market now serves more as a backstop than a
+funding benchmark, it remains functional.
+Beyond the interbank market, our new MPIF has helped reduce volatility in other short-
+term rates, mirroring experiences in other countries with surplus systems. For
+instance, pricing in the FX forward market has improved compared to the first couple
+of years after the pandemic. More specifically, spreads have narrowed and the
+average for the year now closely tracks the policy rate.
+Page 2 of 6
+Chart 1: FX implied-repo spreads (basis points)2
+In our recent deep-dive with banks, most institutions indicated satisfaction with their
+liquidity surplus levels and allocated quotas, with moderate increases to their surplus
+levels easily accommodated. We are investigating what constitutes ’moderate’ and
+assessing longer-term limits to surplus absorption, especially as the surplus has grown
+from about R45 billion to around R160 billion over the past three years.
+The SARB, as always, will monitor short-term funding markets and engage with
+market participants and other stakeholders to ensure ongoing market stability and
+effectiveness.
+Advancing market collateralisation
+Globally, financial markets are increasingly relying on collateralisation to limit credit
+risk. Our domestic markets, however, are plagued with market frictions, infrastructure
+gaps, legal ambiguities and restricted access, which hamper the use of collateral.
+For example, there are legal and regulatory constraints, such as Board Notice 90,
+which prevent money market funds from acting as cash lenders, whereas in other
+countries they play a vital role in repo markets. Repo activity is further hindered by
+pricing frictions: fund providers typically prefer very short maturities, while asset
+2 The year-to-date FX implied repo spread average (as of 29 August 2025) is -6.4 basis points.
+Page 3 of 6
+5
+4
+4
+3
+3
+2
+2
+1
+1
+0
+5
+0
+5
+0
+5
+0
+5
+0
+5
+0
+06-
+F r
+03-
+e q u
+0
+e n c
+03
+y
+06 09 021 051 081 012 042 072 003 033
+2
+063
+0 2 0
+093
+-2 0 2
+024
+2
+054 084
+2
+015
+0 2 5
+045 075 006
+managers and insurers seek longer terms, creating mismatches that drive up costs. In
+addition, market infrastructure has remained manually intensive and limited in scope,
+the Johannesburg Stock Exchange (JSE) does not yet accommodate classic or triparty
+repos and settlement lacks the automation and netting processes seen globally.
+The SARB, in collaboration with private sector participants through the Financial
+Markets Liaison Group (FMLG), is actively pursuing reforms to address these
+bottlenecks. Initiatives include enabling triparty collateral management, expanding
+repo functionality at the JSE, clarifying the legal treatment of repos and exploring
+regulatory changes that would allow a wider set of participants (such as money market
+funds) to contribute liquidity. Together, these initiatives aim to align South Africa’s
+markets with international best practices.
+The SARB is also modernising its collateral management infrastructure by introducing
+a triparty collateral management (TCM) agency model. Triparty arrangements
+optimise collateral allocation, enable automated substitutions and enhance risk
+management across counterparties. An implementation roadmap is in place, with a
+Proof of Concept launching this month, followed by a position paper and market
+feedback. The end goal is a more efficient collateral market where assets can move
+more easily between participants, risks are managed in real time and funding costs
+are reduced. In short, this reform will bring South Africa’s collateral markets closer to
+global standards and make them more resilient in times of stress.
+Reforming domestic reference rates
+Turning to reference rate reform, the transition from Jibar to ZARONIA stands out as
+one of the most significant market shifts in recent years.
+It is encouraging to observe the recent acceleration in the adoption of ZARONIA
+across derivative and cash markets since the ZARONIA First initiative started in May
+2025. The London Clearing House (LCH) reports that notional exposures in ZARONIA-
+linked instruments have surged from R6.4 billion to R198 billion this year. While this
+increase is commendable, domestic Jibar-related exposures remain relatively high.
+Recent estimates indicate total gross exposures of about R44.7 trillion, 91% of which
+Page 4 of 6
+are derivatives. This underscores the need to intensify efforts to encourage market
+participants to reference ZARONIA in financial contracts.
+To support this transition, the SARB has published relevant materials on its website,
+including market conventions, and infrastructure providers have upgraded systems for
+ZARONIA-linked trading and settlement. The Market Practitioners Group has
+recommended fallback rate language for contracts and Bloomberg’s appointment as
+the credit adjustment spread calculation agent was a key milestone, enabling the
+International Swaps and Derivatives Association (ISDA) to include ZARONIA in its
+updated Interest Rate Definitions and Protocol.
+As we navigate this transition, we remain vigilant regarding the risks of delayed
+adoption, especially the potential for cliff-edge effects if legacy contracts are not
+renegotiated in time.
+Foreign exchange reserves
+Finally, let me just comment briefly on our foreign exchange reserves.
+Historically, South Africa has held a relatively low level of FX reserves. International
+assessments, such as the IMF Article IV reports, have often encouraged more reserve
+accumulation. We have responded by expanding reserves, and interestingly it has
+grown by about $20 billion over the past ten years to the current total holdings of
+around $69 billion. This positions us closer to meeting key adequacy benchmarks and
+bolsters our resilience and competitiveness. If further attractive opportunities arise, we
+would be able to continue to accumulate reserves.
+Conclusion
+The SARB remains committed to inclusive engagement with domestic stakeholders.
+We will continue to collaborate with market participants through the established
+working groups, consultations and joint research programmes to foster a transparent,
+resilient and future-ready financial ecosystem.
+Page 5 of 6
+Thank you for your continued partnership. Please enjoy the rest of the evening.
+Page 6 of 6

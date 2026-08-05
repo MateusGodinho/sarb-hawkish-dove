@@ -1,0 +1,175 @@
+Titulo: Keynote address by Deputy Governor Rashad Cassim at the 2024 Market Practitioners Group Conference
+Data: 2024-08-21
+Palestrante (estimado): Deputy Governor Rashad Cassim
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2024/keynote-address-by-deputy-governor-rashaad-cassim-at-the-2024-ma
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2024/Keynote%20address%20by%20Deputy%20Governor%20Rashad%20Cassim%20at%20the%202024%20MPG%20Conference.pdf)
+----------------------------------------------------------------------
+
+Opening remarks by Dr Rashad Cassim,
+Deputy Governor of the South African Reserve Bank,
+at the Market Practitioners Group Conference,
+The Maslow, Sandton, Johannesburg,
+21 August 2024
+The upcoming Jibar transition
+Good morning, all.
+We appreciate that, of all the priorities competing for your time, you have chosen to
+attend this third Market Practitioners Group (MPG) Conference. Our subject is an
+important one: the upcoming transition of the Johannesburg Interbank Average Rate,
+commonly known as Jibar, to ZARONIA which is the South African Rand Overnight
+Index Average rate.
+For several years, the MPG and the South African Reserve Bank (SARB) have been
+building the foundations for reference rate reform.
+The designated successor to Jibar, ZARONIA is an overnight, wholesale deposit rate.
+It is near risk-free, and unlike Jibar, it is based on large volumes of actual transactions
+in the South African market, as opposed to a rate based on small volumes of quotes.
+The veracity of ZARONIA has been tested extensively through a year-long observation
+period, which concluded in November 2023. It is now being published daily on the
+South Arican Reserve Bank (SARB) website for use in financial contracts.
+Many of you may be aware that the MPG has published several white papers
+recommending market conventions for ZARONIA-based cash and derivatives
+products. Based on these developments, market infrastructure providers have
+implemented solutions to support market activity.
+Page 1 of 5
+Before I open to our panels of experts, I want to make three general points. Then, I
+will move on to highlight some operational and methodological challenges associated
+with the transition process.
+First, the SARB remains committed to discontinuing Jibar.
+Second, it is important for market participants to prioritise an active transition away
+from Jibar based contracts and not just adopt a wait-and-see approach. The best way
+to minimise transition risks is to minimise the stock of legacy contracts based on Jibar.
+Third, the most progressive way forward for market participants will be to take
+ownership of the transition, to establish transition programmes within your
+organisations and, to work out your own paths forward.
+Jibar cessation
+The latest results from the Jibar-related exposures survey indicate that the number of
+financial contracts referencing Jibar remains huge, with the total gross exposure
+estimated at over R57 trillion. Much of this exposure is attributable to derivatives
+contracts that reference the three-month Jibar, accounting for about 91%, while at the
+same time, the volume of three-month negotiable certificates of deposit (NCDs) that
+underpins the three-month Jibar remains very small, at just R10 billion. We clearly
+need a better benchmark, and that is why we are committed to the Jibar cessation.
+That said, the SARB’s commitment to discontinuing Jibar should not be taken to mean
+that Jibar is non-representative. It is not the SARB’s intention to trigger any pre-
+cessation clauses at this stage, but rather to give the market the confidence it needs
+to engage with the transition effort in earnest.
+The MPG’s recent ‘Update on the Jibar transition plan’ indicates that Jibar will cease
+towards the end of 2026.1 The SARB intends to announce the precise Jibar cessation
+date in December 2025.
+This leaves the market with just over two years to complete the Jibar transition. It is
+an ambitious timeline, but achievable.
+Managing legacy contracts
+1 Market Practitioners Group, Transition Planning and Coordination Workstream, ‘Update on the Jibar
+transition plan’, 2024. https://www.resbank.co.za/content/dam/sarb/publications/financial-
+markets/committees/mpg/mpg-ralated-documents/2024/update-on-the-Jibar-transition-plan.pdf
+(accessed 10 August 2024).
+Page 2 of 5
+Jibar and ZARONIA are structurally different. There are term and risk premia in Jibar
+that do not apply to an overnight cash rate like ZARONIA. Therefore, we will need
+quantitative techniques to achieve economic equivalence when switching from Jibar
+to ZARONIA. This will largely be achieved by adding an adjustment spread to
+ZARONIA.
+You may ask: How can we determine an appropriate adjustment spread? It is not a
+straightforward question to answer. We could employ quantitative models to identify
+the various premiums in Jibar, and then base the adjustment factor on these spreads.
+However, model results can be sensitive to assumptions, and the models themselves
+may not be widely understood, which could make it difficult to achieve consensus on
+what the appropriate adjustment spread should be.
+Alternatively, we could rely solely on observed data to compute the adjustment spread.
+This would require choosing an approach − for instance, the historical mean or
+median, the spot spread, or a forward-looking approach. This would then inform the
+choice of the ZARONIA measure that will be used – that is, whether the adjustment
+spread incorporates compounded ZARONIA period averages, spot ZARONIA rates,
+or forward-looking ZARONIA rates that incorporate market expectations. Clearly, the
+choice of the Jibar measure would need to align with the choice of the ZARONIA
+measure.
+Fortunately, the International Swaps and Derivatives Association (ISDA) has consulted
+widely on this issue,2 and concluded that market participants would prefer the historical
+median approach, with an adjustment spread based on five years of data.3 This
+method would be robust against data outliers resulting from unusual market
+conditions, as well as potential manipulation.4 Consequently, this method was adopted
+in cash and derivatives markets in the United States, United Kingdom and many
+jurisdictions that were impacted by the London Interbank Offered Rate (LIBOR)
+transition.
+Nonetheless, in South Africa, market participants are not only concerned about dealing
+with data outliers; they are also concerned about structural shifts in the behaviour of
+the Jibar, especially since the SARB’s migration to a surplus system for implementing
+monetary policy in June 2022. It appears that this reform has squeezed liquidity
+premiums, in that the spread between ZARONIA and Jibar has narrowed somewhat.
+2 ISDA, ‘Consultation on certain aspects of fallbacks for derivatives referencing GBP LIBOR, CHF
+LIBOR, JPY LIBOR, TIBOR, Euroyen TIBOR and BBSW’, 2018.
+https://assets.isda.org/media/f253b540-193/42c13663-pdf/ (accessed 10 August 2024).
+3 The Brattle Group, ‘Summary of responses to the ISDA consultation on final parameters for the
+spread and term adjustments’, 15 November 2019. https://assets.isda.org/media/3e16cdd2/d1b3283f-
+pdf/ (accessed 10 August 2024).
+4 Financial Conduct Authority (UK), ‘Article 23D benchmarks regulation: Draft notice of requirements’,
+29 September 2021. https://www.fca.org.uk/publication/libor-notices/article-23d-benchmarks-
+regulation-draft-requirements-notice.pdf (accessed 10 August 2024).
+Page 3 of 5
+The MPG is currently finalising its work on the adjustment spread methodology to
+ensure that the chosen methodology considers all the idiosyncratic factors that would
+concern market participants.
+It is also important for market participants not to over-rely on fallbacks to facilitate
+legacy Jibar referencing contracts. The best way to minimise risks would be to actively
+migrate to ZARONIA referencing contracts as soon as practicable.5
+There will nonetheless be instances where, despite best efforts, it may not be possible
+to transition or adjust certain contracts before Jibar ceases. These so-called tough
+legacy contracts will require regulatory measures to facilitate their transition. As such,
+it may be necessary for the MPG to consider a synthetic Jibar, similar in structure to
+the current forward-looking Jibar, to minimise the impact on systems and processes.
+Furthermore, the MPG, the SARB and the Financial Sector Conduct Authority will
+consult with National Treasury on the appropriate regulatory instruments for ensuring
+contract continuity and safe harbour provisions for the protection of contract parties,
+supervisors and the benchmark administrator.
+Building a new foundation
+Shortly after the MPG Conference in April 2023, the remaining US dollar LIBOR panels
+were discontinued. This concluded a massive decade-long global project to replace
+LIBOR.6 Reflecting on this effort, the co-chairs of the Financial Stability Board’s Official
+Sector Steering Group, Nikhil Rathi and John C Williams, concluded that it had been
+like building a new foundation under an existing home – an undertaking of extreme
+difficulty, one many doubted would succeed, and which they did not wish to repeat.7
+It is remarkable that we have had a largely smooth LIBOR transition, and local
+institutions should be commended for managing their LIBOR exposures effectively.
+However, in South Africa we are not yet at the stage where we can relax, enjoy our
+new foundation and promise ourselves that we never want to renovate again. We are
+5 Financial Stability Board, ‘FSB statement to support preparations for LIBOR cessation’,
+19 November 2021. https://www.fsb.org/2021/11/fsb-statement-to-support-preparations-for-libor-
+cessation/ (accessed 10 August 2024).
+6 Financial Stability Board, ‘Progress report on LIBOR and other benchmarks transition issues:
+Reaching the finishing line of LIBOR transition and securing robust reference rates for the future’,
+16 December 2022. https://www.fsb.org/wp-content/uploads/P161222.pdf (accessed 10 August 2024).
+7 N Rathi and J C Williams, ‘Innovating for the future, heeding lessons from the past’, Federal Reserve
+Bank of New York, The Teller Window, 17 August 2023.
+https://tellerwindow.newyorkfed.org/2023/08/17/innovating-for-the-future-heeding-lessons-from-the-
+past/ (accessed 10 august 2024).
+Page 4 of 5
+only now embarking on a critical stage of the ‘Jibar transition roadmap’,8 which requires
+market participants to start trading ZARONIA-based securities in earnest.
+A poorly coordinated transition, or delayed action by market participants, could result
+in market disruption and undesirable cliff effects. Consequently, market participants
+should consider a smooth Jibar transition as a strategic priority, both for their own
+organisations and the larger financial system.
+Last year, I asked market participants to consider elevating the Jibar transition
+discourse in their organisations and to establish transition programmes, with visibility
+at the executive board level. This work is ever more urgent today.
+Concluding remarks
+To conclude, global reference rate reforms were triggered by serious weaknesses in
+existing benchmarks. These included design failings, glaring cases of market
+manipulation, and structural shifts in the markets underpinning benchmarks. The
+responsible authorities had no choice but to reform. But reference rate transitions
+cannot succeed if market participants do not join in the journey.
+I hope you will look at this transition not as a chore or a burden to be taken on with
+great reluctance, but as an opportunity – an opportunity to build better markets as we
+navigate together to a new benchmark.
+There are uncertainties contained in the Jibar transition plan. None of the listed
+milestones and timelines are cast in stone. At best, they reflect the MPG’s best
+estimates given the knowledge and information at hand. It is possible that some
+milestones may need to be shifted now and again. Nonetheless, the MPG will
+endeavour to manage the uncertainties and continue to engage all stakeholders and
+provide clarity where necessary.
+I hope you enjoy the rest of the conference.
+Thank you.
+8 Market Practitioners Group, Transition Planning and Coordination Workstream, ‘Update on the Jibar
+transition plan’, 2024. https://www.resbank.co.za/content/dam/sarb/publications/financial-
+markets/committees/mpg/mpg-ralated-documents/2024/update-on-the-Jibar-transition-plan.pdf
+(accessed 10 August 2024).
+Page 5 of 5

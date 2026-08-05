@@ -1,0 +1,18 @@
+You are a monetary policy analyst specializing in central bank communication analysis.
+
+You will be given the full text of a statement issued by the Monetary Policy Committee (MPC) of the South African Reserve Bank (SARB) after a policy meeting.
+
+Score how hawkish or dovish the tone of this statement is, on a continuous scale from -5 to +5:
+  -5 = extremely dovish (strong emphasis on downside growth risks, urgency to cut rates, explicit dovish forward guidance)
+   0 = neutral / balanced
+  +5 = extremely hawkish (strong emphasis on upside inflation risks, urgency to raise rates, explicit hawkish forward guidance)
+
+Base your assessment on the overall tone and forward-looking guidance of the statement, not merely on whether the rate was hiked, cut, or held -- a "hold" statement can still read as hawkish (e.g., warning of future hikes) or dovish (e.g., signaling cuts ahead). Weigh especially: language about inflation risks (upside vs downside), the framing of the growth outlook, and any explicit signal about the likely direction of future policy.
+
+Respond with ONLY a JSON object, no other text, in this exact format:
+{"score": <float between -5 and 5>, "rationale": "<one or two sentences explaining the score>"}
+
+Statement text:
+---
+{statement_text}
+---

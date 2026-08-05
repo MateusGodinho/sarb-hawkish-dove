@@ -1,0 +1,192 @@
+Titulo: Keynote address by Lesetja Kganyago Governor of the South African Reserve Bank at the Financial Sector Conduct Authority Industry-wide Conference 2024
+Data: 2024-03-13
+Palestrante (estimado): Lesetja Kganyago Governor
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2024/Keynote-address-by-Lesetja-Kganyago-Governor-of-the-SARB-at-the-FSCA-Industry-wide-Conference-2024
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2024/Keynote%20address%20by%20Lesetja%20Kganyago%20Governor%20of%20the%20South%20African%20Reserve%20Bank%20at%20the%20Financial%20Sector%20Conduct%20Authority%20Industry-wide%20Conference%202024.pdf)
+----------------------------------------------------------------------
+
+Keynote address by Lesetja Kganyago,
+Governor of the South African Reserve Bank,
+at the Financial Sector Conduct Authority Industry-wide Conference 2024,
+Johannesburg, 13 March 2024
+Market conduct and financial stability
+Good morning
+Thank you for inviting me to speak at this inaugural industry-wide Financial Sector
+Conduct Authority (FSCA) Conference.
+My topic today is the relationship between market conduct and financial stability.
+As you know, these are the Twin Peaks of our new model for financial regulation, which
+came into force in 2017. This was the same landmark reform that birthed the FSCA
+as well as the Prudential Authority (PA).
+The South African Reserve Bank (SARB), which incorporates the PA, has ultimate
+responsibility for financial stability. At the same time, the FSCA is the apex authority
+for market conduct. There is a clear separation.
+Our Twin Peaks model has yet to fully mature. For instance, pension funds and
+collective investment schemes are expected to move to the PA only in April 2026. It is
+nonetheless a comparatively robust model, especially for a highly concentrated
+financial sector with a small number of large players, as well as for the continuous
+development of financial technology.
+Still, even with a clear division of labour, the details of how we pursue financial stability
+and good conduct are more complex, and sometimes confusing. For instance, if you
+go to the FSCA website, you will find a list of five strategic objectives, and number one
+is ‘ensure the stability of financial markets’.1
+You might have thought that was the SARB’s responsibility, not the FSCA’s.
+1 Note that on the FSCA’s website, there are five strategic objectives, of which the first is, ‘ensure the stability of
+financial markets’. https://www.fsca.co.za/Pages/Vision-and-Mission.aspx
+1
+But of course, to protect financial stability and to restore it when a crisis breaks out,
+the SARB does not operate in isolation. We rely on other authorities such as the
+National Treasury (NT), the Financial Intelligence Centre (FIC), the National Credit
+Regulator (NCR) and, of course, the FSCA. Cooperation between these institutions is
+also institutionalised through the Financial Sector Oversight Committee (FSOC) and
+the Financial Sector Contingency Forum (FSCF).
+Similarly, Twin Peaks clearly assigns market conduct issues to the FSCA, but that
+hardly means we at the SARB can ignore conduct issues. Indeed, as I shall argue in
+this speech, financial stability and conduct issues are ultimately connected. A system
+rife with misconduct will also become unstable.
+Before I turn to our South African context and challenges, let me start by delving into
+global regulatory and conduct issues.
+The global narrative on financial regulation changed completely with the global
+financial crisis (GFC). Before 2008, finance was widely considered an industry where
+light touch regulation would free smart people to generate astonishing wealth. This
+narrative had the most traction in the advanced economies. Indeed, financial crises
+were often portrayed as things that happened in emerging markets, which could
+usually be blamed on governments. But, of course, the GFC was triggered by events
+on Wall Street, the very centre of advanced economy finance. And the private sector
+was plainly guilty of excessive risk-taking and bad judgement.
+The lessons of that crisis ushered in totally new narratives on financial sector
+regulation. I say narratives because there were two ‒ a technocratic version and what
+we can call a popular or even populist version.
+The technocratic part was about re-engineering finance to make another GFC
+impossible, through changes such as raising bank capital levels and intensifying
+supervision. Many people here are experts in this complex, jargon-heavy field.
+The popular story was quite different. People saw highly paid bankers bring the
+economy to its knees, causing extensive job losses, and walking away with no jail time
+and no claw-back of past bonuses. This made a lot of people angry, manifesting in
+protests like the Occupy Wall Street movement.
+The technocratic mindset and the populist mindset are very different, and the two are
+usually uncomfortable in each other’s company.
+Populists are often bored and uncomprehending in technocratic conversations, while
+technocrats usually flounder when they try and do politics.
+2
+But the lesson we must take from this is that financial stability is not just an engineering
+problem.
+I do not think it is possible, at least in a democracy, to have a good policy regime for
+protecting financial stability, if you do not also have an effective regime for regulating
+conduct. If people feel abused, tricked or betrayed by the financial sector, they are not
+going to be interested in thoughtful technocratic proposals for obscure variables such
+as liquidity coverage ratios. Their elected representatives will not be interested either.
+The political discussion will centre on moral outrage and that will drain the oxygen out
+of technocratic debates.
+You can try and push along with the technocratic work, following global best practice
+and debating ratios, but sooner or later the political and the technocratic worlds will
+need each other. You will get crises, and in crises you really need people to work
+together, across government, the private sector, and also civil society. If you get to that
+point and trust has been burnt up by misconduct, good luck getting policy right.
+We live in difficult times, so the margin for error is small.
+There is a very clear upshift in geopolitical tensions in the world. Our headlines are full
+of war horrors. This is going to be a record year for elections – and some of these
+election results could be highly disruptive.
+We have also experienced the worst global inflation surge in a generation. Just a few
+years ago the monetary policy debate in the advanced economies was about inflation
+that was too low, about deflation risk, about tools for providing stimulus when interest
+rates are as low as they can go. Now we have significantly higher inflation, and
+although headline numbers are coming down, underlying inflation is still quite sticky.2
+Interest rates are staying higher for longer.
+These higher rates are necessary to stabilise inflation. But elevated interest rates also
+create stress. We have seen some poorer countries, especially in Africa, lose access
+to global bond markets.3 And we have seen bank failures. This month marks the one-
+year anniversaries of the Silicon Valley Bank (SVB) failure in the United States, and
+the collapse of Credit Suisse – a global systemically important bank – in Switzerland.
+The example of SVB is especially interesting. It was basically undone by losses on
+government bond holdings; not exactly risky assets, but assets which necessarily lose
+value as long-term interest rates rise. There are some rich ironies here. One of the
+lessons of the 2008 crisis was meant to be that complex derivatives and risky assets
+were the cause of bank failures. But here we have a failed bank that got in trouble
+2 https://www.bis.org/publ/qtrpdf/r_qt2403d.pdf
+3 https://www.imf.org/en/Publications/REO/SSA/Issues/2023/04/14/regional-economic-outlook-for-sub-
+saharan-africa-april-2023
+3
+because of its holdings of the world’s classic safe asset, and which failed to hedge the
+risk4 – in other words, that did not use derivatives. This is a valuable reminder that risk
+takes many forms, and the conventional wisdom of the last crisis may be misleading
+for the next one.
+Overall, it is fair to say that we live in challenging circumstances.
+Here in South Africa, our region is largely peaceful and likely to remain so. But we are
+not completely insulated from geopolitical confrontations, irrespective of how far they
+might be from where we are.
+Our economy is also not growing, and there are many signs that our living standards
+are falling. Growth last year was just 0.6%. Since 1994, there have been only four
+years with worse growth, of which one was the 1998 emerging market crisis, one was
+the 2009 crisis, and one was the 2020 COVID-19 crisis. The gap between South
+African growth and world growth is now double its longer-term average.5 We are falling
+behind. A big reason for this is that other places have functioning rail networks, ports
+and electricity.
+At the same time, government debt has risen too fast and is now too high. Accordingly,
+we have lost our sovereign investment-grade credit rating. This is costing us dearly,
+through higher borrowing costs and lost investment funds.
+Furthermore, we are on the Financial Action Task Force (FATF) greylist, and have been
+there for just over a year – since February 2023. We got this ‘high risk’ designation
+partly because of poor conduct by institutions and because of the exploitation of
+vulnerabilities in the existing financial frameworks relating to anti-money laundering
+regulations. We feel confident that South Africa will be removed from the greylist by
+the next review date, in 2025, given the fixes we are implementing. But this has been
+a costly episode for us. The lesson is that joint efforts are required to look after the
+integrity of South Africa’s financial system. We all suffer when this is compromised.
+At the same time – despite all this bad news – we must appreciate that our financial
+system is resilient. The test of a system is how well it handles stress. You never want
+to see stress. But we have had a lot of it in recent years, and the good news is that
+the system has largely coped well. Capital buffers have held up. We have not seen a
+rise in defaults that would indicate irresponsible risky lending, or large-scale ever-
+greening of loans designed to conceal losses – both problems experienced in various
+other jurisdictions, where financial systems are a source of vulnerability rather than
+4 https://www.ft.com/content/f9a3adce-1559-4f66-b172-cd45a9fa09d6
+5 Data for these comparisons are drawn from the IMF World Economic Outlook database and Statistics South
+Africa. For 1994-2022, the gap between SA and world growth averaged 1.14%; in 2023 it was 2.36%
+4
+strength. The ability of the market to get through catastrophic events like COVID-19
+has been clearly demonstrated.
+Of course, there are also problem cases, such as certain institutions which we put into
+curatorship recently. But I think those actions should be interpreted as vigilance,
+mitigating problems before they grow too large. In a well-regulated financial system,
+you are more likely to see banks being closed from time to time, rather than
+dysfunction being tolerated indefinitely.
+Unfortunately, we cannot say the public image of the financial sector is everything it
+should be. It was remarkable, with the allegations last year about banks manipulating
+the exchange rate of the rand, how ready people were to believe that there was in fact
+a giant conspiracy to rig the rand, and that this had seriously weakened the exchange
+rate, pushed up inflation and raised interest rates.
+Economists and market specialists understood that even if there had been market
+manipulation by some traders, the macro effects of the exchange rate being a few
+cents weaker or stronger for an hour or so would have been trivial. The impact on
+inflation and rates would have been zero. We also saw the Competition Appeal Court
+rule in January that there was no evidence of a general conspiracy.6 But this was not
+the conversation taking place in the public domain. Most people could tell that traders
+were behaving unethically, plotting in chat rooms, and this misconduct was so
+obviously wrong, it eclipsed further analysis.
+What I learnt from this is that public trust in the financial system is not as deep as it
+needs to be. I worry about our ability to have well-informed policy conversations, in
+potentially more stressful circumstances, if bad analysis can get this kind of public
+reaction.
+Effort to bolster consumer education on the intricacies of financial regulation or
+financial economics are ongoing. But many people have strong opinions on the ethical
+questions, and especially the ethical failures. This is the stuff that can catch fire with
+the public. If one of these fires start, it is going to be a very difficult conversation to
+control, and a very difficult environment for making policy.
+The solution here is the solution with all fire risk: you need to reduce the supply of
+flammable material, you need early detection systems, and you need firefighting
+equipment. For our purposes, this means you need to have a financial system which
+treats people fairly, where misdeeds are detected, and are then dealt with promptly
+and effectively. If you do not have this, the system will be fundamentally unsafe.
+6 https://www.businesslive.co.za/bd/opinion/columnists/2023-11-17-hilary-joffe-overarching-goals-make-
+competition-watchdog-prone-to-overreach/
+5
+Ultimately, your moral capital is like your financial capital. You need it most in a crisis,
+and if you do not have it, that is when you fail.
+You, the FSCA, are the guardians of the financial sector’s moral capital. I do not know
+how you devise a capital adequacy ratio to measure whether we have enough – but
+let us have no doubt, even if we cannot measure it, this trust is every bit as valuable
+as financial capital. So even though we are at the top of two different peaks, you lead
+on market conduct and we lead on financial stability, and we need each other to
+succeed.
+Thank you.
+6

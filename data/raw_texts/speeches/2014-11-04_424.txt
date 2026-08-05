@@ -1,0 +1,250 @@
+Titulo: Address by Mr Leon Myburgh, Head: Financial Markets Department, South African Reserve Bank, at the Standard Bank 6th Annual Central Bank Reserves Management Conference, 3 November 2014
+Data: 2014-11-04
+Palestrante (estimado): Leon Myburgh
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-senior-management/2014/424
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-senior-management/2014/424/Standard-Bank-Seminar---2014_11.pdf)
+----------------------------------------------------------------------
+
+Welcome Address by Mr Leon Myburgh, Head: Financial Markets
+Department, South African Reserve Bank, at the Standard Bank 6th
+Annual Central Bank Reserves Management Conference, 3
+November 2014
+1. Introduction
+Ladies and gentlemen, allow me in turn to welcome you to this
+Reserves Management conference, the sixth of its kind hosted by
+Standard Bank, yet the first I have the pleasure of addressing in my
+current capacity as Head of the South African Reserve Bank’s
+Financial Markets Department. And I can only commend our hosts for
+putting together such a comprehensive programme, both in the
+diversity of topics covered and the calibre of speakers scheduled.
+While it is those speakers who will guide you through the intricacy of
+the different subject matter, allow me to share with you some brief
+remarks on the subject of reserves management.
+The subject could not be more topical, in light not just of the continued
+growth in global central bank reserves but also of the numerous
+challenges that asset managers currently face. How much reserves
+should one accumulate and for what purpose? Where should one
+invest them? How should one balance the goals of higher returns
+versus capital preservation? And how do you deal with negative
+1
+interest rates when capital preservation is a top priority? I would not
+pretend to have the answers to these questions, but propose to briefly
+look at a few points.
+2 Trends in global reserves
+I have just said that official reserves under management have
+continued to grow in recent years. However, during the Gold Standard
+era, governments and central banks held gold as they later held
+dollars under the Bretton Woods arrangement, to satisfy convertibility
+requirements. One could have thought that, with an increasing number
+of countries allowing their currencies to float, and with capital account
+flows increasingly dwarfing current account ones, the era of elevated
+official reserves would gradually have become something of the past.
+This has not been the case. The International Monetary Fund’s
+COFER data show that the world’s official reserves have grown
+roughly five-fold since the end of 2002, totaling as much as US$12,0
+trillion at of the end of the second quarter of 2014. If one were to add
+the roughly US$5 trillion held in sovereign wealth funds, it sums up to
+around US$17 trillion, or about 23 per cent of 2013 world GDP. And
+while the pace of growth in total reserves has slowed since the 2008
+global financial crisis, it remains positive, with a gain of 7,8 per cent in
+the year to June 2014 and of 6,0 per cent a year, on average, over the
+past three years. Equally interesting is the growing role played by
+emerging-market monetary authorities: From 40 per cent ten years
+ago, they now account for 67 per cent of total assets under
+management. Even after excluding the large holdings of the People’s
+Republic of China, the share of emerging market central banks still
+rose from 27 per cent to 34 per cent over that period.
+2
+3. Why should central banks hold reserves?
+I earlier mentioned that the historical reason for holding reserves was
+to allow for the settlement of current account imbalances while
+maintaining exchange rate stability, and indeed to this day, the
+majority of reserves continues to be held by countries with either fixed
+or managed exchange rate regimes. But sticking to an exchange rate
+target is not the only reason for reserve accumulation. Globalisation in
+recent times has presented another reason namely crisis prevention,
+owing to the high speed at which capital can flow between countries,
+via global banks and international conglomerates. In particular, since
+the Asian crisis of 1997 and the global financial crisis of 2008,
+monetary authorities are increasingly aware of the potential high
+volatility of capital flows and the risks of “sudden stops” in cross-
+border financing. Moreover, the global financial crisis taught us that a
+sudden fall in financial market confidence can trigger a “hoarding”
+pattern among private market players, resulting in dislocation of
+interbank and/or foreign exchange markets. We can, for instance, face
+a situation where some market participants hold reserve currencies
+but, for reasons such as perceived counterparty risk, are unwilling to
+lend them to other participants. In such circumstances, the monetary
+authority may need to step in to ensure market liquidity or provide
+some stabilizing actions. There were instances, at the height of the
+global financial crisis in late 2008-early 2009, when central banks
+stepped in to reduce volatility and improve liquidity in the foreign
+exchange market, either via direct FX auctions – this was the case,
+among others, in Brazil and India – or in the forward foreign exchange
+market via swap auctions, for instance in Korea.
+3
+Beyond protection against a “sudden stop” or reversal in portfolio
+inflows, central banks may equally wish to accumulate reserves as a
+protection against sizable currency appreciation, especially if they
+deem it out of sync with the country’s macro-economic fundamentals.
+In the current world of ample liquidity and “search for yield”, where
+international “push” factors like low interest rates can dominate the
+investment decision even while domestic “pull” factors may be weak,
+the risk of such disequilibria cannot be minimized. The policies
+followed recently in Switzerland and in the Czech Republic, where
+central banks accumulated reserves to enforce a cap on their
+exchange rate, bear testimony to this risk.
+4 Challenges brought about by reserve accumulation
+However, continued accumulation of reserves by a central bank does
+not come without challenges. If in decades past, the concern for
+policymakers was generally about an insufficient level of reserves, in
+recent times concerns can also be about the financial consequences
+of large reserve holdings, or indeed, about the uneven distribution of
+reserves holdings across the different emerging countries. Reserves
+accumulation typically comes at a cost, either through the cost of
+sterilization operations, or through an opportunity cost as liabilities on
+the central bank’s balance sheet could have been deployed in higher-
+yielding domestic assets. In fact, this gap between the yield on
+reserves and the sterilization cost is presently being compounded by
+the very low to negative returns generated by “traditional” reserve
+investments such as high-grade, low-duration government bonds. For
+example, an investor in German, French or Austrian government
+bonds will not obtain positive yields for maturities below three years,
+thereby undermining the original objective of capital preservation.
+4
+While this is a major challenge associated with reserves management,
+it is not the only one, and the panel of speakers scheduled to address
+this conference will guide us through some of the potential “pitfalls”
+awaiting reserve managers. We will hear later this morning about the
+outlook for US and European markets. This is a very topical subject as
+the present high valuation of most investment-grade fixed-income
+assets, a consequence of among others, elevated global liquidity,
+exposes portfolio managers to the risk of capital losses in the likely
+event of policy normalization by the world’s major central banks. While
+one may argue that the continued presence of excess liquidity through
+central bank balance sheet expansion may keep a cap on long-dated
+bonds, higher policy rates in the US and UK will trigger a sell-off in
+short-dated bonds, and this is typically where foreign exchange
+reserves are invested. We will also hear about the current dangers of
+the geo-political environment, and this is another factor for reserve
+managers to consider as it may bring to an end the recent period of
+unusually low financial market volatility.
+Another challenge may lie with the relative scarcity of high-quality
+assets, especially in view of the shrinking pool of AAA and AA+ rated
+securities, as this scarcity can distort the valuation of these securities.
+In turn, this may push reserve managers to look at lower rated assets,
+which in turn increases the credit risk in the portfolio.
+Finally, we should not forget that many central banks still hold
+substantial amounts of gold as part of their reserves, making reserve
+holdings vulnerable to increased volatility in the price of the yellow
+metal, and the concomitant impact on central bank balance sheets.
+Further, if a sharp drop in the price is the cause of the volatility, it
+5
+presents a dual challenge for the gold exporting countries like South
+Africa, as not only may the value of gross reserves decline, but the
+trade account may equally deteriorate.
+5. How can these challenges be addressed?
+Some of these challenges will not go away, as they are linked to the
+very principle of reserves accumulation. But some of them can be
+mitigated, in particular with respect to the income loss resulting from
+low-yielding investments. Typically, there are two major ways for a
+reserves manager to increase returns, first by extending duration and
+second through diversifying into a broader range of assets. While the
+first approach, duration extension, would result in meaningful risk
+exposure ahead of an expected normalization of monetary policy in
+major economies, the latter has already been actively followed by
+some official reserve managers, and indeed, the remainder of the
+programme entails presentations on and around this topic.
+The share of allocated reserves held in currencies other than the US
+dollar, the euro, the yen and pound sterling remains low, but at just
+above 7,0 per cent in June 2014 it has nearly trebled in the last five
+years. Amid these “new” currencies that central banks are investing in,
+particular mention should be made of the Chinese renmimbi, where
+investments by reserve managers should over time be facilitated by
+the growing international use of the currency and plans to gradually
+liberalise China’s capital account. Beyond currency diversification,
+central banks diversified into other financial instruments, such as
+mortgage-backed securities, and have also started to use derivatives
+to improve the efficiency of portfolio management and to assist in
+mitigating the risk of capital losses.
+6
+Admittedly, while diversification into a broader category of assets may
+help improve returns, it does not remove the risk of capital losses,
+especially in view of the likely normalization of major central banks’
+policy stances. A shift in asset allocation towards “riskier” instruments
+increases exposure to price volatility, which has been unusually low in
+recent quarters. At the same time, the influence of central bank
+quantitative easing programs on asset prices has tended to
+exacerbate the cross-correlation of financial assets. Thus,
+diversification may not necessarily reduce risk; rather, the reserve
+manager may be exposed to greater capital losses as the spread of
+higher-yielding assets relative to core assets also normalize from the
+present compressed levels. Consequently, such a market environment
+will require reserve managers to be “nimble” in the way they manage
+assets and allow tactical portfolio deviations from their benchmarks to
+try to reduce these losses through defensive strategies. Central
+banks, however, should guard against the temptation to use tactical
+strategies for enhancing returns, as the core mandate for managing
+reserves remains the preservation of capital.
+6. Some words about the South African experience
+I will conclude with a few words on our experience as reserve
+managers at the South African Reserve Bank. By international
+standards, South Africa’s reserves are relatively low, at US$49,1
+billion, equivalent to 15 per cent of GDP or about five months’ worth of
+goods and services imports. While the Bank does not adhere to a
+“hard target” for the level of foreign exchange reserves, and always
+balances the benefits of reserve accumulation against its costs, it uses
+guidelines such as the IMF, Greenspan-Guidotti and Jeanne-Rancière
+7
+formulae, that currently indicate a desirability for a higher level of
+reserves. When a country's reserves are below one’s desired level, it
+necessitates a more conservative asset allocation, with the key focus
+remaining on capital preservation and liquidity, and enhancing returns
+must be subservient to these two objectives.
+That said, prudence does not mean the absence of a sophisticated
+approach to reserves management. Addressing this same conference
+a year ago, the South African Reserve Bank’s Deputy Governor
+Daniel Mminele briefed the audience on some of the steps taken by
+the Bank to create a superior reserve and risk management
+operational platform, including a review of our custodial arrangements
+and a comprehensive systems renewal project. I am pleased to inform
+you of steady progress in the achievements of these two goals. The
+Bank has now finalized its decision on its new system architecture and
+systems service providers, and similarly, it has adopted a new
+custodian model and appointed a custodian. Both these projects are
+aimed at improving efficiency in business processes and the
+management of the reserves and reducing risk.
+The next focus area for the reserves management team is to review
+our securities lending program. Historically, we have linked the
+securities lending activity with our custodian business, as it is
+convenient. However, there may be opportunities to exploit if the
+securities lending business is managed similar to a normal external
+fund management program, where an agent is appointed based on its
+product offering, and not simply by virtue of being the custodian.
+The need for a prudent approach towards asset allocation has also
+not prevented the Reserve Bank from taking advantage of new
+8
+opportunities. In particular, with the new Strategic Asset Allocation that
+was rolled out in 2013, the Bank started for the first time to invest a
+portion of its reserves in the Chinese onshore bond market, and
+tomorrow my colleague Zafar Parker will share with you some of our
+experiences in that respect.
+Increasing central bank access to Chinese assets, which up to
+recently was a fairly closed market, illustrates the opportunities offered
+by the changing international financial landscape. As the share of
+China and other large emerging markets in the world’s economy
+grows, and as economic development makes these countries more
+willing to open up their capital markets, the range of assets which
+reserve managers are able to choose from in their asset allocation, is
+likely to increase.
+Similarly, in the light of the shrinking AAA credit universe, central
+banks are forced to look at different investment vehicles. Admittedly,
+official reserves management will not be made easier by all these
+evolutions: Historically, the growth of “new” capital markets has
+typically been accompanied by elevated price volatility. But it seems
+equally clear that new challenges will breed new opportunities. We
+shall keenly await advice arising from this week’s deliberations to help
+us manoeuvre through these murky waters.
+I thank you.
+---oOo---
+9

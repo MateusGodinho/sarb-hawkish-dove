@@ -1,0 +1,83 @@
+Titulo: Lesetja Kganyago | Address at the G20 TechSprint
+Data: 2025-11-11
+Palestrante (estimado): Lesetja Kganyago
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2025/kganyago-techsprint
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2025/kganyago-techsprint.pdf)
+----------------------------------------------------------------------
+
+Opening address by Lesetja Kganyago,
+Governor of the South African Reserve Bank, at the
+2025 G20 TechSprint Awards Ceremony,
+Pretoria, 11 November 2025
+Good afternoon.
+As you know, we are nearly at the end of our G20 Presidency. The Finance Track was
+handed over to the United States last month, and we have turned our attention to the
+Leaders’ Summit in just over a week. This TechSprint meeting has the distinction of
+being our last landmark event as the Finance Track in 2025.
+It is fitting that we are finishing our presidency with this subject of trust and integrity in
+finance. A core principle of our presidency was that we would not pack the agenda
+with more topics and more working groups. We wanted to avoid ‘priority proliferation’.
+Instead, we aimed to be disciplined about the agenda and put the Finance Track
+spotlight on existing issues that were significantly important for us. A top issue was
+inclusivity and innovation in finance.
+There is a lot of change in this space currently – some that works well, others not so
+much.
+Domestically, and I take South Africa as an example, we remain excessively
+dependent on paper-based systems. That includes processes for verifying identity,
+from loan applications, to making payments. There is also the use of cash, which
+remains the most popular tool for transacting in South Africa – despite the existence
+of more sophisticated alternatives. The South African Reserve Bank (SARB) has
+embarked on a major initiative to address this, and deliver a more digital, inclusive
+future.
+From a global perspective, cross-border finance remains cumbersome and expensive.
+This is nowhere more true than in Africa. Moving money from one country to another
+is an inefficient process, especially for poorer people. We still live in a world where it
+can make more sense for earners in South Africa to send money home to Zimbabwe
+by putting someone on a taxi with the cash. It is not quite the Stone Age – but it is
+close.
+Technologically, of course, we have the ability to do much better. But, if the problem
+were that easy, it would have been solved already. Unfortunately, there are many
+challenges in this space that remain unsolved, and which are holding up
+transformative progress.
+This G20 TechSprint is based on three of these problems.
+• The first is digital identity: We need verifiable, privacy-preserving technologies to
+establish trust among financial institutions and enable broader financial
+participation.
+• The second is credit data portability: We need secure, consumer-consented data
+exchange solutions so credit data can go to work and improve access to finance.
+• The third is fraud and cyber risk mitigation: We need payment efficiencies that are
+matched with technologies to significantly reduce fraud and cyber risks.
+Here at the SARB, we value innovation. At the same time, we appreciate that
+innovation is rarely driven by established institutions. Our comparative advantage is
+really about managing the macroeconomic and regulatory environments in which
+households and firms can thrive.
+Innovation, by contrast, usually comes from different teams having the freedom to
+experiment. Often they are working in labs, or even garages, rather than towers in
+capital cities.1 Innovation means taking risks, trying out different ideas and being open
+to imaginative concepts.2
+The Bank for International Settlements (BIS) has been convening these TechSprint
+competitions for five years now, and we are honoured to have been the co-host this
+year. Our two institutions both strongly believe in the philosophy of the techsprints: to
+take on major public policy issues, identify the problems that need solving and open
+them to innovators of all backgrounds.
+For this G20 TechSprint, we had over 165 entries from 30 countries. Of these, we have
+15 finalists.
+I would like to congratulate the 15 finalists, who have made it here against intense
+competition. To the other entrants, my team has told me there were many wonderful
+ideas submitted, including some that did not match the criteria but that were
+nonetheless brilliant.
+We ran a rigorous judging progress, with the BIS and sector experts, but there are
+many winning ideas in history that were not recognised straight away. Maybe there
+are some of those here today too.
+To all the teams, thank you for entering. Thank you for innovating. As the Nobel
+committee reminded us this year, innovation is the fundamental driver of prosperity
+and it is people like you who lead it.3 We are going to have a financial system in the
+future that is more open, inclusive and secure ‒ and it may well be ideas in this room
+that get us there.
+Thank you.
+1 On garage start-ups, see for instance this article: “Starting in a garage is crucial to the origin story of
+many Silicon Valley entrepreneurs.”
+2 For a larger discussion of this theme, see Carl Benedikt Frey. 2025. How Progress Ends.
+3 The prize was awarded to Joel Mokyr, Philippe Aghion, and Peter Howitt, “for having explained
+innovation-driven economic growth”. See https://www.nobelprize.org/uploads/2025/10/press-
+economicsciences2025-1.pdf

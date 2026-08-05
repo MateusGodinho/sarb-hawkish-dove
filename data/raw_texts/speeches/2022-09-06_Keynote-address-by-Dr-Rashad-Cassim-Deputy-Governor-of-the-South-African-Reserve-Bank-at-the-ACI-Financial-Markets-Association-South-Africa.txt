@@ -1,0 +1,237 @@
+Titulo: Keynote address by Dr Rashad Cassim, Deputy Governor of the South African Reserve Bank, at the ACI Financial Markets Association South Africa
+Data: 2022-09-06
+Palestrante (estimado): Rashad Cassim
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2022/Keynote-address-by-Dr-Rashad-Cassim-Deputy-Governor-of-the-South-African-Reserve-Bank-at-the-ACI-Financial-Markets-Association-South-Africa
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2022/Keynote%20address%20by%20Dr%20Rashad%20Cassim,%20Deputy%20Governor%20of%20the%20South%20African%20Reserve%20Bank,%20at%20the%20ACI%20Financial%20Markets%20Association%20South%20Africa.pdf)
+----------------------------------------------------------------------
+
+Keynote address by Dr Rashad Cassim,
+Deputy Governor of the South African Reserve Bank,
+at the ACI Financial Markets Association South Africa
+Seeing like a central bank: the SARB, supply shocks, and the logic of higher interest
+rates in a world of low economic growth
+6 September 2022
+Introduction
+Good evening, ladies and gentlemen.
+The South African Reserve Bank (SARB) has increased the repurchase (repo) rate at each
+Monetary Policy Committee (MPC) meeting since November of last year; our most recent
+move was 75 basis points, to 5.5%. We are raising rates in the context of higher inflation,
+with headline inflation currently at 7.8% − well above the 6% upper bound of our target
+range. I hear many questions about why we are raising rates, seeing that inflation is driven
+primarily by supply shocks in the form of higher global food and oil prices, while demand
+pressures in the economy are limited. I hope to explain today how central bankers think
+about what tools they have at their disposal in these circumstances. In so doing, I would like
+to make two points.
+First, we are aware of the role of supply shocks in driving inflation, and we understand that
+monetary policy cannot cancel out something like a sudden food price shock. The task we
+set ourselves on the MPC is different. Our objective is to look past the immediate supply
+shock, focus on the period after it has subsided, and ensure inflation stabilises at that point.
+I will discuss what factors we consider in pursuit of that goal.
+Page 1 of 8
+Second, we are starting from a point of very low interest rates. During the onset of the
+COVID-19 pandemic, we cut the repo rate to a record low of 3.5%. This was the right thing
+to do at the time, but rates could not stay that low forever. Economic conditions have
+changed since 2020. We therefore need to think about the appropriate level of interest rates,
+given how inflation and growth risks have evolved, particularly in the past few months. One
+issue that I hope gets clarified by the end of my talk is that one cannot just look at the change
+in our interest rates from one MPC meeting to another, in isolation. The level of the interest
+rate is also important in our thinking – and more specifically, the level relative to what
+economists call the ‘neutral rate’.
+Supply shocks and demand shocks in monetary theory
+Let me start with some theory about how monetary policy should respond to different
+sources of inflation.
+It is well known, by central bankers and academics alike, that monetary policy works best
+when managing demand-side inflation pressures. For instance, higher interest rates can
+cool off an overheating economy, aligning demand for goods and services with supply.
+However, we rarely find ourselves in this position in South Africa. Apart from the boom of
+the late 2000s, and arguably the period around the 2013 taper tantrum, the inflation-targeting
+era has not featured many episodes of overheating. Instead, we often have to think about
+managing sticky inflation as we confront multiple supply-side shocks in the context of
+subdued economic growth or slack in the economy.
+Very few countries, to my knowledge, currently face pure demand-side inflation. But there
+are, across the world, variations among different economies that have different implications
+for their monetary policy response. I would distinguish two sets of countries.
+In the first category, inflationary pressures reflect both demand and supply factors. I would
+say that the United States (US) and the United Kingdom (UK) currently fall in this category.
+In other words, one source of inflation is supply chain-related shortages, aggravated by
+increases in oil and food prices because of the Russian war against Ukraine. But, given the
+scale of monetary easing and significant fiscal stimulus in response to the COVID-19
+pandemic, these economies have not only recovered from the pandemic but have seen
+Page 2 of 8
+demand-side pressures, particularly in the goods market, relative to services. Demand-side
+pressures mean that monetary policy can play an important role in constraining demand, in
+interest rate-sensitive sectors, to bring inflation back to policy targets.
+In the second category, some countries are currently subject to supply-side shocks similar
+to those of the US and UK but with no significant demand-side pressures, other than a
+modest recovery from the pandemic. There is typically some evidence of higher inflation,
+frequently from a low base, but by and large there is still slack in the economy. This, I would
+argue, aptly describes a country like South Africa as well as a few other emerging markets.
+In these circumstances, the textbook says you should try to look through the first-round
+effects of the supply shock and focus on the second-round effects. The fundamental
+question is whether the effects of the shock will be temporary or persistent. Central banks
+should ignore temporary effects, but if they ignore persistent effects, that would be a policy
+mistake, creating substantially more inflation than can be explained by the supply shock
+itself. This point cannot be emphasised enough. The goal of ensuring that inflation does not
+go well beyond the inevitable price rise called for by the supply shock, through second-round
+effects, largely explains why the MPC has to respond despite low demand pressures.
+To take a simple example, imagine an economy where there is a small supply shock, such
+as a modest increase in world oil prices. The central bank observes inflation somewhat
+above target in the near term. However, other items in the inflation basket remain stable, so
+the price increase is confined to fuel and immediately related items such as transport. Firms,
+households and workers do not change their views of inflation, except for the near term.
+Wage settlement rates do not pick up and firms do not seem to be raising mark-ups.
+Financial markets do not start to price more inflation compensation into instruments such as
+government bonds. In these circumstances, it is an easy choice for the central bank to rely
+on its credibility and make no policy changes. Inflation will very likely return to target after a
+year without further action.
+Of course, not all policy decisions are so easy. They become harder when the shocks are
+large and persistent, or when there are multiple overlapping shocks. It is also not always
+straightforward to determine, given data lags, if inflationary pressures are broadening. There
+are no definitive sources you can trust for early warning. At the same time, it can be
+dangerous to wait too long for perfect information because delays can make the problem
+Page 3 of 8
+worse. Furthermore, it is never clear how much credibility one has until you have lost it.
+These situations pose some of the most challenging balancing acts for monetary policy.
+What are the data telling us?
+Let me now put aside the textbook and talk about our real-world decisions.
+As we went into the July MPC, we were confronted with tighter global financial conditions or
+higher global funding costs for countries like South Africa. In addition, we faced lower global
+economic growth projections due to factors that included slower growth in China, the
+continuing war in Ukraine, necessary monetary policy tightening synchronised across the
+world, and the tapering of commodity prices. While growth globally has been revised
+downwards, inflation has been revised upwards in most countries and has turned out to be
+more persistent. Inflation is expected to be above targets in most advanced and emerging
+market economies, both this year and next year.
+South Africa has not escaped these trends. At our recent MPC meeting, apart from a
+marginal upward revision of growth for 2022, there was a downward revision for 2023 and
+2024. At the same time, domestic inflation moved higher, primarily as a result of oil and food
+inflation. Headline inflation is now well above our 4.5% midpoint objective, and also outside
+the upper limit of our full 3−6% inflation target range. Our forecast indicates that we will be
+back below 6% around mid-2023, and we will reach the midpoint of our target only late in
+2024.
+Core inflation, a measure which excludes food and energy, is just above the midpoint of our
+target range at 4.6%. However, it has been trending higher recently, and is expected to
+average well over 5% next year. This points to a broadening of inflationary pressures.
+Decomposing core inflation reveals a wide gap between core goods and services inflation,
+with the former sharply higher, largely reflecting imported inflation, while services price
+increases have remained relatively well contained.
+The trajectory of inflation expectations also provides evidence of potential second-round
+effects. When we look at different measures of inflation expectations, respondents –
+rationally – expect higher inflation this year. Unfortunately, respondents also expect inflation
+to stay higher in subsequent years than they did previously. For example, between the first
+Page 4 of 8
+and second quarter of this year, the Bureau for Economic Research (BER) survey
+expectations for 2023 inflation have gone from 5.0% to 5.6%, and the 2024 expectations
+have gone from 5.0% to 5.4%. Less than a year ago, 2023 expectations were at 4.5%.1
+Given this evidence, it is not implausible to conclude that supply shock pressures are
+unlikely to go away by themselves. The difficult question, however, is just how persistent
+inflation will be. If expectations do not come back to our target, that means price setters will
+build in higher prices in their contracts. Similarly, demand for wages will go up, at least to
+maintain real living standards. What is critical for the MPC is to avoid this spiral, where prices
+go higher and higher just because everyone believes, for example, that the rand will be
+worth less and less in future. We need to assess how serious this spiral risk is, and then
+deliver a policy response strong enough to deal with this risk.
+There are two variables in this analysis − wages and the exchange rate − which are
+especially important, and I’d like to unpack these further.
+I will start with wages, or more generally, labour costs. These are important determinants of
+inflation as they are one of the biggest inputs to firms’ costs. That said, wages and inflation
+need not have a one-to-one relationship. If a firm has to pay more in wages, it can do several
+different things. In addition to raising prices, a firm can also reduce the number of workers it
+employs, perhaps buying more machinery so the remaining labour force is more productive,
+and the firms’ total wage bill is unchanged. This increases unemployment rather than
+inflation. A firm can also accept smaller profit margins, if it is profitable enough and if market
+conditions make it difficult to raise prices instead. But in difficult conditions, this jeopardises
+the survival of the firm.
+It is not the role of the MPC to dictate what wage earners should take home. This is a
+complex and firm-specific process, affected by factors such as productivity gains and firm
+profitability. But we do need to assess how broad labour income helps determine whether
+supply shocks, like the ones we are experiencing today, generate more inflation in the
+economy.
+1 The 4.5% expectation is from the 2021Q3 survey. All these numbers represent the BER average of firms, analysts and
+unions.
+Page 5 of 8
+One measure I consult closely, to help make this judgement, is unit labour costs (ULC),
+which is basically the total wage bill divided by gross domestic product (GDP). The growth
+rate of this measure shows how much nominal wages are rising for each unit of real
+economic output. This is a useful measure because it incorporates productivity effects and
+labour-shedding effects, unlike raw wage measures. The downside is that these statistics,
+like all labour market statistics, contain a lot of noise and are only available with a lag. These
+challenges are compounded by base effects from the COVID-19 shutdowns, which make
+the data more difficult to interpret. Nonetheless, the most recent annual numbers show that
+nominal ULCs came down from 2.8% in 2020 to 1.6% 2021 for the formal sector, excluding
+agriculture. Looking at the most recent quarterly numbers, this measure of ULC growth
+decreased to 3.6% for the first quarter of this year, down from 4.6% in the fourth quarter of
+last year. Alternative ULC measures show analogous trends. This suggests that wage
+pressure on inflation has been quite benign, to date, with ULC growth below the inflation
+rate.
+However, as we said in the MPC statement, there are still risks here that keep us alert. For
+instance, nominal wages are forecast to rise from 5.6% in 2022 to 7.3% in 2023.
+Furthermore, the latest Andrew Levy survey shows an acceleration in increases for
+collective bargaining agreements, and also a pick-up in wage-related strike action.
+Therefore, while we do not observe an actual wage-price spiral underway, to date, these
+recent developments warrant vigilance.
+Another variable of special interest for us is the exchange rate.
+The two big forces driving a weaker exchange rate for South Africa at the moment are
+weaker terms of trade as export commodity prices moderate, and higher policy rates in major
+economies – essentially a higher global risk-free rate. We have had very favourable
+commodity prices recently, and exceptionally low global rates. This helped us set very low
+interest rates. But now things are changing in the world, and South Africa, as a small open
+economy, has also had to adjust. Part of that adjustment has been a weaker exchange rate,
+which is why we have seen the rand at around R17 to the dollar lately, rather than R14 or
+so to the dollar, where we were a year ago.
+Another aspect of the problem, however, is a re-setting of global base rates. If we tried to
+make policy in a way that ignored higher global rates, we would see unpleasant
+Page 6 of 8
+consequences, including through a weak rand, which would drive the costs of imported
+goods even higher. It would be a mistake to say we have to adopt tight policy to keep the
+rand strong. My point is more subtle: what counts as tight or loose policy is changing, as
+global rates rise. If we do not recalibrate our policy settings accordingly, we could wind up
+with destabilising policy, which would be bad for inflation and also bad for domestic demand.
+In a changing financial climate, as with other forms of climate change, adaptation is healthier
+than denial.
+Pulling all these factors together, I hope you will appreciate that there is more to our analysis
+than just assessing whether current inflation is driven by demand- or supply-side factors.
+We do not focus on current inflation; we focus on future inflation because monetary policy
+operates with a lag. And while we don’t see today’s elevated inflation going away next year,
+we also don’t yet see inflation running out of control. With that said, the supply shocks that
+are driving inflation are significant, and we are seeing increasing risks of potential second-
+round effects. This justifies a policy response, rather than no response.
+Calibrating the policy response
+Why hike in response to supply shocks, given the low growth environment?
+As I have explained, our assessment of inflation is quite nuanced. In matching this nuance,
+we do not perceive our choices as ‘hike’ or ‘don’t hike’. When we make repo decisions,
+rather than just deciding to go up or down, we think more about the level of the policy rate.
+More specifically, we consider the level of rates relative to a normal or neutral interest rate,
+defined as the rate which would neither slow down nor speed up the economy. We also think
+about these rates not just in nominal terms, but rather adjusted for inflation. Policymaking
+therefore centres on choosing a setting somewhere along a broad spectrum of real rates,
+with options ranging from very loose to very tight, and a wide range of choices between
+these extremes. This is the standard modern framework for monetary policy, as distilled, for
+instance, by scholars like Michael Woodford.2
+As with the inflation analysis, using this framework is not simple and easy. We must estimate
+where neutral rates are, and there is no single best practice for adjusting the nominal rate
+for inflation. However, with a repo rate of 5.5% currently, and an inflation rate starting just
+2 The classic reference is Michael Woodford, Interest and prices, Princeton University Press: Princeton & Oxford, 2003.
+Page 7 of 8
+over 7% and declining to just under 6% next year, we still clearly have a negative real policy
+rate. This rate was significantly more negative before the rate hike in July.
+Meanwhile, our estimated real neutral rate is in the region of 2%, so actual rates are still well
+below neutral. They would also be below neutral even with different, lower estimates of
+neutral. This means the policy stance is still supportive of growth.
+I’ve realised that most people do not use this model, so a 75 basis point hike reads as tight
+policy. But this is not a good description of actual policy. The fact that we have a gap
+between the standard practice of monetary economists and everyone else suggests we
+have a lot of work to do to improve our monetary policy communication.
+Conclusion
+To conclude, let me summarise the messages the MPC would like people to hear about
+monetary policy. We are not slamming the brakes on this economy, but we are easing off
+the accelerator, moving towards a more balanced or neutral interest rate setting.
+We do not want to slow the economy down too much, and we are cognisant of the many
+challenges facing domestic producers and consumers. At the same time, we also do not
+want to join the large group of countries in the world today which took low inflation for
+granted, kept policy too loose for too long and ended up way above their targets, to the great
+unhappiness of almost all citizens. It is a delicate balancing act, and as an independent
+central bank operating an inflation-targeting framework, we aim to deliver moderate interest
+rates and low and stable inflation over time in our policymaking decisions.
+Thank you.
+Page 8 of 8

@@ -1,0 +1,254 @@
+Titulo: Speech by Governor Kganyago at The University of Johannesburg
+Data: 2023-05-10
+Palestrante (estimado): Governor Kganyago
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2023/Speech-by-Governor-Kganyago-at-The-University-of-Johannesburg
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2023/gov-kganyago/University%20of%20Johannesburg%20Speech_Governor%20Kganyago_10%20May%202023.pdf)
+----------------------------------------------------------------------
+
+Public lecture by Lesetja Kganyago,
+Governor of the South African Reserve Bank,
+at the University of Johannesburg,
+10 May 2023
+Challenges facing the global economy: a South African perspective
+Ladies and gentlemen, it is with great pleasure to be invited to address you today.
+The past few years have been a rollercoaster – evidenced by the numerous shocks
+that we have been faced with in a space of just three years. While the global
+economy at large continues to recover from the COVID-19 shock, and as we
+navigate what one could consider a new normal, there are important challenges
+that we continue to face as policymakers across the world. As such, the topic
+chosen for my address today – challenges facing the global economy from a South
+African perspective – could not be more fitting. This topic is particularly important
+for South Africa which, alongside other emerging market economies, has had its
+own idiosyncratic challenges being exacerbated by these global shocks.
+In light of this background, my speech today will focus on how inflation, growth and
+the monetary policy outlook have impacted our domestic economy. Before doing
+so, it is probably important that we do a quick recap of where we have come from.
+Global developments since the outbreak of the COVID-19 pandemic
+The major disruptions since the onset of the COVID-19 pandemic have been an
+important learning exercise for global economic policy. With no precedent in recent
+history to learn from, it has highlighted the importance of finding appropriate policy
+responses required to address the shock. The unusually large supply and demand
+imbalances we witnessed during and post the pandemic were a result of the
+sudden restrictions (and consequent relaxation) of economic activity as authorities
+around the world sought to contain the spread of the pandemic.
+You will remember that prior to the COVID-19 pandemic, global inflation was quite
+low, with many major central banks struggling to get inflation up to the 2% target.
+Soon after the pandemic hit, broad-based declines in inflation followed, which then,
+in response, induced a wave of fiscal and monetary stimulus. The South African
+Reserve Bank (SARB) itself reduced its repurchase ‒ or repo ‒ rate to an all-time
+low of 3.5% in July 2020. This stimulus provided by policymakers to mitigate the
+impacts of the pandemic, together with pent-up demand from the COVID-19
+restrictions and the much slower reopening of the services sectors, boosted the
+demand for goods while supply remained constrained. This, in turn, fuelled what
+would eventually be the highest rates of global inflation in a generation.1
+As the global economy was gradually recovering from the COVID-19 shock,
+another unexpected shock came early last year: Russia’s invasion of Ukraine
+which triggered a war that still rages on today. The war in Ukraine compounded
+the shock to the prices of oil, gas and some inputs into food production, such as
+fertilisers – further fuelling the global inflation problem.
+With the benefit of hindsight, we now know that the various stimulus efforts by
+policymakers contributed to the inflation problem we are currently sitting with.
+Nonetheless, the stimulus was much needed and supported demand conditions at
+a time when consumer confidence had been crushed by the lockdowns and
+furloughs. However, it is now clear that fiscal and monetary policy remained too
+loose for far too long. The ultra-low interest rates and generous transfers to
+1 World inflation calculated by Haver rose to a peak of 9.4% in September 2022 and was still in excess of 7% in
+March this year.
+households and businesses created excess demand ‒ in an environment where
+supply constraints have lowered potential output in most economies ‒ which, in
+turn, ignited the inflation problem we currently face. Subsequently, global inflation
+pressures have resulted in many central banks around the world embarking on
+unusually fast and synchronised monetary policy normalisation. The SARB itself
+implemented a series of 75 basis point hikes over the past year – faster than in
+prior tightening cycles. Since November 2021 to date, we have raised the repo rate
+by a cumulative 425 basis points. However, for context, the cumulative repo rate
+increases by the SARB have been below those implemented by some of our
+emerging market peers and, more importantly, the real repo rate is still below its
+estimated neutral level of 2.5%.
+Where are we now?
+It is encouraging to see that some of the shocks that drove the surge in global
+inflation have begun to ease. After peaking around the middle of 2022, global
+inflation moderated somewhat in the fourth quarter of 2022 and into the first quarter
+of 2023. However, although these developments have, overall, been positive, for
+many economies inflation still remains elevated and well above central bank
+targets. Importantly, inflation is showing signs of persistence in several sectors.
+The latest International Monetary Fund (IMF) World Economic Outlook projects
+global inflation at 7.0% this year, down from the 2022 average of 8.7%. Inflation is
+expected to further moderate to 4.9% in 2024. This decelerating trend is reflective
+of lower food and commodity prices, particularly oil, coupled with the gradual
+unwinding of supply constraints. Although demand pressures have begun easing
+somewhat in response to global monetary and fiscal policy normalisation, core
+inflation remains high and persistent, risking prolonged target breaches in most
+economies, which could lead to some de-anchoring of inflation expectations.
+Furthermore, the global growth outlook remains weak. Following the steady
+recovery in trading-partner growth in 2021 of 7.0%, growth slowed to an estimated
+3.5% last year. Looking ahead, and in line with higher prevailing interest rates, the
+SARB expects trading-partner growth to average 2.0% this year, before rising
+gradually to 2.6% in 2024 and 3.1% in 2025.2
+In addition to slow global growth, rising interest rates have also triggered banking
+sector stresses in the United States (US) and Europe – leading to tighter global
+credit conditions as markets and financial institutions readjust their portfolios.
+Consequently, uncertainty around the path for the US Federal Reserve’s (Fed)
+federal funds rate has increased over the near term. This has added to financial
+market volatility and the resulting ‘risk-off sentiment’ is impacting small open
+economies such as South Africa. These bank stresses have also added to global
+policy uncertainty as the size and duration of these effects are still playing out, as
+can be seen in the recent failure of First Republic Bank at the beginning of May
+2023.
+The domestic inflation landscape
+When I mentioned earlier some of the positive global developments over recent
+months, one of them has been a reduction in delivery lags and supply bottlenecks,
+which has contributed favourably to the inflation dynamics of some countries.
+Unfortunately, this has yet to have a material impact on our domestic inflation,
+mainly due to idiosyncratic domestic factors. In fact, it is expected that our own
+domestic infrastructural bottlenecks will continue to exert upside pressure on the
+inflation outlook.
+In addition to the initial studies on the impact of load-shedding on growth, there is
+recognition and growing evidence that the country’s ongoing energy supply
+challenges are impacting on prices as well. The SARB now estimates that load-
+shedding will add 0.5 percentage points to headline inflation in 2023.3 This
+calculation has taken into account the cost of alternative energy sources such as
+solar or back-up power generators – costs which are assumed will likely be passed
+on to consumers.
+2 The SARB’s global growth forecasts are based on real GDP growth in South Africa’s major trading-partner
+countries.
+3 See Box 1 in the April 2023 Monetary Policy Review.
+Overall, South Africa is no different from most countries that have experienced a
+surge in price pressures. With our economy being an open economy, global price
+pressures were bound to, sooner or later, reach our shores. Higher global food and
+oil prices and, more generally, elevated global goods inflation, translated to
+inflationary pressures in the domestic economy ‒ partly transmitted via the weaker
+rand – a point I will revisit later. This pushed domestic headline inflation to a high
+of 7.8% in July 2022 ‒ a rate that was last reached almost 14 years ago.
+Parallel to the somewhat easing global price pressures, domestic headline inflation
+has gradually slowed and came in at 7.1% in March 2023. However, despite this
+moderation ‒ primarily driven by a decline in fuel prices from the peaks observed
+in mid-2022 ‒ inflation remains well above the SARB’s preferred midpoint of the 3‒
+6% target range. Inflation edged slightly higher in February and March 2023, after
+recording 6.9% in January, underpinned by rising food and core inflation.
+Nonetheless, we expect a return to the 4.5% midpoint – though only by the third
+quarter of 2025.
+In South Africa, food inflation has continued to surprise to the upside, despite the
+decelerating trend observed in global agricultural commodities. Domestic meat
+inflation remains elevated, reflective of lingering domestic supply constraints in the
+beef market after the outbreak of foot and mouth disease last year. The expectation
+is for market conditions to improve gradually over the near term. However, the
+ongoing electricity supply challenge is likely to have more of an impact on energy-
+sensitive markets, such as poultry and dairy farming.
+Another important factor that has impacted inflation in South African has been
+exchange rate weakness. The rand has been one of the worst-performing
+emerging market currencies this year and over the past 12 months.4 Idiosyncratic
+factors such as persistent load-shedding and the recent greylisting of the country
+by the Financial Action Task Force have kept investors wary. And, by extension,
+4 The rand has depreciated around 6.8% in the year to date and by 17.6% over the past year against the US
+dollar.
+the rand depreciation has negated the impact of lower global energy and food costs
+on domestic inflation.
+Of concern is that core inflation, which excludes the more volatile food and energy
+components from the consumer price index (CPI) basket, remains sticky. The
+pressure on core inflation has been mainly driven by repriced imported goods
+costs. But apart from higher imported goods costs, one needs to keep an eye on
+core services inflation. To date, services inflation has remained relatively subdued
+‒ averaging around 3.9% in 2022. However, upside risks seem clear, especially in
+medical insurance as premiums move closer towards their longer-term average
+rates. In addition to this, the tightening rental housing market and high inflation
+expectations are expected to exert upside pressure on core inflation over the near
+term. Risks to services inflation also emanate from spillover effects from higher
+food and fuel inflation as well as possible higher wage increases given the adaptive
+nature of wage settlements in our economy. (We have already seen sharply higher
+wage settlements in the public sector.) We predict that core inflation will only
+decline to the target midpoint in the second quarter of 2025.
+Inflation has important distributional consequences, with the poor and those living
+on fixed incomes the most adversely impacted. The current inflation surge has
+been underpinned by high food and fuel price increases that more adversely affect
+the consumption baskets of poorer households. Statistics South Africa (Stats SA)
+data show inflation for the lowest expenditure deciles (deciles 1 and 2) at about
+11% in March 2023, while that for expenditure deciles 9 and 10 is around 6.5%.
+Unlike high-income South Africans, low-income earners and the poor more
+generally cannot protect their incomes from erosion due to inflation, and this results
+in rising income inequality in our country. This is a critical reason for the SARB’s
+constitutional mandate to protect the purchasing power of the rand, as this
+mandate ensures that we can continue to work towards improving and advancing
+the economic well-being of all South Africans.
+Looking ahead, domestic headline inflation is projected to remain elevated,
+returning to the target range in the third quarter of this year and averaging 6.0% for
+the year. A more pronounced moderation in inflationary pressures is only expected
+in the latter years of the forecast horizon, with headline inflation projected to
+average 4.9% in 2024, before reaching the midpoint of the target range only in
+2025.
+What this means for growth
+The SARB, like many other central banks elsewhere in the world, has to deal with
+the task of maintaining price stability. In South Africa we protect the value of the
+currency in the interest of balanced and sustainable growth, as stated in our
+constitutionally enshrined mandate. The challenging part now is that we must do
+this in a context where many of the drivers of both inflation and growth are outside
+of our control. Central banks have a very constrained policy toolkit to steer growth
+and can only effectively smooth business cycle fluctuations. By design, central
+banks are not capacitated to influence the long-run growth trajectory for the
+economy, as the decisions needed require governments to make policy trade-offs
+that entail winners and losers.5 Good decisions, of course, generate growth,
+making it possible for governments to compensate losers both as the economy
+itself gets much larger but also through direct transfers where required.
+Fighting inflation is much harder when the economy is already underperforming,
+as tighter financial conditions have the effect of cooling economic activity more
+broadly. Yet, if allowed to persist, high inflation will either fatally undermine the
+economy’s growth potential or raise the nearer-term costs of eventually bringing
+inflation back to target. As we have often said, the prevailing conditions, more than
+ever before, have brought the monetary policy conundrum to the fore.
+For instance, world growth is expected to be lower this year as the lagged impact
+of policy tightening weighs on real incomes and dampens demand.6 Demand for
+South African exports is likely to be weaker and this could be exacerbated by a
+decreasing trend in commodity prices, which had previously helped mitigate what
+otherwise would have been a much more dire fiscal situation over the past two or
+5 Even for central banks with a dual mandate (inflation and employment), government policy dictates the full
+employment level (trend growth) while the central bank sets policy to keep inflation and output consistent
+with the given inflation target and trend growth rate.
+6 The IMF’s April 2023 World Economic Outlook forecasts world output at 2.8% this year, down from 3.4% in
+2022. It forecasts South Africa’s growth at 0.1% this year (compared with 2.0% in 2022 and a projection of
+1.8% for 2024).
+so years.7 Together with increased alternative energy imports, this means that our
+terms of trade will deteriorate further.
+Following the robust growth rate of 4.9% recorded in 2021, the domestic economy
+slowed sharply to 2.0% in 2022. The SARB now forecasts growth of 0.2% this year,
+and to average 1.0% in the following two years – this is barely an expansion. In
+fact, this is a reflection of the headwinds that the domestic economy continues to
+face. The ongoing infrastructure challenges, especially for electricity, continue to
+impose a hard constraint on growth. The SARB estimates that load-shedding alone
+will reduce GDP growth by 2% this year, after knocking off 0.7 percentage from
+growth in the previous year.
+We trust that the government will remain committed to implementing structural
+reform measures, especially with regard to logistics and electricity. We believe that
+the implementation of much-needed structural reforms will unlock South Africa’s
+growth potential and, in turn, address the long-standing unemployment challenges
+of the country.
+Concluding remarks
+In conclusion, it is safe to say that the past few years have presented a new set of
+challenges for macroeconomic policymakers across the globe. Although the
+demand and supply mismatches we witnessed at the peak of the pandemic and
+when the Russia-Ukraine war broke out last year have eased significantly,
+imbalances continue to linger, and risks remain elevated. Despite the decelerating
+inflation trend over recent months, inflation remains above target in many
+jurisdictions, with core inflation showing signs of persistence ‒ this is despite sharp
+policy tightening by monetary policy authorities across the globe.
+South Africa’s experience has paralleled that of the global economy, with high
+inflation and slowing growth. However, domestic idiosyncrasies have played an
+7 Elevated commodity prices had also supported the rand which helped to keep imported inflation at bay
+through the early stages of the domestic economic recovery.
+outsized role in these developments over the past year, suggesting that we could
+have had somewhat lower inflation and stronger growth had structural policy
+settings been more favourable. Put differently, we are suffering from largely self-
+inflicted wounds.
+With headline inflation having remained above the target midpoint for an extended
+period, the SARB’s Monetary Policy Committee has had to act decisively to prevent
+inflation expectations from de-anchoring more permanently. Over the past 18
+months, the repo rate has been raised by a cumulative 425 basis points, and now
+sits at 7.75%. Still, the real policy rate remains somewhat accommodative, being
+slightly below its estimated neutral rate of 2.5%.
+As we have reiterated before, we are constantly monitoring price developments
+and stand ready to act as necessary to fulfil our mandate. As an independent
+central bank operating a flexible inflation-targeting framework, the SARB’s primary
+goal is to guide inflation and inflation expectations closer to the midpoint of the
+target band. I believe that many of us here understand that low and stable inflation
+is a prerequisite for a conducive business environment and, in turn, for inclusive
+and sustainable economic growth. We remain committed to ensuring price stability.
+Thank you.

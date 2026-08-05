@@ -1,0 +1,94 @@
+Titulo: Speaking notes for Rashad Cassim Deputy Governor of the South African Reserve Bank at the Payments Study Report Launch
+Data: 2024-09-05
+Palestrante (estimado): None
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2024/speaking-notes-for-rashad-cassim-deputy-governor-of-the-sarb-at-the-payments-study-report-launch
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2024/Speaking%20notes%20for%20Rashad%20Cassim%20Deputy%20Governor%20of%20the%20South%20African%20Reserve%20Bank%20at%20the%20Payments%20Study%20Report%20Launch.pdf)
+----------------------------------------------------------------------
+
+South African Reserve Bank’s Payments Study Report Launch
+5 September 2024
+Speaking notes for Deputy Governor Rashad Cassim
+Speaking duration: 15 mins
+Good afternoon, all.
+Thank you for joining us today as we launch the South African Reserve Bank’s (SARB)
+inaugural Payments Study Report.
+This study is one of our initiatives to better understand the payment system landscape
+in South Africa. It supports our current strategy, Vision 2025, which identified a need
+for the SARB to collect more payments information.
+In pursuing that goal, we knew we already had extensive information about the supply
+side of payments. We get this from operating SAMOS,1 the core interbank payment,
+real-time gross settlement system. We also receive data from other payment service
+providers.
+The Payments Study Report we are launching today, by contrast, is about the demand
+side of the payment system – the users thereof and their choice of payment methods,
+including their preferences, level of awareness, usage, reasons for adoption and
+barriers to entry.
+The study has two parts. One is a survey of about 45 minutes that just over 3 000
+people completed. We call this the Survey of Consumer Payment Choice (SCPC).
+1 South African Multiple Options System
+1
+In the second part of the study, about 4 600 respondents tracked their payment
+behaviour and payment method usage over a three-month period, using actual
+payments in a set period of days. This we call the Diary of Consumer Payment Choice
+(DCPC). Here people documented, among other things, their preferred payment
+methods, the amounts paid and what the payments were for.
+The two surveys were conducted nationwide between April and December last year.
+They were designed to complement each other. Indeed, this two-survey approach has
+also been adopted by other central banks, for instance in Australia, Poland, Sweden
+and the United States (US).2 And the results make for interesting reading.
+I do not want to steal the thunder of our next presenter, who will be walking us through
+the high-level results, but I was struck by several points.
+For instance, even though the usage of cash is not growing any more, it remains the
+most popular payment method. Debit card usage is second and credit cards a distant
+third.
+Furthermore, while credit cards are mostly used by richer households, which you
+would expect, there is a gap between reported usage in the two surveys. The
+consumer diaries show that credit card usage are much more frequent, relative to the
+consumer payment choice survey. This seems to be explained by people using a
+family member’s credit card. Perhaps you too are familiar with this phenomenon of
+family members using your credit card.
+It is also interesting to see the detail of when people spend and what they buy. By
+number of transactions, the top-three payment groups are groceries, transport and
+data. I’m not sure I expected data to be so far up on the list. The busiest payment days
+are Fridays and Saturdays; the slowest are Tuesdays. This sort of information really
+reminds me that it is in payments where central banks are most involved in people’s
+2 The US survey is conducted by the Federal Reserve Bank of Atlanta
+2
+everyday lives, even though monetary policy and financial stability are the topics that
+grab the headlines.
+Let me now say a bit about how economists and payments specialists can use the
+information from this study in South Africa.
+Firstly, given the SARB’s role in payment systems, understanding consumer
+preferences for different payment methods will help us meet these diverse needs.
+Specifically, the study will help guide our implementation of our Payments Ecosystem
+Modernisation programme and Digital Payments Roadmap initiative.
+Secondly, the SARB and other regulatory authorities should be able to identify the
+possible misconceptions about some of the products. For instance, we see in the
+survey that the main reason people do not use debit cards is, they say, that they don’t
+make enough money to qualify for a card. It seems that they think the qualifying criteria
+are more stringent than they really are. Given this sort of information, we can help
+educate people so they can make more optimal choices, which supports our financial
+inclusion work.
+Thirdly, we hope external researchers will be able to make creative use of this
+information. To give a taste of what can be done with this data, let me just give one
+example from a US paper that is based on survey data.3 The authors estimated the
+costs of adoption and usage of different payment instruments. They further estimated
+counterfactuals: what would happen, for instance, if banks were to impose a new fee
+on the use of debit cards, because of regulations that make debit cards more
+expensive to use?
+That question is difficult to answer, but armed with the survey data, the authors found
+answers. In this case, they determined that in the US, people would use more cash
+and cheques, in both the long and short run. Credit cards were not affected as much.
+It is surprising that such a change would lead to an increased use of paper instruments.
+3 Koulayev, S., Rysman, M., Schuh, S. and Stavins, J. (2016). Explaining adoption and use of
+payment instruments by US consumers. RAND Journal of Economics, 47:293–325.
+3
+The researchers also found that the burden of this change would fall much more on
+low-income consumers, a useful policy insight.
+I hope we will also get some good papers and some good insights out of this survey.
+To conclude, I would like to congratulate the cross-functional team, led by the National
+Payment System Department, that dedicated long hours to this study. I’m sure the
+team is relieved to at last launch the results – but this information is so important, their
+job is not done. We will be repeating these surveys in future.
+Thank you all.
+4

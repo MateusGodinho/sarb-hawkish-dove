@@ -1,0 +1,224 @@
+Titulo: An address by Lesetja Kganyago, Governor of the South African Reserve Bank (SARB), at the 100th annual Ordinary General Meeting of the SARB shareholders
+Data: 2020-07-31
+Palestrante (estimado): Lesetja Kganyago
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/governor's-address-to-shareholders/2020/564
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/governor%27s-address-to-shareholders/2020/564/Governor-s-Address-at-the-2020-SARB-AG.pdf)
+----------------------------------------------------------------------
+
+An address by Lesetja Kganyago,
+Governor of the South African Reserve Bank (SARB),
+at the 100th annual Ordinary General Meeting
+of the SARB shareholders
+South African Reserve Bank, Pretoria
+31 July 2020
+Global economic conditions
+We mark the 100th annual Ordinary General Meeting (AGM) of the South African
+Reserve Bank (SARB) at a time when the world is facing one of the most disruptive
+and challenging crises in recent memory. The COVID-19 pandemic has placed
+significant pressure on the global as well as domestic economies, and the
+livelihoods of citizens.
+The unprecedented restrictions imposed by countries to try and contain the spread
+of the virus have contributed to plunging economic activity, ending the global
+economic expansion that had started in 2010.
+In its latest update on the World Economic Outlook, the International Monetary
+Fund (IMF) estimates that global gross domestic product (GDP) will contract by
+about 4.9% in 2020. The World Bank highlights that this will be the deepest global
+contraction since 1945, with a record 93% of the world’s economies expected to
+experience economic contraction this year.
+The decline in global GDP has been compounded by increased risk aversion
+and extreme volatility in financial asset prices, with sharp and deep market sell-
+offs. Business and consumer confidence has also fallen as uncertainty levels reached
+Page - 1 - of 9
+new highs. Resource-exporting economies and countries with a high reliance on debt
+markets for funding will become even more vulnerable if capital continues to flow out
+of emerging market economies.
+The global policy response has matched the magnitude of the crisis. Fiscal
+authorities have contributed by delivering stimulus packages that are estimated to
+be larger than the response to the global financial crisis of 2008 and 2009. This
+stimulus has provided support to the health sector and to vulnerable households
+and businesses.
+Central banks around the world responded swiftly by lowering interest rates and
+providing liquidity to maintain market functioning. These response measures have
+helped to ease global financial conditions, allowing governments and companies
+to continue accessing domestic and international financial markets, and thus
+being able to sustain business operations and provide support to households. As a
+consequence, the high-frequency indicators suggest that the gradual lifting of
+lockdown restrictions in the major economies (first China, then Europe) has seen a
+rebound in manufacturing production and retail spending.
+While major economies in Asia and Europe appear to be on the road to recovery, the
+United States (US) and most of the emerging world are still very much in the midst of
+the crisis. Many countries – especially in Africa, Latin America and South Asia – are
+still experiencing increases in new COVID-19 infections. This has resulted in a delay
+in economic reopening or, in some cases, has led to renewed lockdown restrictions.
+As the pandemic persists, it is clear that some sectors of the economy, like travel and
+recreation, will experience a prolonged drop in demand. Households may continue to
+maintain high precautionary savings, and uncertainty is likely to weigh on business
+capital spending plans.
+For many countries, the room for additional fiscal stimulus is limited should there be a
+‘second wave’ of infections, resulting in significantly higher debt-to-GDP ratios as well
+as higher costs of accessing finance.
+Page - 2 - of 9
+Domestic economic conditions
+In South Africa, the COVID-19 crisis appeared at a time when our domestic economy
+was already vulnerable and in a technical recession. Real GDP had contracted at an
+annualised rate of 0.8% and 1.4% respectively in the last two quarters of 2019. This
+decline accelerated to an annualised rate of 2.0% in the first quarter of 2020, despite
+the nation-wide lockdown only coming into effect in the last few days of March. This
+was due to falling export demand, weak business confidence and investment, and the
+return of load-shedding.
+While second-quarter GDP data are not yet available, there is sufficient evidence
+to confirm that the lockdown has exerted a drag on economic activity. For example,
+mining and manufacturing production plunged by 37% and 44% month on month,
+respectively, in the month of April. And while there are signs of recovery in some
+sectors, much uncertainty remains. The COVID-19 outbreak is having major health,
+social and economic impacts, which presents challenges in forecasting.
+The SARB expects that the lockdown will cause output to contract by 7.3% in 2020.
+The last time a figure of this magnitude appeared in our data was in 1931, during the
+Great Depression, when output fell by 6.2%.
+In line with a partial global recovery, we expect economic activity in South Africa to
+start recovering as lockdown measures are gradually eased. Our projections for 2021
+and 2022 are for GDP to recover to 3.7% and 2.8% respectively.
+Due to global economic and financial conditions, as well as country-specific factors,
+South Africa experienced an increase in capital outflows and significant currency
+weakness between March and April. The South African rand depreciated by
+22% between February and the end of April. Over the same period, the yield on
+the 10-year government bond rose by more than 200 basis points, and money market
+liquidity was thin. Although many of these moves have been reversed, on balance,
+capital inflows remain below those of our emerging market peers.
+Page - 3 - of 9
+Inflation has moderated since the beginning of the year. Consumer price inflation fell
+to as low as 2.1% year on year in May, down from 4.6% three months earlier. Longer-
+term inflation expectations have continued to decline towards 4.5%, which is the
+midpoint of the inflation target range. Inflation expectations for 2020 are at around
+3.9%, the lowest in recorded history. Consequently, the SARB’s inflation forecast
+now sees core inflation remaining within the lower half of the target range for the
+remainder of the forecast period, that is until the end of 2022.
+The SARB expects headline inflation to average 3.4% in 2020, and 4.3% in both 2021
+and 2022. This benign inflation outlook has allowed the Monetary Policy Committee
+(MPC) room to reduce the repurchase rate (repo rate).
+The South African Reserve Bank’s actions during the COVID-19 crisis
+As a reminder, let me briefly outline the measures undertaken by the SARB
+since March.
+Monetary Policy Committee decisions
+The MPC has reduced the repo rate by a cumulative 275 basis points,
+to 3.50% per annum.
+Four repo rate cuts have been made since March 2020, as follows:
+ a 100 basis points cut in March 2020;
+ a 100 basis points cut at a special MPC meeting in April 2020;
+ a 50 basis points cut in May 2020; and
+ a 25 basis points cut in July 2020.
+Domestic money market liquidity management
+The SARB acted swiftly to ensure the continued smooth functioning of financial
+markets. Revisions to liquidity management operations comprised four elements.
+Page - 4 - of 9
+ First, we put in place Intraday Overnight Supplementary Repurchase Operations
+(IOSROs) aimed at providing liquidity support to commercial banks.
+ Second, we introduced a three-month term repo facility, which is offered in addition
+to the weekly main refinancing operations. The SARB has indicated its willingness
+to offer longer-term repo facilities of up to 12 months, subject to liquidity conditions
+in the market.
+ Third, the end-of-day lending rate on the Standing Facility was reduced from repo
+plus 100 basis points to the repo rate. At the same time, the borrowing rate on the
+Standing Facility, which is the rate at which the SARB absorbs liquidity, was also
+adjusted lower. Commercial banks’ deposits at the SARB now earn interest based
+on the repo rate less 200 basis points, compared to the repo rate less 100 basis
+points previously. This measure is meant to discourage banks from depositing
+money at the SARB, and to encourage money market liquidity.
+ Lastly, as an extra measure to add liquidity and promote the functioning of the bond
+market, the SARB commenced with a programme of purchasing government
+securities in the secondary market. More than R30 billion worth of government
+bonds has been bought since the commencement of the programme in March this
+year.
+Regulatory and supervisory relief measures
+Since the 2008/2009 global financial crisis, South Africa has implemented reforms
+to strengthen its regulatory framework for financial institutions and improve the
+resilience of the financial system. This has enabled the Prudential Authority (PA) to
+deliver temporary regulatory relief for banks in a manner that is consistent with
+internationally agreed regulatory standards.
+The PA has provided guidance covering accounting matters and imposed a limit to the
+payment of dividends and bonuses by banks and insurers to ensure the conservation
+of capital and retained capacity in an environment of heightened uncertainty caused
+by COVID-19.
+Page - 5 - of 9
+Expected impact of the South African Reserve Bank’s response
+The SARB’s policy responses are an important element of providing support
+to the economy.
+Interest rate decisions are expected to play an important role in replacing displaced
+income. The relaxation of certain regulatory measures has enabled banks to provide
+support to households and businesses through continued lending activities,
+alongside the government loan guarantee scheme. In addition, the liquidity operations
+have supported market functioning, which is important for financial stability.
+While there is limited information to assess the impact of interest rate adjustments
+and other regulatory measures, the decline in indicators of bond market frictions
+and the improvements in money market liquidity conditions testify to the positive
+impact of the SARB’s liquidity management measures.
+Financial stability
+The SARB has a statutory mandate to protect and enhance financial stability in
+South Africa by monitoring global and domestic conditions, using various indicators to
+identify the risks and vulnerabilities which may impact on the financial system.
+During the past year, the main risks to financial stability were identified as weak
+and deteriorating domestic macroeconomic conditions, government’s fiscal position,
+cyberattacks on key financial infrastructures, and climate change.
+The COVID-19 pandemic has placed all of these risks at the centre of the financial
+system. Government’s debt issuance is higher; the deteriorating economic conditions
+have increased the credit risks faced by financial institutions; periods of market stress
+and volatility have placed a higher strain on market infrastructures. In addition, the
+prolonged period of remote working has increased cybersecurity risks.
+Page - 6 - of 9
+The SARB continually monitors for signs of stress in the system, and will continue
+to act as appropriate to mitigate any risks. Our assessment to date finds that
+the financial system remains resilient.
+COVID-19 and South African Reserve Bank operations
+It would be amiss of me not to reflect on how the SARB itself is managing the impact
+of the pandemic. After all, everything we do is through our people.
+While the focus has been on monetary policy, coupled with regulatory and liquidity
+management measures, it has been essential for the SARB to ensure that key
+functions in the economy are not negatively affected by any disruptions to the national
+payment system and our currency operations.
+The SARB initiated a process in January to monitor the effects of the pandemic on its
+operations, including the operations of its subsidiaries. A Joint Operational Committee
+(JOC) was established in February to lead the SARB’s response and ensure business
+continuity.
+Since March, the majority of our staff has been working remotely. We have also
+prioritised the implementation of medical and wellness protocols throughout the
+South African Reserve Bank Group (SARB Group).
+The SARB’s key operations have not been affected by the remote working
+arrangements.
+To ensure the continuity of the cash supply chain, an industry forum was established
+to monitor the availability of cash in circulation in the economy, along with the ongoing
+production of new currency.
+Conclusion
+Let me conclude with some key points for reflection in the ongoing discourse about
+the role of the SARB in the economic recovery.
+Page - 7 - of 9
+The COVID-19 pandemic has demonstrated the extent of interconnectedness of the
+global economy through production value chains, trade, financial markets, travel, and
+the exchange of knowledge.
+Within the central banking community, the actions of major global central banks have
+provided space for the SARB to respond to our unique domestic conditions.
+We have also seen the value in being part of a global community through the
+contributions that we were able to make through our advocacy in global
+forums, strengthening the global financial safety net.
+As we move towards economic recovery, the opening up of global trade channels will
+be important for South Africa as a small open economy. However, as policymakers,
+we must ensure that our economy is well placed to take advantage of improving global
+conditions.
+To place our economy on a sound and sustainable growth path, the SARB stands
+ready to provide support to the economy within its mandate. Lower longer-term
+inflation outcomes are important for maintaining purchasing power, containing
+the costs of living and of doing business, and supporting our country’s global
+competitiveness.
+However, as we have indicated in the past, improving the potential growth rate of
+the economy cannot be left to the central bank alone. Coupled with prudent
+macroeconomic policies and structural reforms, a lower cost of capital can support
+growth in long-term investment. The recovery of the South African economy requires
+a multi-pronged policy approach.
+As we navigate through this COVID-19 storm, the SARB will continue to deploy its
+tools, as appropriate, in accordance with its mandate, to provide support to the South
+African economy.
+Page - 8 - of 9
+This is not a time to despair. Neither is it a time to venture into policies or instruments
+that have proved a failure in economic history. There are tough choices for us to make
+as a society.
+Thank you.
+Page - 9 - of 9

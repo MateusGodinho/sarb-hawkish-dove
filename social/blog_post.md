@@ -1,6 +1,7 @@
 # What 27 years of central bank speeches say about a "surprise" hold
 
-*Draft — not yet published. ~950 words. Swap `[link]` / `[repo]` before posting.*
+*Draft — not yet published. ~950 words. Swap `[link]` for the article URL once it's
+published (the repo link is already filled in below).*
 
 On 23 July 2026, the South African Reserve Bank's Monetary Policy Committee held the repo
 rate at 7.00%. Most of the market was positioned for a hike, with an energy price shock
@@ -92,4 +93,4 @@ unsatisfying answer: the SARB's own words couldn't have told you in advance whic
 The full piece has all six charts, the complete comparison table, and a section on exactly
 where and how I used AI to build this (a lot of the scraping and debugging, none of the
 underlying sentiment judgments): [link]. Code, data, and a notebook that reproduces every
-number in this post from scratch: [repo].
+number in this post from scratch: https://github.com/MateusGodinho/sarb-hawkish-dove.

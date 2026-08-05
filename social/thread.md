@@ -2,8 +2,8 @@
 
 Draft only — nothing here has been posted. Six posts, written to work as a numbered
 thread on X or as a single LinkedIn post broken into paragraphs with the same beats.
-Swap `[link]` for the actual article URL and `[repo]` for the GitHub repo URL before
-using.
+Swap `[link]` for the actual article URL once it's published (the repo link is already
+filled in below).
 
 ---
 
@@ -76,7 +76,7 @@ Full writeup with all the charts, the methodology (including the dead ends — w
 work and why), and an honest account of where AI was and wasn't used in building this:
 [link]
 
-Code + data, fully reproducible from a notebook: [repo]
+Code + data, fully reproducible from a notebook: https://github.com/MateusGodinho/sarb-hawkish-dove
 
 If you build or study anything like this for other central banks, I'd like to hear about
 it.

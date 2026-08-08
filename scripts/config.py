@@ -13,9 +13,7 @@ PROCESSED_DIR = DATA_DIR / "processed"
 STATEMENTS_INDEX_JSON = RAW_DIR / "statements_index.json"
 DATASET_JSON = PROCESSED_DIR / "statements_dataset.json"
 DATASET_CSV = PROCESSED_DIR / "statements_dataset.csv"
-SCORES_LEXICON_CSV = PROCESSED_DIR / "scores_lexicon.csv"
 SCORES_LLM_CSV = PROCESSED_DIR / "scores_llm.csv"
-SCORES_COMBINED_CSV = PROCESSED_DIR / "scores_combined.csv"
 
 # Serie diaria da SARB Policy Rate fornecida pelo usuario (fonte: pagina de
 # indicadores do proprio SARB). Usada como fonte de verdade para a taxa e
@@ -37,7 +35,6 @@ SPEECHES_RAW_TEXTS_DIR = RAW_TEXTS_DIR / "speeches"
 SPEECHES_INDEX_JSON = RAW_DIR / "speeches_index.json"
 SPEECHES_DATASET_JSON = PROCESSED_DIR / "speeches_dataset.json"
 SPEECHES_DATASET_CSV = PROCESSED_DIR / "speeches_dataset.csv"
-SPEECHES_SCORES_LEXICON_CSV = PROCESSED_DIR / "speeches_scores_lexicon.csv"
 SPEECHES_SCORES_HENRY_CSV = PROCESSED_DIR / "speeches_scores_henry.csv"
 
 SPEECHES_RAW_TEXTS_DIR.mkdir(parents=True, exist_ok=True)

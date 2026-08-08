@@ -54,7 +54,7 @@ Metodologia:
      linguas oficiais da SARB) sao excluidos, ver flag_non_english.py.
 
 Saida: data/processed/lda_topics_words_<corpus>.csv (top palavras por topico)
-       data/processed/lda_topic_share_by_year_<corpus>.csv (evolucao)
+       data/processed/lda_topic_probweight_by_year_<corpus>.csv (evolucao)
 """
 
 from __future__ import annotations
@@ -160,31 +160,6 @@ def run_lda(docs, corpus_label):
             "top_words": ", ".join(top_words),
         })
 
-    # topico dominante por documento + participacao por ano
-    dominant = doc_topic.argmax(axis=1)
-    year_topic_counts = defaultdict(lambda: defaultdict(int))
-    year_totals = defaultdict(int)
-    for d, topic_idx in zip(docs, dominant):
-        year = (d["date"] or "")[:4]
-        if not year:
-            continue
-        year_topic_counts[year][topic_idx] += 1
-        year_totals[year] += 1
-
-    share_rows = []
-    for year in sorted(year_totals):
-        for topic_idx in range(N_TOPICS):
-            count = year_topic_counts[year][topic_idx]
-            share = count / year_totals[year]
-            share_rows.append({
-                "corpus": corpus_label,
-                "year": year,
-                "topic": topic_idx,
-                "n_docs": count,
-                "n_docs_total_year": year_totals[year],
-                "share": round(share, 4),
-            })
-
     # metodologia do paper (Figure 7): peso medio de probabilidade de cada
     # topico por documento, depois medio sobre os discursos de cada ano --
     # NAO e "topico dominante", e a media da distribuicao suave do LDA.
@@ -209,7 +184,7 @@ def run_lda(docs, corpus_label):
                 "avg_probability_weight": round(float(avg[topic_idx]), 4),
             })
 
-    return top_words_rows, share_rows, prob_rows
+    return top_words_rows, prob_rows
 
 
 def write_csv(rows, path):
@@ -226,9 +201,8 @@ def main():
     speeches = load_docs(config.SPEECHES_DATASET_JSON, "publish_date")
     print(f"{len(speeches)} speeches (excluindo nao-ingles)")
 
-    top_words, shares, probs = run_lda(speeches, "speeches")
+    top_words, probs = run_lda(speeches, "speeches")
     write_csv(top_words, config.PROCESSED_DIR / f"lda_topics_words_speeches.csv")
-    write_csv(shares, config.PROCESSED_DIR / f"lda_topic_share_by_year_speeches.csv")
     write_csv(probs, config.PROCESSED_DIR / f"lda_topic_probweight_by_year_speeches.csv")
     print(f"\n=== SPEECHES — top words per topic (k={N_TOPICS}) ===")
     for row in top_words:

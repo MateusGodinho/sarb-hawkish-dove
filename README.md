@@ -9,6 +9,10 @@ July 2026.
 Full write-up (narrative, charts, discussion): **[link to the published article]**.
 Code and data here are what the article's analysis is built on.
 
+**Just want to try the method, no setup?** [`streamlit_app/`](streamlit_app/) is a small
+app where you paste any central-bank text and get a hawkish/dovish score back — see
+[Try it yourself](#try-it-yourself-no-python-required) below.
+
 ## Abstract
 
 We scrape every MPC statement (173, since 1999) and every speech by a Governor or Deputy
@@ -87,96 +91,120 @@ a meeting correlates far more weakly with what that meeting decides (r=0.14, lad
 | Rate decisions | Cross-validated against an official daily SARB Policy Rate series, not just regex over the statement text |
 | Topic model | LDA (`scikit-learn`), k=12, unigrams + bigrams, `min_df=40`, seed=99 — see [`scripts/topic_modeling_lda.py`](scripts/topic_modeling_lda.py) for the full calibration history (why k=12, why bigrams, why a token-cleanup step) |
 | Sentiment (primary) | Henry (2008) dictionary bag-of-words, `index = 2 × (hawkish − dovish) / (hawkish + dovish)`, replicating Erasmus & Hollander (2020) — see [`scripts/lexicon_henry.py`](scripts/lexicon_henry.py) / [`scripts/score_henry.py`](scripts/score_henry.py) |
-| Sentiment (exploratory, not used in final results) | A hand-built weighted-phrase lexicon ([`scripts/score_lexicon.py`](scripts/score_lexicon.py)) and a scaffolded but not-yet-run LLM classifier ([`scripts/score_llm.py`](scripts/score_llm.py)) — see Roadmap |
+| Sentiment (roadmap, not used in final results) | A scaffolded but not-yet-run LLM classifier ([`scripts/score_llm.py`](scripts/score_llm.py)) — see Roadmap |
 | Combined index | Per MPC meeting, not per year: every speech is assigned to the window `(previous meeting, this meeting]`, and `combined = contribution from the statement + contribution from that window's speeches` — an exact decomposition, not an average |
 
 ## Repository structure
+
+Every script does one clearly-named thing and reads/writes files in `data/` — there's no
+hidden state. `scripts/config.py` holds every file path used anywhere in the project, so
+it's the one place to look if you're wondering where a given file comes from.
 
 ```
 sarb_hawkish_dove/
 ├── README.md
 ├── requirements.txt
-├── notebook.ipynb                 narrated, reproducible walkthrough of the full pipeline
-├── charts/                        static PNGs referenced by this README
-├── reports/                       8 interactive HTML charts (statements/speeches/combined/contribution × full+zoom)
+├── notebook.ipynb              the easiest way to run everything — start here
+├── streamlit_app/              paste-in-text demo of the sentiment method — see below
+├── charts/                     static chart images used in this README
+├── reports/                    8 interactive HTML charts (open directly in a browser)
 ├── data/
-│   ├── raw/                       scraped indices + the official policy-rate series
-│   ├── raw_texts/                 full text of every statement and speech, for manual audit
-│   └── processed/                 consolidated datasets, scores, topic model outputs
-└── scripts/
-    ├── config.py                  shared paths/constants
-    ├── fetch_statement_list.py    → data/raw/statements_index.json
-    ├── scrape_statements.py       → data/raw_texts/*.txt + statements_dataset.(json|csv)
-    ├── fetch_speech_list.py       → data/raw/speeches_index.json
-    ├── scrape_speeches.py         → data/raw_texts/speeches/*.txt + speeches_dataset.(json|csv)
-    ├── scrape_common.py           shared HTML/PDF extraction (3 site template eras)
-    ├── parsers.py                 regex extraction of rate decisions/votes
-    ├── build_rate_from_series.py  cross-validates rate_action_final against the official series
-    ├── detect_language.py         flags non-English (translated) speeches
-    ├── flag_non_english.py        writes the is_english field into both datasets
-    ├── lexicon_henry.py           Henry (2008) word lists, transcribed from the paper
-    ├── score_henry.py             Henry index for statements
-    ├── score_speeches.py          Henry (+ legacy lexicon) index for speeches
-    ├── build_combined_index.py    per-meeting combined index + contribution decomposition
-    ├── topic_modeling_lda.py      LDA topic model (k=12, bigrams) over speeches
-    ├── build_topic_evolution_bars.py   Figure-7-style chart (evolution by year)
-    ├── build_topic_words_bars.py       Figure-6-style chart (top terms per topic)
-    ├── build_final_charts.py           interactive statements/speeches/combined charts
-    ├── build_final_contribution_charts.py  interactive contribution-decomposition charts
-    ├── build_speech_statement_correlation.py  statements vs. speeches vs. the decision (Appendix)
-    │
-    ├── score_lexicon.py, lexicon_terms.py, score_topics.py, topics_lexicon.py,
-    │   enrich_macro.py, reparse_rates.py, run_pipeline.py    early-stage / superseded
-    │   scripts, kept for history — see Roadmap, not part of the published results
-    └── score_llm.py               scaffolded LLM scorer, not yet run — see Roadmap
+│   ├── raw/                    scraped indices + the official policy-rate series
+│   ├── raw_texts/               full text of every statement and speech (for manual audit)
+│   └── processed/               every dataset, score, and model output the pipeline produces
+└── scripts/                    one file per pipeline step, in the order they run — see below
 ```
+
+<details>
+<summary><b>Full script-by-script breakdown</b> (click to expand)</summary>
+
+| Script | What it does |
+|---|---|
+| `config.py` | every shared file path — start here if you're looking for where something lives |
+| `fetch_statement_list.py` / `scrape_statements.py` | collect the 173 MPC statements |
+| `fetch_speech_list.py` / `scrape_speeches.py` | collect the 604 speeches |
+| `scrape_common.py` / `parsers.py` | shared scraping/parsing logic used by both of the above |
+| `build_rate_from_series.py` | double-checks every rate decision against the SARB's official rate history |
+| `detect_language.py` / `flag_non_english.py` | flag the handful of speeches published in isiXhosa/isiZulu/Xitsonga |
+| `lexicon_henry.py` / `score_henry.py` | the Henry (2008) word lists and scoring function |
+| `score_speeches.py` | applies that same scoring to speeches |
+| `build_combined_index.py` | combines statements + speeches into one per-meeting score |
+| `topic_modeling_lda.py` | the topic model (what SARB communication is *about*) |
+| `build_topic_evolution_bars.py` / `build_topic_words_bars.py` | the two topic charts |
+| `build_final_charts.py` / `build_final_contribution_charts.py` | the interactive sentiment charts |
+| `build_speech_statement_correlation.py` | the statements-vs-speeches comparison (Appendix) |
+| `score_llm.py` | *not run yet* — a second scoring method using an LLM instead of a word list, kept as a documented next step (see Roadmap) |
+
+</details>
+
+## Try it yourself, no Python required
+
+[`streamlit_app/`](streamlit_app/) is a small web app: paste in a paragraph from any
+central bank (an FOMC statement, an ECB speech, anything), click a button, and see it
+scored hawkish/dovish using the exact same method as the rest of this project. To run it
+on your own computer:
+
+```bash
+pip install streamlit
+cd streamlit_app
+streamlit run app.py
+```
+
+That opens automatically in your browser — no coding needed after that point. (It can
+also be deployed for free, with a public link, at [share.streamlit.io](https://share.streamlit.io) —
+point it at this repo and `streamlit_app/app.py`.)
 
 ## Installation & usage
 
+**Recommended path — reproduce everything from the notebook:**
+
 ```bash
 pip install -r requirements.txt
-cd scripts
+jupyter notebook notebook.ipynb
+```
 
-# 1. Collect the corpus (statements + speeches)
-python fetch_statement_list.py
-python scrape_statements.py
-python fetch_speech_list.py
-python scrape_speeches.py          # resumable: safe to interrupt and re-run
+Then, in Jupyter, click **Cell → Run All**. Every chart and number in the article gets
+regenerated, in order, with a plain-English explanation above each step — this runs in
+under a minute, using the data already collected in `data/` (it does not need to
+re-download anything from the SARB's website).
+
+<details>
+<summary><b>Advanced: run individual pipeline steps from the command line</b> (click to expand)</summary>
+
+Only needed if you want to re-run a single stage on its own, or re-collect the corpus
+from scratch. `cd scripts` first, then, in order:
+
+```bash
+# 1. Collect the corpus (statements + speeches) — hits the live SARB site, can take a while
+python fetch_statement_list.py && python scrape_statements.py
+python fetch_speech_list.py && python scrape_speeches.py
 
 # 2. Cross-validate rate decisions against the official policy-rate series
 python build_rate_from_series.py
 
 # 3. Flag non-English (translated) speeches
-python detect_language.py
-python flag_non_english.py
+python detect_language.py && python flag_non_english.py
 
 # 4. Sentiment scoring (Henry 2008)
-python score_henry.py
-python score_speeches.py
-python build_combined_index.py
+python score_henry.py && python score_speeches.py && python build_combined_index.py
 
 # 5. Topic modelling (speeches only)
 python topic_modeling_lda.py
-python build_topic_evolution_bars.py
-python build_topic_words_bars.py
+python build_topic_evolution_bars.py && python build_topic_words_bars.py
 
 # 6. Final interactive charts
-python build_final_charts.py
-python build_final_contribution_charts.py
+python build_final_charts.py && python build_final_contribution_charts.py
 
 # 7. Appendix: statements vs. speeches vs. the decision itself
 python build_speech_statement_correlation.py
 ```
 
-Or open [`notebook.ipynb`](notebook.ipynb) for the same pipeline with narrated markdown
-cells explaining each step, run end-to-end from the already-scraped data in `data/`
-(re-running steps 1 hits the live SARB site and can take a while; everything from step 2
-onward runs in seconds against the checked-in data).
-
 **Caution:** `scrape_statements.py` overwrites the entire statements dataset on every run
 (it is not incremental) — a bare `python scrape_statements.py <N>` smoke test with a small
 `N` will truncate the full dataset. `scrape_speeches.py` is resumable/incremental (merges
 by URL) and safe to interrupt.
+
+</details>
 
 ## Methodology & AI Usage
 
@@ -250,10 +278,8 @@ just for drafting text. In the interest of being upfront about that:
 ## Roadmap
 
 - Run and validate the scaffolded LLM scorer (`score_llm.py`) as a second, independent
-  sentiment method, and compare it systematically against the Henry (2008) results.
-- Retire or clearly archive the superseded early-stage scripts (`score_lexicon.py`,
-  `score_topics.py`, `enrich_macro.py`, `run_pipeline.py`) rather than leaving them
-  alongside the current pipeline.
+  sentiment method, and compare it systematically against the Henry (2008) results. Once
+  that's validated, add it as a real second option in the Streamlit demo above.
 - Add the script that generates `charts/communication-volume.png` to `scripts/` (it
   currently exists only as the rendered PNG from an earlier exploratory pass).
 - Extend the pipeline to other central banks (Fed, ECB, BCB) behind a shared interface.

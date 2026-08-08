@@ -174,7 +174,7 @@ def main():
 
     # grava policy_rate_final / rate_action_final / rate_source_final /
     # in_scope_inflation_targeting de volta no dataset principal, para os
-    # proximos scripts (score_lexicon, score_llm, enrich_macro) usarem a
+    # proximos scripts (score_henry, build_combined_index) usarem a
     # versao mais confiavel.
     config.DATASET_JSON.write_text(json.dumps(all_records, ensure_ascii=False, indent=2), encoding="utf-8")
     if all_records:

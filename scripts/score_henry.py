@@ -1,25 +1,18 @@
 """
-ETAPA 3 (metodo alternativo) - Replica a abordagem de Erasmus & Hollander
-(2020) descrita pelo usuario: bag-of-words com a biblioteca de sentimento
-financeiro do Henry (2008) (lexicon_henry.py, transcrita do paper
-original).
+ETAPA 3 - Replica a abordagem de Erasmus & Hollander (2020): bag-of-words
+com a biblioteca de sentimento financeiro do Henry (2008) (lexicon_henry.py,
+transcrita do paper original). Este e o metodo de sentimento usado em
+todos os resultados finais do artigo.
 
-Metodologia (conforme descrita):
+Metodologia:
   1. O texto e tokenizado em palavras individuais (bag-of-words, sem peso
-     por termo -- cada ocorrencia conta 1, diferente do score_lexicon.py
-     que usa frases multi-palavra ponderadas).
+     por termo -- cada ocorrencia conta 1, sem frases multi-palavra).
   2. Cada palavra e comparada com a lista de positivas (hawkish, ligada a
      perspectiva economica positiva) e negativas (dovish) do Henry (2008).
   3. Index = (hawkish_matches - dovish_matches) / (hawkish_matches + dovish_matches),
      escalado por um fator de 2 -> intervalo [-2, +2].
      +2 = mais hawkish possivel, -2 = mais dovish possivel.
   4. Repetido para cada ata do corpus.
-
-Diferencas deliberadas em relacao ao score_lexicon.py (nosso baseline
-proprio): sem pesos, sem frases multi-palavra, sem normalizacao por
-densidade/1000-palavras (a razao H/(H+D) ja e auto-normalizada), sem
-squashing por tanh (o proprio -1..1 e limitado por construcao, so precisa
-multiplicar por 2).
 """
 
 from __future__ import annotations

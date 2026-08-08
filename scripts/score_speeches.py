@@ -1,10 +1,8 @@
 """
-Aplica as duas abordagens de scoring (lexico ponderado e Henry 2008
-bag-of-words) ja implementadas para as atas do MPC (score_lexicon.py /
-score_henry.py) tambem ao corpus de speeches. Reutiliza a mesma funcao
-score_text() de cada modulo -- a logica de pontuacao e identica, so muda a
-fonte dos documentos (data/processed/speeches_dataset.json em vez de
-statements_dataset.json).
+Aplica o score Henry (2008) bag-of-words (score_henry.py) ao corpus de
+speeches. Reutiliza a mesma funcao score_text() usada para as atas do MPC
+-- a logica de pontuacao e identica, so muda a fonte dos documentos
+(data/processed/speeches_dataset.json em vez de statements_dataset.json).
 """
 
 from __future__ import annotations
@@ -14,7 +12,6 @@ import json
 
 import config
 import score_henry
-import score_lexicon
 
 
 def _iter_speech_texts(records: list[dict]):
@@ -31,25 +28,6 @@ def _iter_speech_texts(records: list[dict]):
         if not text_path.exists():
             continue
         yield r, text_path.read_text(encoding="utf-8")
-
-
-def run_lexicon(records: list[dict]):
-    rows = []
-    for r, text in _iter_speech_texts(records):
-        scores = score_lexicon.score_text(text)
-        rows.append({
-            "publish_date": r.get("publish_date"),
-            "title": r.get("title"),
-            "speaker_guess": r.get("speaker_guess"),
-            "text_source": r.get("text_source"),
-            **scores,
-        })
-    rows.sort(key=lambda r: r["publish_date"] or "")
-    with open(config.SPEECHES_SCORES_LEXICON_CSV, "w", newline="", encoding="utf-8-sig") as f:
-        writer = csv.DictWriter(f, fieldnames=list(rows[0].keys()) if rows else [])
-        writer.writeheader()
-        writer.writerows(rows)
-    print(f"Scores (lexico) calculados para {len(rows)} speeches -> {config.SPEECHES_SCORES_LEXICON_CSV}")
 
 
 def run_henry(records: list[dict]):
@@ -78,7 +56,6 @@ def main():
             "Rode antes: python fetch_speech_list.py && python scrape_speeches.py"
         )
     records = json.loads(config.SPEECHES_DATASET_JSON.read_text(encoding="utf-8"))
-    run_lexicon(records)
     run_henry(records)
 
 

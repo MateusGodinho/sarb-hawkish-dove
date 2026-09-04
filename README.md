@@ -12,7 +12,8 @@ Code and data here are what the article's analysis is built on.
 **Just want to try the method, no setup?** [`streamlit_app/`](streamlit_app/) is a small
 app where you paste any central-bank text and get a hawkish/dovish score back — see
 [Try it yourself](#try-it-yourself-no-python-required) below. There's now also a second,
-LLM-based scoring method in a companion repo:
+LLM-based scoring method with its own [live demo](https://sarb-hawkish-dove-llm-59qcmhguxqvpvab9kldq2q.streamlit.app/)
+(both methods side by side), in a companion repo:
 [sarb-hawkish-dove-llm](https://github.com/MateusGodinho/sarb-hawkish-dove-llm).
 
 ## Abstract

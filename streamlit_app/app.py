@@ -174,10 +174,11 @@ if analyze and text.strip():
             'color:#4c5b6b;text-align:center;">'
             "✅ <b>Built, in a separate repo</b><br><br>"
             "A second, LLM-based scoring method (Claude Haiku 4.5, reading for stance "
-            "rather than counting words) is done and validated — see "
+            "rather than counting words) is done and validated — try the "
+            "<a href='https://sarb-hawkish-dove-llm-59qcmhguxqvpvab9kldq2q.streamlit.app/' target='_blank'>"
+            "live demo</a> (both methods side by side) or see the code at "
             "<a href='https://github.com/MateusGodinho/sarb-hawkish-dove-llm' target='_blank'>"
-            "sarb-hawkish-dove-llm</a>, which has its own public demo with both methods "
-            "side by side."
+            "sarb-hawkish-dove-llm</a>."
             "</div>",
             unsafe_allow_html=True,
         )

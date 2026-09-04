@@ -11,7 +11,9 @@ Code and data here are what the article's analysis is built on.
 
 **Just want to try the method, no setup?** [`streamlit_app/`](streamlit_app/) is a small
 app where you paste any central-bank text and get a hawkish/dovish score back — see
-[Try it yourself](#try-it-yourself-no-python-required) below.
+[Try it yourself](#try-it-yourself-no-python-required) below. There's now also a second,
+LLM-based scoring method in a companion repo:
+[sarb-hawkish-dove-llm](https://github.com/MateusGodinho/sarb-hawkish-dove-llm).
 
 ## Abstract
 
@@ -91,7 +93,7 @@ a meeting correlates far more weakly with what that meeting decides (r=0.14, lad
 | Rate decisions | Cross-validated against an official daily SARB Policy Rate series, not just regex over the statement text |
 | Topic model | LDA (`scikit-learn`), k=12, unigrams + bigrams, `min_df=40`, seed=99 — see [`scripts/topic_modeling_lda.py`](scripts/topic_modeling_lda.py) for the full calibration history (why k=12, why bigrams, why a token-cleanup step) |
 | Sentiment (primary) | Henry (2008) dictionary bag-of-words, `index = 2 × (hawkish − dovish) / (hawkish + dovish)`, replicating Erasmus & Hollander (2020) — see [`scripts/lexicon_henry.py`](scripts/lexicon_henry.py) / [`scripts/score_henry.py`](scripts/score_henry.py) |
-| Sentiment (roadmap, not used in final results) | A scaffolded but not-yet-run LLM classifier ([`scripts/score_llm.py`](scripts/score_llm.py)) — see Roadmap |
+| Sentiment (second method) | An LLM classifier (Claude Haiku 4.5, whole-document read), fixing the hawkish skew below — see the companion repo [sarb-hawkish-dove-llm](https://github.com/MateusGodinho/sarb-hawkish-dove-llm). This repo's own [`scripts/score_llm.py`](scripts/score_llm.py) is the original, single-document prototype, kept for historical reference — see Roadmap |
 | Combined index | Per MPC meeting, not per year: every speech is assigned to the window `(previous meeting, this meeting]`, and `combined = contribution from the statement + contribution from that window's speeches` — an exact decomposition, not an average |
 
 ## Repository structure
@@ -133,7 +135,7 @@ sarb_hawkish_dove/
 | `build_topic_evolution_bars.py` / `build_topic_words_bars.py` | the two topic charts |
 | `build_final_charts.py` / `build_final_contribution_charts.py` | the interactive sentiment charts |
 | `build_speech_statement_correlation.py` | the statements-vs-speeches comparison (Appendix) |
-| `score_llm.py` | *not run yet* — a second scoring method using an LLM instead of a word list, kept as a documented next step (see Roadmap) |
+| `score_llm.py` | superseded — the original single-document LLM prototype, kept for historical reference. The real, calibrated, batch-scored version is a separate repo: [sarb-hawkish-dove-llm](https://github.com/MateusGodinho/sarb-hawkish-dove-llm) |
 
 </details>
 
@@ -277,9 +279,15 @@ just for drafting text. In the interest of being upfront about that:
 
 ## Roadmap
 
-- Run and validate the scaffolded LLM scorer (`score_llm.py`) as a second, independent
-  sentiment method, and compare it systematically against the Henry (2008) results. Once
-  that's validated, add it as a real second option in the Streamlit demo above.
+- ~~Run and validate the scaffolded LLM scorer (`score_llm.py`) as a second, independent
+  sentiment method, and compare it systematically against the Henry (2008) results.~~ Done
+  — as a separate repo, [sarb-hawkish-dove-llm](https://github.com/MateusGodinho/sarb-hawkish-dove-llm):
+  Claude Haiku 4.5, calibrated by hand and run over the full corpus via the Batches API. It
+  fixes the hawkish skew above (even cuts now score negative on average) and correlates far
+  better with the actual size of the rate move (r: 0.48 → 0.80 for the combined index).
+  Write-up: [Reading the SARB With an LLM: Context Always
+  Matters](https://mateusgodinho.github.io/articles/sarb-llm-index). It also has its own
+  Streamlit demo with both methods side by side.
 - Add the script that generates `charts/communication-volume.png` to `scripts/` (it
   currently exists only as the rendered PNG from an earlier exploratory pass).
 - Extend the pipeline to other central banks (Fed, ECB, BCB) behind a shared interface.
@@ -297,3 +305,7 @@ and, for the sentiment dictionary:
 
 > Henry, E. (2008). Are Investors Influenced By How Earnings Press Releases Are Written?
 > *Journal of Business Communication*, 45(4).
+
+For the LLM-based scoring method, see the companion repo
+[sarb-hawkish-dove-llm](https://github.com/MateusGodinho/sarb-hawkish-dove-llm#citation)
+and its own citations.

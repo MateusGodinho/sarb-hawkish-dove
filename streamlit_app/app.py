@@ -170,12 +170,14 @@ if analyze and text.strip():
     with right:
         st.subheader("🤖 LLM classifier")
         st.markdown(
-            '<div style="padding:24px;border:1px dashed #89878166;border-radius:8px;'
-            'color:#898781;text-align:center;">'
-            "🚧 <b>Coming soon</b><br><br>"
-            "A second, LLM-based scoring method (reading for stance rather than counting "
-            "words) is planned as a follow-up comparison, but hasn't been built/validated "
-            "yet — see the repo's README roadmap."
+            '<div style="padding:24px;border:1px solid #89878166;border-radius:8px;'
+            'color:#4c5b6b;text-align:center;">'
+            "✅ <b>Built, in a separate repo</b><br><br>"
+            "A second, LLM-based scoring method (Claude Haiku 4.5, reading for stance "
+            "rather than counting words) is done and validated — see "
+            "<a href='https://github.com/MateusGodinho/sarb-hawkish-dove-llm' target='_blank'>"
+            "sarb-hawkish-dove-llm</a>, which has its own public demo with both methods "
+            "side by side."
             "</div>",
             unsafe_allow_html=True,
         )

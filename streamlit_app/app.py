@@ -8,7 +8,9 @@ dictionary, replicating the method used in Erasmus & Hollander (2020) and
 du Rand et al. (2021) for the South African Reserve Bank.
 
 This is the demo companion to a research project that replicates and
-extends that paper through 2026: [link to article] / [link to repo].
+extends that paper through 2026:
+https://mateusgodinho.github.io/articles/sarb-communication /
+https://github.com/MateusGodinho/sarb-hawkish-dove.
 
 Self-contained: only depends on `lexicon_henry.py` (the transcribed word
 lists) in this same folder, plus `streamlit`. Ready to deploy as-is on
@@ -191,5 +193,7 @@ st.caption(
     "This is a simple bag-of-words dictionary lookup — no context, no negation-handling, "
     "no sarcasm-detection. It's a research/educational demo, not investment or policy "
     "advice, and shouldn't be the sole basis for any decision. "
-    "Methodology and full results: [link to article]. Code: [link to repo]."
+    "Methodology and full results: [Reading the SARB Between the Lines]"
+    "(https://mateusgodinho.github.io/articles/sarb-communication). "
+    "Code: [sarb-hawkish-dove](https://github.com/MateusGodinho/sarb-hawkish-dove)."
 )

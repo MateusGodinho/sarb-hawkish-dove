@@ -6,7 +6,7 @@ South African Reserve Bank"* (Economic History of Developing Regions), through t
 own public statements and speeches — extended from the paper's 1994–2020 window through
 July 2026.
 
-Full write-up (narrative, charts, discussion): **[link to the published article]**.
+Full write-up (narrative, charts, discussion): **[Reading the SARB Between the Lines](https://mateusgodinho.github.io/articles/sarb-communication)**.
 Code and data here are what the article's analysis is built on.
 
 **Just want to try the method, no setup?** [`streamlit_app/`](streamlit_app/) is a small
@@ -237,9 +237,11 @@ just for drafting text. In the interest of being upfront about that:
   Section 2, including the dead ends (k=15 was too granular; k=10 made Financial Stability
   and Global Crisis unstable across seeds).
 - **Sentiment scoring**: no LLM judgment is involved in the primary (Henry 2008) results —
-  it's a fixed dictionary and arithmetic. A prototype LLM-based scorer exists
-  (`score_llm.py`) but has not been run or validated; it is documented as a roadmap item,
-  not a completed comparison.
+  it's a fixed dictionary and arithmetic. This repo's own `score_llm.py` was an early
+  single-document prototype that was never run or validated, kept for historical reference.
+  The real second scoring method (calibrated, run over the full corpus) lives in the
+  separate [sarb-hawkish-dove-llm](https://github.com/MateusGodinho/sarb-hawkish-dove-llm)
+  repo — see its own Methodology & AI Usage section for that project's process.
 - **Writing**: the accompanying article's prose, and this README, were drafted by Claude
   from the verified results and revised interactively; every number quoted in either was
   checked against the underlying CSVs before being kept, and several inconsistencies caught

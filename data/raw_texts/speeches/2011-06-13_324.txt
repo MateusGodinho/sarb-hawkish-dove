@@ -1,0 +1,171 @@
+Titulo: Opening remarks by Daniel Mminele, Deputy Governor of the South African Reserve Bank, at the World Bank Treasury’s RAMP-Africa Workshop in Cape Town, 13 June 2011
+Data: 2011-06-13
+Palestrante (estimado): Daniel Mminele
+URL: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2011/324
+Fonte do texto: pdf (https://www.resbank.co.za/content/dam/sarb/publications/speeches/speeches-by-governors/2011/324/RAMP--Africa-workshop_speech.pdf)
+----------------------------------------------------------------------
+
+Opening remarks by Mr. Daniel Mminele, Deputy Governor,
+South African Reserve Bank, at the World Bank Treasury’s RAMP-Africa
+Workshop in Cape Town, 13 June 2011
+1. Introduction
+Ladies and gentlemen, good morning to you all.
+Let me take this opportunity to welcome you to our country and the beautiful city of
+Cape Town. I trust that you will gain much through the interactions at this RAMP-
+Africa Workshop on Governance and Oversight of Investment Management. I would
+like to express my gratitude to the World Bank Treasury not only for the great
+initiative that RAMP-Africa is, but also for choosing South Africa as the host country
+to bring together central bankers from all over the African continent. The networking
+opportunities, the transfer of knowledge between participants, capacity building and
+the deepening of skills in the management, governance and oversight of foreign
+exchange reserves, are the key benefits provided by workshops such as this one.
+My task for now is to provide some general thoughts about governance in reserves
+management. In a later session, I will share more specifically the particular
+experiences of the South African Reserve Bank, which has come a long way since
+the establishment of the Reserves Management Unit in our Financial Markets
+Department over a decade ago.
+- 1 -
+2. Significant growth in foreign exchange reserves
+The question of reserves management has gathered prominence given the
+phenomenal growth in global foreign exchange reserves over the past decade, from
+USD2,8 trillion in 2003 to around USD9,7 trillion in April 2011. Emerging markets
+have accumulated substantial amounts of reserves and account for US$7,4 trillion of
+these global reserve assets, with China holding US$3,0 trillion. The surge in foreign
+exchange reserves in emerging markets has been informed by both the enormous
+amount of capital flowing into these countries and efforts to stem the tide of currency
+appreciation, as well as by very deliberate strategies to create buffers that would put
+countries in a better position to deal with external shocks. Clearly, the traditional
+motive for holding reserves, namely to offset balance of payments fluctuations, has
+since become less of a consideration. JP Morgan1 estimates that countries like
+China and Brazil have 1,5 to 2 years’ worth of import cover, while the largest
+reserves holders have sufficient reserves to pay off short-term debt five to ten times
+over.
+During the global financial crisis, central banks were in the eye of the storm,
+challenged not only in our traditional role of monetary policy formulation and
+implementation, but also as reserves managers. The Governor of the Bank of
+England, Sir Mervyn King, back in 2003 characterised the 10 years up to the mid-
+2000s as the “NICE” decade. “NICE” meant: Non-Inflationary Continuous Expansion.
+He was referring to a relatively comfortable period for policy makers, during which
+they witnessed relatively stable inflation, good growth rates and few shocks to
+economies.
+He could have just as well used the term “NICE” to describe the space that official
+sector reserves managers found themselves in, in the aftermath of the Asian
+financial crisis. The reserves that they had to manage were increasing rapidly,
+allowing many to accelerate the transition from liquidity management to investment
+management, facilitating the discovery of new asset classes, and the diversification
+into riskier assets by way of enhancing returns, managing to attract new skills, and in
+1 Economic Research Note, Global FX reserves on pace to top US$11 trillion in 2011, May 6, 2011
+- 2 -
+certain cases making it increasingly difficult to tell the difference between official
+sector managers and private sector managers, given how fast their reserves
+management practices were converging.
+As we know, it did not end very nicely! Many of these assets suffered substantial
+losses in the wake of the financial crisis starting in 2007, especially at the height of it
+in 2008 and 2009. In many instances, the risk-return profiles turned out to be
+somewhat different from what had been anticipated. Many reserves managers found
+themselves having to answer very difficult questions, and also forced to introduce
+very drastic risk reduction measures, at a time when it was not going to be only most
+costly given the frenzy in markets, but also at a time when they would add to already
+heightened financial stability risks. Whether the crisis will lead to lasting reversals
+and a fundamental rethink of what official reserves management should be about,
+very much remains to be seen.
+What is clear though, is that the surge in global international reserves, and the most
+recent financial crisis, have brought central banks to the attention of stakeholders,
+increasing the level of scrutiny regarding how they manage reserves given the rising
+opportunity cost of holding these reserves, the high costs of sterilising foreign
+exchange purchases, and financial stability considerations when investing reserves
+during financial crises.
+3. Governance, accountability and oversight of investment management
+Sound governance and oversight around the management and investment of foreign
+assets has become a critical discussion point in central banks and governments
+globally, especially so following the financial crisis. The ability of central banks to
+make decisions and respond to specific market developments within a sound risk
+management framework were tested during the financial crisis, especially in 2008,
+when capital markets malfunctioned and liquidity become a major constraint. At the
+time, potential systemic risks in the banking sector required a tightening of risk
+management principles and adherence to investment objectives, placing greater
+emphasis on liquidity considerations in terms of the asset classes in which reserves
+portfolios are invested. Central banks generally have a large proportion of reserves
+- 3 -
+invested in highly liquid fixed income assets, including in short-term bank deposits.
+At the peak of the financial crisis, default risk was high and central banks withdrew
+their investments in the banking sector, which was in desperate need of funding.2
+Although these actions were plausible from an individual reserve manager’s
+perspective, the collective withdrawal exacerbated the already tight funding situation
+of commercial banks. This pro-cyclical behaviour of reserves managers during crises
+may conflict with central bank’s objective of maintaining financial stability, which
+again highlights the need for sound governance and oversight in the investment of
+reserves, as well as an element of coordination with other functions of the central
+bank.
+Furthermore, foreign exchange reserves make up a significant component of the
+total assets on the balance sheets of emerging market central banks. Due to this
+concentration, central banks are subject to stringent reporting requirements from the
+general public, governments and, where relevant, shareholders. To this end, central
+banks have been developing sound governance structures, improving accountability
+and introducing a culture of higher risk awareness across all their operational
+activities. Efficient management of foreign exchange reserves has become vital for
+maintaining sound perceptions of central bank credibility. One cannot exclude spill
+over effects that a loss of reputation and credibility through bad governance in
+reserves management could have on a central bank’s primary tasks of ensuring
+monetary and financial stability.
+Good governance and sound functional organisational structures are therefore
+necessary for the efficient management of reserves. In establishing these structures,
+accountability, roles and responsibility should be appropriately defined, adopted and
+institutionalised.
+There are two dimensions to consider in governance - vertical and horizontal
+governance3. Vertical governance ensures that decisions are taken at the right level
+2
+Jukka Pihlman and Han van der Hoorn (2010), Procyclicality in Central Bank Reserve Management:
+Evidence from the Crisis, IMF Working Paper
+3 Claudio Borio, Jannecke Ebbesen, Gabriele Galati and Alexandra Heath (2008), FX reserve
+management: elements of a framework, Bank for International Settlements Working Paper No. 38
+- 4 -
+(senior executives), that is, where the strategic direction of the organisation is
+established. Senior management of the institution should carry out the responsibility
+of oversight on the investment process and management of reserves. Horizontal
+governance ensures that business areas and reporting lines are organised in a way
+that minimises the potential for conflict of interest. The senior governing body needs
+to provide oversight and determine risk tolerance for the institution, while an
+investment committee should be responsible for establishing the investment policy
+and guidelines. Consequently, trading activities needs to be separated from middle
+office functions of risk management and reporting, as well as from the accounting
+and settlement areas.
+4. Current challenges in reserves management
+As I come to the end of my remarks, let me leave you with what are generally
+thought to be the key questions currently facing reserves managers and some of
+these issues will feature on your programme during the next few days:
+• Do we need to need to redefine what is an acceptable risk-return balance for
+official reserves and think differently about risk tolerance?
+• As we are central banks, what is an acceptable level of trade-off between risk
+management and financial stability? A recent IMF paper dealt with this, pointing
+to the pro-cyclical behaviour of central banks when withdrawing deposits from
+commercial banks during the crisis.
+• Does this issue point to the need for greater segregation between reserves that
+are held for policy purposes (i.e. monetary policy, intervention, etc.) and those
+that are purely for investments. Should the latter portion be with central banks, or
+separate investment agencies?
+• Does return enhancement need to be again more clearly subordinated to liquidity
+considerations?
+The answers to the above questions could have all manner of implications for central
+bank reserves management and trigger yet another set of challenges. Could the
+outcome be that the pendulum swings all the way back to the other extreme, namely
+that central banks become overly risk-averse? Are we going to find it difficult to retain
+- 5 -
+staff members that were attracted to central banks, because of the increased level of
+sophistication, which they may feel might be going into reverse?
+Luckily, all I have to do today is table these questions and leave you to mull over
+some of them in the next few days.
+What is beyond doubt is that proper governance and oversight of investment
+management, having being highlighted during the crisis, has become even more
+important. The crisis impacted portfolio performance and as a result tighter risk
+management frameworks had to be implemented. Given the rising challenges faced
+by reserves portfolios in this low global interest rate environment, the investment
+processes must remain guided by sound investment principles and solid risk
+management policies, which are supported by effective information technology
+platforms, all of that enveloped by good governance and oversight structures.
+I trust that you will glean useful information from this workshop, and that it will assist
+your respective institutions in strengthening reserves management operations and
+their oversight. The agenda certainly looks very promising in this regard.
+Enjoy the workshop.
+Thank you
+- 6 -

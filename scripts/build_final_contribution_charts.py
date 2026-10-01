@@ -275,7 +275,7 @@ def main():
     build(
         "final_07_contribution_full",
         "SARB — Contribution to the combined index, by meeting (1999–2026)",
-        "173 meetings. Blue = contribution from the statement itself; orange = contribution from speeches given since the previous meeting; black dot = combined index (exact sum).",
+        f"{len(all_rows)} meetings. Blue = contribution from the statement itself; orange = contribution from speeches given since the previous meeting; black dot = combined index (exact sum).",
         [dict(r) for r in all_rows], year_step=2, bar_w=3.2,
     )
 

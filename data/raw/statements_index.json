@@ -1555,5 +1555,14 @@
     "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/statements/monetary-policy-statements/2026/july",
     "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/statements/monetary-policy-statements/2026/july",
     "categories": "Media > Media Releases | Statements > Monetary Policy Statements | What's New"
+  },
+  {
+    "meeting_date": "2026-09-23",
+    "publish_date_raw": "Sep 23, 2026, 5:00:00 PM",
+    "title": "Statement of the Monetary Policy Committee September 2026",
+    "description": "Statement of the Monetary Policy Committee September 2026.",
+    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/statements/monetary-policy-statements/2026/september",
+    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/statements/monetary-policy-statements/2026/september",
+    "categories": "Media > Media Releases | Statements > Monetary Policy Statements | What's New"
   }
 ]

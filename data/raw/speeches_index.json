@@ -1883,15 +1883,6 @@
   {
     "publish_date": "2007-01-02",
     "publish_date_raw": "Jan 2, 2007, 2:00:00 AM",
-    "title": "Fasten your Seatbelts! Monetary Policy Challenges in Turbulent Times ",
-    "description": "Remarks by Mr T.T. Mboweni, Governor of the South African Reserve Bank At the 13th Chintaman Deshmukh Memorial Lecture, organised by the Reserve Bank of India, Mumbai, India 2 November 2007",
-    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-archive/2007/36",
-    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-archive/2007/36",
-    "categories": "Speeches > Speeches Archive"
-  },
-  {
-    "publish_date": "2007-01-02",
-    "publish_date_raw": "Jan 2, 2007, 2:00:00 AM",
     "title": "Risks to the inflation outlook: Looking ahead to the August Monetary Policy Committee meeting ",
     "description": "Address by Mr T.T. Mboweni, Governor of the South African Reserve Bank, to the Oxford & Cambridge Business Alumni of South Africa (OCBASA), Johannesburg, 2 August 2007",
     "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-archive/2007/30",
@@ -2180,20 +2171,20 @@
   {
     "publish_date": "2008-05-09",
     "publish_date_raw": "May 9, 2008, 2:00:00 AM",
-    "title": "Remarks by Dr X.P. Guma, South African Reserve Bank, at the Bank of  Tanzania-IMF-East AFRITAC Regional Seminar on Central Bank  Communication; Stonetown, Zanzibar, May 6-8 2008 ",
-    "description": "COMMUNICATING RESERVE MANAGEMENT and EXCHANGE \r\nRATE POLICIES: A South African Perspective",
-    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2008/104",
-    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2008/104",
-    "categories": "Speeches > Speeches by Governors"
-  },
-  {
-    "publish_date": "2008-05-09",
-    "publish_date_raw": "May 9, 2008, 2:00:00 AM",
     "title": "Communicating Reserve Management and Exchange Rate Policies: A South African Perspective ",
     "description": "Remarks by Dr X.P. Guma, South African Reserve Bank, at the Bank of Tanzania-IMF-East AFRITAC Regional Seminar on Central Bank Communication; Stonetown, Zanzibar, May 6-8 2008",
     "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-archive/2008/38",
     "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-archive/2008/38",
     "categories": "Speeches > Speeches Archive"
+  },
+  {
+    "publish_date": "2008-05-09",
+    "publish_date_raw": "May 9, 2008, 2:00:00 AM",
+    "title": "Remarks by Dr X.P. Guma, South African Reserve Bank, at the Bank of  Tanzania-IMF-East AFRITAC Regional Seminar on Central Bank  Communication; Stonetown, Zanzibar, May 6-8 2008 ",
+    "description": "COMMUNICATING RESERVE MANAGEMENT and EXCHANGE \r\nRATE POLICIES: A South African Perspective",
+    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2008/104",
+    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2008/104",
+    "categories": "Speeches > Speeches by Governors"
   },
   {
     "publish_date": "2008-05-22",
@@ -2225,15 +2216,6 @@
   {
     "publish_date": "2008-06-03",
     "publish_date_raw": "Jun 3, 2008, 2:00:00 AM",
-    "title": "Keynote address  by Mr T T Mboweni, Governor of the SA Reserve Bank  at the annual symposium of the  Cape Pomological Association  Stellenbosch  Tuesday, 3 June 2008",
-    "description": "PERSPECTIVES ON THE ECONOMIC AND FINANCIAL \r\nENVIRONMENT FOR EXPORTERS  ​",
-    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2008/101",
-    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2008/101",
-    "categories": "Speeches > Speeches by Governors"
-  },
-  {
-    "publish_date": "2008-06-03",
-    "publish_date_raw": "Jun 3, 2008, 2:00:00 AM",
     "title": "Perspectives on the Economic and Financial Environment for Exporters ",
     "description": "Keynote address by Mr T T Mboweni, Governor of the SA Reserve Bank at the annual symposium of the Cape Pomological Association Stellenbosch Tuesday, 3 June 2008",
     "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-archive/2008/41",
@@ -2241,12 +2223,12 @@
     "categories": "Speeches > Speeches Archive"
   },
   {
-    "publish_date": "2008-07-08",
-    "publish_date_raw": "Jul 8, 2008, 2:00:00 AM",
-    "title": "Banking in Africa and its future outlook",
-    "description": "Address by Dr X.P. Guma, Deputy Governor, South African Reserve Bank, to the African Banking Congress, 2008, Sandton Convention Centre, Johannesburg, South Africa  ​",
-    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2008/100",
-    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2008/100",
+    "publish_date": "2008-06-03",
+    "publish_date_raw": "Jun 3, 2008, 2:00:00 AM",
+    "title": "Keynote address  by Mr T T Mboweni, Governor of the SA Reserve Bank  at the annual symposium of the  Cape Pomological Association  Stellenbosch  Tuesday, 3 June 2008",
+    "description": "PERSPECTIVES ON THE ECONOMIC AND FINANCIAL \r\nENVIRONMENT FOR EXPORTERS  ​",
+    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2008/101",
+    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2008/101",
     "categories": "Speeches > Speeches by Governors"
   },
   {
@@ -2257,6 +2239,15 @@
     "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-archive/2008/44",
     "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-archive/2008/44",
     "categories": "Speeches > Speeches Archive"
+  },
+  {
+    "publish_date": "2008-07-08",
+    "publish_date_raw": "Jul 8, 2008, 2:00:00 AM",
+    "title": "Banking in Africa and its future outlook",
+    "description": "Address by Dr X.P. Guma, Deputy Governor, South African Reserve Bank, to the African Banking Congress, 2008, Sandton Convention Centre, Johannesburg, South Africa  ​",
+    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2008/100",
+    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2008/100",
+    "categories": "Speeches > Speeches by Governors"
   },
   {
     "publish_date": "2008-07-31",
@@ -2270,20 +2261,20 @@
   {
     "publish_date": "2008-09-04",
     "publish_date_raw": "Sep 4, 2008, 2:00:00 AM",
-    "title": "Address by Dr X P Guma, Deputy Governor, South African Reserve Bank  to the South Africa Economic Conference: Business Unusual,  Hyatt Regency Johannesburg, South Africa, 4 September 2008 ",
-    "description": "The South African Economy and financial markets: outlook, risks \r\nand policy responses ​ ",
-    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2008/99",
-    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2008/99",
-    "categories": "Speeches > Speeches by Governors"
-  },
-  {
-    "publish_date": "2008-09-04",
-    "publish_date_raw": "Sep 4, 2008, 2:00:00 AM",
     "title": "Address by Dr X P Guma, Deputy Governor, South African Reserve Bank to the South Africa Economic Conference: Business Unusual,  Hyatt Regency Johannesburg, South Africa, 4 September 2008",
     "description": "Address by Dr X P Guma, Deputy Governor, South African Reserve Bank to the South Africa Economic Conference: Business Unusual,  Hyatt Regency Johannesburg, South Africa, 4 September 2008",
     "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-archive/2008/46",
     "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-archive/2008/46",
     "categories": "Speeches > Speeches Archive"
+  },
+  {
+    "publish_date": "2008-09-04",
+    "publish_date_raw": "Sep 4, 2008, 2:00:00 AM",
+    "title": "Address by Dr X P Guma, Deputy Governor, South African Reserve Bank  to the South Africa Economic Conference: Business Unusual,  Hyatt Regency Johannesburg, South Africa, 4 September 2008 ",
+    "description": "The South African Economy and financial markets: outlook, risks \r\nand policy responses ​ ",
+    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2008/99",
+    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2008/99",
+    "categories": "Speeches > Speeches by Governors"
   },
   {
     "publish_date": "2008-09-18",
@@ -2495,20 +2486,20 @@
   {
     "publish_date": "2010-04-22",
     "publish_date_raw": "Apr 22, 2010, 2:00:00 AM",
-    "title": "Presentation by Dr Monde Mnyande, Advisor to the Governor and Chief Economist, South African Reserve Bank (SARB), to the Ombudsman for Banking Services, at their Annual Report 2010 Launch, Westcliff Hotel, Melville, 22 April 2010",
-    "description": "Interest rates in South Africa",
-    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-senior-management/2010/72",
-    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-senior-management/2010/72",
-    "categories": "Speeches > Speeches by Senior Management"
-  },
-  {
-    "publish_date": "2010-04-22",
-    "publish_date_raw": "Apr 22, 2010, 2:00:00 AM",
     "title": "Address by Ms Gill Marcus, Governor of the South African Reserve Bank to the Bureau for Economic Research Annual Conference, Johannesburg, 22 April 2010",
     "description": "The Outlook for Monetary Policy",
     "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2010/79",
     "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2010/79",
     "categories": "Speeches > Speeches by Governors"
+  },
+  {
+    "publish_date": "2010-04-22",
+    "publish_date_raw": "Apr 22, 2010, 2:00:00 AM",
+    "title": "Presentation by Dr Monde Mnyande, Advisor to the Governor and Chief Economist, South African Reserve Bank (SARB), to the Ombudsman for Banking Services, at their Annual Report 2010 Launch, Westcliff Hotel, Melville, 22 April 2010",
+    "description": "Interest rates in South Africa",
+    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-senior-management/2010/72",
+    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-senior-management/2010/72",
+    "categories": "Speeches > Speeches by Senior Management"
   },
   {
     "publish_date": "2010-04-28",
@@ -2745,13 +2736,13 @@
     "categories": "Speeches > Speeches by Governors"
   },
   {
-    "publish_date": "2011-06-21",
-    "publish_date_raw": "Jun 21, 2011, 2:00:00 AM",
-    "title": "Introductory remarks at the release on 21 June 2011 of the June 2011 Quarterly Bulletin by Dr Johan van den Heever, Senior Deputy Chief Economist of the South African Reserve Bank",
-    "description": "This Quarterly Bulletin focuses on economic developments in the first quarter of 2011. ",
-    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-senior-management/2011/325",
-    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-senior-management/2011/325",
-    "categories": "Speeches > Speeches by Senior Management"
+    "publish_date": "2011-06-13",
+    "publish_date_raw": "Jun 13, 2011, 2:00:00 AM",
+    "title": "Opening remarks by Daniel Mminele, Deputy Governor of the South African Reserve Bank, at the World Bank Treasury’s RAMP-Africa Workshop in Cape Town, 13 June 2011",
+    "description": "   ",
+    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2011/324",
+    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2011/324",
+    "categories": "Speeches > Speeches by Deputy Governors"
   },
   {
     "publish_date": "2011-06-21",
@@ -2760,6 +2751,15 @@
     "description": "A perspective on monetary policy in South Africa",
     "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-senior-management/2011/326",
     "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-senior-management/2011/326",
+    "categories": "Speeches > Speeches by Senior Management"
+  },
+  {
+    "publish_date": "2011-06-21",
+    "publish_date_raw": "Jun 21, 2011, 2:00:00 AM",
+    "title": "Introductory remarks at the release on 21 June 2011 of the June 2011 Quarterly Bulletin by Dr Johan van den Heever, Senior Deputy Chief Economist of the South African Reserve Bank",
+    "description": "This Quarterly Bulletin focuses on economic developments in the first quarter of 2011. ",
+    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-senior-management/2011/325",
+    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-senior-management/2011/325",
     "categories": "Speeches > Speeches by Senior Management"
   },
   {
@@ -3791,20 +3791,20 @@
   {
     "publish_date": "2015-11-06",
     "publish_date_raw": "Nov 6, 2015, 2:00:00 AM",
-    "title": "Address by Francois Groepe, Deputy Governor of the South African Reserve Bank at the Credit Suisse Africa Conference, 6 November 2015",
-    "description": "...​",
-    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2015/458",
-    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2015/458",
-    "categories": "Speeches > Speeches by Deputy Governors"
-  },
-  {
-    "publish_date": "2015-11-06",
-    "publish_date_raw": "Nov 6, 2015, 2:00:00 AM",
     "title": "Address by Lesetja Kganyago, Governor of the South African Reserve Bank, at the IIF-FNB Africa Financial Summit, Johannesburg, 4 November 2015",
     "description": "Allow me to first thank both the Institute of International Finance and First National\r\nBank, our hosts, for inviting me to address this latest installment of the IIF-FNB Africa Financial Summit. I am particularly honoured to join the impressive list of speakers and panelists.\r\nI have been asked to deliver the keynote address yet I do not want to pre-empt the\r\ndebates that will follow. So, I will first try to summarise some of the challenges that\r\nour continent is facing. And, looking at the Reserve Bank’s own experience in the\r\nSouth African context, I will speak about implications for how Africa’s financial\r\nsystems and its developing capital markets can best address these challenges and\r\nsustain progress in developing the continent.",
     "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2015/459",
     "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2015/459",
     "categories": "Speeches > Speeches by Governors"
+  },
+  {
+    "publish_date": "2015-11-06",
+    "publish_date_raw": "Nov 6, 2015, 2:00:00 AM",
+    "title": "Address by Francois Groepe, Deputy Governor of the South African Reserve Bank at the Credit Suisse Africa Conference, 6 November 2015",
+    "description": "...​",
+    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2015/458",
+    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2015/458",
+    "categories": "Speeches > Speeches by Deputy Governors"
   },
   {
     "publish_date": "2015-11-27",
@@ -4241,20 +4241,20 @@
   {
     "publish_date": "2017-09-26",
     "publish_date_raw": "Sep 26, 2017, 2:00:00 AM",
-    "title": "Opening remarks by Francois Groepe, Deputy Governor of the South African Reserve Bank at the workshop on the impact of IFRS 9 on banks and regulators in Africa",
-    "description": "Workshop on the impact of IFRS 9 on banks and regulators in Africa,\r\njointly hosted by the Working Group on Cross-border Banking Supervision\r\nand the South African Reserve Bank",
-    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2017/509",
-    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2017/509",
-    "categories": "Speeches > Speeches by Deputy Governors"
-  },
-  {
-    "publish_date": "2017-09-26",
-    "publish_date_raw": "Sep 26, 2017, 2:00:00 AM",
     "title": "Keynote address by Lesetja Kganyago, Governor of the South African Reserve Bank, at SAICA’s Courageous Conversation Session Nelson Mandela Centre of Memory, Johannesburg 26 September 2017",
     "description": "Sovereign rating downgrades and their impact on the poor",
     "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2017/510",
     "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2017/510",
     "categories": "Speeches > Speeches by Governors"
+  },
+  {
+    "publish_date": "2017-09-26",
+    "publish_date_raw": "Sep 26, 2017, 2:00:00 AM",
+    "title": "Opening remarks by Francois Groepe, Deputy Governor of the South African Reserve Bank at the workshop on the impact of IFRS 9 on banks and regulators in Africa",
+    "description": "Workshop on the impact of IFRS 9 on banks and regulators in Africa,\r\njointly hosted by the Working Group on Cross-border Banking Supervision\r\nand the South African Reserve Bank",
+    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2017/509",
+    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2017/509",
+    "categories": "Speeches > Speeches by Deputy Governors"
   },
   {
     "publish_date": "2017-10-04",
@@ -4270,8 +4270,8 @@
     "publish_date_raw": "Oct 5, 2017, 2:00:00 AM",
     "title": "An address by Francois Groepe, Deputy Governor of the South African Reserve Bank, at the Payments Innovation Conference",
     "description": "The South African Reserve Bank’s perspective\r\non a changing and innovative payments environment",
-    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2017/513",
-    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2017/513",
+    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2017/512",
+    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2017/512",
     "categories": "Speeches > Speeches by Deputy Governors"
   },
   {
@@ -4279,8 +4279,8 @@
     "publish_date_raw": "Oct 5, 2017, 2:00:00 AM",
     "title": "An address by Francois Groepe, Deputy Governor of the South African Reserve Bank, at the Payments Innovation Conference",
     "description": "The South African Reserve Bank’s perspective\r\non a changing and innovative payments environment",
-    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2017/512",
-    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2017/512",
+    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2017/513",
+    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2017/513",
     "categories": "Speeches > Speeches by Deputy Governors"
   },
   {
@@ -4412,20 +4412,20 @@
   {
     "publish_date": "2018-08-01",
     "publish_date_raw": "Aug 1, 2018, 2:00:00 AM",
-    "title": "A public lecture by Lesetja Kganyago, Governor of the South African Reserve Bank, at the Nelson Mandela University Port Elizabeth 01 August 2018",
-    "description": "​Inequality and monetary policy in South Africa",
-    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2018/530",
-    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2018/530",
-    "categories": "Speeches > Speeches by Governors"
-  },
-  {
-    "publish_date": "2018-08-01",
-    "publish_date_raw": "Aug 1, 2018, 2:00:00 AM",
     "title": "Speech by Daniel Mminele, Deputy Governor of the South African Reserve Bank, at the University of Zululand, MBALI International conference ",
     "description": "The Fourth Industrial Revolution and the future of work: \r\nsome implications for central banking",
     "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2018/529",
     "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2018/529",
     "categories": "Speeches > Speeches by Deputy Governors"
+  },
+  {
+    "publish_date": "2018-08-01",
+    "publish_date_raw": "Aug 1, 2018, 2:00:00 AM",
+    "title": "A public lecture by Lesetja Kganyago, Governor of the South African Reserve Bank, at the Nelson Mandela University Port Elizabeth 01 August 2018",
+    "description": "​Inequality and monetary policy in South Africa",
+    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2018/530",
+    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2018/530",
+    "categories": "Speeches > Speeches by Governors"
   },
   {
     "publish_date": "2018-08-14",
@@ -4484,20 +4484,20 @@
   {
     "publish_date": "2018-10-19",
     "publish_date_raw": "Oct 19, 2018, 2:00:00 AM",
-    "title": "An address by Francois Groepe, Deputy Governor of the South African Reserve Bank, at UBS's Ninth Annual Economics Conference",
-    "description": "The monetary policy outlook and challenges in South Africa",
-    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2018/538",
-    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2018/538",
-    "categories": "Speeches > Speeches by Deputy Governors"
-  },
-  {
-    "publish_date": "2018-10-19",
-    "publish_date_raw": "Oct 19, 2018, 2:00:00 AM",
     "title": "Governor Lesetja Kganyago’s address at the ABSIP National Conference Johannesburg",
     "description": "At the end of the road one cannot avoid wondering whether the mistakes of past populist \r\nregimes can be internalized by policymakers, politicians, and the population at large and, \r\nthus, be avoided in the future. Quite clearly, [history] suggest[s] that, in general, there is very \r\nlittle capacity (or willingness) of learning from other countries’ experiences. Indeed, one of \r\nthe most striking regularities of these episodes is the insistence with which the engineers of \r\nthe populist programs argue that their circumstances are unique and thus immune from \r\nhistorical lessons from other nations. \r\n- Rudiger Dornbusch & Sebastian Edwards",
     "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2018/537",
     "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2018/537",
     "categories": "Speeches > Speeches by Governors"
+  },
+  {
+    "publish_date": "2018-10-19",
+    "publish_date_raw": "Oct 19, 2018, 2:00:00 AM",
+    "title": "An address by Francois Groepe, Deputy Governor of the South African Reserve Bank, at UBS's Ninth Annual Economics Conference",
+    "description": "The monetary policy outlook and challenges in South Africa",
+    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2018/538",
+    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2018/538",
+    "categories": "Speeches > Speeches by Deputy Governors"
   },
   {
     "publish_date": "2018-10-23",
@@ -4578,15 +4578,6 @@
     "description": "Independence and policy flexibility: ‘Why should central banks be independent?’",
     "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2019/546",
     "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2019/546",
-    "categories": "Speeches > Speeches by Governors"
-  },
-  {
-    "publish_date": "2019-03-06",
-    "publish_date_raw": "Mar 6, 2019, 2:00:00 AM",
-    "title": "Address by Lesetja Kganyago, Governor of the South African Reserve Bank, at the Stellenbosch University.",
-    "description": "...​",
-    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2019/547",
-    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2019/547",
     "categories": "Speeches > Speeches by Governors"
   },
   {
@@ -5433,6 +5424,51 @@
     "description": "Remarks by Lesetja Kganyago, Governor of the South African Reserve Bank, at the annual dinner for the Heads of Foreign Missions.\r\n",
     "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2026/kganyago-diplomats",
     "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2026/kganyago-diplomats",
+    "categories": "Media > Media Releases | Speeches > Speeches by Governors | What's New"
+  },
+  {
+    "publish_date": "2026-07-31",
+    "publish_date_raw": "Jul 31, 2026, 12:30:00 PM",
+    "title": "Lesetja Kganyago | Address at the 106th annual Ordinary General Meeting",
+    "description": "Address by Lesetja Kganyago, Governor of the South African Reserve Bank, at the 106th Ordinary Annual General Meeting, South African Reserve Bank.\r\n",
+    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2026/kganyago-106-agm",
+    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2026/kganyago-106-agm",
+    "categories": "Media > Media Releases | Speeches > Speeches by Governors | What's New"
+  },
+  {
+    "publish_date": "2026-08-04",
+    "publish_date_raw": "Aug 4, 2026, 9:10:00 AM",
+    "title": "Lesetja Kganyago | From fragility to resilience: The emerging market journey",
+    "description": "An address by Lesetja Kganyago, Governor of the South African Reserve Bank, at the Principal and Vice-Chancellor Public Lecture and Leadership Engagement, University of South Africa, Pretoria, 4 August 2026.\r\n",
+    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2026/kganyago-unisa",
+    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2026/kganyago-unisa",
+    "categories": "Media > Media Releases | Speeches > Speeches by Governors | What's New"
+  },
+  {
+    "publish_date": "2026-08-18",
+    "publish_date_raw": "Aug 18, 2026, 6:44:00 PM",
+    "title": "Lesetja Kganyago | MPC Schools Challenge winners' announcement",
+    "description": "Address by Lesetja Kganyago, Governor of the South African Reserve Bank, at the  2026 Monetary Policy Committee Schools Challenge winners' announcement, South African Reserve Bank, Pretoria, 18 August 2026.",
+    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2026/kganyago-mpc-schools",
+    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2026/kganyago-mpc-schools",
+    "categories": "Media > Media Releases | Speeches > Speeches by Governors | What's New"
+  },
+  {
+    "publish_date": "2026-08-27",
+    "publish_date_raw": "Aug 27, 2026, 10:40:00 AM",
+    "title": "Lesetja Kganyago | Women who opened the doors",
+    "description": "Remarks by Lesetja Kganyago, Governor of the South African Reserve Bank, at the ‘Women Who Opened the Doors’ coin launch, South African Reserve Bank, Pretoria, 26 August 2026.",
+    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2026/kganyago-women-coins",
+    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2026/kganyago-women-coins",
+    "categories": "Media > Media Releases | Speeches > Speeches by Governors | What's New"
+  },
+  {
+    "publish_date": "2026-09-28",
+    "publish_date_raw": "Sep 28, 2026, 4:00:00 PM",
+    "title": "Lesetja Kganyago | Policy challenges of the new global disorder",
+    "description": "Address by Lesetja Kganyago, Governor of the South African Reserve Bank, at the Mapungubwe Institute for Strategic Reflection Forum on Africa and Geopolitics.\r\n",
+    "detail_url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2026/kganyago-policy-challenges",
+    "solr_id": "/content/sarb-project/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2026/kganyago-policy-challenges",
     "categories": "Media > Media Releases | Speeches > Speeches by Governors | What's New"
   }
 ]

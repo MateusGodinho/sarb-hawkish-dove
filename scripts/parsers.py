@@ -58,7 +58,26 @@ def extract_rate_decision(full_text: str) -> dict:
         "raw_sentence": None,
     }
 
-    sentences = [s for s in _split_sentences(full_text) if "repurchase rate" in s.lower()]
+    # A partir de meados de 2024 o SARB passou a usar "policy rate" em
+    # paralelo a (e, em algumas atas, no lugar de) "repurchase rate" --
+    # ambas as formas tem que ser aceitas, ou a extracao falha silenciosamente
+    # (retorna None) em qualquer ata que so use a forma nova. O `(?!s)`
+    # exclui "policy rateS" (plural, generico, usado em comentario sobre
+    # taxas de juros no mundo todo -- nunca a decisao desta reuniao).
+    RATE_TERM = r"(?:repurchase|policy) rate(?!s)"
+
+    # Atas (sobretudo 2020-2021) tem uma sentenca padrao sobre a TRAJETORIA
+    # PROJETADA pelo Quarterly Projection Model (QPM) -- ex.: "The implied
+    # path of policy rates ... indicates two increases of 25 basis points
+    # in the second and third quarters of 2021." Isso fala do FUTURO
+    # projetado pelo modelo, nao da decisao tomada NESTA reuniao, e tem que
+    # ser excluido ou contamina a extracao com hike/cut que nunca aconteceu.
+    QPM_PROJECTION_RE = re.compile(r"quarterly projection model|\bqpm\b|implied path", re.IGNORECASE)
+
+    sentences = [
+        s for s in _split_sentences(full_text)
+        if re.search(RATE_TERM, s, re.IGNORECASE) and not QPM_PROJECTION_RE.search(s)
+    ]
     if not sentences:
         return result
 
@@ -72,19 +91,19 @@ def extract_rate_decision(full_text: str) -> dict:
     rate_num = r"(\d+(?:[.,]\d+)?)"
 
     pattern_change = re.compile(
-        rf"repurchase rate\s+by\s+(\d+)\s+basis points?\s+to\s+{rate_num}\s*(?:per\s*cent|%)",
+        rf"{RATE_TERM}\s+by\s+(\d+)\s+basis points?,?\s+to\s+{rate_num}\s*(?:per\s*cent|%)",
         re.IGNORECASE,
     )
     pattern_to = re.compile(
-        rf"repurchase rate\s+to\s+{rate_num}\s*(?:per\s*cent|%)",
+        rf"{RATE_TERM}\s+to\s+{rate_num}\s*(?:per\s*cent|%)",
         re.IGNORECASE,
     )
     pattern_unchanged = re.compile(
-        rf"repurchase rate\s+unchanged\s+at\s+{rate_num}\s*(?:per\s*cent|%)",
+        rf"{RATE_TERM}\s+unchanged\s+at\s+{rate_num}\s*(?:per\s*cent|%)",
         re.IGNORECASE,
     )
     pattern_current_level = re.compile(
-        rf"repurchase rate\s+at\s+its\s+current\s+level\s+of\s+{rate_num}\s*(?:per\s*cent|%)",
+        rf"{RATE_TERM}\s+at\s+its\s+current\s+level\s+of\s+{rate_num}\s*(?:per\s*cent|%)",
         re.IGNORECASE,
     )
 
